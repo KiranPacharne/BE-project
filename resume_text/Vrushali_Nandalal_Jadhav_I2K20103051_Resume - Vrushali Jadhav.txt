@@ -1,0 +1,56 @@
+Vrushali  Jadhav   
+Email:  vrushalinjadha v02@gmail.com  
+ Mobile:  +91-9766176681  
+LinkedIn  :  linkedin.com/in/vrushali -jadhav -68a464225   
+EDUCATION  
+ 
+• Pune  Institute  of  Computer  Technology,Pune  Maharashtra,  India 
+Bachelor  of Engineering  - Information  Technology  , Eng ineering  Aggregate:9  2020 -2024;Pursuing  
+• Matoshri   Junior   College,Nashik  Maharashtra,  India 
+HSC Percentage:90  2018 -2020  
+• Horizon   Academy,Nashik  Maharashtra,  India ICSE  Percentage:93  2006 -2018  
+SKILLS  
+ 
+• Languages :  C++ ,  Java,  JavaScript,  HTML,  CSS,  Bootstrap , SQL 
+• Courses :      Data  Structures  and Algorithms,  Object  Oriented  Programming,  Computer  Networking,  Database  
+Management   Systems  ,Operating  Systems  
+• Tools : GIT 
+• Platforms :            Windows,Linux  
+• Soft   Skills : Leadership,  Event  Management,  Public  Speaking,  Time  Management,  Resource  Management  
+ 
+Experience  
+Summer Intern at Barclays  
+June  2024 -Augu st 202 4 
+Working as an Intern Developer in CB &P Technology with Bluebird Securi ty Team.  Working on API integration , Barclays 
+Developer ’s Portal and java unit testing for Insc ribe . 
+PROJECTS  
+ 
+• Domain  Selection  Website : (Work  in Progress)Our  team  created  this website  for our college’s  student  club  PCSB.It  focuses  
+on distributing  students  in various  domains  of club  and assign  them  tasks  itself.I  am working  as a Frontend  Developer  in this 
+Project.  
+Tech - HTML,CSS,Bootstrap,JavaScript,Django  
+ 
+• Spotify  Clone : This  is a music  player  which  will have  all the features  found  in a typical  music  player  which  allows  you to 
+add,play,  pauseand  seek  songs  
+Tech:  HTML,CSS,JavaScript  
+ 
+OTHER  ACTIVITIES  
+ 
+• Done  marketing  in flagship  event  of PCSB -’XENIA’  
+• Hosted  investitures  ceremony  of PICT  CSI 
+• Student  Member  of PICT  CSI 
+• Participated  in annual  cultural  fest of PICT -’ADDICTION  ’22 ’as a dancer  
+VOLUNTEER  EXPERIENCE  
+          IT Head at T&P Cell PICT for 202 4 
+•  
+• Impetus Head  at Impetus  and  Concepts  PICT 2023  
+• Currently working as Impetus Head at  Impetus  and Concepts  
+• Domain  Head  at Impetus  and  Concepts  PICT 2022  
+Worked  as a head  for Digital  and Image  Processing  domain  at Impetus  and Concepts  
+ 
+CERTIFICATIONS  
+ 
+• Completed  5 stars  on Hackerrank  in JAVA  programming  
+• Completed  5 stars  on Hackerrank  in Python  programming  
+• Successfully  completed  Python  Course  conducted  by PICT  CSI Branch  
+• Successfully  completed  C++ Course  conducted  by PICT  CSI Branch  

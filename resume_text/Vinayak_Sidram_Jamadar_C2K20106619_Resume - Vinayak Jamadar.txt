@@ -1,0 +1,49 @@
+Vinayak Jamadar
++91 - 702056 3855 | vina y ak sjamadar1234@gmail.c om | linkedin.c om/in/ vina y akjamadar | Pune, India
+EDUCATION
+PUNE INSTITUTE OF COMPUTER TECHNOLOGY | CGP A: 9.02/ 10
+Bachel or o f E ngineering in C ompu ter E ngineering | Pune, India | 2020 - 2024
+D.B.F DAYANAND JUNIOR COLLEGE | PERCENT AGE: 81.69%
+Class 12th | Solapur, India | 2018 - 2020
+EXPERIENCE
+PICT | TRAINING AND PLACEMENT CELL PORTAL
+Full Stack Developer Intern | Tech Stack: React.js, Node.js, Express.js, NodeMailer, MongoDB, API
+J ul y 2022 - September 2022 | See Pr oject | Vie w Video
+•Under PICT FOSS CLUB, ourteam developed Platform forhandling alltheWorking ofthePICT TnP Cell .
+•Designed REST APIs with JWT user auth toprovide CRUD operations andUsed Nodemailer forsending Mail.
+•Thisproject automated and optimized the 90% conventional process ofmaintaining datathrough anExcel Sheet.
+THE CHARGE-IT
+Frontend Developer Intern | Tech Stack: React.js, React-QR -Reader, Figma
+J une 2022 - J ul y 2022 | Link | Vie w Video
+•Designed Responsive Frontend Platform forCharging Services ofElectric Vehicles using React.js .
+•ChargeIt isastartup thataimstoprovide Charging Stations atHighways andRural Areas forElectric Vehicles intheFuture.
+PROJECTS
+PICT CANTEEN BILLING SYSTEM | Tech Stack: React.js, React- To-Print, Local Storage
+Ma y 2022 - J une 2022 | See Pr oject | Vie w Video
+•Developed abilling system forPICT College canteen andMade an annual cost saving of Rs 12,000+ ofthevendor.
+•Made useofreact-to-print package toprint React components inthebrowser, allowing theowner toprint bills .
+PITCH N FUND | Tech Stack: React.js, Node.js, Express.js, MongoDB, API
+February 2022 - Ma y 2022 | See Pr oject | Report
+•Developed aPlatform forconnecting Investors and Entrepreneurs .
+•Entrepreneurs canshowcase their ideas/business models tothecommunity.
+•Based onDomains ofInterest, investors canfilter project profiles andInvest their money inthatIdea/Business.
+ELEVATE | Tech Stack: React.js, React-Reveal, React-Spinners, Figma
+December 2022 – February 2023 | See Pr oject | Link
+•Designed Responsive Frontend Platform forPICT Elevate 2023 an Inter Corporate and Collegiate Sports Tournament .
+•Thisproject helped forpromoting the tournament andincrease 25% sponsors foradvertisement through theplatform.
+SKILLS
+Language and Programming: C++, C,Java, Python, JavaScript, Data Structure andAlgorithm, Competitive Programming
+Web Technologies: HTML, CSS,React.js, Node.js, Express.js, REST API,JWT, MongoDB, MySQL
+Familiar: Git,GitHub, Postman, Figma, Netlify, Bootstrap, JQuery, Heroku, Linux(Basic), Docker(Basic)
+Course Work: Object Oriented Programming, Database Management, Computer Networks, Operating System
+EXTRA-CURRICULAR
+•GitHub -Conducted sessions onFreeandOpen Source Contributions, Hacktoberfest 2022. github.com/VinayakJamadar
+•CodeChef -3 Star Rated - 1695 ,Solved 150+ problems. codechef.com/users/vinayaksj_1234
+•CodeForces -Pupil Rated - 1371 ,Solved 250+ problems. codeforces.com/profile/vinayaksj_1234
+•LeetCode -Rated - 1636 ,Solved 200+ problems. leetcode.com/vinayaksj_1234
+•Global Rank 2059 in Google KickStart 2022 Round H .
+•Postman APIFundamentals Student Expert .Link
+•President - FOSS Master atPICT FOSS Club. pict-foss-club.github.io ,github.com/PICT-FOSS-Club
+HOBBIES
+•Volunteering andLeadership inClubs •RealWorld Problem-Solving •Coaching •Playing Football •Yoga andMeditation
+1

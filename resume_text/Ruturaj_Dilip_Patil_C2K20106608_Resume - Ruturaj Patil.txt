@@ -1,0 +1,42 @@
+Ruturaj Patil
+/linkedinRuturaj Patil /envel⌢peruturaj.dilippatil@gmail.com ♂phone+91 9067662923
+Education
+Pune Institute of Computer Engineering July 2020 - July 2024
+B.E. in Computer Engineering (CGPA : 9.03) Pune, India
+Arihant Junior College of Arts, Commerce and Science July 2018 - July 2020
+HSC, Percentage : 88.46 % Pune, India
+VP’s Magarpatta City Public School July 2008 - July 2018
+ICSE, Percentage : 96.16 % Pune, India
+Projects
+Finastra /github [LINK]
+•Shows balance, short note about transaction. CRUD operations can be performed.
+•Used MongoDB for database and ReactJS, NodeJS, ExpressJS for website.
+Algorithm Visualiser /github [LINK]
+•Provided visual comparison of sorting algorithms like Bubble, Insertion, Selection, Merge, Quick and
+Heap Sort.
+•Visual representation of Sieve of Eratosthenes and N-Queen Backtracking Problem
+•Used ReactJS and MaterialUI for website
+Cryptoverse /github [LINK]
+•Fetches live data from API , description about crypto coins itself and link references.
+•Used ReactJS and AntDesign for website.
+Skills
+Programming & Web : C++, JavaScript, SQL, ReactJS, NodeJS, ExpressJS
+Database & Tools : MongoDB, MySQL, Git, Github, Netlify, VS Code
+Interests : Macroeconomics, Teamwork, Leadership, Badminton and Chess
+Experience
+PISB (IEEE) April 2021–Present
+Competitive Programming Technical Lead, IEEE Club Pune, India
+•Problem curation and testing for National Coding Contest. Attempted by over 5000+ participants
+Google Developer Students Club August 2022–Present
+Competitive Programming Domain Head, GDSC PICT Pune, India
+•Organizing contest, editorials and discussion of contests, promoting CP culture across the college.
+Achievements
+•Solved over 650+ coding problems on various platforms like LeetCode and InterviewBit
+•Secured 99.56 percentile in MHT-CET with rank 588and92.72 percentile in JEE Mains with rank 78469
+•Secured AIR 28719 in JEE Advanced
+•District level Chess Player (Pune)
+Links
+Leetcode
+ Github
+ Codeforces
+ Codechef

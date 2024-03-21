@@ -1,0 +1,40 @@
+KALPESH BA VISKAR
+/gtbgithub.com/Kalpesh-BK /ne7769945077 kalpeshbaviskar315@gmail.com
+Aspiring computer science undergrad with passion for coding and a desire to innovate.
+EDUCATION
+Pune Institute of Computer Technology (PICT) 01/2020 - Present
+B.E. in Computer Engineering 9.32
+Swami Vivekanand Junior College, Jalgaon 2018 - 2020
+Junior College 83%
+A.T. Zambare Highschool, Jalgaon 2018
+Schooling (SSC) 96%
+SKILLS
+Technical: C++, Data Structures & Algorithms, ReactJS, Python, MySQL, OOP, OS
+Non-Technical: Problem Solving, Leadership, Adaptability
+PROJECTS
+Crowd Funding Platform
+- The platform will allow individuals and businesses to create campaign and raise funds from investors/donors
+. who are interested in their project.
+- A secured platform for raising funds using Blockchain Technology with individual Metamask wallet.
+- Tech-stack: ReactJS, Tailwind CSS, Solidity, Web3.js, Metamask wallet
+Event Organization Platform
+- This is a smart contract project in which we can create event and manage all the transactions in it.
+- Using this, we can buy, sell, transfer tickets for the event by doing transaction in terms of Ether/Wei.
+- Tech-stack: Solidity
+EXTRA- CURRICULAR ACTIVITIES
+PICT’s Technical Flagship Event (InC’23) Event Head
+- Worked as Concepts Head.
+PICT DebSoc Moderator
+- Worked as moderator in DebSoc’s Flagship Event, Paricharcha’22.
+PICT CSI Web Developer
+- Developed Frontend for official website of CSI which depicts all the information about it.
+- Worked in a team of five.
+PROGRAMMING PROFILES
+- GeeksforGeeks: kalpeshbaviskar315
+- Leetcode: kalpesh baviskar
+- CodeChef: bk kalpesh
+- HackerRank: kalpeshbaviskar1
+ACHIEVEMENTS
+- Shortlisted for Smart India Hackathon (SIH) At Institute level
+- NTSE (2017 - 2018) Qualified for second level
+- International Mathematics Olympiad (Level 1) Gold Medalist at Institutional Level

@@ -1,0 +1,68 @@
+SUMMARY
+Passionate C++ coder with knowledge of Algorithms, Data 
+Structures, and Object-Oriented Concepts. Enthusiastic 
+problem solver, eager to tackle various algorithmic 
+challenges.
+EDUCATION
+Computer Engineering
+Pune Institute of Computer Technology,                  (CGPA: 9.10)
+Jan 2021 - Present | Pune, India
+XII (HSC)
+Z.P. Agarkar Jr.College Akola,                                               (89.38%)
+2018 - 2020 | Akola,India
+X (SSC)
+Good Shepherd Academy,Akot                                             (87.40%)
+2018 | Akot,India
+ACADEMIC PROJECTS
+Internship Tracker,
+A college-based web application where senior students can 
+share information about Internships they have received. 
+Users can view all the posts of students who received 
+Internships / Placements last year.
+Tech Stack - MYSQL,Django,HTML,CSS.
+Hospital Management,
+Hospital management functionalities have been 
+implemented through the implementation of a web 
+application. Patients will still be able to locate you via a 
+page dedicated to your hospital.
+TECH STACK - Django,HTML,CSS
+GYM Management System
+(Console Application)
+•A console application where the admin can create, 
+manage and handle employees, schedules, and members.
+•Used Object Oriented Programming concepts like classes, 
+objects, and inheritance to implement it.
+•Programming Language Used: C++.
+CERTIFICATES
+ICPC Preliminary Round
+Google Kick Start , Code Jam
+MYSQL,Problem SolvingTECHNICAL SKILLS
+Programming Languages (C++)
+Courses (Data Structure and
+Algorithm (DSA) | Operating
+System (OS) | DBMS | OOPS)
+Soft Skills : (Leadership |
+Teamwork | Time Management |
+Communication)
+Tools (Github,VS Code,Jupyter
+Notebook.)
+ACHIEVEMENTS
+Solved more than 1000 problems on 
+various site (over 450 on Leetcode)
+Codeforces – Pupil (Max. Rating 1350)
+Ranked 1458 in ICPC India,2022
+Hackerrank-Gold Badge in CPP, 3 
+Star in SQL database.
+Secured - Global Rank 693 in 
+February Long 2022 Codechef
+Secured - Global Rank 5351 in Google 
+Kickstart Round F 2022
+Secured - Global Rank 1458 in ICPC 
+Preliminary Round 2022
+INTERESTS AND HOBBIES
+Competitive Programming
+Sports Badminton
+Exploring New TechnologiesSushilkumar Dhamane
+Student at SCTR'S Pune Institute of Computer Technology
+Github Linkedin leetcode Codeforce sushilkumardhamane20@gmail.com
++91 7620790812 Pune,India

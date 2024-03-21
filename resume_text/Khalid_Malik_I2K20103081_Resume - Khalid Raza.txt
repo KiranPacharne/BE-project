@@ -1,0 +1,65 @@
+Khalid Malik  
+B. E. Information Technology 4th Year  
+Honours Artificial Intelligence and Machine Learning  
+Email : khalidm3463 @gmail .com  | LinkedIn : khalidm3463  | GitHub : Khalidm3463  | Phone : +918779882708  
+OBJECTIVE  
+Looking for an opportunity where I could add value to the project assigned and also  enhance my technical  skills.  
+EDUC ATION  
+Year  
+2024  
+2020  
+2018 Degree/Exam  
+Bachelor of Engineering  
+12th (Maharashtra State Board)  
+10th (C.B.S.E.)  Institute  
+Pune Institute of Computer Technology. Pune  
+Vidyaniketan Commerce and  Science College , Mumbai  
+Sree Nara yana Guru Highschool , Mumbai  CGPA/Marks  
+8.27 / 10 
+71.23 % 
+90.9 % 
+SKILLS AND ABILITIES  
+• Programming Languages : Python  | C++ | C  | Java  • Softwares : MATLAB | GitHub | AutoCAD  
+• ML / DL Libraries : TensorFlow | Scikit Learn | Keras  | Torch | Seaborn | 
+Autokeras | Selenium  | BS | OpenCV | Yolo  • Operating Systems : Linux  | Windows  
+• Frameworks : React  | Django  
+• Data Structures : DSA | Problem solving | Aptitude  • Databases : MySQL | MongoDB  
+EXPERIENCE  
+• Cruv | Data Science  | Internship                                                                     [ May 2023 – Ongoing  ] 
+− Constructed  an Auto-Image Classification Pipeline using Autokeras , TensorfFlow , Sklearn , OpenCV . Accuracy = 88%. 
+− Deve loped a Video Segmentation project which converts long durations videos to reels of similar topics  through the 
+video transcripts using Natural Language Processing  - BART model . 
+− Built 2 web scrapper s to dynamically scrape data of schools and educational institutes from CBSE and NIO S websites  
+using Selenium . 
+PROJECTS AND PAPERS  
+• Farmers’ Friend | Website  | ML / DL                                                                                    [ January 202 3 ] 
+− The website recommends  the best crop to grow , potential diseases , and the fertilizers to use . 
+− The model s used to suggest fertilizers and best crops , was trained over XGBoost . 
+− The model  used to predict potential di seases was trained over ResNet9 . 
+• Smart Waste Management | Website                [ March 2023 ] 
+− The website connects waste producers with recyclers , facilitates the collection and recycling of various kind s of wastes . 
+− The website allows users to schedule pickups  and uses geolocation technology to locate nearby recycling centers . 
+− Tech Stack used – NodeJS,  ExpressJS, MongoDB, HTML, CSS.  
+• Team Member Allocation  | Website                       [ November 2022 ] 
+− The website  helps the  user to manage members in a team.  
+− It facilitates the user to modify team structure by focusing  on the user experience.  
+− Tech Stack used – React , CSS.   
+• Nadi-Pariksha (Ayurveda) Based Smart Watch  for Disease Prediction  | Seminar P aper       [ January 202 3 ] 
+− The paper discusses about collection of 3 pulse signals from the PPG sensor s placed on the wrist watch  which are 
+connected to the server via the smartphone using MQTT protocol  to transfer the pulse data. 
+− The paper explains how a ML  model can be trained on a dataset of pulse readings from healthy and diseased individuals  
+to classify different diseases based on the Nadi -Pariksha technique of Ayurveda  which makes use of the 3 pulse signals . 
+COURSES AND CERTIFICATIONS  
+• Python for Everybody  | University of Michigan  | Grade 100%  
+− Learnt co re Python, data s tructures , web scrapping  in depth . 
+• Introduction to Cyber Sec urity  Tools and Attacks | IBM  
+− Explored cyber attacks a nd many cyber security tools used by organizations.  
+− Learnt about c ryptography and various cry ptographic al gorithms,  
+• The Complete Data S tructures and Algorithms Course | Udemy  
+− Learnt and i mplemented various algorithmic techniques like greedy, binary search, sorting , and dynamic programming.  
+− Understood how to analyze various algorithms.  
+− Learnt about variety of data structures in depth. 
+• Machine Learning Specialization | Andrew NG (Coursera) | Mar 2023 – July 2023  
+− Implemented various supervised learning techniques like Linear Regression, Logistic Regression  and Classification . 
+− Learnt and implemented Artificial Neural Networks, Decision Trees, Ensemble Trees, XGBoost . 
+− Studied about various unsupervised learni ng algorithms like K Means clustering, KNN , 

@@ -1,0 +1,36 @@
+PRATIK SONAWANE
++91 7887986038 ⋄Pune, India
+Email ⋄Linkedin ⋄GitHub
+EDUCATION
+Bacholer of Engineering Information Technology , Pune Institute of Computer Technology 2020 - 2024
+CGPA: 9.4
+SKILLS
+Technical Skills C++, Python, Machine Learning, Database, Data Structure, Algorithm,Git.
+Soft Skills Problem Solving, Teamwork, Leadership
+PROJECTS
+SocioPedia.
+•Developed a user-friendly social media app that allows users to connect with their friends and the world by
+sharing text posts, photos.
+•Implemented features such as a feed, profile pages and post creation tools. (Link)
+IPL Win Predictor
+•Designed and developed the a web app for predicting the win probability of IPL team based on the current
+situation.
+•Developed using streamlit hosted it on heroku.(Link)
+AI Chatbot
+•Developed the deep learning chatbot which answers basic user questions.
+•Used nltk,json libraries and keras framework to understand user input and generate appropriate responses.
+(Link)
+Gitub Push Notifier
+•The WhatsApp and Telegram bot which sends a message whenever code is pushed to your GitHub repository.
+•Developed using GitHub actions and Twilio APIs. (Link)
+COURSEWORK
+Algorithmic Toolbox-UC San Diago (View Certificate)
+Machine Learning Specialization-Stanford University (View Certificate)
+Goole Data Analytics-Google (View Certificate)
+EXTRA-CURRICULAR ACTIVITIES
+•Keen interest in International Relations and Geopolitics: Regularly attend conferences and seminars related
+to international relations and geopolitics. Actively participate in the discussions, and stay updated on current
+events and developments in the field.
+ACHIEVEMENTS
+•Selected for Amazon ML Summer School 2022.
+•Solved 400+ problems on various coding platforms.

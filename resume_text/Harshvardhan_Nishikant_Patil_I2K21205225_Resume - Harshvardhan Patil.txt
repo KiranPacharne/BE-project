@@ -1,0 +1,88 @@
+Harshvardhan Patil
+LinkedIn | har sh v ar dhanp01@gmail.c om | 83 79018911
+EDUCATION
+PICT PUNE
+BE IN INF ORMA TION
+TECHNOL OG Y
+Expected J une 2024 | Pune, IN
+C um. GP A: 9.35
+GP KOLHAPUR
+DIPL OMA IN INF ORMA TION
+TECHNOL OG Y
+Sept. 2021 | K olhapur, IN
+C um. %: 9 7 .69/ 100
+VIDYAPEETH
+HIGHSCHOOL,KOLHAPUR
+P assed. March 2018 | K olhapur, IN
+LINKS
+Github:// Harshvardhan01
+LinkedIn:// HarshvardhanPatil
+CodeChef:// HarshNP1
+Leetcode:// HarshNP01
+COURSEWORK
+UNDERGRADUATE
+Computer Networking
+Machine Learning andData Science
+Design andAnalysis ofAlgorithms
+Operating System
+Theory ofComputation
+DIPLOMA
+Data Structures andAlgorithm
+DBMS
+Object Oriented Programming
+Object Oriented Modeling andDesign
+Information Security
+SKILLS
+PROGRAMMING
+•C•C++•JAVA •Python
+•C#•SQL•LaTeX
+WEB
+•HTML •CSS•Bootstrap •PHP
+•MERN
+DATABASE
+•ORACLE •MySQL •MongoDB •
+MariaDB
+DEVELOPER TOOLS
+•VSCode •Visual Studio •GitHub •
+Sublime Text•Notepad++EXPERIENCE
+BAJAJ FINSERV | Spark Internship at Bajaj Finserv
+March 2023 – Ma y 2023
+•Worked OnTensorFlow andVarious API’s
+SMARTINTERNZ | Google Supported Virtual Training Program
+A ug 2022 – Sept 2022
+•Developed anAndroid Application forGrocery Shopping using Kotlin
+PROJECT
+ANALYSIS OF GLOBAL WARMING USING MACHINE LEARNING
+ALGORITHMS | TEAM LEAD (2022)
+•LedaTeam ofFour Individuals tocreate Cloudy,an Website which will
+helptopredict theTemperature forgiven Yearusing Python.
+•Used Random Forest Algorithm ,ARIMA Model andused Various
+Python Libraries
+•Added Firebase asBack EndfortheInterface.
+E-COMMERCE WEBSITE DEVELOPMENT USING MERN | TEAM
+LEAD (2023)
+•LedaTeam ofThree Individuals tocreate anE-Commerce Website
+which willhelptoBuyProducts using MERN.
+•Used React,Node JS,MONGODB ,Express JS
+•Added MongoDB asBack EndfortheInterface andForFrontend React.
+OTHER SMALL PROJECTS | DEVEL OPER
+•GetRail,Developed Railway Reservation Application using C#
+•BookBus,a website tobook tickets using HTML,CSS,PHP,MySQL.
+•Blood Bank Project using Oracle Database.
+ACHIEVEMENT
+2023 1stSPPU Rank 1Holder ForTE
+2022 6thInstitute Rank inAcademics(SE-IT)
+2021 2ndInstitute Rank inAcademics(TY-IT)
+2020 3rdIntercollegiate Moodle-Server Configuration Competition
+RESPONSIBILITIES
+INC:Member atPRADNYA forSetting MCQ’s andCoding Questions.
+ITSA :Member atITSA forCollege Events.
+T&P:Volunteer forT&PatCollege.
+CERTIFICATION
+Moodle Server Configuration
+Spoken Tutorials- Moodle Server Configuration AsAdmin
+Cyber Security
+Introduction toCybersecurity Tools &Cyber Attacks byCoursera
+Start-Up
+Start-Up India byGreat-Learning
+1

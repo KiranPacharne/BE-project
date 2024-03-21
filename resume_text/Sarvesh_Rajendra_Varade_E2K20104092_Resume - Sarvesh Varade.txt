@@ -1,0 +1,49 @@
+Sarvesh Varade
+♂phone+91 8788013967 |/envel⌢peGmai |/linkedinLinkedin |/githubGithub |
+Codeforces |
+Leetcode
+EDUCATION
+B.E. |Electronics and Telecommunication February 2020 – August 2024
+Pune Institute of Computer Technology Pune, India
+8.7 aggergate CGPA .
+HSC |76.15 April 2018 – July 2020
+Nutan Vidyamandir Nashik, India
+SSC |89.60
+Holy Flower English High school Nashik, India
+SKILLS
+Technical Skills : C++ Java Python Django MySQL Competitive Problem Solving DSA Azure Google Cloud
+Soft Skills : Leadership qualities Time management Teamwork Communication
+WORK EXPERIENCE
+Software Developer Intern May 2022 – August 2022
+RhythmFlows Solution. Pune
+•Developed RESTful APIs using Django Rest Framework to build robust and scalable web applications.
+Conducted thorough testing using Postman to ensure API functionality and performance.
+•Developed scripts and tools to perform data conversions between different file formats.
+PROJECTS
+Clash April 2022
+Technologies Used: Django HTML CSS MySQL.
+•A web application developed with the aim to provide a MCQ based platform to one of the technical events of
+Credenz(the biggest event of PISB with a footfall of 3000).
+•This project consists of a database of questions based on programming languages curated by team members.
+Questions were presented to the user as per the choice of level.
+LeukeAware November 2021
+Technologies Used: Django HTML CSS SQLite Riverscript Figma
+•A web application entitled LeukeAware was created with the goal of bringing together blood donors, blood
+banks, and recipients as well as raising awareness about leukaemia diagnosis.
+•The web app, also featured a referral system and task system on the basis of which the badges were provided.
+ACHIVEMENTS
+PASCKATHON 3.0 Janauary 2022
+•Qualified for 2nd round in PASCKATHON 3.0 a hackathon arranged by PICT ACM Student Chapter
+with over 50 teams participating
+Development Battle November 2021
+•Qualified for 2nd round in Development Battle a hackathon arranged by PICT CSI Student Branch with
+over 40 teams participating
+Decrypto-Hunt August 2022
+•Winner of the Aptitude based Event arranged by PCSB with over 80 teams participating
+COMMUNITY INVOLVEMENT
+Technical Head - PICT IEEE Student Branch February 2021 - Present
+•Organized, coded and deployed several technical events as a part of the largest technical festival in
+Pune.
+•Delivered Sessions on Backend Web Development for juniors.
+PICT Debate Society April 2021 – Present
+•Organized debate competitions and conducted induction program for the juniors

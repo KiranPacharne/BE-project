@@ -1,0 +1,35 @@
+TANISHQ MOHITE 
+LinkedIn: https://www.linkedin.com/in/tanishq-mohite-997454206 | 
+Mobile: 9049305870 | mtanishq@yahoo.com | GitHub:https://github.com/trm71
+PROFESSIONAL SUMMARY
+Highly motivated and dedicated professional with exceptional communication skills. Committed to
+utilizing expertise in social media platforms and office technology programs to help others and contribute
+to the mission of the company. Known for a patient and hardworking approach, both in personal and
+professional endeavors.
+C++, PyhtonCORE COMPETENCIES
+MySQL, MongoDB
+NumPy, Pandas, Seaborn, Matplotlib, SciPy
+HTML, CSS, Bootstrap, JavaScript
+VOLUNTEER EXPERIENCE
+IEEE Pune Podcast Team 
+Content Team Member |  Jul 2021 - Mar 2022
+Research and frame insightful and interesting questions based on the guests' journey.
+Collaborate with other member to create meaningful content for the podcast.
+Come up with catchy titles and short descriptions.
+PICT MUN
+Marketing Team Lead | May 2022 - Apr 2023
+Lead the Marketing team for the annual flagship event  PICT MUN 2022 conference which
+includes participation of students nationwide.
+Skills: Presentation, Networking, Strategy, Teamwork, Leadership
+RELEVANT PROJECTS
+EDUCATION
+Expected Graduation JUL 2024, CGPA - 8.90Pune Institute of Computer Technology, Pune - B.E. in Computer EngineeringPocket DRS (In progress)
+Flappy Bird GameDesigned a model using TensorFlow & Quadratic Regression to review LBW decisions
+in cricket helping on-field empires to make accurate & precise decisions.
+Developing application using Flutter & OpenCV.
+Developed a computer game using the PyGame library and Python
+programming language.
+Developed as first year curriculum project.Github
+Content Writing & Research
+Canva, Illustrator, Photoshop
+Teamwork, Leadership, Public Speaking

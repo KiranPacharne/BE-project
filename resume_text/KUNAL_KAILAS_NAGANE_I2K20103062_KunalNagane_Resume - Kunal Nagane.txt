@@ -1,0 +1,40 @@
+kunal nagane
+Pune, Maharashtra
+♂phone+91 7057599592 /envel⌢pekunalnagane2062@gmail.com /linkedinhttps://www.linkedin.com/in/kunal-nagane-9265b9213/
+Education
+Pune Institute of Computer Technology CGPA: 9.16
+Bachelor of Engineering in Information Technology 2020-2024
+Abhinav International School and Junior College, Baramati Percentage: 82.31
+HSC (12th) 2020
+Dynamic English Medium School, Atpadi Percentage: 94.20
+SSC (10th) 2018
+Projects
+MediPlus
+•Developed an full stack Web application.
+•It is a multipage fully responsive website
+•Manages stock of all medicines
+•Billing also done of sold medicine
+Event Booking Platform
+•Developed an Event Booking Platform using Nodejs, MongoDB, and Reactjs.
+•User can book any particular event online and can download the generated ticket.
+•Admin can track details like the number of users, and user details.
+•Ticket Verification is also integrated.
+Work Experience
+SDE Intern - BMC Software (Jan 2023- June 2023)
+•Explored BMC’s codeless application platform BMC Helix Innovation Studio and learned to create new applications and
+add processes.
+•Worked on building and implementing an algorithm for 3-way reconciliation of processes from the Helix platform.
+•Learnings: Java, Maven, Postman, HTTP.
+Technical Skills
+Language : C++, HTML, CSS,SQL, JAVA 4
+Core Subjects : DSA, OOPS, DBMS, OS, Computer Networks 4
+Developer Tools And Technologies : VSCode, Eclipse, Git and GitHub, Postman 4
+Achievements
+∗Solved more than 250+ questions on various platforms like Codeforces, Codechef, Leetcode, GFG.
+∗Rated under 1500 at Codechef.
+∗Newbie on CodeForces.
+Coding Profile Links
+∗Codechef
+∗Codeforces
+∗Leetcode
+∗GeeksforGeeks

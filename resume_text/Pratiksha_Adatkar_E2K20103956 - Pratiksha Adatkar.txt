@@ -1,0 +1,41 @@
+Pratiksha Adatkar
+Pune,Maharashtra
+/ne7410542126 adatkarpratiksha@gmail.com https://www.linkedin.com/in/pratiksha-adatkar-2bb00625a /gtb
+https://github.com/PratikshaAdatkar
+EDUCATION
+Pune Institute Of Computer Technology 07 2020 – 06 2024
+Electronics And Telecommunication Engineering- CGPA -8.43 Pune, India
+Creative Public School and Junior College 2020
+HSC - Science - Percentage -80.46% Pune, India
+Shining Star Academy 2018
+SSC - Percentage -95.40% Nashik, India
+COURSEWORK / SKILLS
+•Data Structures &
+Algorithms•Operating Systems
+•Network Security•Database Management
+System (DBMS)•OOPS Concept
+PROJECTS
+Library Management System |C++ 2023
+•This project simulates an online library system. It allows users to create accounts, browse
+books, borrow books, return books, and rate books. The projects also keeps track of the
+inventory of books and the history of transactions. .
+Basic Banking System |HTML,CSS,Javascript,PHP 2022
+•A web application used to transfer virtual money between multiple users and also record
+banking transactions/ activities. .
+AES-Cryptographic-Tool |Python 2023
+•It is an Encryption and Decryption tool written in Python that is used to encrypt any type of
+file based on AES Standards and the files that are encrypted using this script can also able to
+decrypt it.
+INTERNSHIP
+The Sparks Foundation 12 2022 – 01 2023
+Web Development and Designing Work From Home
+TECHNICAL SKILLS
+Languages: Python, C, C++, JavaScript, SQL, HTML, CSS
+Developer Tools: VS Code, DevC++
+Technologies/Frameworks: GitHub
+EXTRACURRICULAR
+IEEE 2020 – 2024
+Member Pune
+CERTIFICATIONS
+•MERN Stack Web Development Industrial Training - KodeIT Solutions •Introduction to C plus plus -
+SkillUp •Learn Advanced C++ Course Online- SkillUp

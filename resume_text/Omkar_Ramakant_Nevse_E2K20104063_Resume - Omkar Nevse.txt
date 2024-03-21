@@ -1,0 +1,46 @@
+Education
+2020 – 2024
+Pune,  IndiaB.E. Electronics and Telecommunications
+SCTR's Pune Institute of Computer Technology (PICT)
+Current CGPA - 8.76
+2018 – 2020
+Pune,  India12th HSC Examinations
+Dr. Kalmadi Shamarao Jr College
+Marks obtained - 83.08%
+2018
+Pune,  India10th SSC Examinations
+Marks Obtained - 91.20%
+Skills
+Python
+JavaNeural Networks
+DBMS - MySQLMachine learning
+Java Swing & AWTC++
+HTML-CSS
+Projects
+Lung Nodule Malignancy Detection and Classification
+Python, CUDA, Conv. Neural Networks, Keras, Tensorflow, pyDICOM
+•This is a Research project, about to be published at IEEE Conference (expected).
+•Developed a fully functioning standalone model capable of processing CT Scan DICOM images to  
+predict Lung nodule Malignancy.
+•Trained the model on the CT Scans of around 1500 Patients, by Leveraging the LIDC-IDRI dataset.
+Bird-Call Audio Detection and Classification
+Python, CUDA, Conv. Neural Networks, Keras, Tensorflow.
+•Project was made as a part of "Z by HP" hackathon, organised on Kaggle.
+•Developed a Deep learning model, which classifies CapuchinBird calls from a set of .wav audio files  
+containing forest noises.
+Travel and Tourism management system
+Java, Java Swing, MySQL
+•Built a desktop application which lets users create and customise their travel itinerary as per their  
+choice. The application also displays information regarding travel destinations and Hotels
+Extracurricular
+InC - Impetus and Concepts (Tech fest By PICT)
+Marketing Team
+Establishing contact with various brands for event sponsorship
+PISB - PICT IEEE Student Branch
+Student memberMr. Omkar Ramakant Nevse
+omkarnevse05@gmail.com
+Pune, Maharashtra
+India
+Github Profile+91 76666 97718
+2002/05/05
+LinkedIn Profile

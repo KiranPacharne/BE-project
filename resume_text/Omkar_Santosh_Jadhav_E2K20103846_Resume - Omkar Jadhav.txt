@@ -1,0 +1,56 @@
+Omkar  Jadhav  
+Email:  jomkar2312@gmail.com  
+LinkedIn: omkar -jadhav  
+GitHub:  OmkarJadhav2002  
+Mobile:  +91- 8080907843  
+EDUCATION  
+ 
+Pune  Institute  of Computer  Technology  Pune,  India  
+Bachelor  of Engineering  – Electronics  and Telecommunication  GPA:  8.31 July 2021  – June  
+2023  (Present)  
+Courses :  Data  Structures,  Object Oriented Programming, Data Analytics, DBMS  
+Shramik  Junior  College,  Sangamner  Sangamner , India  
+Higher  Secondary  Education  July 2018  – June  2020  
+HSC:  78.77  
+ Agasti  Vidyalaya,  Akole  Akole,  India  
+Secondary  School  Certificate  July 2017  – June  2018  
+HSC: 90.80  
+TECHNICAL  SKILLS  
+• CS Fundamentals : DSA,  OOPS,  DBMS  
+• Languages : Python,  C++  
+• Databases : MySQL  
+• Tools  and Libraries:  Pandas,  NumPy,  Scikit -Learn,  Matplotlib  
+• Platforms : Windows,  MySQL  Workbench  
+PROJECTS  
+Book  Recommender  System  
+• Developed  and implemented  a book  recommendation  system  that utilized  natural  language  processing  
+and machine  learning  algorithms  to provide  personalized  book  recommendations  to users.  
+• Designed  and implemented a  natural  language  processing pipeline  to extract  features  from book  
+descriptions  and reviews.  
+• Tech Stack Used : Python |  Scikit -Learn |  NumPy |  Pandas  | Matplotlib  | Machine Learning Algorithms  
+(E.g.,  Collaborative  Filtering,  Content -Based Filtering)  
+ 
+Bulldozer  Price  Prediction  
+• Developed  a machine  learning  model  to predict  the price  of bulldozers  using  regression  techniques.  
+• Leveraged  data analysis  and feature  engineering  to accurately  forecast  bulldozer  values.  
+• Tech  Stack  Used : Python  | Scikit -Learn  | NumPy  | Pandas  | Matplotlib  | Machine  Learning  Algorithms  
+ 
+AeroVue:  Flight  Analysis Dashboard  
+• Developed  an interactive  flights  dashboard  utilizing  Python,  SQL and Streamlit,  showcasing  real-time 
+airline  data analysis,  route  visualization,  and price  trends.  
+• Tech  Stack  Used : Python  | SQL | Streamlit  
+ 
+INTERNSHIP  
+ 
+Project  Intern  at Exposys  Data  Labs  April 2023  
+• Contributed  to company  profit  prediction  project  through  data analysis  and model  development.  
+• Assisted  in data preprocessing,  model  evaluation,  and fine-tuning  using  Python  and relevant  libraries.  
+ 
+ACHIEVEMENTS  
+• 3rd. price  in Taluka  level Science  Exhibition  for the project  “Smart  Dustbin”.  
+ 
+HOBBIES  
+ 
+• Cycling  and Travelling  
+• Cooking  
+• Reading  Historical  Books  and Novels  

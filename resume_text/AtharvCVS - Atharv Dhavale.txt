@@ -1,0 +1,58 @@
+ 
+ ATHARVA DHAVALE  
+Pune, India | +91 962587 0324 | atharvdhav le38@gmail.com  
+EDUCATION  
+Pune Institute  Of Computer Technology , Pune, Bachelor of Technology  (B.Tech /B.E) June 202 4 
+● CGPA: 7.94 
+ 
+Siddhartha Public School , New Delhi  May 20 19 
+● CBSE XII: 7 7.63% 
+ 
+WORK EXPERIENCE    
+Industry  Connect  Course,  PICT    
+Summer  college  training , 02/2023  – 03/2023  
+• Demonstrated adeptness in provisioning AWS S3 storage buckets  and EC2 server instances.  
+• Successfully executed projects involving Cloud -Based Web Applications utilizing AWS cloud architecture.  
+• Applied technical proficiency in AWS S3 bucket management and Amazon EC2 deployment.  
+ 
+Satin  CreditCare  Pvt Ltd , Gurugram  
+Data  Analyst  Intern , 01/2022  – 03/2022  
+• Maintained large databases and used various professional statistical techniques to collect, analyze, and interpret data from 
+customers and partners.  Identified and reported any data issues, conducted detailed weekly reports, and proactively  
+participate d in team meetings with managers.  
+• Worked on the development and implementation of new quantitative models in order to stabilize the business and maximize 
+efficiency   
+• Project  Worked  On: Fraud  Detection,  Loan  Portfolio  Analysis.  
+• Tech  stack : MongoDB,  SQL , Pandas, NumPy, Matplotlib  
+ 
+PictureTime  Digiplex  Pvt. Ltd, Noida   
+Front -End Intern , 03/2021  – 05/2021   
+• Pioneer ed social development initiative, establishing cutting -edge  mobile  movie theatres in Ladakh  for the first time , achieving a 
+historic inauguration by Lieutenant Governor R.K. Mathur . 
+• Revamped Frontend of E -ticketing System: Elevated user experience through HTML, CSS, and JavaScript enhancements, 
+delivering a 15% reduction in page load speed.   
+• Tech Stack  Used : HTML,  CSS,  JS, DBMS , SQL, NodeJ S. 
+ 
+SKILLS & INTERESTS  
+Programming Languages:  
+C++ | HTML5 | CSS | SQL | Python | JavaScript | DBMS | NodeJS  | Cloud Co mput ing |  
+ 
+Tools and Technology : Object -Orient ed Programming (OOP) | Git and GitHub  | REST APIs | Data Structures and Algorithms (DSA) | Operating 
+Systems | Computer Networking | Database Management Systems (DBMS) | Statistics | Microsoft Office  | Data Analysis   
+ 
+Soft Skills:  
+• Communication Skills: Proficient in English, actively engaged in school -level debates.  
+• Leadership Skills: Led Delhi State Swimming Team, served as School Captain for Water Polo for 2 years.  
+• Problem -Solving: Proficient in problem identification, analysis, a nd effective solution implementation . 
+ 
+PROJECTS  
+• Full Stack Web Page: Developed SQL -linked Student and Teacher Login webpage.  
+• HTML and CSS Front End: Designed engaging user interfaces for web projects.  
+• E-commerce Platform on the Cloud: Created a cloud -based e -commerce solution.  
+• Face Recognition System: Achieved 90% accuracy in Python -based face recognition.  
+• Gas Leakage Detection System: Utilized Arduino and GSM for accurate gas sensing.  
+• Data Leak Detection: Prevented data leakage via SQL injection protection.  
+ 
+AWARDS AND RESPONSIBILITIE S.                                  
+• National Level Swimming Champion: Represented Delhi State and American Embassy in Swimming.  
+• Active Member: Participated in DEBSOC and NSS society activities.  

@@ -1,0 +1,40 @@
+Tanuj Joshi
+tanujjoshi2002@gmail.com |+91-9420716069 |linkedIn/Tanuj Joshi |github/Tanuj0402
+EDUCATION
+Pune Institute of Computer Technology CGP A - 7 . 83 | 2020- 2024
+B.E. Electronics and Telecommunication
+Pune, India
+Sarosh Junior College 7 7 .8 | 2020
+HSC
+Aurangabad, India
+S.B.O.A Public School 91.8 | 2018
+SSC
+Aurangabad, India
+SKILLS
+Languages: C++, Java
+Web Development: HTML, CSS,JavaScript, ReactJS
+Databases: MySQL, MongoDB
+Technologies: Git/Github, Docker
+WORK EXPERIENCE
+B2A TECHNOLOGIES | March - 2023 | April - 2023
+Web Developer
+•Worked onshipoptimization project inwhich wewillbeproviding shortest route between source anddestination,
+theaimwasproper management ofcargo inship
+•Created responsive anduser-friendly layouts thatprovide anintuitive experience across different devices and
+screen sizes.
+•Handled APIresponses, including error handling anddatavalidation, toprovide users withareliable experience.
+PROJECTS
+SOCIDESK  ReactJS, NodeJS, ExpressJS, MongoDB
+•Achat-app created withreal-time messaging functionality withthehelpofSocket.io.
+•Thewebsite hasthefrontend designed byChakra UIcomponents andMongoDB asdatabase. .
+PET ADOPTION WEBSITE  ReactJS
+•Apetadoption website where users canadopt various differnet animals.
+•Thewebsite isfetch petsfrom APIanddisplays theuseraccording totheuser.
+HOTEL MANAGEMENT SYSTEM  Java, MySQL
+•Ahotel management system withJavaAWT andSwing components.
+•Thesystem hasJDBC functionality through which athedatabase ofthesystem isconnected.
+EXTRA - CURRICULAR ACTIVITIES
+PICT ACM STUDENT CHAPTER | J une- 2020 | Presen t
+•Member ofPICT ACM student chapter since June 2020.
+•Contributed invarious technical andnon-technical events suchasPasckathon, Pulzion 2022 andPulzion 2023 .
+•Team Lead fornon-technical event ”Fandom” forround 2inPulzion 2022.

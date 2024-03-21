@@ -1,0 +1,64 @@
+P R O F I L E
+S O F T W A R E  D E V E L O P E R  I N T E R NN I M I S H  S A N G H A V I
+F r o n t  E n d  W e b  D e v e l o p e r  a n d  U I / U X  D e s i g n e r  S e l f - m o t i v a t e d ,  d e d i c a t e d ,  a n d  h a r d w o r k i n g  d e v e l o p e r
+w i t h  a  w e a l t h  o f  e x p e r i e n c e  i n  b o t h  d e s i g n  a n d  d e v e l o p m e n t .  A n  e n t h u s i a s t i c  a n d  q u i c k  l e a r n e r ,  I  b r i n g
+p r o f i c i e n c y  i n  d a t a b a s e  m a n a g e m e n t  s y s t e m s  a n d  a  s t r o n g  a p t i t u d e  f o r  p r o b l e m - s o l v i n g .  I  t h r i v e  i n
+t e a m - b a s e d  e n v i r o n m e n t s ,  l e v e r a g i n g  m y  s k i l l s  t o  c o n t r i b u t e  e f f e c t i v e l y .
+C + + ,  D B M S ,  O O P S
+F i g m a ( U I / U X  D e s i g n i n g )
+S Q L i t e ,  S Q L
+Q M L  L a n g u a g e
+H T M L ,  C S S ,  J a v a s c r i p t ( B a s i c )
+P r o t o t y p i n g ,  W i r e f r a m i n gS K I L L S E X P E R I E N C E
+E D U C A T I O N
+H S C  -  8 6 . 3 1 %B a c h e l o r  o f  E n g i n e e r i n g  -  9 . 1
+V i d y a d h a m  S c i e n c e  C o l l e g e  •  2 0 1 8 – 2 0 2 0P u n e  I n s t i t u t e  o f  C o m p u t e r  T e c h n o l o g y  
+•  2 0 2 0 – 2 0 2 4W o r k e d  o n  t w o  m a j o r  p r o j e c t s  i n v o l v i n g
+e m b e d d e d  s y s t e m s
+M o d e l e d  a n d  d e s i g n e d  t h e  U I  o f  p r o d u c t  u s i n g
+Q M L  l a n g u a g e
+I n t e g r a t e d  d a t a b a s e  w i t h  a p p l i c a t i o n  a n d
+f e t c h e d  d a t a  u s i n g  S Q L i t e
+C o n d u c t  c o d e  r e v i e w s  a n d  p r o v i d e  f e e d b a c k  t o
+i m p r o v e  c o d e  q u a l i t y
+C o l l a b o r a t e d  w i t h  s o f t w a r e  t e s t i n g  t e a m  t o
+i d e n t i f y  a n d  d e b u g  s o f t w a r e  e r r o r sQ M L  D e s i g n e r  I n t e r n
+P R O J E C T ST e c h n o c u l t u r e  R e s e a r c h  •  N o v  2 0 2 2  –  J u l y  2 0 2 39 4 2 0 5 4 2 7 8 2
+n i m i s h s a n g h a v i 3 1 @ g m a i l . c o m
+N i m i s h  S a n g h a v i
+N i m i s h  S a n g h a v i
+I C S E  -  9 5 %
+P o d a r  I n t e r n a t i o n a l  S c h o o l  •  2 0 0 8 – 2 0 1 8
+D e s i g n  a n d  D e c o r a t i o n  H e a d  A d d i c t i o n ' 2 3 .  
+C r i c W a r s  H e a d ,  X E N I A ' 2 2
+S p o n s o r s h i p  t e a m ,  X E N I A ' 2 2       M a n a g e d  a n d  l e a d  a  t e a m  o f  m o r e  t h a n  2 0  
+       v o l u n t e e r s  f o r  d e c o r a t i n g  t h e  c a m p u s  a r e a .
+       L e d  t h e  o v e r a l l  e v e n t  w i t h  a  t e a m  o f  1 0 .
+       R e s p o n s i b l e  f o r  c o n t a c t i n g  a n d  p i t c h i n g  
+       c o m p a n i e s  a n d  a r r a n g i n g  s p o n s o r s h i p  f o r  
+       X E N I A ' 2 2  e v e n t .V O L U N T E E R
+E X P E R I E N C E
+A C H I E V E M E N T S
+M H T - C E T  9 9 . 6  A I R  4 5 2
+C o d e c h e f  3  s t a r ( 1 6 4 5 )
+G l o b a l  R a n k  1 - M a r c h  L o n g  o n e  2 0 2 2
+C o d e f o r c e s  -  R a t i n g  1 0 4 1
+P a r t i c i p a t e d  i n  W e b s t e r  H a c k a t h o n  o f  N M I M S
+S i n g i n g ,  C r i c k e t ,  D e s i g n i n gI N T E R E S T SS c o r e  K e e p e r
+D e v e l o p e d  a  p i n g - p o n g  s c o r e  t r a c k i n g  w e b s i t e
+u s i n g  H T M L ,  C S S ,  J a v a S c r i p t ,  a n d  B o o t s t r a p  5  t o
+m a n a g e  m a t c h  s c o r e s  a n d  p l a y e r  n a m e s .
+D e s i g n e d  " H a b i t u a l "  s h o p p i n g  a p p  a n d  i t s
+a c c o m p a n y i n g  s h o w c a s e  l a n d i n g  p a g e  u s i n g
+F i g m a .H a b i t u a l ,  S h o p p i n g  A p pU t i l i z e d  Q M L  t o  d e s i g n  a  p r o j e c t  i n c o r p o r a t i n g
+d i v e r s e  m o d u l e s  a n d  e n g i n e s  f o r  c y c l i c  p r o c e s s i n g ,
+l e v e r a g i n g  m u l t i p l e  f e a t u r e s .  I n t e g r a t e d  S Q L i t e  f o r
+c o m p r e h e n s i v e  l o g  s t o r a g e .M i c r o - F a b r i c a t o rL e a d i n g  t h e  C S I  C o m m u n i t y  o f  1 1 0 0 +  m e m b e r s
+i n  v a r i o u s  d o m a i n s  a c r o s s  d i f f e r e n t  e v e n t s
+c o n d u c t e d  b y  t h e  c l u b  a c r o s s  t h e  y e a r .
+W o r k e d  w i t h  m a n y  t e a m s  f o r  s m o o t h  f u n c t i o n i n g
+o f  X e n i a  e v e n t  a n d  g e n e r a l  s e s s i o n s  b y  c l u b .J o i n t  S e c r e t a r y
+P C S B  •  J a n  2 0 2 2  –  P r e s e n t
+D e v e l o p e d  Q M L  i n t e r f a c e  f o r  p a r a l l e l  P C R  t e s t s ,
+e n h a n c i n g  p r o c e s s  c o n t r o l  a n d  b o o s t i n g  r e s e a r c h
+c a p a b i l i t i e s .P C R - M o d e l

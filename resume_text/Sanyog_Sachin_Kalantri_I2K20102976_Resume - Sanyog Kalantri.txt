@@ -1,0 +1,43 @@
+SANYOG KALANTRI
++91 7507034878 Pune, India
+sanyogkalantri2007@gmail.com linkedin.com/in/sanyog-kalantri https://github.com/Sanyog20
+EDUCATION
+Pune Institute of Computer Technology Pune, India
+B.E - Information Technology, CGPA: 8.76 Expected{2024
+Matoshri Junior College Nashik, India
+12th grade - Secured 80.77% (HSC) 2020
+Barnes School and Junior College Nashik, India
+10th grade - Secured 85.4% (ICSE) 2018
+PROJECTS
+Blood Bank Management
+•Developed a blood bank management system using MySQL & PHP to eciently manage blood donations at
+various levels, including colleges, oces, and other institutions.
+•The system facilitates retrieving details of all eligible blood donors in a specic area or its vicinity.
+•https://github.com/Sanyog20/Blood-Bank
+Rating Prediction System
+•Developed a Rating Prediction System for restaurants listed on Zomato in Bangalore using Big Data and
+Machine Learning models .
+•The system aids in analyzing customer behavior and preferences with the help of Data Visualization and Machine
+Learning models, providing valuable business insights that can foster business growth.
+•https://github.com/Sanyog20/Zomato-Rating-Prediction
+SKILLS
+Technical skills Python C++ C DSA OOP DBMS MySQL Machine Learning
+Other Skills Problem Solving Competitive Programming Teamwork Finance & Management
+EXPERIENCE
+iMochaWorks September 2021 { July 2022
+Problem Setter & Upload Team
+•Worked as a freelance Problem Setter, making more than 20 competitive programming questions from scratch.
+•Worked as a member of the Upload team in the backend, creating code stubs for more than 50 questions.
+VOLUNTEERING EXPERIENCE
+PICT NSS September 2021 { Ongoing
+Event Management Lead
+•Involved in leading various teams during a 7-day annual camp organized by PICT NSS, with a total of 50
+members at Khopi village.
+•Participated and organized various drives such as Voter's ID registration, healthcare camp, blood donation camp,
+tree conservation drives accounting for more than 400 participants across many villages colleges.
+PICT IEEE Student Branch February 2021 { February 2023
+Core Team Member
+•Volunteered as a student member in Credenz, PICT's largest technical event, actively participating in teams
+across both technical and non-technical domains.
+•Coordinated and managed nances for CTD, an intra-college event of PISB with over 400 participants.
+•Led two successful registration drives for PISB, resulting in the recruitment of over 500 new members.

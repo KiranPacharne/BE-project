@@ -1,0 +1,41 @@
+GAURAV DHOKANE
+PUNE, Maharashtra
+♂phone+91 9309729644 /envel⌢pegauravdhokane20@gmai.com /linkedingaurav-dhokane-896622211
+Education
+PUNE INSTITUTE OF COMPUTER TECHNOLOGY August 2020 - June 2024
+Bachelor of Electronics and Telecommunication(CGPA of 7.90) Pune, India
+PEMRAJ SARDA JR.COLLEGE August 2018 - June 2020
+Higher Secondary Education in Science (Percentage - 77.54) Ahamadnagar, India
+LATE LALASHETH BIHANI VIDYAMANDIR PRASHALA ,RAHURI June 2017 - June 2018
+Secondary School Certificate(Percentage - 90.20) Rahuri, India
+Projects
+Sorting Visualizer |React Js,Sorting Algorithms |
+•Sorting Visualizer that visualizes various sorting algorithms
+•Designed an intuitive user interface that enables real-time visualization of sorting processes,
+demonstrating effective data visualization techniques.
+College Management System |JAVA, MySQL |
+•Developed a comprehensive College Management System as an admin-focused Java project.
+•Implemented user-friendly interfaces for efficient student and faculty data management
+•Utilized Java programming, object-oriented design principles, and database integration to create a
+robust and scalable solution.
+Keep Notes App |React Js |
+•Designed and implemented a user-friendly interface for creating, organizing, and managing to-do lists
+and notes.
+•Leveraged React’s component-based architecture to ensure maintainable and responsive codebase for
+an efficient note-taking experience.
+Participations and Achievements
+•PICT INC PRADNYA programming event participation Round 2.
+•PICT ACM Just Coding Event participation
+•PICT ACM CEREBRO Event participation
+•LEETCODE 1500 rating
+•BinarySearch Badge LEETCODE
+•PICT MUN Annual Conference participation
+PICT MUN Annual Conference participation as delegate of Bangladesh in ECOSOC
+•MAHARASHTRA RANK 2990 MHT-CET
+Profile Links
+•Leetcode
+•GeeksforGeeks
+•GitHub
+Technical Skills
+Languages : C++, Python, Java, HTML/CSS, SQL
+Technologies/Frameworks/Libraries : ReactJS

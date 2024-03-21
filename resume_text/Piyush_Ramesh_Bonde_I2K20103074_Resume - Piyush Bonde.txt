@@ -1,0 +1,43 @@
+Piyush Bonde
+piyushbonde06@gmail.com |+91-9325499112 |linkedIn/piyush-bonde-423a46206 |github/PIYUSHBONDE
+EDUCATION
+Pune Institute of Computer Technology Pune | 202 4
+Bachelors in Engineering in Information Technology
+CGPA: 9.26
+Modern Junior College Pune | 2020
+Std - 12th (Maharastra Board)
+Percentage: 86.46%
+Tapti Public School J algaon | 2018
+Std - 10th (CBSE Board)
+Percentage: 88.6%
+WORK EXPERIENCE
+DEPLOYMENT OF CLOUD USING OPENSTACK | Inhouse PIC T, Pune | March 2023 – Ma y 2023
+•Engineered manual OpenStack deployment withVirtualBox hypervisor, constructing aresilient infrastructure.
+•Devised adistributed architecture, comprising 1control node and4compute nodes, optimizing resource utilization.
+•Innovated compact-scale cloud system forefficient machine-oriented program delivery.
+PROJECTS
+CONNECTOPIA - SOCIAL MEDIA PLATFORM  MongoDB, ExpressJS, ReactJS, NodeJS and JWT
+•Developed acutting-edge social media platform withabackend powered byNodeJS andExpressJS ,ensuring high
+performance andscalability.
+•Implemented JWT forsecure userauthentication, enhancing datasafety andprivacy, Multer forfileuploads, and
+Formik andYupforform validation andsubmissions.
+•Utilized MongoDB ,aNoSQL database, forefficient andflexible datastorage, retrieval, andmanagement.
+Repository: LinktoRepository
+PICVERSE - IMAGE GENERATOR  ReactJS, NodeJS, MongoDB, D ALL -E API, Cloudinary and ViteJS
+•Used DALL-E which isanopen-source APIoffered byOpenAI ,thatconverts textual sentences intoHDimages using
+modern AIandNLPAlgorithms.
+•Developed aFullStack Application withImage generation andSharing capabilities, withaninteractive UIandfaster
+backendprocessing.
+Repository: LinktoRepository
+SKILLS
+Languages: C++
+Web Development: ExpressJs, NodeJs, JavaScript, HTML/CSS
+Database: MySql, MongoDB
+Tools andTechnologies: GitandGitHub, VSCode
+Course Work: Data Structures andAlgorithms, Oops, Operating Systems, Computer Networks andSecurity,
+ACHIEVEMENTS
+TIAA Intercollege Hackathon -Winner Pune -2023
+•Secured 1stplace inTIAA Intercollege Hackathon forbackend leadership increating aQuora-like social network
+using theMERN stack.
+•Showcased full-stack skills andeffective teamwork, gaining valuable experience infast-paced collaboration.
+Solved 450+ questions atLeetCode ,CodeChef, andHackerRank

@@ -1,0 +1,52 @@
+Shantanu Kokate
+Pune, Maharashtra
+♂phone+91 9529056697 /envel⌢peshantanu.nandu.kokate@gmail.com /linkedinlinkedin.com/in/shantanu-kokate-a973541b0/
+Education
+Pune Institute of Computer Technology 2020 - 2024
+Bachelor of Engineering in Electronics and Telecommunication [CGPA of 8.5] Maharashtra, India
+Loyola High School and Jr.College 2018 - 2020
+HSC Maharashtra State Board [Aggregate of 86.48%] Maharashtra, India
+Kalmadi High School 2005 - 2018
+SSC Maharashtra State Board [Aggregate of 93.60%] Maharashtra, India
+Experience
+Cybtree Pvt Ltd, Delhi Jan 2023 – Mar 2023
+Security Research Intern Pune, India
+•Collecting and analyzing data on emerging threats, vulnerabilities, and attack techniques using IBM X-Force
+Exchange and ThreatConnect.
+•Conducting literature reviews, writing research papers, documenting findings, and contributing to the knowledge base of
+the organization.
+•Security Awareness Training : Assisting in developing and delivering security awareness training programs to educate
+employees about security best practices and the importance of data protection.
+Projects
+•Serverless File Uploader using AWS Services like S3,Lambda Function,API Gateway,IAM
+Roles,CloudWatch
+•End-to-End AWS Web Application using services such as Lambda Function, AWS Amplify,DynamoDB
+and IAM Roles
+•End-to-End Encrypted communication link using Atmega 328p
+•Student Enrollment System using HTML and Css,Javascript and Php
+Technical Skills
+Languages : HTML and CSS, C++
+Cryptography Techniques, Object Oriented Programming, Database Management
+Scripting Languages : SQL,Php, Javascript(Beginner)
+Technologies And Tools : Kali Linux, Wireshark, Burpsuite,Nmap,Phpmyadmin, Prompt Engineering
+Cloud Computing : AWS Services EC2,ELB and ASG, API Gateway,IAM,Amazon S3,Lambda Function
+Certifications
+Cyber Security Management Virtual Experience Program |ANZ-Australia 4
+•Conduct social engineering investigations to analyze manipulation techniques exploiting human vulnerabilities for
+unauthorized system access and information retrieval.
+•Utilize forensic techniques and tools to perform comprehensive digital investigations , gathering and analyzing
+digital evidence with precision for legal and security purposes.
+Cybersecurity Virtual Experience Program |Mastercard 4
+•Create a realistic phishing email simulation to assess employee awareness and response to phishing attacks,
+improving their ability to detect and report such threats.
+•Analyze phishing simulation outcomes to evaluate employee vulnerability, identify training gaps, and implement
+targeted measures for improving resilience against phishing attacks.
+Ethical Hacking |Udemy 4
+•Network Hacking: Master network security testing, including pre- and post-connection attacks, gathering information,
+password cracking, device exploitation, and advanced network monitoring and control techniques.
+•Gaining Access: Master server-side and client-side attacks, gaining full system control, generating detailed
+vulnerability reports, hijacking software updates, and utilizing social engineering for backdoor installation and user
+manipulation.
+•Website / Web Application Hacking: Master website hacking techniques, identifying and exploiting vulnerabilities
+(file upload, code execution, file inclusion, SQL injection, XSS) for unauthorized access and control, leveraging
+knowledge of website architecture and technologies.

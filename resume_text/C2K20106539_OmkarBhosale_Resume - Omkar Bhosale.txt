@@ -1,0 +1,44 @@
+OMKAR BHOSALE
++91 9822433280 ⋄Pune, INDIA
+omkarbhosale277@gmail.com ⋄My Linkedin ⋄My Github
+OBJECTIVE
+A Computer Engineering student seeking an SDE internship. Interested in Web Development, Data Science, and
+Economics.
+EDUCATION
+Pune Institute of Computer Technology
+BE Computer Engineering CGPA: 8.7 Expected 2024
+Honors in Data Science
+Relevant Coursework: Object Oriented Programming, Data Structures and Algorithms, Database Management Sys-
+tems, System Programming, and Operating Systems.
+The Data Science Course 2023: Complete Data Science Bootcamp
+City Pride Junior College
+12th Std Percentage: 87% , JEE MAINS: 98.78 2018-2020
+SKILLS
+Technical Skills JavaScript, C++, Java, Reactjs, Nodejs, MySql, Github, Linux, Python
+Data Science Numpy, Pandas, Matplotlib, scikit-learn, TensorFlow, nltk
+EXPERIENCE
+Intern Jan 2022 - March 2022
+Pustakwale Pune
+•Performed Exploratory Data Analysis on previous years’ Sales Figures to understand Sales Performances in
+Active Areas.
+•Developed a Sales Visit Scheduler to prioritize Company’s Expansion and Revenue
+•Used the Scheduler to develop a 4-month schedule for Company Visits to targeted Societies.
+PROJECTS
+Scientific Paper Rater
+Built a website that rates Scientific Papers based on the journal and conferences. Provided a ranking system to
+indicate the best researchers in the institute.Used JWT for authentication and built the site using MERN stack.
+(Source Code)
+Legal Text Summarizer
+Build an extractive unsupervised text summarizer for legal text using sentence embedding from roBERTa encoder
+and K means clustering. Used Libraries like numpy, pandas, NLTK
+Given a text it extracts key sentences important to the gist of the text.
+FireClassifier
+Contributed to a research project focused on investigating the behavior of a neural network black box when logically
+extracted features are added during the training process. Implemented masking scripts and U-NET segmentation
+techniques to enhance fire detection and segmentation. Utilized OpenCV, TensorFlow, and PyTorch for image
+processing and deep learning tasks. Collaborated with the team to analyze the impact of incorporating extracted
+features on the model’s performance. (Source Code)
+EXTRA-CURRICULAR ACTIVITIESEvent Lead of the Event Reverse Coding at Pulzion 2023
+•Created Questions, generated test cases and lead the team successfully to conduct the event offline.
+Member of DEBSOC PICT
+•Participated in Debate Competition conducted by Shri Navalmal Firodia Law College.

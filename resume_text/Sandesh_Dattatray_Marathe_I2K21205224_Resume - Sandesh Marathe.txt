@@ -1,0 +1,88 @@
+Sandesh Marathe          
+Final Year I.T. Engineering Student  
+EDUCATION  
+Qualification  University/ 
+Board  Year of passing  CGPA/ 
+Percentage  
+B.E. I.T . 
+Engineering  SPPU  2024(pursuing)  8.60  
+ 
+Diploma(Computer 
+Technology)  MSBTE  2021  97.77  
+SSC State Board  2017 84.20  
+ 
+PROJECTS  
+ Sorting Visualization Application  (2022)  
+o Concepts:  Multi -Threading, Exception handling, Sorting, JavaFx  
+o Description:  Developed a java Application utilizing JavaFX to visually  
+demonstrate the Sorting Algorithm. The Program generates and  
+sorts coloured bars, showcasing the step -by-step sorting process  
+in Real-time. Implemented e vent -handling, multi -threading,  a 
+graphi cal representation techniques to enhance user experience  
+and understanding of the algorithm.  
+ 
+ JavaFx Based Web B rowser (2022 ) 
+o Concepts:  Multi -Threading, Exception handling, JavaFx  
+o Description  A basic multi -wind ow web browser . This program is  
+responsible  For creating new window and for maintaining a list   
+of currently open window s. 
+ 
+ CCPL (C Programming Library - GUI based Programming Library) (2021)  
+o Technologies and Languages:  Glade, GTK, C  
+o CCPL is a collection of basic to advanced concepts of C language  
+present in theoretical as well as implemented practically in this  
+library.   
+ 
+ "PolyglotCodeRunner: A Multilingual Code Editor with Instant Execution" (2021)  
+o Technologies and Languages:  Glade, GTK, C  
+Run code directly in the Editor for C, C++, Java, and Python.  
+Get errors and output instantly. Simple code editor for file creation  
+and saving. Developed in C with GTK API  
+ 
+ E-Security & Guard  Service Site(2021)  
+o Technologies and Languages: HTML, CSS, Jav aScript, Netlify  
+o Description : In this you can get security guard service by requesting in  
+website. And you can get any type of security guard service like  
+armed guards, bouncers,  etc. Mainly focus was to make great UI . 
+ +91 8010785396  
+sandeshdmarathe333@gmail.com  
+Sandesh Marathe  | LinkedIn  
+Sandesh Marathe | GitLab  
+SKILLS  
+ Java (JVM)  
+ C 
+ C++ 
+ DSA 
+ MySQL  
+ Operating System  
+ Git  
+ AWS  cloud  
+CERTIFIACTION  
+ Completed C language at 
+Core2web Technologies .  
+ AWS Cloud Technical 
+Essentials from courser . 
+ 
+INVOLVMENTS  
+ Actively participated in tree 
+plantation.  
+ Part of sports  management 
+committee . 
+ 
+Languages  
+ English  
+ Hindi  
+ Marathi  
+ 
+Interest & Hobbies  
+ Trekking  
+ Watching Movies  
+ Exercises & Sports  
+ Stargazing & astronomy  
+ 
+ACHIEVEMENTS  
+ Secured 1st rank at coding 
+competition  in technical 
+event at Sinhagad C ollege . 
+ Achieved 4 stars in Hacker 
+Rank for c language . 

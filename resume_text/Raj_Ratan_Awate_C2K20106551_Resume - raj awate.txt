@@ -1,0 +1,101 @@
+Raj Awate 
+Young Data Science / Machine Learning Enthusisast 
+Sport's my love Data's my life 
+raj.awate50@gmail.com 
+8779149954 
+linkedin.com/in/raj-awate-811392206 
+github.com/razz05 
+EDUCATION 
+Class 10 
+Kendriya Vidyalaya 
+2010 - 2017
+, 
+ 
+mumbai 
+93.8% 
+Class 12 
+Ryan International Sanpada 
+2017 - 2019
+, 
+ 
+navi mumbai 
+91% 
+B.Tech In Computer Engineering 
+SCTR Pune Institute Of Computer Technology 
+2020 - Present
+, 
+ 
+Pune 
+8.63(as of sem5) 
+WORK EXPERIENCE 
+Data Science Intern 
+Oasis Infobyte 
+03/2023 - 04/2023
+, 
+ 
+Iris Flower Classiﬁcation 
+Unemployment Analysis 
+Email Spam Detection 
+Data Science Intern 
+Codeclause 
+06/2023 - 07/2023
+, 
+ 
+Churn Prediction in Telecom Industry using Logistic
+Regression 
+Market Basket Analysis in Python using Apriori Algorithm 
+Price Recommendation for Online Sellers 
+Recieved LOR 
+SKILLS 
+MySQL 
+Python 
+Tensorﬂow 
+Matplotlib 
+Seaborn 
+OpenCV 
+Keras 
+Numpy 
+Pandas 
+Sckit -Learn 
+PERSONAL PROJECTS 
+Live Youtube Data Analysis
+ (08/2022 - 09/2022)
+ 
+Using google API extracted live data from youtube and analysed it
+using data science and machine learning tools 
+Classiﬁcation and summarisation of tweets towards
+covid vaccine-2019 
+Used deep learning and nlp concepts for developing a multi class
+classiﬁer 
+AISoMe 2023 
+ORGANIZATIONS 
+PICT ACM
+ (03/2021 - Present)
+ 
+Member 
+PICT EDC
+ (03/2021 - Present)
+ 
+Member 
+CERTIFICATES 
+What Is Data Science - Coursera 
+Introductory course 
+to data science 
+LANGUAGES 
+English 
+Full Professional Proﬁciency 
+Hindi 
+Full Professional Proﬁciency 
+Marathi 
+Full Professional Proﬁciency 
+INTERESTS 
+Swimming 
+Basketball 
+Reading 
+Badminton 
+Football 
+Courses 
+Courses 
+Courses 
+Achievements/Tasks 
+Achievements/Tasks 

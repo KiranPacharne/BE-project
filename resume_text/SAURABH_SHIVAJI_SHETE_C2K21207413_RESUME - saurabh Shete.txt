@@ -1,0 +1,49 @@
+Saurabh Shivaji Shete
+9156969424 |ss.saurabhshete@gmail.com |LinkedIn |/gtbGitHub
+Education
+Pune Institute of Computer Technology Pune, India
+Bachelor of Engineering - Computer Engineering CGPA: 9.09 Expected May 2024
+Government Polytechnic Kolhapur Kolhapur, India
+Diploma in Information Technology Percentage: 97 June 2018 –July 2021
+Honors and Awards: Department Rank 3, Best out-going student
+Professional Experience
+Kinu Technology Services Pvt. Ltd. |Software Development Intern Present
+•Actively developing SaaS product for cross-border trade using React, Tailwind,
+PostgreSQL, Node.js, microservices, and APIs.
+•Contributing to trade finance solutions, gaining insights into international
+trade’s financial aspects.
+MSRF |Research Intern Mar 2022 –June 2022
+•Researched HCC using classical ML and deep neural networks with a focus on Dropout techniques.
+•Developed a pipeline by integrating Gaussian Dropout and Adadelta into a standard feed-forward network .
+•Validated the approach through rigorous experimentation on dataset, improving predictive analysis.
+Projects
+ImageForge (Deployed) |GitHub
+•Built a complete Image generation web app.
+•Designed client side in ReactJS with Tailwind CSS and APIs using NodeJS/ExpressJS and MongoDB.
+•Used OpenAI’s DALL-E API for image generation and Cloudinary API for storing images.
+E-Commerce Websit (Deployed) |GitHub
+•Built a complete e-commerce platform using MERN stack and Redux .
+•Integrated PayPal payment gateway into the website, allowing customers to make secure and efficient payments for
+their orders.
+Analysis and Weather Prediction using Machine Learning (Deployed) |GitHub
+•Developed a machine learning model to predict weather (temperature) prediction based on historical weather
+data.
+•Cleaned and preprocessed large datasets and used these algorithms such as linear regression, random forest, and
+Auto-Regressive Integrated Moving Average (ARIMA) to build the model.
+Skills
+Programming: C++, Python, PHP, MySQL, Javascript, HTML, CSS, JAVA
+Frameworks/Technologies: ReactJs, NodeJs, Express, Github, Tensorflow, Sklearn, Redux
+Coding Skills: Solved 400+ Problems based on Data Structures and Algorithms on different Platforms. Active on Competitive
+Platforms like CodeChef, Leetcode
+Tools: Jupyter Notebook, VS Code, Eclipse, MySQL Workbench, Git, Google Colab
+Achievements
+•CodeChef 3 Star(Highest Rating 1727) Username - enlightener
+•Worked through more than 400 DSA problems on Various platforms.
+•Research on Experiments on Gaussian Dropout and Adadelta for Hepatocellular Carcinoma , IJRASET,
+Dec 2022.
+•Won 1st Prize in YIN KALA MAHOTSAV Pune(Group Dance).
+Organizations
+PICT PASC
+Participated in Pulzion where I contributed to projects in both Machine Learning Development and Web Development.
+INC
+Served as the Domain Head in the Others Department, overseeing activities in the Pradnya Coding Competition.

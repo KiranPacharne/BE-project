@@ -1,0 +1,114 @@
+  VIDHI SORTE  
++91 9637112036  |  vidhisorte16@gmail.com   |  linkedin.com/in/vidhisorte  
+EDUCATION  
+ 
+Bachelor of Engineering                    8.93/10  
+(B.E.) in Computer Engineering        
+Pune Institute of Computer Technology (Savitribai 
+Phule Pune University)  
+2020 - Present  
+ 
+Higher Secondary Certificate           87.38%  
+(HSC) - Science Stream  
+Yashoda High School, Nagpur  
+2020  
+ 
+Secondary School Certific ate          96.20%  
+(SSC)   
+Tejswini Vidya Mandir, Nagpur  
+2018  
+ 
+SKILLS  
+ 
+• Language:  C++  
+ 
+• Web technologies: HTML , CSS, JavaScript, 
+Bootstrap, React, Node.js, Express.js , Karate . 
+ 
+• Database:  SQL  
+ 
+• Core Subjects: Object Oriented Programming, 
+Database Management System, Operating 
+System  
+ 
+ACHIEVEMENTS  
+ 
+• Secured a global rank under 1500  in Google 
+Kickstart  Round E 2022.   
+• Specialist  on Codeforces.  
+• Secured a global rank under 100  in Code Chef’s 
+October Challenge 2021 and February Challenge 
+2022.   
+• Solved 500+ problems  on different programming 
+platforms.  
+• Qualified J EE Advanced  2020.  
+• Secured AIR 753 (99.4%ile)  in MHT -CET 2020.  
+• Secured AIR 38124 (96.52%ile)  in JEE 2020.  
+ 
+EXTRA -CURRICULAR ACTIVITIES  
+ 
+• Conducted and contributed to the question making 
+process for the events such as  Network Treasure 
+Hunt  (online cryptic treasure hunt) , Enigma  (non -
+technical aptitude -based event) in a team.  
+• Organizing committee member  of CREDENZ -22 
+and CREDENZ -23, annual tech -fest of P ICT IEEE 
+Student Branch  with a footfall of around 5000+ 
+students.  
+EXPERIENCE  
+ 
+Technology Intern           
+Barclays , Pune  
+June 2023 – August 2023  
+ 
+• Automated UI  of Orchid  (trades application ) using 
+Karate framework . 
+• Developed 20+ test scripts  to test and validate  
+user functionalities  such as  creating, amending, and 
+terminating tickets and integrated them into existing 
+project . 
+• Created separate input test data files and feature 
+files  for different functionalities resulting in reduced 
+code duplication  and increased reusability . 
+• Worked with the Angular (Panther framework) and  
+Bitbucket  to automate end -to-end test scenarios.  
+• Conducted comprehensive testing and debugging  
+to ensure reliability and accuracy of automated test  
+scripts.  
+ 
+PROJECTS  
+ 
+CLASH  and RC   
+CREDENZ  
+ 
+• Developed 15+ front -end web pages  for online 
+judge platforms  - CLASH and RC (competitive 
+programming contest s conducted by PICT IEEE 
+Student Branch during  its annual flagship event 
+CREDENZ ). 
+• Embedded  code editor IDE  within the web pa ge. 
+• Crafted  detailed  wireframes  using  Figma  and 
+transformed them into  responsive  and interactive  
+web pages.  
+• Implemented  theme  feature for toggling  between  
+dark and light  modes . 
+Tech  stack : HTML | CSS | JavaScript |  Bootstrap  | 
+Figma | Ace .js 
+ 
+DHARMA HARDWARE & ELECTRONICS  
+ 
+• Developed a complete E-Commerce  platform  using 
+MERN  stack  implementing all CRUD  operations . 
+• Designed  Admin Panel  for management of  orders 
+product s and categories . 
+• Implemented search filters  based on categories 
+and price ranges . 
+• Implemented  feature of user authentication and 
+authorization  to ensure secure access . 
+• Integrated third party Payment Gateway  for secure 
+payment proce ssing . 
+Tech  stack:  HTML | CSS | React | Node. js | 
+Express.js | MongoDB  
+ 
+ 
+ 

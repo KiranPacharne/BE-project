@@ -1,0 +1,49 @@
+Anish Chauhan
+♂phone+91-9420837579 /envel⌢peanishchauhan1642@gmail.com
+/githubGitHub Profile /linkedinLinkedIn Profile
+Education
+•Pune Institute of Computer Technology, Pune 2020-2024
+Bachelor Of Engineering (B.E.) in Information Technology CGPA : 9.40
+•Aditya Junior College, Pune 2018-2020
+Class 12 HSC 87.08 %
+•DAV Public School, Pune 2018
+Class 10 CBSE 97 %
+Technical Skills and Interests
+Development Tools : HTML, Tailwind CSS, ReactJS, NodeJS, MongoDB
+Frameworks : ExpressJS
+Cloud/Databases : MySQL, MongoDB
+Soft Skills : Communication, Teamwork, Listener, Leadership, Problem Solving
+Coursework : Data Structures, OOP, SQL
+Areas of Interest : Web development, Data Science
+Experience
+•Internship (Inhouse)
+Deployment of Cloud Using OpenStack
+–Performed manual installation of OpenStack and used VirtualBox as Hypervisor
+–Created 1 control node and 4 compute nodes in distributed form
+–Created a distributed cloud system on a small scale for providing various machine oriented programs via cloud
+Projects
+•DALL-E Image Generator | /github |/gl⌢be
+Developed a Full Stack Application with Image generation and Sharing capabilities.
+–Used DALL-E which is an open-source API offered by OpenAI, that converts textual sentences into HD images
+using modern AI and NLP Algorithms. Used Tailwind CSS, ReactJS and HTML for the frontend, and NodeJS,
+MongoDB, Cloudinary for the backend part.
+–Tools and Technologies: HTML, Tailwind CSS, ReactJS, NodeJS, MongoDB, DALL-E API, Cloudinary & ViteJS
+•Sociopedia - Social Media App | /github |/gl⌢be
+Full stack social media website that provides users with a seamless experience for connecting and sharing content with others.
+–Designed an attractive and user-friendly interface using ReactJS and React Toolkit. For the server-side we have
+used NodeJS, ExpressJS for API development, MongoDB as a database, React Redux for state management and
+React Persist for data persistence.
+–Used Formik and Yup for form validation and handling form submissions and Implemented JSON Web Tokens
+(JWT) for user authentication and Multer for file uploads.
+–Tools and Technologies: MongoDB, ExpressJS, ReactJS, NodeJS, React Persist, React Toolkit, Formik, Yup,
+Mongoose, JSON Web Tokens (JWT), Multer, Git.
+Achievements
+•State Engineering Entrance Exam Stood in the top 0.5%ilein Maharashtra
+•Coding Platforms Solved 200+ problems on Leetcode andGeeksForGeeks
+•Hackathons Qualified and participated in numerous hackathons conducted by Veritas, Flipkart , etc.
+•Courses Accelerated CS Fundamentals, OOP (C++), IIT KGP
+Positions of Responsibility
+•Student Member, PCSB Sep 2021 - Present
+–Worked in sub-events in Xenia, our major technical event.
+–Formed coding questions for participants.
+–Was a part of the invigilation team for multiple rounds.

@@ -1,0 +1,82 @@
+Vaibhav Nanne
+Tech E n thusias t | Pr ogr amming Pr oblem Sol ver
+nanne v aibha v @gmail.c om | +91 -9322859850 | LinkedIn |Github
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+B.E E& TC Engineering
+2020- 2024 | Pune, India
+CGPA :9.00/10
+K. K. WAGH JR. COLLEGE
+BHAUSAHEB NAGAR
+Class XII HSC Science
+Percentage: 85.40%
+2018- 2020 | Nashik , India
+K. K. WAGH VIDHY ABHA V AN
+BHAUSAHEB NAGAR
+Class X SSC
+Percentage: 90.80%
+Nashik , India
+SKILLS
+PROGRAMMING
+Languages:
+•C/C++ •Java •JavaScript
+Technol ogies:
+•React •NodeJS •ExpressJS
+•MySQL •Angular
+F amiliar:
+•Git
+•Github
+•VSCode
+CS FUNDAMENTALS
+•Data Structure andAlgorithm
+•OOP andProblem Solving
+•Database Management (DBMS)
+•Computer Networks
+LINKS
+CODING PROFILE:
+•Codechef
+•HakerRank
+•Leetcode
+CERTIFICATION
+•MERN stack course.
+HOBBIES
+•Trekking
+•Explore TechnologiesEXPERIENCE
+AMACLE STUDIOS
+Software Engineering Intern
+Feb 2023 - April 2023 | Delhi, India
+•Lead ateam onMagnus webapplication forStock market courses
+•Worked onRoulet game Admin Panel inproduct .
+•Worked onDicegame Admin Panel inproduct
+Front-end: Angular ,React |Backend:Firebase
+REBERT TECHNOLOGIES
+Research Head
+J anuary 2022 – jul y 2023 | Pune, India
+•worked onFood management app.
+•Buisness Technology Analyst oftheproject.
+•Carried Research todevelop prototype ofproduct.
+Tech Stack: React, Node.js.
+TECHNICAL PROJECTS
+GROCCO(E-COMMERCE APPLICATION) |HTML, C SS, ReactJS,
+Redux, Node JS, Express JS, MongoDB.
+•GROCCO isaonline Grocery Store Management Application
+•Authentication using JWT tokens andsession tracking isdone using
+cookies .
+•Used REST APIforstate transfer.
+•Customers canorder vegetables from different sellers atdifferent price
+andsellers cansellthem andadmin manages thedashboard.
+MAGNUS APP | Angular.js, Firebase
+•Magnus isaStock Market courses selling platform.
+•Customers canbuyvarious courses, refer courses, cansend credit
+points tofriends andhasprofile ondashboard .
+•Firebase Authenticaion andfirestore areused forAuthentication and
+Data Storage .
+ACHIEVEMENTS
+•1stinHack TheTank Hackathon -hosted bySVNIT Surat
+•2nd inRecursion National Hackathon -hosted byRGIT Mumbai
+•Finalist inInspiron 2.0Hackathon -hosted byCOEP Pune
+•Hacker rankGolden badge inC++
+•3starinSQLhackerrank
+•Solved 300+ Coding Problems
+•Was intop3percentile incommon entrance testheldin2020

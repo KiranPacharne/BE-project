@@ -1,0 +1,37 @@
+Aadeesh Bali
+♂phone6006922235 /envel⌢peofficialaadeesh76@gmail.com /linkedinLINKED IN /githubGITHUB
+Education
+Pune Institute Of Computer Technology July 2020 – July 2024
+Bachelor of Engineering in Computer Science: CGPA-8.24 Pune, Maharashtra
+Ranbir Higher Secondary School 2019 – 2020
+H.S.C: 94.2% Jammu, Jammu And Kashmir
+Delhi Public School 2017 – 2018
+S.S.C: 88.8% Jammu, Jammu And Kashmir
+Relevant Coursework
+•Data Structures •Algorithms Analysis •Web Development
+Projects
+Row House Messenger |ReactJS, NodeJS, ExpressJS,MongoDB, MaterialUI, JWT, BCRYPT August 2023 - Present
+•Building a online chat application exclusively for me and my friends.
+•Building a full-stack web application using NodeJS and ExpressJS serving a REST API with React as the front end and
+hosting data on MongoDb Atlas.
+•Implemented authentication and authorization using JWT and Bcrypt.
+•Using MaterialUI icons to beautify the UI.
+Anime Flix |ReactJS, CSS, Javascript January 2023 - February 2023
+•Being an anime fan it is important to keep yourself updated with the world of anime and manga.
+•Developed a web-app to browse latest anime and manga series.
+•Used ReactJS to dissect the whole app into components and worked on each one separately
+AppointMe |ReactJS, NodeJS, ExpressJS,MongoDB, MaterialUI, JWT, BCRYPT March 2023 - June 2023
+•Developed a web-app to manage clinic appointments during my coursework of WTL in college.
+•Used ReactJS on the front end and did the routing using React-Router-Dom.
+•On the back end the servers work on NodeJs and ExpressJs and for database MongoDB Atlas is used.
+•User authentication and authorization was done using JWT and Bcrypt.
+Technical Skills
+Languages : C++, HTML/CSS, JavaScript,
+Developer Tools : Git, Visual Studio, MongoDB Compass
+Technologies/Frameworks : React, Node.js, Material-UI, Chakra-UI, NextJS, TailwindCSS
+Leadership / Extracurricular
+PICT Newsletter and Brochure January 2022 – July 2022
+Web Dev Lead Pune Institute Of Computer Technology
+•Worked on the PNAB website which would’ve helped in posting updates and also the recruitment for the club
+Interests
+Poker . Fitness . Investing

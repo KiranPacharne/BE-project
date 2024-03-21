@@ -1,0 +1,39 @@
+PRAJWAL ZOTING
++91 9156360190 ⋄Pune, Maharashtra
+prajwalzoting2002@gmail.com ⋄linkedin-id:prajwal-zoting ⋄github:Prajwal-Zoting
+EDUCATION
+PUNE INSTITUTE OF COMPUTER TECHNOLOGY,Pune - Bachelor of Engineering 2020 - 2024
+CGPA: 8.55
+G.H. RAISONI JR COLLEGE,Nagpur - HSC 2019 - 2020
+Percentage: 87.69%
+BHARTI KRISHNA VIDYA VIHAR,Nagpur - SSC 2017 - 2018
+Percentage: 88%
+SKILLS
+Languages C++, JavaScript, SQL, HTML, CSS.
+Frameworks React.js, Node.js, Express.js, MongoDB, Bootstrap.
+Tools Git, MySQL, VS Code, Postman.
+CS fundamentals OOP, DBMS, OS.
+Soft Skills Problem-Solving, Time Management.
+PROJECTS
+BlogBook GitHub
+•The Blog Website project aims to develop a Dynamic and User-Friendly Platform for individuals
+to share their thoughts, experiences, and knowledge with the online community.
+•This website allows users to create, read, update, and delete blog posts.
+•Key Features: User Registration and Authentication, Blog Post Creation and Management, Re-
+sponsive Design.
+•Technology Used: React.js, Express.js, MongoDB, Bootstrap.
+Simple Website with Authentication GitHub
+•This website contains simple Registration and Authentication using JSONWEBTOKEN.
+•this project can be used as framework for other website as a authentication.
+•Key Features: Authentication using jsonwebtoken, User Registration Responsive design.
+•Technology Used: React.js, Express.js, MongoDB, Bootstrap.
+Weather WebApp GitHub
+•The Weather Website project aims to create a user-friendly web application that provides real-
+time weather information for various locations around the world.
+•Key Features: Weather Data Display, Responsive design.
+•Technology Used: HTML, CSS, JavaScript, API.
+ACHIEVEMENTS
+•Solved over 200+ questions in leetcode.
+•Solved over 100+ questions in codechef.
+NON TECH (HOBBIES)
+•Travelling, Trekking, Gaming.

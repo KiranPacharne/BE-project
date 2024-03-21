@@ -1,0 +1,98 @@
+ 
+ 
+ 
+ 
+EDUCATION  
+PICT PUNE  
+BE IN INFORMATION  TECHNOLOGY  
+2020-2024 | Pune,  India 
+Cum.  GPA: 8.85 / 10.0 
+CIS ACADEMY  
+2018-2020 | Baramati, India  
+Class XII Percentage:  83 % 
+VP’S ENGLISH MS  
+2006-2018 | Baramati, India  
+Class X Percentage:  87 % 
+ 
+LINKS  
+Github://  @NotSlypher  
+LinkedIn:// Ayush  
+Codeforces://  SlypherX  
+Codechef:// SlypherX  
+Hackerrank:// Slypher   
+ 
+ACTIVITIES  
+• Head of Unity Engine team at 
+GameDevUtopia  club. 
+• Conducted  multiple  C# and 
+Unity SIG  sessions . 
+ 
+SKILLS  
+LANGUAGES  
+• Java • C# • C++ • JS • Python  
+• HTML •  DSA • OOP • CP  
+  CLOUD   
+  • AWS • Terraform  
+  ASP.NET  CORE   
+  • MVC • SQL  
+GAME -DEV  
+• Unity • AI  
+Machine  Learning  
+ 
+CERTIFICATIONS  
+• ASP.NET Core MVC  
+- Udemy  
+• Problem Solving Certification  
+• C# Certification  
+• Java Certification  
+- Hackerrank  
+• Supervised  Machi ne Learning  
+• Algorithmic  Toolkit  
+- Coursera  
+• Machine  Learning   
+- PICT 
+ Ayush  Gupta  
+ayushgupta@gmail.com  | +91 9921930969  
+Pune, India  | LinkedIn:  /in/ayush -gupta -in 
+ 
+EXPERIENCE  
+AppyMonkeys  | GAME PROGRAMMER  INTERN  
+March 2023 – July 2023   
+• Designed, developed,  and implemented State Machine in the game.  
+• Worked end to end on AI behavior development of all the non -player 
+components of the game.  
+Oasis Infobyte  | ASP.NET  DEVELOPER  INTERN 
+March 2023  – April 2023   
+• Learned and built projects  using asp.net core mvc  like ecommerce site . 
+IMOCHA        | PROBLEM  SETTER  INTERN  
+April 2022 – March 2023  
+• Created  and reviewed  coding  questions  on various  algorithms.  
+ 
+PROJECTS  
+Bulky  Book  – Online  Book  Store  | Link | Site 
+Tech Stack:  ASP.NET  Core MVC,  SSMS, AJAX , API, MIMEKIT  
+• Online  Book Store Website  with a sql db made using asp.net and hosted on azure . 
+• Implemented  multiple  access  area for different  users using identity and area . 
+• Implemented various APIs across the website like stripe payment, mail 
+and text editor  for various features like mailing a receipt on purchase .  
+DrawMyCode  – DSA Visualizer  | Link | Site 
+Tech Stack:  HTML,  CSS, JavaScript , React  
+• An educational site intended to help learners struggling to understand and  
+visualize  the working  of Data Structures  and their Algorithms.  
+• Multiple Data Structure and Algorithm codes visualized using bars, graphs,  
+array, matrices, and  standard problems like Tower of Hanoi problem  
+visualized.  
+Dicey Roads – Unity 3D game | Link | Site 
+Tech Stack:  Unity  Engine,  C#, animation  
+• An 3d puzzle game made for GMTK 48 hours Game Jam.  
+• Has Unity engine physics and develo ped using c# language with multiple 
+mechanisms  for interesting gameplay and puzzle experience .  
+Basket VR – Unity XR game | Link 
+Tech Stack:  V R ,  Unity  Engine, AI, UI,  C#, animation , Meta Oculus  
+• The game consists of 2 modes - 1 vs 6 AI mode & Practice mode . 
+• Virtual Reality Experience game to simulate Basketball game experience .  
+ 
+ACHIEVEMENTS  
+• Got best project acknowledgement in 50 hours AR -VR workshop .  
+• Excelled  in GMTK 48 – hours Team GameJam . 
+• Codeforces:  1195 | Codechef: 4* Rated ( 1874)  

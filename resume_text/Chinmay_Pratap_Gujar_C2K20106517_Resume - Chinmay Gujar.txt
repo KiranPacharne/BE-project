@@ -1,0 +1,43 @@
+Chinmay Gujar
+♂phone9921693030 /envel⌢pechinmaygujar52@gmail.com /linkedin-ChinmayGujar /githubLelouch07
+Education
+Pune Institute of Computer Technology Pune, India
+Bachelor of Engineering - Computer Engineering; CGPA: 9.03 July 2020 - June 2024
+Courses: Operating Systems, Data Structures, Analysis Of Algorithms, Networking, Databases
+Private Junior College Maharashtra, India
+12th - Science; Percentage: 90.15% July 2018 - June 2020
+Technical Skills
+Languages/Database : C++, JavaScript, SQL, Python, MongoDB
+Web Technologies : ReactJs, NodeJs, ExpressJs
+Software & Tools : VS Code, GIT/GitHub, MySQL, Tableau, WireShark
+Soft Skills : Leadership, Teamwork
+Projects
+BoxBox |ReactJS, NodeJS, ExpressJs, TypeScript, MongoDB, vite Git July – August 2023
+•This project served as a platform for fellow motorsport enthusiasts to connect and share insights about Formula 1.
+•Build API endpoints for Live race updates and news from the f1 racing communities scraped automatically with
+beautifulSoup every 2 hours.
+•Includes embedded chat section for every news article.
+Ecommerce |NextJS, ReactJS, Firebase, HTML, SCSS Git March – April 2023
+•Developed an E-commerce website generalized for the clothing sector.
+•Featured Server Side Rendering components for faster initial rendering.
+•Implemented Email and Google Authentication , Firestore database and React Context to manage the state of the
+App.
+A/B Testing of Game version |Python, Numpy, Pandas, Seaborn September – October 2022
+•Performed the A/B testing on the 2 different versions of the mobile game to gain insights.
+Netflix EDA and Sentiment Analysis |Python, Numpy, Pandas, Seaborn, NLTK Git May – June 2022
+•Created overall exploratory data analysis of the Netflix movies and shows data set gives insights about the content.
+•Displayed sentiment analysis of the Netflix reviews from Twitter data set.
+Certifications
+Certificate 1 : Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)
+Certificate 2 : Data Analysis with Pandas and Python
+Honors and Awards
+•Runner Up at VIT Melange 2023 - April, 2023
+•Selected at NCSC National Level in Science Project Competition, 2017
+•District level cricket Athlete
+Volunteer Experience
+Operations volunteer in INC 2023 Pune, India
+•Managed the overall smooth execution of the 3 Day national level annual college tech-fest.
+Volunteer at PISB Credenz 2023 Pune, India
+•Question setter for Enigma ( Aptitude test).
+Volunteer at Rotaract Club of KIT Sunshine Kolhapur, India
+•Organised various social activities for around 500students of KIT.

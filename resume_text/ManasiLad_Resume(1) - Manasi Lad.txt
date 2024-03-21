@@ -1,0 +1,91 @@
+Manasi Lad 
+Engineering Undergraduate 
+manasilad2002@gmail.com 
+9067996189 
+EDUCATION 
+B.E Electronics and Telecommunication 
+Pune Institute of Computer Technology,
+Pune 
+2020 - 2024
+, 
+ 
+9.17 
+Class XII (HSC) 
+KVN Naik College, Nashik 
+2020
+, 
+ 
+90 
+Class X (SSC) 
+Nirmala Convent High School, Nashik 
+2018
+, 
+ 
+92.6 
+PROJECTS 
+FEMPOWER- Web Application 
+A platform which connects NGOs to women in need
+according to their areas of interest 
+and the facilities they
+require. 
+Frontend- HTML, CSS, BOOTSTRAP 
+LEXIGO- BOOK RECOMMENDATION SYSTEM 
+A book recommendation system based on factors like genre,
+authors, number 
+of pages, ratings etc 
+Using Python and Data Analytics 
+MOTION SENSING LIGHTS 
+Designed and implemented motion sensing lights in Proteus
+software using 
+PIR sensors connected to Arduino Uno 
+WORK EXPERIENCE 
+Summer Analyst 
+Goldman Sachs 
+06/2023 - 07/2023
+, 
+ 
+India, Hyderabad 
+Worked with the Compliance Engineering division to
+improve the quality and completeness of feed data,
+also added functionality to support integration
+testing - Java, Spark(Scala), Shell Scripting, Hadoop 
+SKILLS 
+C++ 
+OOP 
+HTML 
+CSS 
+MySQL 
+DSA 
+Competitive Programming 
+Problem Solving 
+Public Speaking 
+ACHIEVEMENTS 
+FINALIST in PCSB “Xenia-22’’ mock placement
+event “Campus to Corporate” among 100+
+participants 
+Qualiﬁed in the TOP 20 teams in the NATIONAL
+LEVEL Women's Hackathon organized by 
+ACM-W
+PCCE Goa 
+EXTRA CURRICULAR 
+Volunteered in organizing the annual event of
+PCSB “XENIA-21” and PCSB “XENIA-22” 
+Member of the photography team of PICT MUN
+CONFERENCE-22 
+Participated in Hackathons and coding contests
+organized by various colleges 
+LANGUAGES 
+ENGLISH 
+Full Professional Proﬁciency 
+MARATHI 
+Full Professional Proﬁciency 
+HINDI 
+Full Professional Proﬁciency 
+INTERESTS 
+SKETCHING 
+PAINTING 
+MUSIC 
+CYCLING 
+FICTION 
+PHOTOGRAPHY 
+Achievements/Tasks 

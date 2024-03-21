@@ -1,0 +1,150 @@
+Rushikesh Tajne 
+Software Developer. 
+Energetic student passionate about problem solving, eager to apply my
+skills to your organization. Adept at learning and collaborating, with a
+focus on delivering impactful solutions and staying current with
+industry trends. 
+rtajne571971@gmail.com 
+9067367819 
+Pune, India 
+auth.geeksforgeeks.org/user/itsme222/practice/ 
+github.com/Rushi-tajne 
+EDUCATION 
+B.E. Electronics & Telecommunications 
+Pune Institute of Computer Technology 
+08/2020 - Present
+, 
+ 
+9.40(Aggregate till 6th semister)
+SPPU. 
+Higher Secondary School Certiﬁcate 
+Vidya Niketan jr college, Chandrapur 
+04/2019 - 07/2020
+, 
+ 
+86.66% Maharashtra State Board. 
+Secondary School Certiﬁcate 
+Narayana Vidyalayam, Chandrapur 
+04/2017 - 06/2018
+, 
+ 
+94.80% CBSE 
+WORK EXPERIENCE. 
+VOIS PROJECT INTERNSHIP 
+Vodafone Intelligent Solutions 
+Developed a Flight Fare Prediction System as part of a
+project internship. 
+Utilized 
+Random Forest
+ and performed 
+EDA
+ on datasets to
+accurately forecast airline prices. 
+Implemented a 
+RESTful 
+API with 
+Flask 
+for real-time
+predictions 
+Collaborated with a team to deliver an innovative and
+practical solution. Strengthened problem-solving skills and
+passion for impactful software development. 
+ORGANIZATIONS 
+PICT CSI STUDENT BRANCH
+ (06/2020 - Present)
+ 
+Currently serving as Joint Secretary of Finance, eﬃciently managing the
+club's ﬁnancial aﬀairs. Successfully organized the 
+Ideathon
+ competition
+as Event Head and led the 
+XENATHON 
+hackathon as 
+Event Head
+. Also,
+contributed to the club's sponsorship team for its annual technical
+events, showcasing strong teamwork and organizational skills. 
+PICT ART CIRCLE
+ (04/2020 - Present)
+ 
+Accomplished Lights Designer, Planner, and Set Designer at
+Purushottam Karandak 2022,
+ contributing to the team's victory in the
+competition. Led as the 
+Lights Head
+, managing a team for seamless
+execution. 
+PICT IEEE STUDENT BRANCH
+ (08/2020 - Present)
+ 
+Successfully secured sponsorships and managed sponsor relationships
+for various club events . 
+SKILLS 
+Java 
+DSA 
+APP Development 
+OS 
+RestAPI 
+DBMS 
+Flask 
+Python 
+Flutter 
+OOPS 
+MYSQL 
+Firebase 
+PERSONAL PROJECTS 
+FareWise 
+FareWise is an Android application designed in 
+Flutter
+ to predict
+ﬂight fares based on user input details. 
+Utilized 
+Random Forest 
+and performed EDA on datasets to
+accurately forecast airline prices 
+The application utilizes a
+ Flask
+-based API deployed on
+ AWS
+ to
+provide real-time fare predictions. 
+Firebase
+ serves as the backend and database for eﬃcient data
+management, ensuring a seamless user experience. 
+PCSB XENIA App 
+Contributed to the development of an app in 
+Flutter 
+that enables
+users to register for competitions during Club Fest. 
+Implemented API integration for backend services, utilizing Node.js
+for seamless communication. 
+My primary role involved API integration using 
+Riverpod
+, ensuring
+eﬃcient data retrieval and management. 
+Boble Corp 
+Developed an innovative Ecommerce application specializing in
+Anime Figures, Bobble Heads, and other collectible items. 
+Pioneered the development of the ﬁrst-ever one-of-a-kind Indian
+App for Anime Figures, Collectibles, and Merchandise. 
+Developed the app using 
+Flutter
+, with 
+Firebase 
+as the backend. 
+ACHIEVEMENTS 
+-Ranked 23rd among 4375 registered geeks on
+GeeksforGeeks among PICT students 
+-Accomplished over 500+ Data Structures and
+Algorithms 
+(DSA) questions on various platforms 
+-Secured 9.40/10.00 CGPA overall with a standout
+performance of 9.70 in the 6th semester in SPPU 
+ENTC
+exam. 
+-Won 1st Prize in prestigious Purushottam Karandak. 
+-Successfully serving as Joint Secretary of Finance for
+PCSB, skillfully managing all ﬁnancial operations for 
+the
+club with more than 1000 active members 
+Tasks 

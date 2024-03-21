@@ -1,0 +1,55 @@
+AMEY RATHI
+♂phone7887327843 /envel⌢peameyrathi108@gmail.com /linkedin-https://www.linkedin.com/in/amey-rathi-2594a8218 /github
+https://github.com/AmeyRathi12
+Objective
+Passionate about the dynamic world of data science, I am driven by a relentless curiosity to uncover patterns and insights from
+complex datasets. With a growth-oriented mindset, I embrace challenges as opportunities to learn and evolve. Through
+effective communication, I aim to bridge the gap between data-driven insights and actionable business strategies, leveraging
+my expertise in machine learning, data analysis, and statistical modeling.”
+Education
+School Of Scholars, Amravati 2018
+SSC Percent: 93
+Maharshi Public School, Amravati 2020
+HSC Percent: 92
+Pune Institute Of Computer Technology, Pune 2024
+BE Electronics and TeleCommunication GPA:8.21
+Technical Skills
+Programming Language : C++
+Web Technologies : Flask
+AI Framework : RASA
+DBMS : SQL
+CS Fundamentals : OS, OOP
+Data Analysis : Numpy, Pandas
+Machine Learning Algorithms
+Digital Image Processing
+Experience
+Wiserli April 2023 – June 2023
+AI Developer Amravati
+•Contributed in the development of a recently released personal finance management app called ”WiserStep” which has an
+inbuilt chatbot, powered by RASA
+•Learned about RASA framework and did Response Analysis of various language models in order to get best possible
+response from the chatbot
+•Performing annotations and statistical analysis of data
+•Learned about Docker and how it simplifies the deployment, scalability, and management
+•Learned to create and automate CI/CD pipelines
+Projects
+ML Marks Prediction Web Application |https://github.com/AmeyRathi12/ml-project
+•This machine learning project aims to predict students’ exam scores based on various features such as gender, race
+ethnicity, parental level of education, lunch, and test preparation course. The project utilizes multiple ML models and
+provides a Flask web application for users to input their data and get exam score predictions.
+•Tech Stack: Python for coding, Flask for web app, HTML/CSS for UI, Pandas/NumPy for data handling, Scikit-learn
+for ML models, Pickle for object serialization, Git/GitHub for version control, Docker for containerization, GitHub
+Actions for automated workflows, AWS for deployment.
+•This project is a comprehensive end-to-end web application, featuring modular coding aligned with industry standards.
+It encompasses machine learning, data analysis, and object-oriented programming principles
+AI-PDF Chat |https://github.com/AmeyRathi12/pdf-chat
+•An innovative PDF chatbot project designed for intelligent conversations, entirely powered by your computer’s
+processing capabilities. This project demonstrates seamless communication, offering user- friendly interactions without
+the need for external systems
+•This project leverages a powerful combination of technologies, including Streamlit for interactive UI, Transformers for
+advanced language processing, and SentenceTransformer for text embeddings. It also incorporates Chroma vector store
+for efficient data handling.
+•In this project, the core concept revolves around natural language processing (NLP), text embeddings, and data
+structuring. The La-MINI T-5 model drives the chatbot’s intelligent conversations, showcasing the capabilities of large
+language models. Notably, the entire application operates using your computer’s CPU, ensuring smooth interactions
+without external API dependencies.

@@ -1,0 +1,64 @@
+Pratham More
+/ne+91-7020050908 pratham02more20@gmail.com Pratham More /gtbPRATHAM2002-DS /ePORTFOLIO
+EDUCATION
+Pune Institute of Computer Technology Jul 2020 – Expected Jun 2024
+Bachelor of Engineering - Electronics and Telecommunication Engineering Cum. GPA: 9.04/10
+Pragnya Jr. College, Pune 2018 - 2020
+Maharashtra State Board Of Higher Secondary Education Percentage: 83.08%
+EXPERIENCE
+Azodha Systems February 2023 - July 2023
+Software Developer Intern
+•Implemented a Role Based Access Model using Open FGA.
+•I along with team built a Chat system using RabbitMQ , integrated it with external Electronic Health
+Records (EHRs) to offer a versatile Software-as-a-Service (SaaS) solution compatible with any EHR.
+•Developed a security architecture using AWS SNS andClamAV to scan files and attachments uploaded by
+users via the chat system, which reduced the response time by 40% and ensured secure file uploads within
+Azodha.
+Serri Tech Solutions September 2022 - November 2022
+Backend Developer Intern
+•Contributed to the MVP product of Serri which proved to be a pivotal tool for stakeholders, enabling them
+to effectively raise funds.
+•Implemented a whatsapp bot with 12+ features/intents that will help users to build connections in
+community.
+•Contributed in creating a complete new Flow diagram andArchitecture which reduced latency in code.
+Elliot Systems July 2022 - February 2023
+Full Stack Developer Intern
+•Improved the User Interface provided by Elliot systems to the clients.
+•Worked on the backend using Nodejs , of the interface and performed pre-processing and Exploratory Data
+Analysis of the data recieved from company sensors.
+•Worked on AWS for deployment.
+PROJECTS
+Pulzion EMS |ExpressJS, NextJS, PostgreSQL, NodeJS, Html, CSS.
+•The primary goal of the PULZION’23 Event Management System was to host the annual flagship event of
+PASC which received around 3400+ registrations and 40000+ requests.
+•EMS consists of multiple microservices, including mailing service, notification service, MCQ platform, and an
+Online Judge, which served as essential components for the event management process.
+•Live site here Github
+Extract Trends from Social Media Data |NLTK, TextBlob, FastApi, AlchemyJS, ChartJS
+•As a part of Flipkart GRID 4.0 we developed a multi-layered market sentiment aggregator with a built-in
+signal detector offering real time analytics..
+•Maps aggregated keywords with Flipkart categories and attributes to present a dynamic collabrative filtering
+recommendation engine.
+•Leverages Artificial Intelligence to generate the Trend Score (Ranking) of its products.
+•Demo Video
+CovMeal |ReactJS, Firebase. Html, CSS.
+•Contributed a helping hand to society by connecting foodservice providers with Covid patients for meal
+deliveries.
+•Impact- 35+ food service provider registrations from major locations of Pune City.
+•Deployed a fully functional website on the web with active user traffic.
+•Live site here
+Other Projects:- PortfolioSKILLS
+Web-Development: MERN Stack, HTML, CSS
+Programming Languages: C++, Javascript, Python, Java, Golang
+Technologies/Frameworks: ReactJS, ExpressJS, Gin, Fibre, Tailwind, Bootstrap, MaterialUI, Redux, Git, Git
+Hub, Docker.
+Databases: MongoDB, PostgreSQL, MySQL, Redis.
+LEADERSHIP
+PICT ACM Student Chapter Present
+Technical Head
+•Lead and Worked on Pulzion Event Management System and other inhouse projects.
+•Organized various events like Pulzion, Pasckathon, Radiance under PASC .
+ACHIEVEMENTS
+•Semi-Finalist of FLIPKART GRID 4.0 (Only 1342 teams were Selected from a total of 1,46,000+
+individuals across India and U.S.).
+•Winners of PICT INC 2022 under Open Software Application Development.

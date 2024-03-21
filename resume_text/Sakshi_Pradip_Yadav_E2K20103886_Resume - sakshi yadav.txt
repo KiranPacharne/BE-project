@@ -1,0 +1,47 @@
+Sakshi Yadav
+•Pune, India •Email: sakshisy2002@gmail.com
+github .com/sakshiyadav04 •+91-9975854754• linkedin .com/in/sakshi-yadav
+EDUCATION
+Pune Institute of Computer Technology (PICT) Pune, India
+B.E. Electronics and T elecommunication Engineering July2020 -June 2024
+CGPA: 9.00/10.00
+PROFESSIONAL EXPERIENCE
+Pune Institute of Computer Technology Pune, India
+In-house Drone Project Internship Feb2023 -Apr2023
+•Drone Automation: Features suchasAutomated landing andtakeoff, Navigation through setpoints andaltitude stabilization.
+•Targeted applications: Autonomous navigation, Crop disease detection andvideo surveillance applications.
+•Tech Stack: Python, OpenCV, Mission Planner, Ardupilot, Raspberry Pi.
+TECHNICAL SKILLS
+Programming Languages: Python ,C++,Embedded C.
+SoftSkills: Problem Solving ,Team Work ,Management skills,Public Speaking.
+Others: Flask ,Django ,ROS,MySQL ,Data Analytic ,Data Structures andAlgorithms ,Object Oriented Programming.
+EXPERIENCE AND ACHIEVEMENTS
+•LedthePICT Robotics team inABU Robocon 2023 asCore Coding andElectronics Member andProject Manager .
+Qualified fortheNationals andSecured AIR14among 80+colleges across India inthecompetition.
+•Participated inABU Robocon 2022 asaCoding andElectronics Member .
+Reached Quarter Finals andSecured AIR6among 50+colleges across India inthecompetition.
+•Awarded 2ndprize atSmart India Hackathon :Smart Document Capture Platform heldbyMinistry ofElectronics and
+Information Technology (MEITY) -August, 2022
+•Awarded theJudges prize inElectronics Contest heldby”THE INSTRUCTABLES” forIOTbased Smart Security Surveillance
+Robot -July,2022
+•Delivered Sessions onBasics ofElectronics, Coding Fundamentals andMechanical CAD Designing Software tojuniors as
+acoremember ofthePICT Robotics Club.
+•Worked atPICT Debsoc andvolunteered atitsevent Paricharcha 2022.
+PERSONAL PROJECTS
+•Robotics Inventory Management System -April 2023
+•Created anInventory Management Website forPICT ROBOTICS Club tokeep atrack ofallthenecessary components
+from various categories suchasElectronics, Mechanical andPower Tools.
+Tech Stack Used :Django, Python, HTML, CSS,BOOTSTRAP
+•Smart Document Capture Platform (Smart India Hackathon 2022) -August 2022
+•Created aMobile Application capable of:User Authentication, FastDocument Imaging andSecure Image Upload
+•Secure APIConnection towebportal using secret access keys
+•Created Web Portal capable ofImage :Queuing, Pre-Processing andUpload toUIDAI Portal
+Tech Stack Used :Flutter, Dart, Node JS,Caman JS,AWS, OpenCV, DynamoDB, HTML, CSS.
+•IOTBased Smart Security Surveillance Robot -July2022
+•Website Controlled IOTBased Robot using WiFi forControl Actions, IRSensors forObstacle Detection andReal-Time
+Website Data Display, Live180degree Visual Feed fortheEnvironment Mapping andUser Authentication System
+Tech Stack Used :Python, Flask, SQL, AJAX, HTML, CSS,Raspberry Pi
+•Vocal forLocal (E-Commerce Website) -Jan2022
+•Created aWebsite where localshopkeepers mayregister their shops toselltheir products andgetconnected withthe
+customers. Thewebsite hadmodern features suchasitemsearch, delivery tracking andonline transaction.
+Tech Stack Used :Django, Python, HTML, CSS,BOOTSTRAP

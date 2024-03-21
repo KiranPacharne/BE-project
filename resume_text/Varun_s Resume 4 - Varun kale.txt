@@ -1,0 +1,99 @@
+Varun Kale 
+Student 
+An engineer with an artistic approach to solving problems with my
+abilities to lead and manage. 
+svkale2016@gmail.com 
+9619078872 
+linkedin.com/in/varun-kale-1746741a5 
+EDUCATION 
+Class 10, High School Education 
+D.A.V. Public School, New Panvel 
+04/2017 - 05/2018
+, 
+ 
+92% 
+Intermediate, Class 12 
+D.A.V. Public School, New Panvel 
+04/2019 - 07/2020
+, 
+ 
+91.8% 
+B.E. Electronics & Telecommunications 
+Pune Institute of Computer Technology 
+07/2020 - 06/2024
+, 
+ 
+8.81 CGPA 
+PERSONAL PROJECTS 
+Student Management System 
+A Comprehensive student management system using Python
+and SQL, streamlining data organization, retrieval, and updates
+to ensure eﬃcient and accurate student records and
+information maintenance. 
+Developed a user-friendly student management system
+utilizing Python's programming capabilities and SQL's database
+management power; streamlined data entry, retrieval, and
+modiﬁcation processes for administrators and educators,
+resulting in a 40% reduction in data processing time and
+improved overall eﬃciency. 
+Implement a relational database structure to store diverse
+student data including personal information, academic records,
+and attendance history, fostering data integrity and
+accessibility while facilitating insightful reporting and analysis. 
+Customer Segmentation 
+Data Science Project for applying the K-means algorithm to
+perform customer segmentation 
+on more than 10 parameters,
+grouping individuals with similar behaviors and preferences into
+distinct clusters, allowing businesses to tailor marketing
+strategies and services for improved customer satisfaction and
+engagement. 
+Used features such as purchase history, demographic data, and
+behavior to determine the optimal number of clusters using K-
+means, enabling businesses to gain valuable insights into
+distinct customer segments and their unique characteristics. 
+Women Safety App 
+WORK EXPERIENCE 
+Internship 
+Exposys Data Labs 
+04/2023 - 05/2023
+, 
+ 
+Data Science Project for applying the K-means algorithm
+to perform customer segmentation on more than 10
+parameters. 
+SKILLS 
+C++ 
+Python 
+DBMS 
+OS 
+OOP 
+Management and Leadership 
+DSA 
+Excel 
+ACHIEVEMENTS 
+Purushottam Karandak Winner 
+Won 1st prize at the inter-college theatre competition. 
+CREDENZ - PICT IEEE Event Winner 
+Won the 1st prize in a quiz on current aﬀairs and movies. 
+MTSE Divisional and District Distinction 
+Coding Ninjas 
+Ceriﬁcate of excellence with 91%. 
+ORGANIZATIONS 
+Training & Placement Cell 
+Head at PICT-TNP 
+PICT-MUN 
+CHEIF STRATEGIC OFFICER(CSO) and Publicity Head. 
+TEDX-PICT 
+Organising Comittee Member. 
+PICT-ART CIRCLE 
+PICT-DEBSOC 
+Organising Comittee Member. 
+PICT ACM Student Chapter 
+INTERESTS 
+Sports 
+Theatre 
+Travelling 
+Movies 
+Management 
+Tasks 

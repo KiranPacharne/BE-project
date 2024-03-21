@@ -1,0 +1,30 @@
+Pranav Parkale
+⠀
++91-7719844864
+pranav44parkale@gmail.comA self-motivated Student pursuing a Bachelor's degree in Information
+Technology with excellent Problem-Solving skills & Logical Reasoning.
+Passionate about Technology. I'm always willing to use my abilities
+towards creating something Productive.
+EDUCATION
+Bachelor's Pune Institute of Computer Technology Present
+Pune
+HSC Chaitanya's International School Mar 2020
+Baramati
+CBSE Vidya Pratishthan's English Medium School Apr 2018
+Baramati
+SKILLS
+Programming Languages C++ | Python
+Core OOPs | DSA | DBMS | ML | OS
+Other Technologies MySQL | HTML | CSS | GitHub
+PROJECTS
+E-Mail Spam Detection
+This project will identify the spam messages by using techniques of Machine Learning (Naive Bayes).
+Formula 1 Statistics Tool
+Formula 1 driver comparison and race analyzing tool. It uses Fast-F1 Library for race and driver analysis. This tool can be
+used for accessing and analyzing F1 timing and Telemetry data.
+Car Price Predictor
+Car Range, Base Price and Maximum Price Prediction using Regression Model.
+LANGUAGES
+English|Marathi|Hindi
+HOBBIES AND INTERESTS
+Motorsports, Travelling, Driving, Photography, Hiking

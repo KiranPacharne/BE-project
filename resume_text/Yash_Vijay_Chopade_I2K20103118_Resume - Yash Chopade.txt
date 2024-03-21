@@ -1,0 +1,45 @@
+Yash Chopade
+PICT, Pune-411043
+♂phone7887668846
+/envel⌢peyashchopade2002@gmail.com /linkedinYash-Chopade-5832171 /githubChopadeYash
+I am a highly motivated and fast-learning fourth-year Information Technology student with a strong track record in creative
+problem-solving and attention to detail. Eager to contribute to team success through hard work, conceptual thinking, and
+organizational abilities. Passionate about continuous learning and making a meaningful impact in the world of technology.
+Education
+Pune Institute of Computer Technology 2020 – Present
+Bachelor of Engineering in Information Technology - 8.91 CGPA Pune, Maharashtra
+G.S Science, Arts and Commerce College 2020
+[Mh State Board] H.S.C - 73.69% Maharashtra
+Sanskar Dnyanpeeth, Khamgaon 2018
+[CBSE] S.S.C - 93.4% Khamgaon, Maharashtra
+Technical Skills
+Programming Languages : C++, Python, HTML, CSS, JavaScript, React.js
+Database Management Systems : MongoDB, MySQL
+Developer Tools : git, GitHub, VS Code, Eclipse
+Operating Systems : Windows, Linux (Ubuntu)
+Good Understanding of : Data Structures, Object Oriented Programming
+Internship
+Cloud Infrastructure Deployment with OpenStack April 2023
+•Inhouse internship at PICT, focused on deploying a private cloud using OpenStack.
+•Implemented virtual cloud infrastructure and network services for seamless connectivity.
+•Gained hands-on experience in manual installation and configuration of OpenStack components.
+Projects
+Blog Posting Website |MERN |MongoDB |Express.js |React.js |Node.js April 2023
+•Dynamic platform allowing users to create and share their thoughts through engaging blog posts.
+•Implemented seamless data management and a responsive interface with real-time updates.
+LoanSure: Loan Prediction System |Python |Streamlit November 2022
+•Program that predicts loan eligibility based on basic inputs like income and CIBIL score.
+•Used Pandas, Numpy, Matplotlib, Seaborn, and sklearn libraries for analysis and prediction.
+Anti-theft Security System |Embedded C |Arduino May 2022
+•Programmed an Arduino Wemos D1 to send WiFi notifications based on laser beam intensity.
+•Used LDR sensor for detecting the laser beam intensity and checking for disruptions.
+Cars Showroom Management System |MySQL |CSS April 2022
+•Developed a basic web page showing the stocks of cars and orders using MySQL and CSS.
+To-do list |C++,Data Structure February 2022
+•To-do lists app that runs on terminal and uses Linked List data structures to ‘add‘, ‘complete‘ and ‘quit‘ tasks.
+Course Care: Informative Web pages |HTML, CSS November 2021
+•Dynamic web platform providing a guide to technical languages in computer science.
+•Developed using HTML, CSS, and Bootstrap.
+Hobbies and Interests
+Playing Badminton and Chess
+Watching Stock Market related videos

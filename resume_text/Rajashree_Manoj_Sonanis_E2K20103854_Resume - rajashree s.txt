@@ -1,0 +1,35 @@
+Rajashree Sonanis
+Email: rajashreesonanis2103@gmail.com |Phone: 9579169841
+Education
+SCTR’s Pune Institute of Computer Technology 2020 - 2024
+Bachelor of Engineering in Electronics and Telecommunication. CGPA: 9.01
+K.T.H.M. College of Arts, Commerce and Science, Nashik 2020
+12th Standard HSC. Percentage: 80.77
+Maratha Highschool, Nashik 2018
+10th Standard SSC. Percentage: 97.80
+Skills
+rTechnical: C++, Java, Data Structures & Algorithms, OOP, OS, MySQL, ReactJS.
+rNon-Technical: Problem Solving, Leadership, Effective Time Management.
+Projects
+rExpense Manager Web-App
+Tech Stack Used : React.JS, Node.JS, Ant Design, Express.JS, MongoDB.
+Description: A simple expense manager web-app using MERN stack to track down daily expenses.
+rTravelCompass
+Tech Stack Used : JDBC, Core Java, Swing, AWT.
+Description: It is an integrated Desktop based Application developed for tourists. The main aim of this
+project is to help the tourist to manage book hotels, packages and check sites. It makes all operations of the
+tourist easy.
+Extra Curricular
+rPICT DebSoc
+Worked in Organizing Committee of PICT DebSoc’s Flagship Event- Paricharcha
+rPICT CSI
+Worked in Organizing team of Campus to Corporate in PCSB’s annual flagship event Xenia.
+Programming Profiles
+rLeetcode: Rajashree 746
+rGeeksForGeeks: rajashreesonanis2103
+Achievements
+rCertification courses on DSA and C++ from Udemy
+rCracked Maharashtra State Board Scholarship exam in grade 4 and grade 7
+rSecured ‘A’ grade in Intermediate Drawing Exam
+Other Interests
+rDrawing and Doodling, Gardening.

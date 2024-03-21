@@ -1,0 +1,41 @@
+Atharva Khilari
++91-8605646293 |khilariatharva01@gmail.com |LinkedIn |github
+Education
+Pune Institute of Computer Technology Pune, India
+BE, Electronics and Telecommunication Engineering 2020-2024 (Pursuing)
+CGPA: 9.12
+Shri Samarth Vidya Mandir Jr. College Ahmednagar, India
+HSC (Class 12th) 2018-2020
+Percentage: 78.62%
+Technical Skills
+•Problem Solving, Data Structures and Algorithms
+•CS Fundamentals: Object Oriented Programming, Database Management System, Operating Systems
+•Languages : C++, Java
+•Web Technologies: HTML, CSS, Javascript
+•Familiar: React, Node.js, Express.js
+•Database: MySQL
+Experience
+Problem Setter Intern November 2022 – January 2023
+Interview Mocha Pune, India
+•Created problems based on Data Structures and Algorithms. Providing them with optimal solutions for problems
+and analyzing time and space complexity.
+Projects
+MyBlog |Project Link
+•The website allows users to create, read, update, and delete blog posts, facilitating a seamless blogging
+experience.
+•Categorization feature enhances user experience and facilitates easy navigation through the content.
+•Implemented user authentication andauthorization functionalities using middleware.
+•TechStack : HTML, CSS, React, Node.js, Express.js, MongoDB
+SortVis |Project Link
+•The application demonstrates 4 popular sorting algorithms: Bubble Sort, Selection Sort, Merge Sort, Quick
+Sort
+•Application used to analyze time and space complexities of sorting algorithms.
+•TechStack : HTML, CSS, React, Bootstrap
+Achievements
+•3* on Codechef (Highest rating of 1691 ) Link
+•Codeforces (Highest Rating of 1119) Link
+•Secured a Global Rank of 290 out of 5k+ participants in Codechef Starters 80 2023
+•Solved 400+ problems on different coding platforms like Leetcode, Codechef and Codeforces.
+Community & Leadership
+•Escorting Team Member at INC event of PICT 2022.
+•Member of PICT ACM Student Chapter

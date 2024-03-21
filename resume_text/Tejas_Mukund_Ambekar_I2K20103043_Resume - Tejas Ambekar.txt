@@ -1,0 +1,49 @@
+Tejas Ambekar
++91 9764832378 |tejasambekar2003@gmail.com |linkedin.com/in/Tejas Ambekar
+Education
+Pune Institute of Computer Technology Pune, India
+B.E. in Information Technology (GPA: 9.4) June 2020 – June 2024
+Shri Shivaji Science College, Amravati Amravati, India
+(HSC Percentage: 96.46%) June 2018 – March 2020
+Shri Shivaji School, Amravati Amravati, India
+(SSC Percentage: 95.40%) March 2018
+Work Experience
+InterviewMocha India
+Problem Setter Intern May 2022 - Feb 2023
+•Designed 20+ problems based on Data Structures and Algorithms of varying difficulties.
+•Created test cases and tested problems on numerous boundary conditions.
+Technical Skills
+Programming : Data Structures and Algorithms, Problem-Solving, Object-Oriented Programming, Software Engineering
+Languages : C, C++, SQL, HTML, CSS, Bootstrap, JavaScript, ReactJS
+Others : Competitive Programming, Database Management Systems, Operating Systems, Computer Networks
+Technical Projects
+E-Commerce Website |ReactJS, Bootstrap, NodeJS, Express.js, MongoDB |Link | April 2023 – June 2023
+•Developed a full-stack e-commerce website where people can buy electronic items such as Mobiles, Laptops, etc.
+•Integrated PayPal as a payment option for seamless and secure transactions.
+•Incorporated real-time chat functionality using socket.IO , enabling users to communicate with the admin.
+•Designed real-time revenue charts , to monitor website Sales for admin.
+Tree plantation Website |Django, HTML, CSS, Bootstrap, SQLite |Link | Aug 2021 – Aug 2021
+•Developed a Tree Plantation drive Website for a hackathon and achieved 1st prize among 100+ teams.
+•On this website users can create their Tree plantation drive or can join existing plantation drive.
+•User can see the other running drives , post the snap of planting trees and set the target of trees to be planted.
+Programming Achievements
+Leetcode |Knight: Max Rating 2054 (Top 2 percentile) |650+ Problems |Profile
+•Global Rank 228 and Rank 20 in India for Leetcode Biweekly 97 among 30,000+ participants.
+•Global Rank 575 and Rank 50 in India for Leetcode Biweekly 103 among 30,000+ participants.
+•Global Rank 896 and Rank 80 in India for Leetcode Biweekly 94 among 30,000+ participants.
+Codeforces |Specialist: Max Rating 1506 (Top 2.5 percentile) |1050+ Problems |Profile
+•Global Rank 330 and Rank 40 in India for Codeforces 849 Round among 23,000+ participants.
+•Global Rank 887 and Rank 100 in India for Codeforces 872 Round among 27,000+ participants.
+CodeChef |5 Stars: Max Rating 2059 (Top 1 percentile) |200+ Problems |Profile
+•Global Rank 136 and Rank 70 in India for CodeChef Starters 38 among 8,000+ participants.
+•Global Rank 157 and Rank 80 in India for CodeChef July Lunchtime among 7,000+ participants.
+•Global Rank 185 and Rank 100 in India for CodeChef Starters 53 among 7,000+ participants.
+Other Achievements
+•Secured Rank 370/3000+ teams in ACM ICPC preliminary round 2021.
+•Rated Green 6 Kyu on AtCoder i.e. in the top 2.75 percentile
+•Google KickStart 2022 round B - rank 1485 among 8000+ participants.
+•Winner ofGrand Hackathon organized by Google Developer Student Club AISSMS out of 100+ teams.
+•Won5+intercollege Coding Competitions including PICT, AISSMS, MMCOE, etc.
+•Secured Global Rank 54/3000+ Participants in Credit Suisse global challenge 2022.
+•Conducted various coding Contests on HackerRank, CodeChef for PICT ACM CHAPTER which included the
+participation of 1000+ students from different Colleges.

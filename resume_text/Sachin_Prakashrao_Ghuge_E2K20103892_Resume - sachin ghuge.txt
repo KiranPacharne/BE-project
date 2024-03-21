@@ -1,0 +1,37 @@
+SACHIN GHUGE
+/githubSachin Ghuge |/linkedinSachin Ghuge |/envel⌢peghugesachin0806@gmail.com |♂¶obile+91 9356914345
+ABOUT ME
+Final Year undergrad willing to usher into the world of technology and add value to organizations as well
+as the industry through the use new age tools and technologies to ultimately solve complex problems
+today the world faces.
+Education
+SCTR’s Pune Institute of Computer Technology GPA: 8.83/10
+BE in Electronics and Telecommunications;
+Fergusson Junior College, Shivajinagar, Pune Percentage : 70.92
+12th Grade
+Maharashtra Public School, Sambhajinagar Percentage : 96.40
+10th Grade
+Technical Skills
+Langauges : C, C++, JAVA, SQL, HTML, CSS
+Frameworks : Spring-boot, Thymeleaf, Hibernate, Standard Template Library (STL)
+Developer Tools : Git, Github, VS code, Eclipse IDE, Intellij IDEA
+Relevent Course Work
+•Data structure and Algorithm •Object Oriented Programming •Operating System
+•Database management system •Computer Networks
+Work Experience
+Kayadhu Software : JAVA Backend Developer Feb 2023 - March 2023
+•Developed and maintained Java-based back-end applications using Spring Boot framework.
+•Utilized Hibernate as the ORM framework for database interaction, data retrieval and manipulation.
+•Designed and developed a REST APIs using Spring Boot .
+Projects
+EduAdmin Link
+Technologies: Spring Boot, Hibernate, Thymeleaf, MySQL
+•It is a web application developed using Spring Boot for management of Educational entities.
+•Admin can perform simple Create, read, update and delete (CRUD) operations
+Rest APIs Link
+Technologies: Spring Boot, Hibernate, Postman, MySQL
+•Created Rest API to perform CRUD operations on database using Spring-boot.
+•Created Rest API to upload and download documents from database.
+Coding Profiles
+•Leetcode - Solved more than 150+ DSA problems.
+•GeeksforGeeks - Solved more than 130+ DSA problems.

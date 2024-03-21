@@ -1,0 +1,53 @@
+Dhaval Chandechandedhaval16@gmail.com
+91 9823272551
+Pune
+EDUCATION Bachelor of Engineering (B.E, Electronics and
+Communication
+Pune Institute of Computer Technology, Pune
+2020  2024
+CGPA 9.03/10
+Senior Secondary (XII, Science
+HSC board
+Year of completion: 2020
+Percentage: 80.90%
+Secondary (X
+M. G Vidyalaya. Karjat. Ahmednagar
+SSC board)
+Year of completion: 2018
+Percentage: 94.60%
+INTERNSHIPS Electronics Engineering
+KD Automation, Pune
+Feb 2023  Mar 2023
+At KD Automation, I utilized my skills in soldering, circuit
+design, and PCB design to work on projects such as level
+sensors for industrial applications and automatic pump
+systems. This experience has provided me practical
+experience in automation.
+Project Intern
+Vodafone, Virtual
+Jul 2022  Oct 2022
+My internship in Automation in Agriculture allowed me to gain
+hands-on experience in sensor automation, microcontrollers,
+and PCB design, which has equipped me with valuable skills
+and knowledge to contribute to the development in
+agriculture field.
+POSITIONS OF
+RESPONSIBILITYFounding Member of PICT IEEE Antenna Propagation Society
+PROJECTS Student Management System
+Jul 2023  Jul 2023
+Developed responsive Student Management System using
+Spring Boot, Thymeleaf, MySQL, and MVC. Designed user-
+friendly interfaces with Bootstrap, HTML, and CSSAutomated Farm monitoring system
+Aug 2022  Oct 2022
+Built an IoT farm monitoring system for remote farm
+management. Integrated weather parameters (temp,
+humidity, wind speed, direction) using various sensors,
+controllers, and processors.
+SKILLS C Programming
+AdvancedData Structures
+Intermediate
+Java
+IntermediateArduino
+Intermediate
+ADDITIONAL DETAILS_VOIS Innovation Marathon Finalist
+Gold medal in National Science Olympiad.

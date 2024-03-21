@@ -1,0 +1,35 @@
+Renuka Kulkarni
+’16/3 Durgaprasad ’surbhi colony bhutkarwadi
+♂phone+919404213494 /envel⌢perenukul2002l@gmail.com /linkedinlinkedin.com/in/renuka-kulkarni-6288bb21b /github
+https://github.com/renu78
+Education
+Pune institue of computer Techonolgy JUNE. 2020 – JUNE 2024
+Bachelor of Science in Electronics and Telecommunication Pune, Maharastra
+Relevant Coursework
+•Data Structures •OOP •Database Management •Alogrithm
+Projects
+WriteHub |Html, Css, React.js,MongoDb,Node.js,Exprees.js
+•This is very simple Blog application using MERN stack.
+•In this app we can post our every experience of interview
+•In this app we can read other interview exprience
+•This is CRUD Type application It is useful for every pictians student
+EasyToEat |HTML, CSS, REACT.JS, REDUX TOOLKIT SEPTMBER 2022
+•It is Food Delivery App .
+•Implementation of Redux toolkit.
+•There is some Functionality like Add to cart, Login Register page.
+PlayWithMaths App |HTML, CSS,REACT.JS March 2020
+•Created an React app like Calculator.
+•We can done the operation like multiplication subtraction,addition and divison.
+•Awsome UI and UX.
+Docket List |Html, Css, React.js October 2020
+•Designed a saimple CRUD operation in this project.
+•In this app we can create the list of daily routine work
+Technical Skills
+Languages : CPP, Java, C, HTML/CSS, JavaScript, SQL
+Developer Tools : VS Code, Eclipse,
+Frameworks : React.JS,Node.JS
+Leadership / Extracurricular
+PICT CSI CLUB JUNE 2021 – Present
+Pune
+•Team member of PICT CSI CLUB.
+•Developing the Xenia event website .

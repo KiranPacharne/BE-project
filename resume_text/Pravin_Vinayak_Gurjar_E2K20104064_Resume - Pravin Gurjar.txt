@@ -1,0 +1,53 @@
+About
+I am a curious learner, eager to learn and work with the latest stack of technologies, with a passion for Web
+Application Development and coding. I am fluent with the current relevant technology, including Node.JS,
+React.JS, Bootstrap, etc. I am also well versed with CS fundamentals like DSA, DBMS and have a good
+knowledge of numerous programming languages like C, C+ +, JAVA, Python, etc. I am eager to learn and work
+with the latest stack of technologies. I wish to learn to apply and give solutions to solve real-world problems
+using what I have learned.
+Education
+B.E., Pune Institute of Computer Technology
+CGPA 9.18Jun 2020 – present
+HSC, Dr. Kalmadi Shamarao Junior College
+76.67%Feb 2020
+SSC, Dr. Kalmadi Shamarao High School
+89.2%Mar 2018
+Professional Experience
+Electronics Intern, Sagar Defence Engineering
+Assembly and production of drones for defence.
+Design and programming of several circuits used in the droneJul 2023
+Pune, India
+Web Development Internship, Forengers
+Converted their existing website from HTML to PHP and hosted it on GoDaddy's 
+Servers. Added several dynamic elements like pop-ups, and carousels to the 
+website.Feb 2023 – Mar 2023
+Pune, India
+Projects
+Earthly, A sustainable products startup website
+A website for sustainable products start-up (in progress) made using React.JS and 
+BootStrap.Jan 2023
+Color and Weight Based Sorting Mechanism, 
+A package sorting mechanism for warehouses and GPOs
+Made using TCS3200 Color Sensor and PIC 18F4550 Microcontroller.May 2023
+BookMyBook, A full stack JAVA application
+Created a full-stack JAVA application using Swing and AWT in JAVA. Built a 
+relevant database using MySQL.Apr 2023
+Tindog, Tinder for dogs!
+A prototype website using HTML, CSS and Bootstrap for a dummy hypothetical 
+startup. linkJul 2022Pravin Gurjar
+B.E. Electronics and Telecommunication Engineering
+gurjarpravin4@gmail.com 09422319490 https://www.linkedin.com/in/pravin-gurjar/ 
+Pravin Gurjar gurjarpravin4@gmail.com 1 / 2Skills
+C C++ JAVA Python MERN Stack HTML CSS JavaScript BootStrap jQuery
+PHP
+Extra Curricular Activities
+PICTOREAL, Editor-in-Chief
+Editor-in-Chief for PICT's Annual Magazine, Volume 26.Jul 2023 – present
+PICTOREAL, Editing Head
+Head of the Magazine editing team of PICT's annual magazine, Volume 25.Sep 2022 – Jul 2023
+Volunteer, Jnana Prabodhini
+Volunteered to teach in 'Vijnana Dal' organised by Jnana Prabodhini for school 
+going students.2016 – 2021
+Languages
+English Marathi Hindi Sanskrit
+Pravin Gurjar gurjarpravin4@gmail.com 2 / 2

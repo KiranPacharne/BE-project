@@ -1,0 +1,88 @@
+Digambar Chaure
+ +91 7 49809 7 7 41  digambarchaure32@gmail.c om DigambarChaure
+Education
+PUNE INSTITUTE OF COM-
+PUTER TECHNOLOGY
+B.E - Information T echnology
+2020‑24 Pune
+Aggregatecgpa: 8.78
+JIGISHA JUNIOR COLLAGE
+HIGHER SEC OND AR Y
+CER TIFIC A TE
+Feb2020 Chh. SambhajiNagar
+Percentage: 81.38
+MA TSYODARI VIDY ALA Y A
+TIRTHAPURI
+SEC OND AR Y SCHO OL
+CER TIFIC A TE
+April2018 Tirthpuri
+Percentage: 89.60
+CodingProfiles
+CodeForces‑ digambar_18
+CodeChef‑ lonely_coderr
+LeetCode‑ lonely_coderr
+GFG‑digambarchaure
+HackerRank‑ digambarchaure32
+GitHub digambarchaure
+Skills
+PROGRAMMING
+•C/C++
+•JAVA
+•ProblemSolving
+TOOLS
+•VSCode
+•Latex
+Coursework
+GRADUA TE
+•DataStructuresandAlgorithms
+•ObjectOrientedProgramming
+•DatabaseManagementSystem
+•OperatingSystem
+Hobbies
+•Trekking
+•Cricket
+•CompetitiveProgrammingAchievement
+•ExpertCoder (bluecolored)onCodeforceswithhighestrating 1636
+(top0.20%onCodeforces).
+•5Starcoder onCodechefwiththehighestrating 2012(top0.03%onCodechef
+).
+•Secured GlobalRank20 among5000+participantsintheCodechefStarters88
+(Div.2).
+• Secured GlobalRank55 among6000+ participantsin the StartersSeptember
+Lunchtime2022(Div.2).
+•Secured GlobalRank81 among8000+participantsintheJuneLongOne2022
+(Div. 3).
+•Secured GlobalRank580 among17000+participantsintheCodeforcesRound
+872(Div. 2).
+•Secured GlobalRank608 among14500+participantsintheCodeforcesRound
+866(Div. 2).
+•Rated1717onLeetCode.
+•Solvedover 600problems ondifferentplatforms.
+•Cleared JEEAdvance 2020
+Project
+PLA TFORM FOR DAIL Y W AGE WORKERS
+Dec2022–Jun2023
+•Designed and developed a user‑friendly website enabling
+dailywageworkerstosearchforjobopportunities.
+•Implemented a platform for employers to post their job re‑
+quirements,accessibletojobseekers.
+•Enabledjobseekerstoapplyforrelevantworkdirectlythrough
+thewebsite.
+•TechStack: React(MERNStack)
+•ProficientinfrontenddevelopmentandIntegrationpart.
+Experience
+PROBLEM SETTER FOR PULZION’23
+03‑05May2023 PICTPune
+•Contributed problems for Codelicious and Bug Off event of
+Pulzion’23
+Organizations
+PICT ACM STUDENT CHAPTER (P ASC)
+Active Member
+2021–Present
+PICT , NA TIONAL SERVICE SCHEME (NSS)
+Active Member
+2021–Present
+Languages
+•English
+•Hindi
+•Marathi

@@ -1,0 +1,64 @@
+Siddhant Hole  
+ 
+India | holesiddhant @gmail.com  | Ph. 9322734789  |www.linkedin.com/i n/siddhant -hole  
+ 
+EDUCATION    
+PUNE INSTITUTE OF COMPUTER TE CHNOLOGY – Pune  2020 – 2024 
+Bachelor of Engineering, Information Technology  Engineer   
+Cumulative GPA: 8.58/10  
+CHAITANYA ’S INTERNATIONAL SCHOOL  – Baramati  2018 – 2020 
+Higher Secondary (12th)   
+Percentage: 77.69 % 
+  
+EXPERIENCE  
+      BAJAJ FINSERV  | Tech:  Kotlin , Firebase  (Code | Certif icate)                                                                           Mar  2023 – May  2023 
+      Internship  
+● Work ed on the project Bug -Detection Application using Ko tlin and Firebase.  
+● Design  different screen desi gns using XML  file and load differe nt kinds of gif to make i nteractive interface.  
+● Integrate d the firebase in the p roject for the  authentication using  gmail a nd password       
+      
+PROJECTS       
+(More  Machine Learning projects  available  on GitHub  – (Github link )   
+ Krisha k Farma  (Code)                                                                                                                                                    Aug 2022 – Dec 2022  
+● Android app for farmers  to publish their product s get best market prices.    
+● Technology used  : Flutter , Firebase. 
+● Integrated functionalities :   Sign -In , Si gn-up authentication m ethod us ing Firebase.  
+● Responsive  Chat bot in order to resolve the comm on qu eries of the farm ers  using Dia log flow and Googl e Cloud 
+Console.  
+● Pop-Up notification s using firebase  in order to get dealers  as well as farmers current market view of the   
+produc t. 
+● Dynam ic Image s/banners  load  from firebase storage  application . 
+● Location  tracker using Geolocat or and Geocod ing packages in flutter .  
+● Future Scope : various start -ups can easily trace  the nearby f armer to buy their   products according to  needs . 
+ organic seed st art-ups , dairy collecti on can also trace nearb y farmers for their variable milk p roduct need.  
+ 
+      Manag ement  App (Code)                                                                                                                                        Jan 2023 – Feb 2023  
+● Basic mone y management app to  keep up date of daily expen ses. 
+● Technology used : Flutter . 
+● User will able to view Statistics according to expen ses or income  in day ,  week, month or year.  
+● Statistics is by using syncfusi on flutter charts .  
+ 
+ACHIEVEMENTS   
+  
+● Special Recogn ition  in Smart Pune Health (Hack athon  2023) - Ranked 6th  out of 150 teams  for health care 
+solution . (Code | Certificate)  
+Contribution :  Implement ed front end and backen d of android app using flutter and firebase  and 
+implemented different  supervi sed ma chine learning model for i mprove the accuracy . 
+● Finalist WCE (H ackathon  2023 ) : (Code |  Certificate)  
+Contribution :  Implement ed front end and backen d of android app using flutter and firebase . 
+● Solved 500+ coding problems acros s various online judges  . 
+● 250+ problems on Leet code : 100 Days badge  2022 . (LeetCode)  
+● 5 Star Coder on HackerRank in C++  . (HackerRank ) 
+● 2 Star on CodeChef, rating ( 1585 Max ). (CodeChef)  
+● Scored 99.14  Percentile  in MHT -CET examination . 
+ 
+ 
+SKILLS    
+● Programming - Problem Solving, Data Structures, Algorithms .  
+● Languages  - C++, SQL, HTML /CSS .  
+● App Developmen t – Flutter   Technology.  
+● Databases : MySQL  , Firebase.   
+● CS Fundamentals  - Object -Oriented  Programming (C++) , Operating System s, Database Manageme nt System , 
+Computer Networks.   
+ 
+         

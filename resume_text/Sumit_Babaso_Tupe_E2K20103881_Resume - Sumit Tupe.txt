@@ -1,0 +1,40 @@
+ 
+SUMIT TUPE  
+sumittupe9623@gmail.com   |      (+91) 8862071737  
+Education  
+   Electronics and Telecommunication Engineering                            (Aug  2020 - Present ) 
+       Pune Institute of Computer Technology, Pune – 43 
+CGPA – 8.96  
+   Higher Secondary Education (12th)                                                                                 (Jun 2020)  
+       Yashwantrao Chavan College of Science, Karad  
+         Percentage – 89.38  
+Projects  
+   CineVerse - A Movie Information Website  
+• A fully responsive  website that leverages TMDB API  to display Comprehensive collection of movies.  
+• Helps u sers to explore movies and enhanc e their movie discovery experience.  
+• Project link:  https://sumit9623.github.io/CineVerse/  
+   History Book   
+• A platform for exploring historical figures, places  through images and informative descriptions.  
+• Admin can control  the database with simple Create, Read, Update, and Delete  (CRUD)  operations.  
+• Tech  stack used:  HTML/CSS, J ava, JDBC & Servlet, M ySQL  
+   Bidirectional Register  
+• Designed 8 -bit bidirectional register which is capable of transferring data on both side  
+• Designed  Verilog code  and its PCB for bidirectional operations, enabling seamless data manipulation.  
+• Relevant skills – Verilog , Xilinx, Proteus  
+Skills  
+     Programming : C++,  Java,  MySQL , HTML/CSS  
+     Coursework : DSA, OOP,  DBMS  
+     Tools : VS Code, Eclipse  
+Activities  
+     Student Member, PICT CSI Student Branch (PCSB)     
+        Contributed to securing of sponsorships for Xenia ’22 (PCSB's annual event ) from  businesses and  organizations.  
+     Problem Setting , iMochaWorks    
+        Created coding problems based on DSA , utilized in technical assessments during the hiring process.  
+Achievements  
+• Solved  700+ Problems on various coding platforms like GFG,  Leetcode and  Codechef,  Codeforces etc . 
+• 3 stars  on Codechef  – (Max.  rating  1640 )  
+• Pupil  Codeforces  – (Max. rating  1289 )  
+Links  
+Linkedin :  Sumit Tupe                                  GitHub :  Sumit9623  
+Codefor ces:  Sumit_73                                 Codechef:  Sumit_22345  
+ 

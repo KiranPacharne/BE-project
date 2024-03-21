@@ -1,0 +1,53 @@
+Atharva Nagare  
+atharvanagare123@gmail.com | +91 -9405162283 | Pune, MH  
+ 
+EDUCATION  
+Pune Institute of Computer Technology                             June 2020 - Present  
+B.E. Information Technology  
+GPA: 8.35  
+• Expected Graduation:  May 2024  
+• Relevant Courses:  Data Structures and Algorithms | OOP | Operating Systems | Computer Networks and Security | Machine Learning  
+Dr. Kalmadi Shamarao Junior College                  August 2018 - 2020  
+HSC (12th Grade): 88.6%  
+ 
+SKILLS  
+Technical : C++ | Python | SQL | JavaScript | Data Structures and Algorithms| Machine Learning| Computer Networks| Operating Systems
+ Languages : English | Hindi | Marathi  
+ 
+PROFESSIONAL EXPERIENCE  
+Feynn Labs: Intern                       November 2022 - January 
+2023  
+Machine Learning intern for EV market segmentation in India  
+• Created and optimized a principal component analysis model to perform customer segmentation on the Indian EV scooter market  
+• Assisted in designing a strategy to enter the Indian EV scooter market.  
+ 
+ 
+PROJECTS  
+Pizza Delivery System (DSA):                 
+Language and Data Structures Used: C++, Queue Data structure  
+• Developed a data structure and algorithm -based pizza delivery system to efficiently manage orders, deliveries and inventory  
+• Implemented efficient enqueue and dequeue operations to handle incoming and outgoing deliveries.  
+ 
+Railway Management System (DBMS)               
+Languages: SQL  
+• Designed and implemented a database management system using SQL to handle railway operations.  
+• Relational database consisting of various primary and foreign keys was implemented.  
+ 
+Anomaly Detection Model using LSTM (DL) 
+Technologies Used: keras, sklearn, matplotlib                    
+• Built a machine learning model to identify anomalies in a time series data  
+• Leveraged the sequential nature of LSTM networks to capture temporal dependencies and detect abnormal patterns with high accuracy.  
+ 
+Stock Price Predictor Using ARIMA model                         
+Technologies Used: REST APIs, Machine Learning algorithms such as ARIMA . 
+• Developed a forecasting system utilizing the ARIMA model to predict future stock prices.  
+• Used REST APIs provided by Nasdaq to access and analyze historical stock prices.  
+• Compared the results of 3 models ARIMA, SARIMA, SARIMAX  
+ 
+CERTIFICATIONS  
+Deep Learning Specialization Certificate (Coursera)                           In Progress  
+• Improving Deep Neural Networks: Hyperparameter Tuning, Optimization and Regularization  
+• Structuring Machine Learnin Projects  
+• Convolutional Neural Networks  
+• Sequence Models  
+Complete Python Bootcamp (Udemy)                    June 2022  

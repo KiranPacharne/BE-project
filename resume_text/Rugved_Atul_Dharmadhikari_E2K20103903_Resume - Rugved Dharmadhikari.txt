@@ -1,0 +1,95 @@
+Rugved
+Dharmadhikari 
+Fourth Year Student at Pune Institute of
+Computer Technology 
+Always eager to explore new technologies and ideas,
+Possess good aptitude and competitiveness. 
+rugveddharmadhikari1@gmail.com 
+9158594235 
+Pune, India 
+EDUCATION 
+10th SSC 
+Sevasadan English Medium School 
+04/2017 - 03/2018
+, 
+ 
+93.00% 
+12th HSC 
+Ashok Vidyalaya & Junior College 
+04/2019 - 03/2020
+, 
+ 
+84.62% 
+Computer Science 
+B.E. 
+Pune Institute of Computer Technology 
+06/2020 - Present
+, 
+ 
+CGPA:-9.4 
+Major in Electronics and
+Telecommunication 
+Honors in Artiﬁcial Intelligence
+and Machine Learning 
+PROJECTS 
+1) Home Automation System using Arduino 
+Worked on developing a 
+model of a Home Automation System using Arduino UNO
+and Bluetooth Module and an application to control it. 
+Used a 4-channel 5V Relay to use the switch to monitor home appliances' status. 
+Interfaced the system with Arduino Uno ATMega328P and Bluetooth Module HC-
+05 and gave commands to the system with the help of an android application. 
+2) Stock Prediction System Using LSTM 
+Worked on developing a stock prediction system using the LSTM algorithm of
+Deep Learning. 
+Gathered information on more than 25 top stocks in the Indian share market. 
+Completed their analytics using Power Bi, implemented LSTM algorithm to predict
+stock prices, and built GUI using Streamlit. 
+3) Fees Management System using JAVA and SQL 
+Worked on developing a school fees management system with Java used in
+frontend development while SQL was used in the backend development. 
+Used 
+Swing package of JAVA to develop a GUI and used MySQL to store the
+information in the databases at the backend. 
+WORK EXPERIENCE 
+Data Science Intern 
+AlgoAnalytics Pvt. Ltd. 
+08/2023 - Present
+, 
+ 
+Pune,India 
+Project intern 
+VOIS University Engagement Program's Innovation
+Marathon 2022 
+08/2022 - 10/2022
+, 
+ 
+Pune,India 
+Worked in successfully completing the Virtual Internship to develop a
+project on "Stock Prediction system using LSTM". 
+SKILLS 
+C 
+C++ 
+Python 
+Java 
+SQL 
+Machine Learning 
+CERTIFICATES 
+Internship Completion Certiﬁcate at VOIS Innovation
+Marathon 2022 
+Internship Certiﬁcate-VOIS.pdf
+ 
+Machine Learning Course by Stanford University
+Completion 
+machine_learning_course_Stanford_Coursera.pdf
+ 
+LANGUAGES 
+English 
+Professional Working Proﬁciency 
+Marathi 
+Native or Bilingual Proﬁciency 
+Hindi 
+Professional Working Proﬁciency 
+Courses 
+Courses 
+Description 

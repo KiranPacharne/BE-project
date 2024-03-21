@@ -1,0 +1,56 @@
+EXPERIENCE EDUCATION
+SKILLS
+ACHIEVEMENTSMaharashtra, Indiamanasi.kamath927@gmail.com+91 7385314975
+MANASI KAMATH
+ 
+Made reports for all the CSR activities conducted
+for that month using Microsoft Excel.
+Analyzed dashboards, using plant generation data
+and tables pulled from SQL Server. 
+Helped in monitoring the automation of three
+hydro power plants.Tata Power, Khopoli. | May 2020- July 2020
+Demonstrated the visualization of different data
+structures including stack,queue,BST, sorting
+techniques, etc. to make learning easier.
+Also included quizes at the end to evaluate he
+students.
+Admin panel for handling different operations. 
+Technology Stack: HTML, CSS, JavaScript, PHP,
+MySQL.Cusrow Wadia Institute of Technology
+(2021)
+97.82%
+J.H.Ambani School, Lodhivali (2018)
+91.8%
+Programming Languages
+Web Development
+Database 
+Fundamentals 
+AR/VR and Game Development       C, C++, Java, Python, JavaScript
+       HTML, CSS, PHP, Node.js, ReactJS
+       MySQL, MongoDB
+       DBMS, OOP, DSA, CNS
+       Unity, Blender, Figma
+Won 'Best Project' by Tata Young
+Expression for Home Automation
+using Arduino (2020).
+Gold medalist in International
+English Olympiad(2018) Zonal Rank 1 Web Developer Intern 
+Internship at Tata Power 
+Data Structures Visualization Diploma in Computer Engineering
+Class X- CBSE An astute and diligent university student seeking  to leverage my knowledge and skills. 
+ Team player with an eye for detail.
+B.E. in Computer Engineering
+Pune Institute of Computer Technology
+(2024)
+8.68 CGPA.
+Learnt various MERN Stack Technologies.
+Developed a pdf to word converter.
+Implemented face login to increase security of login
+system.CodeClause, Pune | Jan 2023- Mar 2023
+PROJECTS
+Error404 Online store 
+Developed an e-commerce website for error404-
+an online store. 
+ ReactJS for frontend and NodeJS along with
+MongoDB for backend.
+Integrated Razorpay gateway for payment.

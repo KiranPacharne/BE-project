@@ -1,0 +1,38 @@
+GAURI VIJAYKAR
+(+91) 7499193610 ⋄Amravati , India
+Linkedin ⋄GitHub
+EDUCATION
+Bachelor of Computer Engineering, 8.97 CGPA
+Pune Institute Of Computer Technology (P.I.C.T) Expected 2024
+Diploma in Computer Engineering, 94.95
+Government Polytechnic Nagpur. 2018-2021
+Secondary 89.60
+Yavatmal Public School (C.B.S.E) 2018
+SKILLS
+Programming C++, Python, Javascript, Java-Basics
+Database MySQL, MongoDB, Firebase
+Framework and Libraries NodeJs, ExpressJs, ReactJs
+Soft skills Collaborative, Highly organised, Initiative-driven.
+PROJECTS
+Imaginatron (The AI Image Imaginator) ReactJs, NodeJs, MongoDB, OpenAI’s model
+•An innovative and modern project that harnesses the power of OpenAI’s model to create highly realistic and
+diverse images from scratch.
+•A hover effect that showcases a user-s prompt, containing name and download button and search functionality.
+•creates new AI generated images by clicking the ”Surprise ME” button or by entering any text you can think
+of.
+PaperSync (Document collaboration tool) React Socket.io, MongoDB
+•Real-Time Collaboration : ability to enable multiple users to work on a document simultaneously.
+•Used QUILL (a rich and powerful text editor for working with text documents).
+•Socket.io : a super-standard library for web socket integration for making and managing real-time connections
+between client and server.
+EXTRA-CURRICULAR ACTIVITIES/ACHIEVEMENTS
+•National Level Football Player, represented Maharashtra State at National level Football tournament.
+•Winner Campus Experia (A Mock Campus placement event).
+•Member PICT ACM Student Chapter (PASC)
+•Member of PICT Women’s Football team.
+LEADERSHIP
+•Transportation team Volunteer At InC , an annual technical flagship event of PICT.
+•An organiser at PASC OJ submission platform , an annual event of PICT ACM Student Chapter.
+•Non-Technical lead at Techtonix , an annual fest of Department of Computer Engineering , Government
+Polytechnic Nagpur.
+•Sports Captain at Yavatmal Public School

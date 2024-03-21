@@ -1,0 +1,42 @@
+Rakshit Chennagiri
+rakshitrao10@gmail.com |/♀nednRakshit Chennagiri |/gtbrakshit15-23
+Education
+DAV Public School, Pune [10th CBSE Percentage: 94.20] June 2018
+DAV Public School, Pune [12th CBSE Percentage: 87.40] July 2018 - June 2020
+Pune Institute Of Computer Technology July 2020 - June 2024
+Bachelor of Engineering in Electronics and Telecommunication Engineering
+Projects
+VitaPlasma
+GitHub
+•VitaPlasma is an advanced Blood Bank Management System built using Core Java andMongoDB database
+•Designed to streamline the entire process of blood inventory management, donor tracking, and blood distribution.
+•Secured using JWT authentication and Bcrypt Library
+•Designed as per the MVC Architecture with User, Inventory Models. Controllers to manage the database models and
+Views using Frontend Frameworks.
+Stock Management System
+GitHub
+•It is a cutting-edge Stock Management System built using Next.js andMongoDB as the database.
+•This modern web application offers a user-friendly interface and robust backend, enabling businesses to efficiently manage
+their stock levels, minimize stockouts, and optimize inventory operations.
+•By leveraging the power of Tailblocks , the user interface is visually appealing and highly responsive.
+•Scalable Architecture: Next.js and MongoDB offer a scalable foundation,while Tailblocks’ responsive components ensure
+the application’s performance remains top-notch as business requirements evolve.
+Sorting Visualizer
+GitHub
+•The Sorting Visualizer project is a web-based application that demonstrates various sorting algorithms visually. Built
+using HTML,CSS, and JavaScript .
+•Enabled users to select and visualize different sorting algorithms such as Bubble Sort, Merge Sort, Quick Sort, etc.,
+highlighting their respective efficiencies and trade-offs.
+•The Sorting Visualizer provides a hands-on visual learning experience, making complex sorting algorithms easier to
+comprehend.
+Achievements
+•Solved 200 +problems on different coding platforms.
+•Zilla Parishad Boys’ under 19 Football Tournament:- Winners
+•Maharastra Sugam Sangeet Samiti:- Completed level 1 to 4 exams in Piano Instrument
+Skills
+Programming Languages : Java
+CS Fundamentals : Database Management Systems, Object Oriented Programming, Operating Systems,
+Data structures and Algorithms
+Web Technologies : HTML, CSS, Bootstrap, Javascript, NodeJs, ExpressJs
+Databases : MySQL, MongoDB
+VCS and Deployment Tools : Git, Github

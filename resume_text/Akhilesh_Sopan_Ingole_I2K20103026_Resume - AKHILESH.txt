@@ -1,0 +1,54 @@
+Akhilesh Ingole Email: akhileshingole07@gmail.com
+LinkedIn: linkedin.com/in/akhilesh-ingole-7a8651205/ Mobile: +91-7498550638
+Github: github.com/AKHILE5H
+Education
+•Pune Institute of Computer Technology Pune, India
+Bachelor of Engineering - Information Technology; CGPA: 9.57 July 2020 - Present
+As a proactive participant in multiple college clubs, I thrived in both technical and non-technical domains, exemplifying adaptability and a
+strong drive to excel in diverse areas of interest.
+•Aditya Junior College,Baner Pune, India
+Higher Secondary; Percentage: 87.38 2020
+•Symbiosis Secondary School Pune, India
+Secondary; Percentage: 93.20 2018
+Skills Summary
+•Languages C++, Python,SQL
+•Frameworks NodeJS, ExpressJs, ReactJs, MongoDB
+•Tools GIT/Github, MySQL,VS Code
+•Platforms Linux, Windows
+•Soft Skills Leadership, Management, Public Speaking, Time Management
+Experience
+•Cloud Computing Research Intern
+Pune Institute of Information Technology January 2023 - May 2023
+◦Gained practical knowledge in the key components of the OpenStack Cloud Computing Platform.
+◦Reviewed deployment methods and learned to prepare installation infrastructure.
+◦Performed manual installation of core services, developing expertise in cloud system setup.
+•Human Resource Lead
+Kode IT Solutions August 2021 - November 2021
+◦Successfully managed end-to-end recruitment processes,including resume screening and coordinating interview schedules.
+◦Demonstrated proficiency in organizing and conducting interviews, ensuring a smooth and efficient interview experience
+Projects
+•InfoWave Source Code
+◦The web application delivers a personalized news experience by skillfully integrating the Gnews API.
+◦Users can define specific parameters for tailored news updates, including keywords, location, multiple languages, and
+categories, catering to their interests and preferences.
+◦Implemented robust user authentication using JSON Web Tokens (JWT), ensuring user security.
+◦Technologies: MERN Stack, Handlebars (hbs), JWT (JSON Web Tokens), API integration.
+•ChitraKatha Source Code
+◦Dynamic real-time whiteboard application with Socket.io for seamless real-time collaboration.
+◦Enabled users to draw, write, and edit content on a shared canvas in real-time, emphasizing responsive design principles
+for a seamless user experience.
+◦Technologies: MERN Stack (MongoDB, Express.js, React.js, Node.js), Socket.io, HTML5 Canvas, CSS3.
+Acheivements
+•Ranked among the top 5 performers in university examinations in my college tenure.
+•Secured 1st prize in PASC’s Radiance’21 in Web and App Development Competition
+•Solved 500+ questions on various platforms such as LeetCode,GeeksForGeeeks,CodingNinja,etc
+Computer Fundamentals
+•Data Structures and Algorithms
+•Operating Systems
+•Database Management Systems
+•Object Oriented Programming
+Interests
+•Video Editing
+•Strategic Gaming
+•Music
+•Swimming

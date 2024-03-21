@@ -1,0 +1,38 @@
+TANMAY BONDE
++91 7038240115 ⋄tybonde2002@gmail.com ⋄linkedin.com/in/tanmaybonde0402
+OBJECTIVE
+To work in a challenging environment with an opportunity to use my skills, to enrich my knowledge
+and to gain experience, which will in turn provide satisfaction and self-development.A Developer
+interested in Software and management.
+EDUCATION
+Bachelor of Engineering in Information Technology 2021 - Present
+Pune Institute of Computer Technology. CGPA : 8.34
+Diploma in Information Technolgy 2021
+Institute of Petrochemical Engineering,Lonere 97.58%
+CBSE, Class X 2018
+Shri Swaminarayan English Medium School,Savda 55.80%
+SKILLSETS
+Languages: C,C++,Core Java,HTML/CSS,Javascript,Bootstrap
+Developer Tools: VS Code, Apche Neatbean IDE, LATEX
+Technologies/Frameworks: MySQL, GitHub
+Additional: Data Structures Algorithms.
+POSITION OF RESPONSIBILITY
+Department 2019-President
+Department of Information Technology(DIPLOMA)
+PROJECTS
+1)Digital Library using Flutter
+It is a application to which we have provided the User Authentication then adding and removing
+book as we have provided full virtual library concept.
+2)Chatbot using Artificial Intelligence
+Implemented the NLP(Natural Language Processing) Algorithm.
+3) Java Mini Projects :-
+– Stopwatch Using AWT and Event Handling
+– Student Registration Form using AWT and Event Handling.
+– Crud operation on java Application using SWING and MYSQL.
+ACHIEVEMENTS
+Drawing Competition First Rank Holder(Sakal Newspaper Organized).
+Intership : THICKTECH IT SOLUTIONS : JULY 22 - OCT 22
+Certificate : AWS Cloud Practitioner Essentials
+EXTRA CURRICULARS
+Worked as an organizing team member at Impetus and Concepts ’22
+YELLOW Belt in Taekwondo

@@ -1,0 +1,57 @@
+Gautam  Khaire  
++91-8010889607  gautamkhaire06052002@gmail.com  gautamkhaire  gautam -khaire  
+ 
+EDUCATION  
+Pune  Institute  of Computer  Technology  (PICT),  Savitribai  Phule  Pune  University (SPPU)  2020  - 2024  
+● Bachelor  of Engineering  (B.E)  in Computer  Engineering  | CGPA:  9.59 / 10 ( Till semester  5 ) 
+● Relevant  Coursework:  Data  Structures  & Algorithms,  Operating  Systems,  Database  Management  System.  
+Arihant  College of  Arts Commerce  and  Science,  Camp  2018 -2020  
+● HSC  (Class  XII) | Aggregate  : 91.23  % 
+Rosary  School  And  Junior College,  Camp  2016 -2018  
+● SSC (Class  X) | Aggregate  : 90.00  % 
+ 
+SKILLS  
+● Languages:  C++  (Proficient) , C, OOPS,  MySQL,  Python . 
+● Web  Development:  HTML,  CSS,  Bootstrap,  JavaScript,  ReactJS , MongoDB . 
+● Familiar:  Git, MaterialUI , Figma, Adobe  Photoshop . 
+ 
+PROJECTS  
+Fit & Fab Club  – ReactJS, MaterialUI, API                                                                                                                ( Github  Link )  
+● Implemented  an API-based  application  with the functionality to choose exercises  categorized  by specific  
+body parts . 
+● Added  the feature  to browse 1000 + practical examples , exercise details, and fetch related videos from 
+YouTube that display  similar exercises . 
+ClashFree – Python tkinter, ReportLab, ML algorithms                                                                                        ( Github  Link )  
+● An a utomatic , user -friendly  timetable builder  and valid ator  to solve complex scheduling conflicts.  
+● Automatic subject suggestions  using the genetic algorithm, drag -and -drop UI , importing  data from 
+existing files to save i nput time, and exporting  student -friendly timetables of a particular class.  
+Finterest  – HTML , CSS , JavaScript , Bootstrap, Ajax                                                                                            ( Github  Link  ) 
+● Financial Advisor  web application  that generates a Personal Financial Planner  and provides the 
+functionality of portfolio diversification . 
+● Interfacing the webpage with Google Sheets  via a predefined google form.  
+Employee Attendance Management System  –MySQL, OpenCV, Pyzbar, Qrcode                               ( Github  Link  ) 
+● Prepared a python script that manages the attendance , generates the ID and QR code  for new 
+emp loyees , detects Q R code , and stores a record of attendance . 
+● It will store the date and time  at which the QR code is scanned.  
+ 
+PUBLICATION  
+“A Modern Approach  to Electoral Delimitation using the Quadtree Data Structure ”, IEEE 1st International 
+Conference on Cognitive Computing and Engineering Education (ICCCEE), April 2023 . 
+ 
+ACHIEVEMENTS  
+● PICT Impetus and Concepts (InC):  Secured 1st place  in Application Development  domain.  
+● Solved  800+ questions  on LeetCode , HackerRank  & InterviewBit . 
+● 6 Star  at Hackerrank  in Problem  Solving . 
+● Secured 99.57  percentile in MHT -CET, ranked 574 out of 4.5 Lakhs  participants.  
+● Stood the fifth runner -up in national level Cube competition . 
+ 
+POSITION OF RESPONSIBILITY  
+PCSB  PICT  
+● Worked  with Web  Development  Team  for developing  Website  for annual  flagship event  – Xenia’22.  
+● Contributed with Data Team for the annual  flagship event  – Xenia’22.  
+      
+GK652002  
+ GK652002  
+ GautamKhaire  
+ GautamKhaire  
+ 

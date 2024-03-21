@@ -1,0 +1,42 @@
+Utkarsh Tipre  
+ 
+Email ID: utkarshtipre2002@gmail.com   
+Linked In: https://www.linkedin.com/in/utkarsh-tipre-12471024b/   
+GFG: https: https://auth.geeksforgeeks.org/user/utkarshtipre/practice  
+Leetcode: https://leetcode.com/utkarshtipre123/  
+College: Pune Institute of Computer Technology  
+  
+Objective: To contribute to the growth of the organisation with my skills and abilities.   
+ 
+Technical Skills:   
+1) Programming Languages    : C++, Javascript 
+2) Database Languages            : MongoDB, Mysql 
+3) Web Development               : MEAN and MERN stack 
+4) Database Storage Expertise : MS Word, MS Excel, MS Powerpoint, Google Docs 
+Google Spreadsheet, Google Forms 
+  
+Other Skills:   
+ Ability to work both independently and as a team member.  
+ Can achieve organizational goals by building effective team.  
+ Have good communication skill and interactive ability.  
+  
+Academic Details:  
+Class  Percentage/ GPA 
+                               B. E (CGPA) 8.54  
+12th  87.23 
+10th  94 
+ 
+Software Project:   
+  1) Smart Health Prediction System:  
+  2)College Students Management System: 
+In this project the database gives all information of College and their nearby hostels 
+as well as nearby mess to the client and server can add information in database.   
+          
+ Embedded  Projects:   
+    1) Solar Mobile Charger Using IC LM7805  
+    2) 4* 4 Matrix Keypad using Arduino Uno.    
+ Experience :   
+Web development member in PICT Flagship event INC work as Backend developer. 
+Hobbies:   
+ Playing Chess and Volleyball  
+ Reading General knowledge Books   

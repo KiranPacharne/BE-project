@@ -1,0 +1,70 @@
+ 
+Ishan Gundre  
+Data Analyst, Problem solver , Cloud Computing  enthusiast  gundreishan@gmail.com  
++91 9763210076  
+www.linkedin.com/in/ishan -
+gundre -2403a8206  
+EXPERIENCE  
+Aashman Foundation, Pune — Counselor  
+ July 2021 - December  2021  
+Counselor for underprivileged kids  
+VanceNXT ,Pune – HR Inter n 
+October 2021 – December 2021  
+Human Resource Manager for a Start -up. 
+PROJECTS  
+Result Analysis (Exploratory Data Analysis)  — 
+-Analysis of individual marksheet of all college students to provide 
+collective data .  
+-Currently being used in PICT Pune  
+ 
+Book recommendation system (Data Analytics and Machine 
+Learninig) :  
+—Analysis of a database of books based on various parameters like genre, 
+author,ratings etc. and recommending 5 books based on any one books 
+selected by the user  
+ 
+An application to remotely monitor memory and cpu usage 
+of a machine using docker :  
+—Hosting an applicaton  using docker to check remotely usage of a 
+machine for security purposes.  
+ 
+Gym assistant using Pose estimation :  
+-An assistant which analyses real time video feed and alerts the user if 
+they r making any errors in the exercis e using MediaPipe  
+ 
+ 
+ACHIEVEMENTS  
+Represented my school and college in multiple debates  
+State level Football player  
+State level Chess player  
+ 
+ EDUCATION  
+Horizon Academy,  
+Nashik  — CISCE  
+May 2017 - March  2018  
+Percentage -96%  
+SPPAC, Nashik — HSC  
+June 2019 - August 2020  
+Percentage -74.46% 
+PICT Pune —Final  Year  
+January 2021 -August 202 4 
+CGPA -9.55  
+Google -Data Analytics 
+Professional Certificate:  
+Six months job -ready Google 
+Career Certificate training.  
+TECHNICAL SKILLS  
+HTML      C++  
+SQL   MongoDB  
+PowerBI   Python  
+ Spreadsheets  
+ Docker  AWS   
+NON-TECHNICAL SKILLS  
+Analytical Skills  
+Leadership Skills  
+Strong Communication Skills  
+Project Management Skills  
+ 
+HOBBIES:  
+Stock Trading , Trekking, 
+Reading, Gym.   

@@ -1,0 +1,42 @@
+Exposys Data Labs
+Web Development Intern
+Spearheaded diverse web projects, cultivating technical prowess and immersive hands-on learning.
+Collaborated seamlessly with dynamic teams in a fast-paced environment, refining adaptability and fostering exceptional
+communication skills.
+Delved into cutting-edge technologies, showcasing proficiency in web development tools and languages.Feb 2023 - Jun 2023shivamjgaikwad@gmail.com   |  +91  9325446159   |  linkedin.com/in/shivam-gaikwad-01027021bShivam Gaikwad
+PROFESSIONAL EXPERIENCEPune Institute of Computer Technology                                                                                                                       2020 - Present
+Matoshri Sarubai Mane Junior  college                                                                                                                              2018- 2020                               
+DHK Prashala, Pandharpur                                                                                                                                                             2013 - 2018        B.E. (Electronics and Telecommunication) - CGPA 9.042
+        HSC (Class XII) - 79.8 %
+       SSC (Class X) - 96.6%EDUCATION
+C/C++, Python, Java
+HTML, CSS, Bootstrap, SQL
+Pandas, NumPy, Matplotlib, OpenCV
+Microsoft Excel, Microsoft Word, POWER BILanguages & Technologies:
+Libraries & Tools:TECHNICAL SKILLS
+KEY PROJECTS
+Personal Desktop Voice Assistant using Python (2021)
+Engineered a versatile Desktop Voice Assistant using Python libraries, including speech recognition, pyttsx3, and datetime.
+Executed intricate commands, enabling certificate generation, location tracking, email correspondence, weather reports, and
+gaming.
+Revolutionized productivity by automating routine tasks, fostering efficiency.
+Drivers' Drowsiness detection system using Open CV (2022)
+Pioneered a driver drowsiness detection system by leveraging Python libraries like NumPy, OpenCV, and TensorFlow.
+Calculated precise Eye Aspect Ratio (EAR) and Mouth Aspect Ratio (MAR) via meticulous 6-point reference mapping.
+Customized with adaptable threshold values for enhanced accuracy, accommodating eyeglasses.
+Championed road safety by preemptively preventing drowsy driving incidents.
+8 bit Arithmatic and Logical Calculator using FPGA
+Employed FPGA board to architect and implement an 8-bit Arithmetic and Logical Calculator.
+Proficiently harnessed Xilinx software and Verilog HDL coding for comprehensive VLSI design.
+Fortified comprehension of hardware components and intricate VLSI design principles.
+LEADERSHIP AND VOLUNTEERING
+PICT Art Circle (2021- Present)
+Elected Student Representative, orchestrating official procedures and securing permissions for PICT Art Circle.
+Masterminded budget allocation and meticulous documentation for pivotal committees: NBA, NAAC, and ISO.
+Orchestrated synchronization among an 80+ member team, nurturing robust teamwork and effective organization.
+ACHIEVEMENTS
+Directors' General Youth Parliament-2018
+Clinched 1st Runner-up accolade at State Level, showcasing commanding oratory and unwavering leadership prowess.
+PURUSHOTTAM KARANDAK-2022 (06/2022 - 12/2022)
+Led as an Executive Manager within the triumphant PURUSHOTTAM KARANDAK-22 team.
+Artfully managed resources, playing a pivotal role in elevating project triumph.

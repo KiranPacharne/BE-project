@@ -1,0 +1,52 @@
+Yashraj Thakur Email: yashrajthakur1021@gmail.com
+Linkedin: linkedin.com/in/yashraj-thakur Mobile: 7447694670
+Github: https://github.com/yashraj1021
+Education
+•Pune Institute of Computer Technology Pune, India
+Bachelor of Engineering - Information Technology 2020 - Present
+•HPT Arts and RYK Science College Nashik, India
+HSC XII 2018 - 2020
+•Kilbil St Joseph’s High School Nashik, India
+SSC X 2018
+Projects
+•Bookstore Management System (Using Golang and MySQL) :
+◦The System aims to build a comprehensive and efficient software using the Go programming language, with MySQL as
+the underlying database, to facilitate the seamless management of a book store’s inventory and records.
+◦This API will provide booksellers and administrators with a comprehensive set of functionalities and its user-friendly
+design and robust architecture will make it an essential component of any modern bookstore’s digital infrastructure.
+◦Golang provides fast execution time allows servers to handle requests quickly, leading to reduced response times and
+better overall application performance.
+◦Techstack: Golang, MySQL.
+•Slackbot for file-uploading (Golang slackbot) :
+◦The File Uploading Slack Bot project aims to create a custom Slack bot using the Go programming language and the
+Slack API to facilitate seamless and efficient file sharing within Slack channels.
+◦The bot will automate the process of uploading files to Slack, making it easy for users to share documents, images, and
+other files with their team members effortlessly.
+◦The project will support customizable settings for the bot, enabling workspace administrators to define permissions,
+access levels, and file upload guidelines.
+◦Techstack: Golang, Slack-API.
+•Chat-GPT3 CLI Tool :
+◦The Chat-GPT3 CLI Tool is a command-line interface application built by using the OpenAI provided API whic in the
+Go programming language to allow users to have interactive and dynamic conversations with the AI model in a simple
+and convenient manner,
+◦Golang was chosen for this project due to its performance, simplicity, and ease of deployment. Its concurrency support
+allows the CLI tool to handle multiple user inputs concurrently, making it efficient for handling real-time interactive
+conversations.
+◦The tool with additional customization and modifications could result in the most efficient software for preforming
+desired actions like automation, validation, encryption, chatbot etc.
+◦Techstack: Golang, OpenAI-API.
+Skills Summary
+◦Languages : C++, C, Python, Golang, SQL.
+◦Fundamentals : Operating systems, DBMS, Object Oriented Programming, Data Structures and Algorithms.
+◦Frameworks : R, Scikit, Sklearn, Numpy, Pandas.
+◦Tools : GIT, MySQL, SQLite.
+◦Platforms : Linux, Windows.
+◦Soft Skills : Leadership, Event Management, Teamwork, Writing, Time Management.
+◦Additional Skills : Adobe Premiere Pro, Adobe Audition, Adobe Photoshop
+Extracurricular Activities
+•Athletics: Won annual athletics event at district level.
+•Football: Won Inter-college football championship at district level.
+Volunteer Experience
+•Organizing committee, PICT InC (Impetus and Concepts 22’) : Transport and hospitality coordinator.
+•Organizing committee, PICT InC (Impetus and Concepts 23’) : Hospitality coordinator, Responsible for billing and
+accounting.

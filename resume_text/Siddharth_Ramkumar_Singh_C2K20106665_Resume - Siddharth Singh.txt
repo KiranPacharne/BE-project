@@ -1,0 +1,48 @@
+.
+.Siddharth Singh
+Pune, India siddharthsingh10402@gmail.com +91 8237892072 linkedin.com/in/siddharth104
+PROJECTS
+Travelogue
+July 2022 - August 2022
+• A React JS Frontend Application for documenting personal travel. 
+• React JS, React Bootstrap.
+Student Resource Website
+January 2021 - February 2021
+• A website for students of PICT to access all study material all at one place. 
+• Fully responsive website using HTML and CSS.
+EDUCATION
+B. E. in Computer Engineering
+Minor in Cyber Security (Honors)•Pune Institute of Computer Technology•Pune•2024•9.12 CGPA
+HSC
+HPT Arts and RYK Science College•Nashik•2020•84.15 %
+SSC
+Symbiosis School•Nashik•2018•94.00%
+CERTIFICATIONS
+AWS Cloud Practitioner Essentials
+Coursera
+Fundamentals of Digital Marketing
+Google•2023
+INVOLVEMENT
+Soft Skills Head
+PICT, Pune•PICT NSS•October 2022 - Present
+• Managed Annual NSS Camp, Blood Donation Camps, Tree Plantation Drives. 
+• Taught school children, Spreading awareness about digital literacy, etc.
+Sponsorship Team and Data Team
+PICT, Pune•PICT CSI Student Branch•January 2022 - Present
+• Onboarded the Title Sponsor for an intercollege tech-fest at PICT. 
+• Managed the three-day tech-fest. 
+• Implemented data handling SOP.
+Concepts Head
+PICT, Pune•PICT InC 2023•March 2023 - April 2023
+• Responsible for overall management of Concepts - Largest Technical Event of PICT. 
+• Designed and managed a software project to ease the registration and judging process. 
+• Handled a team of 50+ members and managed more than 200 projects.
+Member
+PICT, Pune•TEDxPICT•November 2021 - July 2022
+• Member of Design, Operations and Partnerships and Web team. 
+• Worked with a team to decide a venue for the event, to prepare a budget and handle the logistics. 
+• Built 3 webpages using ReactJS for the TEDXPICT 2022 website.
+SKILLS
+Programming Languages: C++, Python, Java, Javascript
+Frontend Development: HTML, CSS, ReactJS, Bootstrap
+Finance, Marketing, Presentation Skills

@@ -1,0 +1,49 @@
+HARSH  
+SHARMA          Pune, India  
+  
+                                   7006468552| harshsharmacc@gmail.com  
+COMPUTER ENGINEERING  
+ 
+EDUCATION  
+ 
+B.E - PUNE INSTITUTE OF COMPUTER TECHNOLOGY,  PUNE                                                                June 2020 – June2024  
+• GPA 8.46  
+  
+HSC – BSF SENIOR SECONDARY SCHOOL, JAMMU                                                                                 June 2019 -June2020    
+ 
+• PERCENTAGE 85%  
+ 
+ 
+PROJECTS  
+ 
+ANIMATED PROFILE CARD  
+ 
+Animated profile card is a Front-end project which shows the profile of any social media app. I have used HTML and CSS   
+for this project.  
+ 
+  
+PASSWORD GENERATOR SYSTEM  
+  
+Password generator system is a project which generates the passwords depending on the hardness of the password that a  
+User decides. I have used basic JAVASCRIPT,  HTML and CSS  for this Project.  
+  
+  
+THREE -DIMENSIONAL SOCIAL MEDIA ICONS   
+  
+ It is a Front -end project which show the Three -Dimensional  View of Icons  of famous social media apps. I have used HTML  
+and CSS in this project.  
+ 
+ 
+SKILLS  
+ 
+•  Data Structures  and Algorithms  
+•  Languages - C++, HTML, CSS, PYTHON  
+•  Basic knowledge of Linux OS 
+ 
+ 
+ACHIEVEMENTS  
+ 
+•  Solved 1 00+ Questions  on Data S tructures and Algorithms  on Leetco de. 
+•  Leetcode Profile  
+ 
+ 

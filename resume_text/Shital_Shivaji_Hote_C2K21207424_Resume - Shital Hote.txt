@@ -1,0 +1,40 @@
+SHITAL HOTE
++91-8421732301 ⋄Pune, India
+Shital Hote /♀nednshital-hote-cs /gtbGitHub
+EDUCATION
+PUNE INSTITUTE OF COMPUTER TECHNOLOGY 2021-2024
+Bachelor of Engineering in Computer Engineering Cum. GPA: 9.86/10
+Karmayogi Polytechnic College 2018-2021
+Diploma in Computer Technology Percentage: 98.46
+SKILLS
+Technical Skills C++, CSS, HTML, Java, SpringBoot, PHP, MySQL, OS, Problem-Solving
+Tools and Technologies Linux, GitHub, Git, Swagger, Postman, IDE
+Soft Skills Leadership qualities, Management, Time management, Communication
+EXPERIENCE
+Problem Setter and Reviewer intern at TechCurators Feb 2023 - July 2023
+TechCurators Pune, India
+•Worked on Create question and solutions with test cases using Data Structure and Algorithms.
+•Reviewing code and problems.
+Web Developer intern at University of Limerick March 2022 - May 2022
+University of Limerick Remote
+•For developing the application used HTML, CSS and Firebase.
+•Created HTML template for displaying project information for BDS Web Portal.
+PROJECTS
+GEV-Dashboard. (GEV Repo)
+Built a REST API using Spring Boot Framework which handles the data from website to MySQL database. Used
+Postman to test the created APIs with proper status codes. Stores the real time data.
+Puzzle Game for personality test (Puzzle Repo)
+Web based game which includes Registration and Login System by using PHP and MySQL. Each users scores are
+separately stored in database.
+EXTRA-CURRICULAR ACTIVITIES
+•Leader and contributor at KPC, College: Contributed to the NewsLetter and managed the District level events
+like Blind Games, Quiz Competition, etc. Techbite
+•Volunteer: Worked for TeamEverest NGO and serve the society through PICT NSS as a volunteer.
+•Doing problem solving and helping out students how to reach at the end of the solution. GFG Profile
+ACHIEVEMENTS
+•Harvad WEAmplify Scholar’23
+•Qualified Code Divas Diversity’23 challenge
+•Global Rank of 1018/11,500+participants in Codechef September Long Challenge
+•96.33 percentile Skill Quotient in Aptitude from Tech Gig.
+•Winner of the ET Career Ready program 2023
+•Secured 98 percentile in AMCAT Logical Ability

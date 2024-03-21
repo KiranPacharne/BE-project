@@ -1,0 +1,89 @@
+Mihir Virendra Parte  
+ 
+Contact Details  
+mihirparte13@gmail.com   99755637703  
+Date of Birth: 13-Jun-2002  (Holding US Passport with valid OCI card)  
+LinkedIn: MihirParte   
+ 
+An adaptable and enthusiastic Data Science and Machine Learning enthusiast having worked on 
+several projects. Key work areas include Machine Learning , Data Science , front -end and back -
+end web development using MySQL, PHP, JS and HTML/CSS.  
+ 
+Education  
+Studying for: B . E. in Computer Engineering  (Honours  in Data Science ) 
+ 
+Sr. 
+No. Academic  Year of 
+Passing  Institute  % Marks / 
+Grades  Comments  
+1 10th 2018  Vidyashilp Public School (CBSE)  94.5% Best All-round  student  
+2 12th 2020  H.B. Girm e Junior College (HSC)  81.85 %  
+3 B. E. 2024 P. I. C. T. (Pune University ) 7.86 (CGPA) Till 3rd year 
+ 
+Skills Summary  
+• Languages  - Python , C++, PHP, HTML /CSS  
+• Python libraries  – Scikit , Pandas, Numpy, Matplotlib, Plotly  
+• Databases  – MySQL, MongoDB  
+ 
+Certificates  
+1. Python for Data Science  – NPTEL, I. I. T. Madras  
+2. Python essentials for Data Science  – P. I. C. T., Pune  
+3. Data Structures and Object -Oriented Programming using C++ – P. I. C. T., Pune  
+Interests/Hobbies  
+• Traveling, listening to music, biking, reading fiction al books.  
+ 
+ 
+Projects /Seminars  
+ 
+1. Data Science Project: Predicting future Car prices  by comparing car ’s features  
+o This project is based on a dataset from Kaggle.  
+o This project  provide s new businesses a way to decide which products to choose, in 
+order to maximize profits , reduce expenditure loss and predicting future car prices  
+based on viable features decided earlier.  
+o Random forest and linear regression models were used to predict futur e car prices.  
+Technology : Python, VS Code.  
+ 
+2. Case Study /Seminar  - Lung Cancer detection using Machine Learning  
+o Studied research papers on Lung Cancer detection.  
+o Shortlisted feature s that would most  likely cause Lung Cancer.  
+o Researched various classifier  models like SVM, Na ïve Bayes, Decision trees, Random 
+Forest  and K -NN. 
+o Presented the research paper to college authorities.  
+ 
+3. Database Management Systems Project:  Electric Car Dealership Inventory Management  
+o This project provides  an Inventory management system  to employees of any car 
+dealership that can easily access, modify and keep the data secure from unauthorized 
+users.  
+o The aim was to save time by not having to fill up physical records or excel spread shee ts 
+manually.  
+o It also aims to provide a user -friendly experience i.e., anyone with  a very basic computer 
+knowledge  will be able to operate it on the get -go. 
+Technology : MySQL, PHP, JavaScript, HTML, CSS , VS Code . 
+ 
+4. Web technology  project: Project Management dashboard  
+o Web application is being developed for Project Management dashboard.  
+o Role based privileges will be provided to various roles in the team.  
+Technology : MySQL, PHP, JavaScript, HTML, CSS, Plotly , VS Code . 
+ 
+5. Data Science project: Heart Attack prediction  
+o This project analyses Heart attack dataset and predicts heart attack possibility  based 
+on various factors present in the dataset.  
+o 2 Classification algorithms, Logistic regression and K -Nearest Neighbors (K-NN) were 
+used in this project.  
+Technology : Python, VS Code.  6. Natural Language Processing  project: Sentiment  Analysis  (In-progress)  
+o This project aims to analyse user sentiments  in social media websites owned by 
+‘Meta’ like ‘Instagram ’ and ‘Threads ’. 
+o Text processing algorithms  will be used .  
+Technology : Python, VS Code.  
+ 
+Internships  
+1. Cummins India  (Start Date – 28-Aug-23) 
+o Received offer letter with a start date on 10 -Jul-23 for a period of 10 weeks.  
+o It has been delayed from Company side.  
+2. i-Neuron  (Start Date – 11-Aug-23) 
+o Flights fare prediction – End-to-end   
+o Main goal is to predict the fares of the flights based on different facto rs available in the 
+provided dataset.  
+o Approach involves Data Exploration, Data cleaning, Feature Engineering, Model 
+Building and Model testing.   
+o Technology : Python, VS Code.  

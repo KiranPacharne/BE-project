@@ -1,0 +1,51 @@
+ADITYA THORAT
+♂phone+91 8767414461 |/envel⌢pethorataditya84@gmail.com |/gl⌢beadityathorat.tech |/linkedinadityathorat |/githubthorataditya84
+Education
+Pune Institute of Computer Technology 2020 – 2024
+Bachelor of Engineering in Information Technology Score: 8.97 CGPA
+Podar International School 2018 – 2020
+Class 12th Science Score: 93.40 %
+City International School 2008 – 2018
+Class 10th Score: 90.80 %
+Experience
+Backend Developer Intern Feb 2023 – April 2023
+Scienox Technologies
+•Developed REST APIs using Node.js and Express, utilizing MongoDB for data storage
+•Designed efficient database schemas and optimized database queries, resulting in improved performance
+•Implemented authentication using JWT and integrated third-party libraries, enhancing application features
+•Utilized Git for version control, Postman for API testing, and conducted code reviews to maintain code quality
+•Deployed the application on AWS Cloud, ensuring its high availability, scalability, and security
+Projects
+Fashonly |/github |ὑ7 | React, Node.js, Express, MongoDB, AWS Cloud
+•Developed a full-stack webapp using Node.js, Express backend and React frontend for buying fashion clothes
+•Designed REST APIs to search and filter among 100+ products, view product details, add to cart, place orders
+•Deployed multiserver project on AWS Cloud, utilizing AWS Amplify for frontend and Amazon EC2 for backend
+deployment with AWS Elastic Load Balancer to balance load across server instances in Autoscaling Group
+MarkMyViews |/github |ὑ7 | Bootstrap, EJS, Node.js, Express, MongoDB
+•Developed a platform that features a collection of over 200 books across various categories, providing users with
+the ability to access book information and read reviews
+•Built APIs to obtain detailed book information, read reviews, post comments, give ratings, and add new books
+App-less Auto Booking Bot |/github |ὑ7 | Python, Telegram Bot API, Aiogram, MongoDB
+•Built Python Telegram bot that offers customers hassle-free auto booking experience without installing any
+additional app, ensuring maximum user convenience
+•Designed a user-friendly interface with inline buttons, including features for booking an auto, help and support,
+language settings, and access to booking history, and can be integrated with popular ride booking APIs
+Multiplayer Chess Game |/github |ὑ7 | Node.js, Express, Socket.IO
+•Built web-based multiplayer chess game using Socket.IO library that can handle upto 100 concurrent games
+•Implemented all common moves, like checkmate, stalemate, and castling to ensure seamless gaming experience
+Skills
+Technologies/Frameworks : React, Node.js, Express, Git, GitHub, AWS, Material-UI, HTML, CSS, Bootstrap
+Languages : C++, JavaScript Databases : MySQL, MongoDB
+Certifications
+AWS Certified Cloud Practitioner |AWS |ὑ7 | Dec 2022
+React - The Complete Guide |Udemy |ὑ7 | Sept 2022
+NodeJS - The Complete Guide |Udemy |ὑ7 | Oct 2022
+Community Work
+Developer Student Clubs PICT Dec 2022 – Present
+Web Development Core Team
+•Worked with team members to develop and maintain official site for membership and event registration
+•Conducted various sessions on web development and guided juniors in the domain
+Achievements
+•Received Honorary mention in Namma Yatri Open Mobility Challenge by Juspay among 2000+ registrations
+Profile Links
+LinkedIn : adityathorat Github : thorataditya84 Leetcode : adityat1704

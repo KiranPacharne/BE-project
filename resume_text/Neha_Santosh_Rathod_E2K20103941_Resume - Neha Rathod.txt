@@ -1,0 +1,40 @@
+Neha Santosh Rathod
+♂phone+91 8421314539 /envel⌢peneharathod9146@gmail.com /linkedinhttps://www.linkedin.com/in/neha-rathod-392232206 /githubNehar26
+Education
+Pune Institute Of Computer Technology July 2020 – June 2024
+Bachelor Of Engineering in Electronics And Telecommunication Pune, Maharashtra
+Saraswati Junior College June 2020
+Higher Secondary Education, Percentage:86.31 Auranagbad, Maharashtra
+Adarsh Vidyalaya Chikhli June 2020
+Secondary Education, Percentage:88.80 Chikhli, Maharashtra
+Technical Skills
+Languages : C++, Java
+Web Technologies : Fronted Development (HTML, CSS, Javascript)
+Databases : MySQL
+Developer Tools : VS code, Eclipse, Apache Netbeans
+Projects
+Obstacle Detection Dimension Measurement |Robot — Hardware
+•Design and developed a robot to perform the system accurately measures dimensions of detected obstacles.
+•The project aimed to improve the safety and reliability of autonomous vehicles and robotics.
+•Robots utilized sensor integration and real-time data analysis to ensure accurate obstacle recognition. Successfully
+contributed to a project that improves navigation and efficiency in autonomous systems.
+Electricity Billing System |Java (Swing+AWT), MySQL, Apache NetBeans
+•Developed an automated electricity billing system using Java, MySQL, and JDBC. Designed classes to represent
+Customers, Electricity Meters, Tariff Plans, and Billing Information.
+•Integrated a database to store customer data, meter readings, and tariff details.
+•Generated monthly electricity bills with customer details and total amount due.
+•Created an admin panel for managing customer accounts, tariff plans, and generating reports.
+Resume Builder |HTML, CSS, Javascript
+•Design and developed a project to allowing users to input their information, select templates, and instantly generate
+professional resumes, enhancing the job application process.
+•Implemented responsive design for optimal viewing on various devices, ensuring a smooth and accessible experience.
+Relevant Coursework
+|
+∗Data Structure
+∗Fundamentals of Java Programming
+∗Object Oriented Programming
+∗Database Management
+∗Operating System
+Certifications
+Certificate 1 : Data Structure
+Certificate 2 : INC 2023 (Project: Obstacle Detection Dimension Measurement)

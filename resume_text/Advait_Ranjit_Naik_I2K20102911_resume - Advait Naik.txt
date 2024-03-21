@@ -1,0 +1,102 @@
+Advait Naik 
+Final Year Undergrad 
+Final Year undergrad willing to usher into the world of technology and add value to organization through the use of new age tools and
+technologies to ultimately solve complex problems today the world faces. 
+naikadvait1610@gmail.com 
+9322120779 
+Pune, India 
+linkedin.com/in/advait-naik-277379199 
+EDUCATION 
+BE INFORMATION TECHNOLOGY 
+Pune Institute of Computer Technology,Pune 
+08/2020 - 08/2023
+, 
+ 
+8.75 CGPA 
+PERSONAL PROJECTS 
+XENIA Annual Technical Event Website
+ (06/2022 - 09/2022)
+ 
+Built for Annual Technical Event hosted by PICT CSI STUDENT
+BRANCH 
+Contributed in Side-events, Login and Web-team page using
+ReactJS including some part of backend as well as its integration 
+Link to the website - https://pcsbxenia.com/ 
+800+ registrations were observed 
+IMPETUS AND CONCEPTS ANNUAL COLLEGE EVENT
+ (01/2023 - 03/2023)
+ 
+Built for Annual Technical Event hosted by PICT college 
+Contributed in whole frontend of the project 
+Link to the website - 
+https://pictinc.org/ 
+Weather Application
+ (10/2022 - 10/2022)
+ 
+Fetches Weather Data for the city you wish to know the weather 
+Uses NodeJS And Express for fetching, sending and processing
+data received from API 
+Link to the project: https://tempapp-by-advait.herokuapp.com/ 
+POSITION AND RESPONSIBILITIES 
+JOINT SECRETARY 
+PICT CSI STUDENT BRANCH 
+08/2022 - 08/2023
+, 
+ 
+Record-Keeping and Documentation 
+Coordination and Communication 
+Organizing Meetings and Events 
+Event Head 
+Annual Technical Event hosted by PICT CSI
+STUDENT BRANCH 
+08/2022 - 09/2022
+, 
+ 
+Event Coordination 
+Delegate tasks and set deadlines 
+SKILLS 
+C 
+C++ 
+HTML 
+CSS 
+Javascript 
+JAVA 
+Bootstrap 
+Tailwind CSS 
+REACT JS 
+GIT 
+NODE JS 
+EXPRESS JS 
+MySQL 
+MongoDB 
+Mongoose 
+NextJS 
+EXPERIENCE 
+Intern: Merito - Career Corner Education Pvt. Ltd
+ (03/2023 - 05/2023)
+ 
+gained valuable hands-on experience in both front-end and back-end
+development. 
+Internship work:https://www.career-corner.in/ 
+Headed Event in Annual Technical Event by PICT CSI
+STUDENT BRANCH 
+ORGANIZATIONS 
+PICT CSI Student Branch
+ (07/2021 - 08/2023)
+ 
+CERTIFICATES 
+Manisha Systems- C /C++ certiﬁed course
+ (02/2021 - 05/2021)
+ 
+LANGUAGES 
+English 
+Professional Working Proﬁciency 
+Hindi 
+Full Professional Proﬁciency 
+Marathi 
+Native or Bilingual Proﬁciency 
+INTERESTS 
+Cricket 
+Web 3.0 
+Achievements/Tasks 
+Achievements/Tasks 

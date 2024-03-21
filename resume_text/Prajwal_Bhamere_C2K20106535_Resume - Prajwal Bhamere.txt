@@ -1,0 +1,44 @@
+PRAJWAL BHAMERE
+Pune, Maharashtra, India
+prajwalbhamere77@gmail.com ⋄linkedin.com/in/prajwal-bhamere/ ⋄7774005988
+PROFILE
+I am a creative, energetic, and dependable person. I am diligent in my work and people count on me. Equipped with
+a diverse and promising skill-set. Able to effectively self-manage during independent projects, as well as collaborate
+as part of a productive team.
+EDUCATION
+Bachelor in Engineering , Pune Institute of Computer Technology Expected 2024
+CGPA : 8.74
+Junior College , Dr. Kalmadi Shamarao Junior College
+School , D.A.V. Public School
+SKILLS
+Languages Python, C++, MySQL, HTML, CSS
+Libraries TensorFlow, Keras, PyTorch, Pandas, NumPy, Matplotlib, Spacy, NLTK
+Soft Skills Communication, Time Management
+EXPERIENCE
+Intern Mar 2022 - Jun 2022
+Pustakwale Pune, India
+•Analysing the past data and recommending an AI-ML based schedule for book exhibitions across Pune City
+•Clubbed residential complexes within a 3km radius
+•Helped visit around four residential complexes daily
+•Prioritised pop-up store sites based on multiple parameters
+PROJECTS
+Car Damage Classifier
+Built a model to classify car damage into three different classes by using TensorFlow, Keras library and PyTorch.
+Created a dataset consisting 1.6k images of three classes.
+(GitHub link) (Dataset link)
+Named Entity Recognition
+Built a POS tagging model using Bi-LSTM-LSTM model on a dataset consisting of about 50k sentences or 1 million
+data points. Performed hyper-parameter tuning to achieve a validation accuracy of 96.79%
+(GitHub link) (Dataset link)
+Ship Detection from Aerial Images using YOLOv8
+Using the YOLOv8 model by Ultralytics, the code used the dataset of aerial images of sea to detect ships, with the
+motive to curb the illegal smuggling or fishing that plagues the world.
+(GitHub link)CERTIFICATIONS
+Natural Language Processing in TensorFlow Mar 2023
+DeepLearning.AI (Verification) Coursera
+Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning Oct 2022
+DeepLearning.AI (Verification) Coursera
+Databases and SQL for Data Science with Python Aug 2022
+IBM (Verification) Coursera
+Pandas Jul 2022
+Kaggle Kaggle

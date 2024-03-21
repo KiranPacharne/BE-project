@@ -1,0 +1,87 @@
+Last Upda ted on 27th Jul y 2023Sumit Waman
+w amansumit2302@gmail.c om | +91 -9322925579 | GitHub
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+B.E IN C OMPUTER ENGINEERING
+2020- 2024 ( Pur suing ) | Pune, India
+Cum. GP A: 9.4/ 10
+MOHANLAL RAMAUTAR
+MANDHANA COLLEGE
+PCM IN STATE BOARD
+2020 | Ahmednagar, India
+Class XII Percen tage: 91.69%
+RESIDENTIAL HIGH SCHOOL
+2018 | Ahmednagar, India
+Class X Percen tage: 9 7 .40%
+LINKS
+LeetCode:// wamansumit
+Codeforces:// wamansumit
+Codechef:// wamansumit23
+HackerRank:// sumit23
+GitHub:// sumitwaman
+SKILLS
+PROGRAMMING
+•Problem Solving •DSA
+LANGU AGE S:
+•C++
+WEB TECHNOL OGIE S:
+•HTML •CSS•JavaScript
+D A T AB A SE:
+•MySQL
+F AMILIAR:
+•Node.js •Express.js
+•React •Redux Toolkit
+C ORE SUB JEC T S:
+•Object Oriented Programming
+•Database Management System
+•Operating System
+CO-CURRICULAR
+ACTIVITIES
+•Member ofPICT ACM Student Chapter
+•Escorting Team Member atINCevent of
+PICT 2022.
+•Publicity Team Member atINCevent of
+PICT 2023.EXPERIENCE
+INTERVIEW MOCHA | Problem Setter - Intern
+Oct 2022 – Dec 2022 | Pune, India
+•Prepared problems based onData Structures andAlgorithms ofvarying
+difficulties along withtestcases generation.
+•Providing them optimal solutions fortheproblems andanalyzing timeand
+space complexities.
+PROJECTS
+E-COMMERCE WEBSITE | See Project
+•Developed acomplete E-Commerce Platform utilizing theMERN stack,
+featuring anAdmin Panel formanagement ofproduct andorders.
+•Integrated thePayment Gateway forsecure payment proceesing.
+•Implemented search filters based oncategories andprice ranges to
+enhance userproduct discovery andshopping experience.
+•Implemented userauthentication andauthorization functionalities
+using Express.js middleware.
+•Tech Stack: HTML |CSS|React |Node.js |Express.js |MongoDB .
+BLOOD BANK MANAGEMENT SYSTEM | See Project
+•Developed acomprehensive Blood Bank Management System using
+MERN stack providing platform formanaging blood donations.
+•Itfeatures user-friendly Admin Panel forefficient management for
+organizations, hospitals anddonors.
+•Integrated Analytics Dashboard which offers information onthe
+available blood types andtheir quantities.
+•Ensured datasecurity andconfidentiality through robust
+authentication andauthorization mechanisms.
+•Tech Stack: HTML |CSS|Redux |Node.js |Express.js |MongoDB .
+JOTSPOT | See Project
+•Created auser-friendly interface forusers toadd,view, edit,anddelete
+notes effortlessly.
+•Implemented userauthentication andauthorization ,ensuring data
+privacy andsecurity.
+•Tech Stack: HTML |CSS|React |Node.js |Express.js |MongoDB .
+ACHIEVEMENTS
+•Competitive Coding:
+Codeforces: Pupil Rated -1292
+Codechef: 3*Rated -1654
+•Secured aGlobal Rank of244outof5k+participants inJulyLunchtime
+2022 onCodechef.
+•5StarBadges onHackerrank inProblem Solving inC++..
+•Solved more than500problems ondifferent platforms likeLeetcode,
+codechef andcodeforces.
+•Cleared IITJEEAdvanced(2020) withtop8percent inIndia.

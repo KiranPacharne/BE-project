@@ -1,0 +1,89 @@
+SAHIL KOTHARI
+Pune Institute Of Computer Technology
+sahilckothari94@gmail.com /gtbhttps:/ /github.com/sahil-kothari /♀nednhttps:/ /www.linkedin.com/in/sahil-kothari94
+Pune, Maharashtra - India
+PROJECTS
+Uber/Ola solution for Spare Parts
+•Developed a website using ReactJS and
+Firebase that oﬀers timely notiﬁcations to
+users about expiring vehicle spare parts. The
+project also involved the implementation of
+blockchain technology to establish a secure
+and reliable supply chain for product authen-
+tication. Demonstrated technical proﬁciency
+and problem-solving abilities throughout the
+development process.
+•https://youtu.be/md2iSIU58dE
+CrowdFunding Web App
+•Developed a cutting-edge crowdfunding web
+application leveraging blockchain technology
+and Machine Learning (Detects hate speech
+and cancels the campaign), with the use of
+frameworks such as ReactJS, and ThirdWeb.
+•https:/ /sahil-kothari-crowdfund.netlify.app/
+Dashboard for BOMB Money
+•Developed a Dashboard which displays real-
+time values of the tokens fetched from an API.
+It also provides the functionality to connect
+the wallet to the website and carry out trans-
+actions such as staking, exchange, and trade.
+•https:/ /bomb-dashboard-
+sahilkothari.netlify.app/
+Dealify
+•I have created a decentralized deal manage-
+ment application on the Zbyte platform. It
+oﬀers a range of functionalities, including pay-
+out management, conﬁrmation handshake,
+refund processing, rejection handling, and deal
+listing on blockchain.
+•https:/ /dplat.zbyte.io/app/deal/home-
+649fd1154b7ﬀb6dd7bb7b59
+EXPERIENCE
+Solidity Developer Intern
+DotLabs
+ὌMay 2023 - Present
+CERTIFICATIONS
+Microsoft Certiﬁed:Azure Funda-
+mentals
+Microsoft
+Smart Contracts
+CourseraACHIEVEMENTS
+•Head of the Blockchain Community, PICT.
+•Successfully secured 2nd position at a 24-hour hackathon,
+Codebreak 4.0, hosted by MIT ADT University as part of a
+collaborative team eﬀort.
+•Secured 3rd position in Smart Contract Contest II conducted
+by the DApp World.
+•Ranked 985 out of 17000 participants in starters 58 (CodeChef).
+•Successfully organised "Hacker-House", a blockchain based
+learning and implementation event at Xenia, the annual tech-
+fest at CSI PICT in collaboration with CION Digital.
+TECHNICAL SKILLS
+•ReactJS, Javascript, Typescript, Rest API, Solidity, C++, Python,
+MySQL, Java, HTML, CSS.
+•Blockchain, Problem Solving, Data Structures and Algorithm,
+Competitive programming, Database management, Machine
+Learning, Big data, Cloud Computing, Computer Networks and
+security.
+EDUCATION
+B.E. (IT) - 9.1 CGPA
+Pune Institute of Computer Technology
+Ὄ2020 – Present
+Higher Secondary - 83%
+Maharashtra State Board of Secondary and Higher Sec-
+ondary Education, Pune
+Ὄ2020
+Secondary - 93.3%
+Maharashtra State Board of Secondary and Higher Sec-
+ondary Education, Pune
+Ὄ2018
+PERSONAL SKILLS
+•Having Leadership Qualities.
+•Ability to work under pressure.
+•Organising and managing events.
+•Comfortable Working Independently.
+•Ability to take initiative to solve problems.
+HOBBIES
+•Playing badminton,cricket and video games.
+•trekking, swimming.
+•Exploring Places.

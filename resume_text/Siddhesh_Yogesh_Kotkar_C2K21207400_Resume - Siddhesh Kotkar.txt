@@ -1,0 +1,43 @@
+Siddhesh Kotkar
+/ne+917620266631 |kotkar.sidh@gmail.com |/♀nednSiddhesh Kotkar |/gtbSiddhesh Kotkar |
+ mrsidkk
+Education
+Pune Institute of Computer Technology Pune, Maharashtra
+Bachelor of Engineering in Computer Engineering CGPA: 8.90 Jul. 2021 – Jun 2024
+Institute of Engineering and Technology Kannad, Maharashtra
+Diploma in Computer Engineering Percentage: 97.71 Jun. 2018 – Jun 2021
+Fatima Convent High School Kannad, Maharashtra
+Maharashtra State Board Percentage: 95.40 Jun 2018
+Experience
+Full Stack Web Developer Intern Jul. 2022 – Oct 2022
+MiBAIO Pune, Maharashtra
+•Developed interactive user interfaces using React.js, ensuring seamless user experience
+•Optimized website performance and responsiveness through efficient front-end coding.
+•Collaborated with the development team to translate design mockups into functional components, contributing to
+the successful implementation of the company’s website.
+Projects
+Ration Management System |MongoDB, Express.js, React, Node.js, Flutter /gtb
+•Developed efficient backend with RESTful APIs, enabling organizations to manage rations and perform functions
+•Created user-friendly React.js frontend for organization portal, facilitating easy ration management and data
+modification
+•Collaborated with project team to deliver scalable code and ensure smooth functionality.
+Polar S2 |React, Node.js, go-ipfs /gtb
+•PolarS2 is a decentralized cloud storage service using IPFS
+•Uploaded file is first encrypted and then fragments of the file are distributed across peer network
+•Developed user-friendly frontend using React and Implemented efficient middleware.
+BuddyTalk |Node.js, React /g♀be /gtb
+•Created “BuddyTalk” platform - a unique blend of WhatsApp, Instagram and Snapchat with channels, direct
+messaging, and fun GIF sharing
+•Enhanced user interaction with GIFs, emojis, and pictures, fostering dynamic conversations on “BuddyTalk”.
+Technical Skills
+Programming Languages: C, C++, Java, Python, HTML, CSS, JavaScript
+Web Development: React.js, Node.js, Express.js
+DBMS: MySQL, MongoDB, Firebase
+Tools: Linux & Windows Administration,Git/GitHub
+Cloud: AWS
+Achievements
+•TIAA Hackathon Winner May 2023
+Recognized as a winner in the TIAA Hackathon, demonstrating innovative problem-solving skills and
+effective teamwork.
+•2nd Position Impetus and Concepts 2022
+Our group won 2nd price for the ”PolarS2” project in the ’Computer Networks’ domain

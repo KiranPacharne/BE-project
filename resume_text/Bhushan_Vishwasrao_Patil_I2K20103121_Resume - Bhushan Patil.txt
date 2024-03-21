@@ -1,0 +1,63 @@
+Bhushan Vishwasrao Patil  
+B. E. Information Technology 4th Year  
+Honours Artificial Intelligence and Machine Learning  
+Email : bhushanvp.7@gmail.com  | LinkedIn : bhushanvp  | GitHub : bhushanvp  | Phone : +917709525925  
+OBJECTIVE  
+To prosper in the field of data engineering  and backend development  and apply data -driven techniques to  solve  real-world 
+challenges by providing  innovative solutions.  
+EDUCATION  
+Year  
+2024  
+2020  
+2018 Degree/Exam  
+Bachelor of Engineering  
+12th (Maharashtra State Board)  
+10th (C.B.S.E.)  Institute  
+Pune Institute of Computer Technology , Pune  
+Sanjay Ghodawat Junior College, Kolhapur  
+Sanjay Ghodawat International School, Kolhapur  CGPA/Marks  
+8.72 / 10 
+75.54 % 
+92 % 
+SKILLS AND TOOLS  
+• Programming Languages  : C++ | C  | Java  | Python  | Bash  | 
+Javascript | SQL  • Web Stack  : MERN  
+• DBMS  : MongoDB | MySQL  
+• ML / DL Libraries  : TensorFlow | Scikit Learn | Matplotlib  | 
+Seaborn | Autokeras  • Operating Systems  : RHEL  | CentOS  | Ubuntu  | Windows  
+• Tools  : Git | MS Office Suite  
+PROJECTS AND PAPERS  
+• Smart Waste Management | Website | MongoDB, ExpressJS, NodeJS             [ March 2023 ]  
+− The website connects waste producers with recyclers , facilitates the collection and recycling of various kinds of wastes . 
+− The website allows users to schedule pickups  and uses geolocation  technology to locate nearby recycling centers . 
+− Recently this idea got f eatured on Shark Tank India.  
+• Nadi -Pariksha (Ayurveda) Based Smart Watch for Disease Prediction | Paper     [ November 2022 ]  
+− The paper discusses about collection of 3 pulse signals from the PPG sensors placed on the wrist watch which are 
+connected to the s erver via the smartphone using MQTT protocol to transfer the pulse data.  
+− The paper explains how a KNN  model  can be trained on a dataset of pulse readings from healthy and diseased 
+individuals  to classify different diseases based on the Nadi -Pariksha technique which makes use of the 3 pulse signals . 
+• Digital Library | Website                        [ July 2021 ]  
+− A digital library website that allows users to browse, search and download  books in PDF format from a local network 
+server.   
+ACHIEVEMENTS  
+• Hackathon – The Blue Bit | 2nd Rank                                                                     [ March 2023 ]  
+− Solution  - Retail Inventory Management  Smartphone Application  
+− Features  - Provides daily, monthly sales analysis reports. uses ML to predict the optimal stock quantity to order.  
+− Stack     - Flutter, Flask APIs , Scikit Learn , Firebase firesto re database, deployed on a local network server.  
+• Abstract (Idea Presentation) | Finalist                     [ September 2022 ]  
+− Idea – Low-Cost Automation of the MSMEs using pre -used resources to  increase their efficiency  and reduce cost.  
+• Sports  
+− Football  - Won more than 18+ football tournaments  conducted on various levels . 
+COURSES AND CERTIFICATIONS  
+• RHCSA | 4Focus Info solutions                 [ January 2023 ]  
+− Perform ed essential tasks on Red Hat Enterprise Linux  systems, such as installing and configuring software s, managing 
+users and groups, securing files and directories, and troubleshooting common issues . 
+− Explored  the use case of  various tools and commands to automate  tasks and monitor system performance.  
+• Machine Learning | Coding Blocks              [ February 2023 ]  
+− Explored various data preparation and data exploratory techniques.  
+− Learned and applied various machine learning algorithms and built 4 projects.  
+• Machine Learning Specialization | Andrew NG                    [ July 2023 ]  
+− Linear Regression, Logistic Regression, Classification, Neural Networks, Decision Trees, Ensemble Trees, XGBoost.  
+CLUBS AND SOCIETIES  
+• PICT Automobile Club | Design Team  
+− Designed electric go -kart on Solidworks  and Creo  and physically developed it  for the FKDC championship.  

@@ -1,0 +1,40 @@
+SHREYA SHETTI
++91 9112637785 ⋄Pune, Maharashtra
+•Leetcode •Codeforces •Hackerrank •Linkedin •s3shreyashetti@gmail.com
+EDUCATION
+Pune Institute of Computer Technology, Pune , Savitribai Phule Pune University 2020 – 2024
+Pursuing B.E. in Information Technology .
+CGPA Aggregate : 9.62
+Manere Highschool and Jr. College ,Ichalkaranji 2018 – 2020
+Class XII Percentage : 91.23
+MHT-CET Percentile : 99.72
+Shri Padmaraje Vidyalaya, Shirol 2012 – 2018
+Class X Percentage : 99.40
+MTS,NMMS Scholarship holder
+WORK EXPERIENCE
+Northern Trust Corporation June 2023 - August 2023 - ServiceNow Developer
+•Worked on Service Desk Virtual Agent to create streamlined workflows and producing self-service capabili-
+ties. Researched and implemented feature of displaying highly rated Knowledge Base articles improving user
+experience.Implemented create incident workflow.
+SKILLS
+Languages ,Tech C++ , Python , Java , HTML5 , CSS , MySQL
+Coursework DSA, DBMS,Machine Learning, Operating Systems, Object Oriented Programming,DSBDA
+Web Development MongoDB , Express JS, React JS ,Node JS
+ACHIEVEMENTS
+•Rank 367 in MHT-CET among 1.5Lakh+ candidates.
+•Solved 350+ coding problems on various platforms.
+CERTIFICATIONS
+Mastering Data Structures and Algorithms -Udemy View Certificate
+Full Stack Web Development : Demystified View Certificate
+5 stars on Hackerrank in Python and C++
+PROJECTS
+Sociocity -viewMongo DB, Express js, React JS, Node JS-Login and Register, User Profiles, Add friends,Create posts
+SpendSensibly - Mongo DB, Express js, React JS, Node JS - Budget management app that helps individuals
+manage their finances.App will give insights on users’ money spending behaviour.
+Hope In Home - Healthcare android application using Java and Android Studio Features.Multi-functional app
+that takes care of all aspects of user’s physical and mental health starting from Meditation audio tracks, articles and
+blogs.Other features - Drug information, slot booking ,login and sign up activity.
+EXTRA-CURRICULAR ACTIVITIES
+•PASC Social Media Team, PICT ACM Student Chapter.
+INTERESTS
+Dancing , Competitive Programming , Making Greeting Cards ,Reading

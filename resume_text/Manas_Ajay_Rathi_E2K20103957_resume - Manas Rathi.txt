@@ -1,0 +1,76 @@
+Manas Ajay Rathi
+ML, DataScience Enthusiast
+/♀nedn /gtb
+23manasrathi@gmail.com | +91 9579933691
+PROFESSIONAL SUMMARY
+As an avid technophile, I have an insatiable appetite for
+learning and a profound passion for the fields of Soft-
+ware Development, Machine Learning, and Data Sci-
+ence. With a flexible and adaptive mindset, I demonstrate
+exceptional organizational abilities.
+WORK EXPERIENCE
+ML Intern at IoTIoT Innovation Lab April 2023 - July
+2023
+•Project-based internship developing a cutting-edge AI
+trash detection system using deep learning and com-
+puter vision techniques
+•Built a robust Convolutional Neural Network achieving
+an impressive accuracy of 79% in classifying trash into
+6 categories
+•Implemented industry-standard practices throughout
+the project with containerization using Docker
+EDUCATION
+Bachelor of Engineering (B.E.) in Electronics and
+Telecommunication with Honours in Data Science (June
+2020 - June 2024)
+•SCTR’S Pune Institute of Computer Technology, Pune
+•CGPA: 8.20
+HSC (Grade 12.) (June 2018 - June 2020)
+•R L T College of Science, Akola
+•90.92%
+SSC (Grade 10) (June 2017 - June 2018)
+•Kothari Convent, Akola
+•94.40% (100% in Maths)
+COURSEWORK
+•ML= Data Analytics, Data Science with Projects, Machine
+Learning, Deep Learning, Tensorflow for deep learning,
+Data Visualization,NLP , Algorithms and CNN
+•Python, Docker, MySQL, Data Structures in C++ and OOPPROJECTS
+EcoVision: A Deep Learning Approach to Trash Detec-
+tion(DL,Keras+TF)
+•Built a robust Convolutional Neural Network from
+scratch using TF and achieved an impressive accuracy
+of 79% in classifying trash into 6 categories
+•Containerized the application with Docker
+Sentiment Analysis and Knowledge Graph Generation
+for HP Products (Hackathon Project)
+•Developed a sentiment analysis model using Logistic
+Regression & TF-IDF for customer reviews on HP print-
+ers
+•Created a knowledge graph to visualize relationships
+between printer entities and common issues, aiding to
+improving product features
+Predicting Burned Calories in Workout
+•Used the XGBoost regressor algorithm and linear regres-
+sion algorithms to predict calories burned depending on
+various physical parameters
+SKILLS
+•Languages: Python, C++, C, MYSQL
+•Frameworks: Sklearn, CV, Tensorflow,NLTK
+•Other: Docker, AWS
+ACHIEVEMENTS
+•Winner in HP Solve 2.0 Hackathon among 500+ teams
+Domain: Customer sentiment analysis and knowledge
+graph creation for HP products
+•1st Winner in Provothon by Prove Developer in ML Do-
+main among 300+ teams
+Theme: AI-Powered Question Generator for Personal-
+ized Learning based on Bloom’s Taxonomy
+•1st Winner in Hackathon "Code The Problem" by IIT
+Kharagpur in ML Domain
+VOLUNTEERING
+NSS (National Service Scheme) Member
+•Participated in various activities such as Blood donation
+camps and tree Plantation
+HOBBIES
+•Yoga, Swimming

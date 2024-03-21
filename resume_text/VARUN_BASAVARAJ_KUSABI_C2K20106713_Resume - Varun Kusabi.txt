@@ -1,0 +1,37 @@
+Varun Kusabi
++918888829069 |varunkusabi8@gmail.com |Linkedin |Github
+Education
+Ryan International School Nashik, Maharashtra
+SSC (Class X) ICSE , Aggregate: 94.17% 2018
+Matoshri College Nashik, Maharashtra
+HSC (Class XII) , Aggregate: 83.08% 2018 – 2020
+Pune Institute of Computer Technology Pune,Maharashtra
+Bachelor of Engineering in Computer Science ,CGPA: 8.6/ 10 (upto 5 th sem) 2020 – 2024
+Experience
+Kode IT Solutions Jan – March(2022)
+Web development Internship
+•Learning Internship of MERN stack technology
+•Technology stack - HTML,Javascript,Mongoose,Node
+Projects
+Expense Tracker |Mongoose,React,Node,Javascript,HTML
+∗An application to check our expenses,income and balance by using graph
+∗Developed a full-stack web application using MERN stack
+ShopNow |HTML,CSS,React,Node.js,MongoDB,Express
+∗Developed a site where can user can create account and purchase products.
+∗Implemented user and admin authentication and authorization using Express middlewares.
+Technical Skills
+Languages : C++,Python(basic) ,SQL, JavaScript, HTML/CSS,
+Familiar Frameworks : React, Node.js, Mongoose
+Developer Tools : Visual Studio Code, PyCharm, Eclipse
+Core Fundamentals : DBMS, CNS, OOPS
+Data Structures and Algortihms
+Problem Solving ,Logical Approach
+Achievements
+Competitive Programmer, 900+ questions on Leetcode,Codeforces,Codechef,Hackerrank
+5 star on Hackerrank Problem Solving, varunkusabi8
+Leetcode:varunkusabi8 400+ problems
+Stood in Top 2.3 percentile in JEE Mains
+Extra-Curricular Activities
+•Member of PICT ACM Student Chapter (PASC).
+•Part of Organizing Committee of Impetus and Concepts Tech event .
+•Member of Reverse Coding Team Event

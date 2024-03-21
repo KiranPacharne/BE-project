@@ -1,0 +1,38 @@
+AYUSH SINGH
++91 9422153047 ⋄PUNE,MAHARASTRA
+ayushsingh.30456@gmail.com ⋄LinkedIn:ayushsingh2202 ⋄GitHub:-AYUSHSINGH2202
+EDUCATION
+PUNE INSTITUTE OF COMPUTER TECHNOLOGY, Bachelor of Engineering 2020-2024
+GPA: 9.23
+VIDHYADHAM SCIENCE JUNIOR COLLEGE, Higher Secondary 2017-2019
+Percentage: 79.69
+SKILLS
+Languages C++, Dart, SQL.
+Frameworks Flutter, Firebase.
+Tools Git, GitHub, Android-Studio, MySQL.
+CS-Fundamental Operating System, DBMS, Object Oriented Programming.
+Soft Skills Time Management, Teamwork, Communication, Problem Solving, Leadership.
+PROJECTS
+KRISHAK FARMA GitHub
+•Android app for farmers to sell their products and maximise profits by getting best market price.
+•Technology Used : Flutter, Firebase,Dialog Flow.
+•Integrated Functionalities: Sign-In , Sign-up authentication using Firebase.
+•Integrated a responsive Chat bot in order to resolve the app related queries of farmers using
+Dialog flow and Google Cloud Console.
+•Dynamic Images/banners fetched from Firebase storage in real-time.
+•Location tracker using Geolocator and Geocoding packages in flutter.
+VISUALIZE-GROW GitHub
+•An Android application that helps estimate the Total sales and Predict Future requirements using
+Linear Regression.
+•Technology Used : Flutter, Firebase ,Dialog Flow.
+•Functionalities of the App Include : Stock-Entry ,Sales-Entry, Daily Report, Monthly Report and
+authentication using Firebase.
+•Responsive Chat bot in order to resolve the day to day queries of the Shopkeeper and Retailers
+using Dialog flow and Google Cloud Console.
+•Future Prediction of Stock helps reduce loss and maximize Profit.
+ACHIEVEMENTS
+•Winner The Blue Bit PCCOE Codechef Chapter Hackathon 2023.
+•Among Top 10 Teams selected from College in KAVACH 2023 Hackathon.
+•Solved 500+ Coding Questions across various platforms.
+•Completed 400 Days Streak on Codeforces.
+•Participated in HACKOFIESTA Hackathon organized by IIIT Lucknow

@@ -1,0 +1,67 @@
+SwarajC++
+HTML5,CSS3, JavaScript
+Bootstrap framework
+REACT JS framework
+MongoDB, MySQL
+API Integration
+Prompt Engineering
+Communication Skills
+GIT And GITHUBSKILLS
+Final year student in Electronics and Telecommunication Branch
+Tech - Enthusiast having strong command on concepts of C++,OOP &
+Data Structures and Algorithm.
+Proficient in Full Stack Development (React Js, Node Js, Related
+Database)PROFILE
+Developed a file compression system to reduce data file sizes
+while maintaining integrity for optimized storage and faster
+transmission.
+Can be used to compress any text based file i.e files with
+extensions like .txt, .c, .cpp, .html, .js, .docx
+Obtained nearly 50% compression rate without the loss of any
+data
+github link FILE COMPRESSION USING HUFFMAN CODINGCRYPTOCURRENCY TRACKER
+ 
+EDUCATION
+Abhyasa English School, Amravati
+2017-2018                                     SSC Bhagyashree Vidyalaya and Junior
+College, Amravati
+2019 - 2020HSCB.E ELECTRONICS AND
+TELECOMMUNICATIONS
+SCTR'S Pune Institute of Computer
+Technology - Pune
+2020 - presentArduino based hardware project, which enables blind
+person to navigate through obstaclesSMART STICK FOR BLIND PEOPLE  
+EXTRA CURRICULAR
+Member at PCSB CLUB
+Training & placement coordinator at TnP cell PICT(88.15 %)
+(94.6 % CBSE)(9.44 C.G.P.A)( React JS | Coin Gecko API  )
+(Python | C++ )Developed a real-time Cryptocurrency Tracker web application
+using React and integrated with a Crypto API (RESTful API ),
+enabling users to monitor live cryptocurrency prices and
+market trends.
+Hosted on Render(cloud application hosting )
+github link  
+live websitePROJECTS
+(Hardware - based)Data Structures and Algorithm in C++
+Object Oriented Programming in C++
+Operating System
+Database Management
+Computer Networks
+Network SecurityCOURSE WORK
+EXPERIENCE
+THE SPARKS FOUNDATION  |  INTERN  (FEB - APRIL 2023)
+Developed dynamic websites with various specifications
+Worked on features such as payment gateway integration
+Deploy and maintain websites on hosted networks 
+ACHIEVEMENTS
+Solved more than 400 problems on platforms like Leetcode ,GFG
+,CodeStudio.
+Five star badge on HackerRank.
+Cleared Jee Advanced in 2020.
+Among the top 5 precent in Jee Mains Exam 2020.Github - 
+LeetCode - 
+GeekforGeek - 
+CodeStudio - PROFILE LINKS+91 8767685588 swarajtelkhade@gmail.com Swaraj TelkhadeTelkhade
+Swaraj Telkhade
+Swaraj Telkhade
+Swaraj TelkhadeSwaraj Telkhade

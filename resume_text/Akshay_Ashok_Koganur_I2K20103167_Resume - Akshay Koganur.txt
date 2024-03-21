@@ -1,0 +1,98 @@
+Akshay Koganur
+ +91 9420 718962  ak sha yk oganur @gmail.c om
+Education
+PUNE INSTITUTE OF COM-
+PUTER TECHNOLOGY
+Bachelor of Engineering(B.E) in Informa‑
+tionTechnology
+2020‑2024
+CGPA‑8.49
+Pune
+S.E.S. JUNIOR COLLEGE OF
+ARTS AND SCIENCE
+Class‑12th
+2020
+Grade‑82.77%
+Solapur
+Links
+GitHubakshaykoganur
+îCodeforces akshaykoganur
+îLeetCode akshaykoganur
+Linkedin akshaykoganur
+Skills
+PROGRAMMING LANGUAGES
+Python•JavaScript•C++•Java
+WEB DEVELOPMENT
+HTML•CSS•ReactJs•NodeJs•ExpressJs
+DATABASE MANAGEMENT
+SQL•MongoDB
+VERSION CONTROL
+Git
+DATA STRUCTURES AND AL-
+GORITHMS
+Position of Responsi‑
+bilites
+•Team member of PCSB Data team
+that handled data about organi‑
+zation and events conducted by
+PCSB.
+•Team member‑Campus to Corpo‑
+rateactivityinPCSBXenia.Projects
+PROPERTSY (Code)(Live)
+Mar2023–May2023
+•Propertsy is a comprehensive system that facilitates seamless
+property transactions, including buying, renting, selling, and
+listingproperties.
+•The system optimizes storage using base64 encoding. Images
+are converted to base64 string and then effectively stored in
+MongoDB.
+•Toenableseamlesscommunicationbetweentheclientapplica‑
+tionandtheserver‑side,thesystememploysarobust RESTAPI .
+•Toensurethereliabilityandaccuracyofthebackend,thesystem
+utilizesSupertest forAPItesting.
+•Language and Technology Used: React.js, Node.js, Express.js,
+MongoDB,AntD,MaterialUI .
+PLACEMENT PREDICTION (Code)(Live)
+Sep2022–Oct2022
+•Thiswebsiteprovidesuserswithanestimationoftheirchances
+ofsecuringon‑campusplacements,consideringseveralparam‑
+eterssuchasCGPA,backlogs,internships,andmore.
+•By leveraging the Decision Tree Classification technique, the
+model has been trained to analyze the input parameters and
+makepredictionsregardingplacementoutcomes.
+•Themachinelearningmodelachieved 97%precision .
+•Language and Technology used: HTML, CSS, Python, Flask
+framework,JupyterNotebook .
+BIBLIOFY (Code)
+Dec2022–Feb2023
+•Bibliofy is an online Book store website to purchase books on‑
+line.
+•ReactRedux isusedtoperformcartoperationslikeaddingprod‑
+ucts,buying,etc.
+•RESTAPIisusedtoaccessandsenddatatotheserver.
+•Language and Technology Used: React.js, Node.js, Express.js,
+MongoDB,Bootstrap,AntD .
+MARKWEB (Code)(Live)
+May2022–July2022
+•MarkWeb helps the client to book marketing services online.
+This website contains information about marketing plans and
+userscanbookplans.
+•This website also contains a Login/Signup page and uses Fire‑
+base for the authentication of users. Made User Interface for
+adding the required items to the cart and then completing the
+purchase.
+•Language and Technology Used: HTML, CSS, JavaScript, Fire‑
+base,Netlify .
+Achievements
+•SpecialistatCodeforces andachievedamaximumratingof1482
+by consistently solving complex algorithmic problems and par‑
+ticipatinginregularcodingchallenges. (Codeforces )
+•Achieved a maximum rating of 1791 at LeetCode and ranked in
+thetop8%oftheparticipantsglobally .(LeetCode )
+•Solvedaround900+DSAproblemsatLeetCode,GeeksforGeeks,
+Codeforces,Hackerrank,CodeChef,etc.
+•Achieved898thrankgloballyatCodeforcesRound877. (Link)
+•Achieved1290thrankgloballyatEducationalCodeforcesRound
+140.(Link)
+•Achieved1343rdrankgloballyatCodeforcesRound878. (Link)
+•Achieved1347thrankgloballyatLeetCodeWeeklyContest343.

@@ -1,0 +1,72 @@
+VIRAJ NIMBALKAR
+Pune Institute Of Computer Technology
+virajnimbalkar1311@gmail.com Pune, Maharashtra - India /♀nednhttps:/ /www.linkedin.com/in/viraj-nimbalkar-a3b4a7256
+EDUCATION
+B.E. (CE) - 9.1 CGPA
+Pune Institute of Computer Technology
+ὌJuly 2020 – Currently
+Higher Secondary - 84.31%
+State Board of Secondary Education
+Ὄ2020
+Secondary - 95%
+State Board of Secondary Education
+Ὄ2018
+PROJECTS
+Bank Management System
+•Provides functionalities to create an account
+and transfer money between accounts.
+•Providing services such as mobile recharge.
+•Tech Stack - MySQL, HTML, CSS, Bootstrap,
+Python (Flask).
+Recipe Book - API Based Recipe App
+•Developed a recipe provider app using
+Edamam Recipe search API.
+•Provides detailed recipe information, including
+ingredients, measurements, preparation steps
+and cooking time.
+•Tech Stack - Bootstrap, React.
+Swasthya - Fitness Website
+•Created a basic website to aware people
+about Fitness.
+•Provide basic reports of BMI reports and
+Calorie consumption.
+•Tech Stack - HTML, CSS, Javascript, Bootstrap,
+Django.
+EXTRA CURRICULAR
+•Volunteer at Helpingwings Foundation - A
+foundation based on Social Work with motive
+to help needy people.EXPERIENCE
+Data Engineering Intern
+Bajaj Finserv
+ὌMarch 2023 - May 2023
+•Worked on Web Scrapping utility to scrape required data of
+emerging leaders in Finance industry.
+•Worked with python libraries such as Beautiful Soup and
+Selenium.
+•Performed data preprocessing on dataset for further analysis.
+Problem Setter
+iMocha
+ὌJan 2023 - Currently
+•Monthly tasks included problem setting, test cases generation
+for easy to diﬃcult level problems.
+•Framing of questions on various DSA topics.
+ACHIEVEMENTS
+•Among Top 1 percentile in MHT-CET (2020).
+•3Star on Codechef Max. Rating(1618).
+•Pupil onCodeforces Max. Rating(1289).
+•5Star in CPP HackerRank .
+•Secured 23Rank in Codechef Starters57 among 3300+
+participants.
+•Solved 800+ problems across various coding platforms.
+TECHNICAL SKILLS
+•Languages : C++, Python, SQL.
+•Database : MySQL.
+•Web : HTML, CSS, Javascript.
+•Web-Frameworks : BootStrap, React.
+•Other : OOP, Problem Solving, DSA.
+LINKS
+•LinkedIn: Viraj Nimbalkar
+•Codeforces: virajnimbalkar1311
+•Codechef: viraj1311
+•LeetCode: viraj1311
+•GFG: viraj1311

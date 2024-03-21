@@ -1,0 +1,85 @@
+Last Upda ted on 19th A ugust 2023Shivanjali Mohite
+shiv anjali.mohite26@gmail.c om | +91 -9326002593 | GitHub
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+B.E IN C OMPUTER ENGINEERING
+2021 - 2024 ( Pur suing ) | Pune, India
+Cum. GP A: 9.30 / 10
+DR.D. Y .P A TIL
+POL YTECHNIC,NA VI MUMBAI
+DIPLOMA IN COMPUTER ENGI-
+NEERING
+2021 |Nerul, Na vi Mumbai, India
+D ipl oma Percen tage: 98.46%
+BHARA TI VIDY APEETH
+2018 | CBD Na vi Mumbai, India
+Class X Percen tage: 96.60%
+LINKS
+Codeforces:// Shivanjali
+Leetcode:// shivanjali 2168
+HackerRank:// shivanjali 2168
+LinkedIn:// shivanjali-mohite
+GitHub:// Shivanjali Mohite
+SKILLS
+PROGRAMMING
+•Problem Solving •DSA
+LANGU AGE S:
+•C++
+WEB TECHNOL OGIE S:
+•HTML •CSS•JavaScript
+D A T AB A SE:
+•MySQL
+F AMILIAR:
+•Node.js •Express.js
+•React •MongoDB
+C ORE SUB JEC T S:
+•Data Structures andAlgorithms
+•Object Oriented Programming
+•Database Management Systems
+•Operating System
+CO-CURRICULAR
+ACTIVITIES
+•Volunteered atInCevent ofPICT
+•Member ofPICT ACM Student ChapterEXPERIENCE
+MANASTIK | Software Engineer Intern (Full-Stack)
+Feb 2023 -March 2023| Pune, India
+•Internship invovling MERN stack development
+•Focusing onbuilding responsive andusercentric webapplication using MERN
+Stack
+PROJECTS
+E-COMMERCE PORT AL | See Project
+•Developed afeature-rich e-commerce webapplication using theMERN
+stack withanintuitive admin panel anduserdashboard.
+•Theapplication allows seamless management ofproducts, categories,
+andusertransactions while being integrated withasecure payment
+gateway.
+•Tech Stack: HTML |CSS|JavaScript |React |MongoDB |Express.Js |
+Node.Js |
+BLOOD BANK MANAGEMENT SYSTEM | See Project
+•Developed acomprehensive Blood Bank Management System utilizing
+theMERN stack.
+•It’sfeatures user-friendly admin panel forefficient management of
+organization, donor, andhospital lists.
+•Ensured datasecurity andconfidentiality through authentication and
+authorization mechanisms.
+•Tech Stack: HTML |CSS|JavaScript |React |MongoDB |Express.Js |
+Node.Js |
+NETFLIX CLONE | See Project
+•Thisproject isbasically netflix clone.If recommended movie trailer is
+available onyoutube thenitwillredirect usertoyoutube andshows you
+trailer
+•Tech Stack: HTML |CSS|JavaScript
+ACHIEVEMENTS
+•Acheieved Rank 1inDiploma atDistrict Level
+•Competitive Coding:
+Codeforces: Rated -1015
+•Winner ofDistrict levelElocution Competition Organized by
+Bharati Vidyapeeth Pune (2018)
+•5StarBadge onHackerrank inC++ languages.
+•Participated in25+contests inCodeChef withamaxrating of
+1440 and2star
+•Solved more than350problems onLeetcode.
+CERTIFICA TION
+•FullStack MERN Application Development:Demystified
+Certificate

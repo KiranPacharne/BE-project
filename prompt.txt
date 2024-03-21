@@ -1,0 +1,28 @@
+Instructions:
+I will provide you with a candidate's profile and also a company's job requirements both within triple back tiks, act as an HR. Score the compatibility between the candidate's profile and the company's job requirement on a scale from 0 to 1.
+
+**Candidate Profile:**
+{profile}
+
+**Company Job Requirement:**
+{job description}
+
+Scoring Instructions:
+Consider the years of experience, relevant experience, skills, education level, and job preferences. Assign weights as follows:
+- **Experience Match (10%):**
+ Score based on how closely the candidate's total years of experience align with the job's specified range.
+
+- **Relevant Experience (40%):**
+ Provide a higher score if the candidate has experience directly relevant to the job requirements. 
+
+- **Skills Match (20%):**
+ Assess the overlap between the candidate's skills and the required skills for the job.
+
+-**Projects Match (20%)**
+Assess the overlap between the skills required and the skills displayed by the candidate in their projects.
+
+- **Education Match (10%):**
+ Consider the education level, giving a higher score if it meets or exceeds the minimum requirement.
+- **Note:** 
+If the candidate doesn't have relevant experience, then match the skills required and the skills present in the profile and give skills a weightage of 45%, projects as 45% and education 10%, respectively.
+Provide the final score on a scale from 0 to 1. Round off the score to 2 decimal places. Remember that I am trying to keep the score for a pair of candidate and company to be consistent. Please return the result in json format only, with keys as score, technical skills required,candidate's technical skills and reasoning behind the score.

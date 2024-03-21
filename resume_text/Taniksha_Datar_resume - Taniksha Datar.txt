@@ -1,0 +1,37 @@
+Taniksha Datar ♂phone+91-8805621044
+Email: datartaniksha@gmail.com /githubGitHub Profile
+Education
+•Pune Institute of Computer Technology,Pune 2020-24
+Bachelor of Engineering - Computer Engineering CGPA: 8.91
+•Shri. Mhalsakant Jr. College, Akurdi 2020
+HSC Percentage: 78.77
+•Nirmal Bethany High School 2018
+SSC Percentage: 95.60
+Personal Projects
+•Spotify Recommendation System 2023
+Dveloped a Recommendation algorithm
+–Tools & technologies used: Spotipy,Pandas,Jupyter notebook
+–Retrieved data using SpotipyLibrary from Spotify Web API.
+–Developed a classification algorithm using DecisionTreeClassifier with accuracy of 98% .
+–Created a playlist with recommended songs on users Spotify account.
+•Test Drive Management System 2022
+Website for Car Test Drive Management
+–Tools & technologies used: HTML,CSS,React Js,Node Js,MySQL
+–Customers can book a test drive for their desired car and view their previous test-drive details
+–Manager can access all the booked test drives and approve them.
+Technical Skills and Interests
+Languages : C++,Python
+Developer Tools : VS Code,Eclipse,Jupyter Notebook
+Development : HTML,CSS,React JS
+Databases : MySQL
+Libraries : STL,Numpy,Pandas,Matplotlib,Seaborn,Spotipy,Plotly
+Core Subjects :Data Structures and Algorithms, OOP, DBMS
+Soft Skills : Public Speaking, Presentation Skills,Team Work
+Areas of Interest : Reading, Music
+Paper Publications
+•IRJET Volume 9-Issue 11
+–Student’s Career Interest Prediction using Machine Learning
+Volunteering Experience
+•Student Member PICT ACM CHAPTER(PASC)
+–Organized Pulzion ’22 PASC’s Annual Techfest
+–Organized "Strike Placements with Striver" a Tech Talk

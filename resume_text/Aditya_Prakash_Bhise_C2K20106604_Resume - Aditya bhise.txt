@@ -1,0 +1,82 @@
+Aditya Bhise
+Competitive programmer | A passionate programmer who likes to solve real world problems
+Ɵ adityabhise79@gmail.com |× 9503587 599
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+• BE C ompu ter E ngineering
+Ł J an 2020 t o 2024 – pur suing
+ Pune , Mahar ash tr a
+• CGP A ￿ 9.10 ( upt o 6th semes ter )
+SHRADDHA JUNIOR COLLEGE
+OF SCIENCE & COMMERCE
+• Higher Sec ondary Certifica te ( HSC )
+Ł J an 2018 t o J an 2020
+ Ichalk ar anji , Mahar ash tr a
+• P assed with D is tinction : 85.69 %
+SARASWATI HIGH-SCHOOL
+ICHALKARANJI
+• Sec ondary School Certifica te ( SSC )
+Ł March 2018
+ Ichalk ar anji , Mahar ash tr a
+• P assed with D is tinction : 90.00 %
+LINKS
+a Github Link
+] LinkedIn Link
+͛ Leetcode Link
+COURSEWORK
+•Data Structures andAlgorithms
+•Object Oriented Programming
+•Database Management System
+•Operating System
+•Computer Network
+SKILLS
+LANGUAGES Ĳ
+•C++
+•C
+DEVELOPEMENT TOOLS
+•HTML •CSS
+•JavaScript •BootStrap
+•React •NodeJs
+DATABASES Ɓ
+•MySQL
+•MongoDB
+FAMILIAR
+•Pandas •Numpy
+•Seaborn •MatplotlibPROJECTS
+DOCTOR APPOINTMENT SYSTEM Website Github
+•Project Overview :Developed acomprehensive doctor appointment
+system using theMERN stack, allowing patients toschedule, manage,
+andcancel appointments online, while providing doctors withreal-time
+updates ontheir schedules.
+•Technologies Used :Utilized MongoDB forthedatabase, Express.js for
+thebackend API,React.js forthefrontend interface, andNode.js for
+server-side development. (MERN STACK )
+WEATHER APPLICATION Website Github
+•Project Overview :Iworked onaweather application project that
+aimed toprovide real-time weather information tousers.
+•Theprimary goalwastocreate auser-friendly andreliable application
+thatoffers accurate weather forecasts.
+•Technologies Used :Built theapplication using HTML, CSS,and
+JavaScript framework .Additionally ,weintegrated weather API,such
+asOpenWeatherMap, tofetch up-to-date weather data.
+FOOD WEB APPLICATION , Website Github
+•Project Overview :Designed anddeveloped aninteractive foodweb
+application using HTML, CSS,andJavaScript, creating anengaging
+platform forfoodenthusiasts toexplore various cuisines anddishes.
+•Technologies Used :Built theapplication using HTML, CSS,and
+JavaScript framework .
+POSITION OF RESPONSIBILITY
+NSSBlood Donation Drive Lead
+•Initiated andmanaged acampus-wide blood donation drive
+coordinating withhospitals, donors, andvolunteers.
+•Raised awareness about theimportance ofvoluntary blood donation
+through seminars
+ACHIEVEMENTS
+•Secured State Merit Rank 978with99.26 percentile inMHT-CET
+•Highest rating of998atCodeforce ,which isthetopsiteinterms of
+participation ofprogrammers across globe.
+•Solved 500+ problems onvarious competitive programming platfroms
+InCodechef ,Codeforces ,Leetcode ,Hackerrank ,Geeksforgeeks
+•Secured allGlobal rankof412,Starters 80Division 3,2023-03-08
+respectively inCodechef

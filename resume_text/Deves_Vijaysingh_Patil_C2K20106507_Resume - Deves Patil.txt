@@ -1,0 +1,37 @@
+DEVES PATIL
+Nashik, Maharashtra
+(+91) 9172006962 ⋄patildeves@gmail.com
+EDUCATION
+Sctr’s Pune Institute of Computer Technology, Pune 2024
+B.E Computer Engineering GPA: 8.85
+Nutan Vidya Mandir 2020
+XII (H.S.C) Percent: 79.54
+Sacred Heart Convent High School 2018
+X (S.S.C) Percent: 85.80
+SKILLS
+Programming Languages and Frameworks
+C, C++, HTML, CSS, LaTex, SQL, MongoDB, JavaScript, Solidity, Lua, Python, IPFS, ChatGPT
+Frameworks
+React.js, Web3.js, Pandas
+Languages
+English, Marathi, Hindi
+PROJECTS
+Certificate Validation using Block-chain and IPFS
+•A software to validate issued certificates using Block-chain Technology, IPFS and Web3.js.
+•It uses the IPFS to store the certificates and hash generated is stored on chain.
+Lost and Found Website
+•A user can post the lost items with description and also found objects with description and user
+can identify can claim the lost items.
+•A feature where user can also verify the authenticity of claim is also added in the website where
+user needs to answer the security question.
+Crypto Wallet Website
+•A simulation of Block-chain, Block mining and Wallets using JavaScript and Angular.js.
+•All the features of Block-chain from mining to proof of work is simulated using JavaScript and a
+wallet based on that simulation is made.
+CO-CURRICULAR ACTIVITIES
+InC 2023 Overall Coordinator , P.I.C.T
+InC is the Flagship event of P.I.C.T. This event is platform for all the Engineering Students to showcase
+their Projects and Ideas. I was given the responsibility to handle the whole event.
+InC 2022 Domain Coordinator , P.I.C.T
+InC is the Flagship event of P.I.C.T. This event is platform for all the Engineering Students to showcase
+their Projects and Ideas. I was given the responsibility to handle a particular Domain.

@@ -1,0 +1,50 @@
+SHRIKANT KHARAT      
+Email:shrikant25a@gmail.com                                               
+EducaƟon: 
+ 
+ Pune InsƟtute of computer technology ,Pune                                             2020 -2024 
+BE Computer Engineering 
+CGPA : 9.01 
+ 
+ Late P B Jog Junior College, Pune                                                                    2018-2020 
+Board: HSC 
+Percentage: 83.4 
+ 
+ Podar Interna Ɵonal School , Jalna                                                                    2018 
+Board: CBSE 
+Percentage: 85.4 
+Projects : 
+ 
+ AlgoEasy 
+ Technology used: HTML , CSS , Javascript. 
+ DescripƟon : Responsive E -Learning website build for the student who want to study 
+Data structures and algorithms. 
+ Link : hƩps://animated -chaja-bf2edc.netlify.app 
+ 
+ ANIMEFANSS 
+ Technology used :  MERN stack 
+ DescripƟon : A pla ƞorm for anime lovers where they can share their views on favourite anime 
+character from their login and also can read the views of other people.  
+ GithubLink: github.com/Shri25a 
+ 
+Technical skills  
+ 
+ Languages: C++ , Python ,Javascript ,HTML. 
+ Databases: MYSQL , MongoDB 
+ Web technologies: React Js, Node Js,CSS 
+ Area of interest : DBMS ,Opera Ɵng systems ,Data Structures . 
+ 
+Achievements 
+ 
+ Secured SML(state merit rank) 600 in MHT-CET 2020 out of 4 lakh canditates. 
+ Secured AIR(All India Rank) 30k in JEE-MAINS 2020 out of 9 lakh canditates 
+ Solved 150+ problems on leetcode. 
+ Solved 100+ problems on codeforces,codechef etc . 
+ 
+Links: 
+ 
+ Github: github.com/Shri25a 
+ Linkedin : linkedin.com/in/shrikant-kharat-31a80a218/ 
+ 
+Hobbies :  Watching movies ,playing tennis etc.  
+ 

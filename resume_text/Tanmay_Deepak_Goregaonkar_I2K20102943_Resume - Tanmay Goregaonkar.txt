@@ -1,0 +1,49 @@
+Tanmay Goregaonkar  
+E-ward, Room no 94, Near Ryewood Park, Lonavla 410 -401 
+                                8010804997 |    tanmayg2102@gmail .com   | Portfolio    |    GitHub  |   Linkedin  
+Summary  
+Proficient with Data Structures, evaluation and execution of various algorithmic solutions. Aspiring web developer with a 
+comprehensi ve understanding of HTML, CSS, Javascript and frameworks like ReactJS. Proficient in C++, Object Oriented 
+Programming, D BMS. Ability to analyze business requirements into technical solutions. Looking to start a career as an entrylevel 
+software engineer wit h a reputed technology -driven company  
+Education  
+Pune Institute of Computer Technology,  Pune  Jul 202 0-Jun 2024  
+Bachelor of Engineering in Information Technology  GPA: 8.93 
+DP Mehta Junior College, Pune  Jul 2018 -Jun 2020  
+Higher Secondary School Certificate                                                                                                                                             Percentage:81.61  
+VPS High School, Pune  Jun 2017 -Jul2018  
+Secondary School Certificate  Percentage:84.20  
+ 
+Projects  
+Draw My Code (A DSA Visualizer)  Pune  
+March 16, 2022 – April 22, 2022  
+• An educational site which is intended to help learners struggling to understand and visu alize the working of Data 
+Structures and Algorithms.  
+• Technical Stack : HTML, CSS, Javascript .  
+ 
+Tech -Blogs  
+August 22, 2022 –August 29, 2022  
+• A web application where each user can create its own blogs provided with JWT  authentication and fetching each 
+requested post using Axios . 
+• Technical Stack  : ReactJS, MongoDB Atlas,ExpressJS, NodeJS,JWT.  
+ 
+Melodium  
+June 11, 2023 – June 16, 2023  
+• Implemented Web Application which is useful as a Music Player providing list of songs from various artists with the help 
+of Shazam API   
+• Technical Stack: React JS, Tailwind CSS, Shazam  API.  
+ 
+Technical Ski lls  
+Programming  languages: C++. 
+Coursework  : Data  Structures,  OOP, Database Management System , Operating System . 
+Web technologies: HTML, CSS, Javascript, ReactJS , NodeJS, MongoDB .  
+Tools/Frameworks: Google Colaboratary, Git, Github, VS code,  Render . 
+Achievements  
+• Codeforces  – Pupil (Max Rating 1 326).   
+• Google Kickstart 2022 – Secured Rank 6667 in Round E and Rank 4271 in Round G  
+• Codechef – 3 star (Max rating 1 603) Global Rank : 65 (Starters 69 Division 3 ) 
+• Runner up in Inspiron 2023 Hackathon  oraganized  by PCSB COEP.  
+• Secured 15th rank in Western Union Hackathon 2021 among 100 students.  
+ 
+Languages  
+1. English ,  2. Hindi ,  3. Marathi  

@@ -1,0 +1,85 @@
+Manas Jadhav
+manasj jadha v @gmail.c om | +91 87 79211 76 3 | manasjadha v | ManasJ adha v
+EXPERIENCE
+VIRTUEBYTE  | Web Development Intern
+Sept 2022 – Feb 2023 | Pune, India
+•Worked onMany Different Technologies likeReactJs, NextJs,
+NodeJs, andmany more.
+•Developed andworked onmany different static responsive websites
+forclients.
+•Collaborated fordeveloping backend inNode andSQLdatabase
+design forTask Manager API.
+•Successfully deployed REST APIonanUbuntu server using Digital
+Ocean platform .
+TEDXPICT | Curation Head
+Ma y 2022 – Feb 2023 | Pune, India
+•Managed theCuration team, providing leadership andguidance to16
+juniors forfinding outpotential ideas thatareworth spreading.
+•Conducted thorough research onpotential speakers andweekly
+discussion meets.
+•Contributed totheplanning ofevent, working closely with operations
+team andorganized anoffline event.
+PROJECTS
+EXPENSE TRACKER  | MERN stack project for
+hackathon
+•Developed thistofacilitate easy andefficient tracking of
+personal finances.
+•Designed anddeveloped various reusable andresponsive UI
+components fortheapplication using React.js .
+•Implemented Charts andgraphs forenhanced User experience
+using chartJS
+•responsible forintegrating back-end APIwith front-end for
+seamless andefficient data transfer.
+LIBRARY MANAGEMENT SYSTEM  | MERN Stack
+•Developed thistoimprove theefficiency andorganization of
+library operations.
+•Built theback-end APIusing Node.js andExpress.js ,
+implementing RESTful routes, authentication and
+authorization middleware.
+•Implemented secure authentication androle-based access
+control (RBAC) using JSON Web Token(JWT) forstudents and
+Librarian
+PICT FORUM  | second year PBL project
+•Developed afull-stack webapplication forum forinteraction
+anddiscussion onvarious topics between juniors andseniors in
+covid period.
+•implemented authentication using JWT andbcrypt ,ensuring
+secured access andauthorization.
+•created reusable components using ReactJs andTailwindCSS .EDUCATION
+PUNE INSTITUTE OF COMPUTER
+TECHNOLOGY
+Bachelor of Computer
+Engineering
+J ul y 2020 - presen t | Pune
+CGP A: 9.414
+R.Y.K COLLEGE OF SCIENCE
+Higher Secondary (HSC)
+Apr 2018 - A ug 2020 | Nashik
+Percen tage: 90.4%
+SKILLS
+LANGUAGES
+•C++•Python •JavaScript
+TECHNOLOGY
+•NodeJs •ReactJs
+•MongoDB •SQL
+•ExpressJs •Tailwind CSS
+•Docker •Linux(basic)
+UTILITES
+•Git/Github •Postman
+COURSEWORK
+UNDERGRADUATE
+Object Oriented Programming.
+Database management system.
+Web Technology.
+Data structure andalgorithms.
+ORGANIZATIONS
+•PICT IEEE student branch
+•PICT CSIstudent branch
+EXTRA CURRICULAR
+•partofthecore team thatwon
+purushottam karandak’22 .
+•Handling andmanaging the
+Art-Circle website forcollege.
+HOBBIES
+•Trekking •Cricket
+•Swimming •Reading

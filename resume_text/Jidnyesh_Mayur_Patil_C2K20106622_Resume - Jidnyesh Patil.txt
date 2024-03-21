@@ -1,0 +1,84 @@
+Jidnyesh Patil
+ 7 7 58096996  jidn yeshmpa til2001@gmail.c om Jid_2001
+Education
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+B.E. Computer E ngineering
+2020‑2024 Pune,MH
+•CGPA:9.28
+L. V. H. JUNIOR COLLEGE
+Higher Seconda ry Certificate
+2019‑2020 Nashik,MH
+•Percentage:83.85
+Links
+•Codechef jid_2001
+•Leetocode Jid_2001
+•CodeForces Jid_2001
+•HackerRank Jid_2001
+•GitHubJid_2001
+Coursework
+•DataStructuresandAlgorithms
+•ObjectOrientedProgramming
+•DatabaseManagementSystems
+•OperatingSystems
+•ComputerNetworks
+Skills
+PROGRAMMING
+C++•Java•Python•JavaScript•SQL
+WEB TECHNOLOGIES
+HTML•CSS•Angular•SpringBoot•
+NodeJS•ExpressJS•MongoDB
+TOOLS/LIBRARIES
+•AngularMaterialUI•BootStrap
+•VSCode•Eclipse/STS•Postman
+Activities
+•VolunteeratPICTNSS.
+•StudentMemberatCSI
+StudentchapterPICT.Experience
+BMC SOFTWARE
+Software Developer Intern
+Jan2023–Jun2023 Pune,MH
+•Developed ComponentRelationshipAnalyzer forTrueSightServer
+AutomationProduct.
+•Workedonoptimizationofcomponentdeletionfromtheserverslog.
+•Developedan XMLParser usingJavaDOM toparseinputXMLfiles.
+•Developed RESTfulAPIs usingSpringBoot tofetchdatafroma
+database.
+•UsedAngulartodevelopaninteractiveinterfacefordisplayingobject
+dependenciesandrelationshipreports.
+Achievements
+•SecuredAIR1594 inGATECSE2023
+•Solvedover 1000+problems acrossseveralcodingplatforms.
+•3StaronCodeChef (Max1674).
+•PupilonCodeForces (Max1254).
+•GlobalRank197 inCodechefStarter49.
+•GlobalRank200 inCodechefStarter57.
+•Got99.50Percentilein MHTCET2020 .
+•Got96.30Percentilein JEEMains2020 .
+RecentProjects
+PARIKSHA PORTAL
+Online MCQ Quiz hosting Platform
+•ParikshaPortal isafullstackwebapp Spring‑Boot andAngular
+thatprovidesprofessorsauser‑friendlyplatformtohostquizzesfor
+alloftheircourses.
+•AdmincanView,Add,UpdateandDeletequizzesandquestionfrom
+variouscategories.
+•JWTauthenticationisimplementedforbothusersandadminsto
+ensuresecureauthentication.
+•TechStackused: •Angular•Spring‑Boot•MySQL•PostMan
+DOCTORS APPOINTMENT
+Hospital Management Application
+•DoctorsAppointmentisaplatformdesignedforhospitals,enabling
+patientstobookappointmentsandallowingdoctorstoreviewand
+confirmtheirbookings.
+•Thisprojectefficientlyhandlesvariousaspectsofhospital
+operations,includingpatientregistration,appointmentscheduling,
+medicalrecordsmanagementetc.
+•TechStackused: •HTML•CSS•BootStrap•Express•MongoDB
+MY LEARNINGS
+Notes Taking Platform
+•Developedauser‑friendlyNotesAppwithfocusonsimplicityand
+productivity.
+•Keyfeaturesincludeeasynotecreation,quickkeyword‑based
+revision,andeffectivesubject‑wisecategorization.
+•TechStackUsed: •HTML•CSS•Express•NodeJS•MongoDB

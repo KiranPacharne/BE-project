@@ -1,0 +1,44 @@
+Atharva Soman
+/linkedinAtharva Soman |/githubAtharva |/envel⌢pesomanatharva13@gmail.com |♂¶obile+91 7506400110
+Education
+Pune Institute of Computer Technology Cum. GPA: 9.13
+Bachelor of Engineering - Computer Engineering July 2020 - June 2024
+Work Experience
+RIA Advisory Pune, Maharashtra, India
+Data Analytics Intern Jul 2023 - Oct 2023
+•Creating the ML demo end-to-end for Non-Payment risk automation. POC includes
+EDA, featurization, neural network model, model selection, tuning
+•Creating a POC feature store for NPRA dataset
+•Creating a POC dashboard for NPRA dataset
+•Connecting to Oracle DB, read and write POC
+•Creating a documentation for all components along with the flow and development
+guide for new users
+Technical Skills
+Programming Languages : C++, Python, Java, C, Javascript, SQL
+Technical : Data Structures and Algorithms, Object Oriented Programming, Problem Solving
+Technologies : Docker, Kubernetes, Amazon Web Services, MongoDB, MySQL, scikit-learn, Tensorflow
+Projects /githublink for latest/ongoing (2023) projects
+Hands Sign Classifier |/githublink
+•In this project I have tried to classify human hand signs into 4 categories: thumbs up,
+thumbs down, livelong, thank you.
+•There are two notebooks used: one for collecting the images and other for training and detecting
+the class of images.
+•At the end my model can classify both images and a real time video hand signs efficiently.
+•For future scope I will build an app which will translate the sign language into significant sentence
+Fire Classifier |/githublink
+•Research Project : Built and tested different Hybrid Neural Networks for classifying images containing
+fires as controlled or uncontrolled fires with improved accuracy.
+AutoML Webapp |/githublink
+•Using streamlit, I created a platform for profiling, modeling of any dataset.
+•In this I have made use of pycaret library for modeling and data vis. Front end uses streamlit.
+Sentiment Analysis of Amazon Reviews |/githublink
+•This model classifies reviews into 3 categories: good, neutral, bad
+•This model implements nltk library and a pretrained model of Roberta.
+Book Recommender System |/githublink
+•This project is a platform where readers can view ratings of a book and compare with other books
+•It uses collaborative filtering implementing cosine similarity.
+Courses
+The Data Science Course 2023 by Udemy
+Python for Data Science and Machine Learning by Udemy
+MLOPS Full Course by Udemy
+Flutter and Dart by Udemy

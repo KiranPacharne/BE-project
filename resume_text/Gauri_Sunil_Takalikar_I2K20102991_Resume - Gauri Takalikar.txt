@@ -1,0 +1,36 @@
+Gauri Takalikar
+takalikargauri@gmail.com |9021213962 |Pune
+About Me
+I am a fourth year student pursuing B.E. Information Technology in Pune Institute of Computer Tech-
+nology. I am a passionate and energetic student looking for opportunities that will utilize my skill set and
+challenge me to improve.
+Education
+Pune Institute of Computer Technology July 2020 - June 2024
+Bachelor of Engineering, Information Technology
+Vidya Niketan Jr. College, Chandrapur 2020
+HSC
+Tapti Public School, Bhusawal 2018
+SSC
+Projects
+Driver’s Drowsiness detection system Feb 2022 - May 2022
+- Pioneered a driver drowsiness detection system by leveraging Python libraries like NumPy, OpenCV.
+- Calculated precise Eye Aspect Ratio (EAR) and Mouth Aspect Ratio (MAR) via meticulous 6-point
+reference mapping.
+- Customized with adaptable threshold values for enhanced accuracy, desired sensitivity
+- Championed road safety by preemptively preventing drowsy driving incidents.
+CyrptoTracker Feb 2022 - May 2022
+- An application for iOS and android.
+- Provides overview and statistical information of crypto-currencies.
+- Provides latest related news.
+- Tech: Dart, Flutter, Firebase
+Position of Responsibility
+Worked in Design Team for PCSB Club.
+Volunteered for WiDs 2021 Worldwide Conference.
+Certification
+AWS Cloud Foundations [12219]
+Introduction to Cybersecurity Tools & Cyber Attacks
+Skills
+Languages C++, Python, MySQL, HTML, CSS
+Tools and Frameworks Flutter, Photoshop, Figma
+Coursework Data Structures and Algorithms, Database Management System, Object-
+Oriented Programming.

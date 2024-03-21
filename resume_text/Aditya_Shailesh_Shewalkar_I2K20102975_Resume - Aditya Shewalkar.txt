@@ -1,0 +1,85 @@
+ADITYA SHEWALKAR
+Pune Institute Of Computer Technology
+adityashewalkar16@gmail.com /gtbhttps:/ /github.com/Aditya-Shewalkar /♀nednhttps:/ /www.linkedin.com/in/aditya-shewalkar-01b353207
+Pune, Maharashtra - India
+TECHNICAL SKILLS
+•Problem Solving, C++ , Data Structures and
+Algorithms, Competitive programming.
+•Dart, Flutter, Firebase, Git and Github.
+•Database management systems, MySQL,
+SQLite.
+•Coursework : Operating systems, Object ori-
+ented programming, DBMS, Machine Learn-
+ing.
+ACHIEVEMENTS
+•Solved over 500+ problems on various coding
+platforms like Codechef, Codeforces, Leet-
+code, GeeksforGeeks, Coding Ninjas,etc.
+•3 star at Codechef (max-1712). Pupil at Code-
+forces (Max-1207).
+•Achieved Leetcode rating of 1624.
+•Global rank - 259 in a contest (Starters 43)
+organized by Codechef with 15k+ participants
+around the world.
+•Hosted a technical debate (Gift of Gab) in
+Xenia-21 ( Annual event of PICT CSI Student
+Branch).
+•Played a key role in a group that secured the
+second position in a shark-tank-like business
+planning competition, BPlan (Credenz-23),
+organized by PICT IEEE Student Branch.
+CERTIFICATIONS
+Object Oriented Programming using
+C++
+PICT
+Ὄ2021-Present
+HOBBIES/INTERESTS
+•Books, Movies, Music and Gaming.
+•Automobiles, Driving.
+•Exploring Places,Trekking.
+PROFILES
+•Leetcode : adityashewalkar16
+•Codechef : adityas_16
+•Codeforces : aditya_s_16EDUCATION
+B.E. (IT) - 9.44 CGPA
+Pune Institute of Computer Technology
+Ὄ2020 – Present
+HSC (PCM) - 92.77%
+Adarsh Junior College, Akola
+Ὄ2020
+SSC - 93.00%
+Jubilee English High School, Akola
+Ὄ2018
+EXPERIENCE
+Flutter Developer Intern
+Tiﬃn Valla
+ὌFeb 2023 - May 2023
+•Replicating the design screens using ﬂutter while maintaining
+responsiveness.
+•API integration and state management of the application.
+•Optimizing the code and performing validations.
+PROJECTS
+QuickBriefs
+•News summarization app using Flutter and Flask that uti-
+lizes newsapi.org as the primary data source, fetching articles
+through Flask backend and performing NLP-based summariza-
+tion.
+•Designed an intuitive user interface with news displayed in
+card format, oﬀering category selection for personalized con
+tent viewing. Implemented Riverpod for eﬃcient state man-
+agement in the Flutter frontend, ensuring a smooth user expe-
+rience.Integrated a WebView feature, allowing users to access
+full articles directly from the app.
+•Implemented oﬄine handling to display an internet page when
+the user is not connected to the internet. Enabled easy con-
+tent sharing of summarized news content.
+•Link: https:/ /github.com/Aditya-Shewalkar/News-Summarizer
+Medicine Reminder Application
+•User-friendly Medicine Reminder application using Flutter and
+Sqlite, catering to users’ medication scheduling needs.Implemented
+notiﬁcation feature, ensuring timely reminders for dosage in-
+take.
+•Applied database management system (DBMS) concepts, in-
+cluding joins, to eﬃciently manage and interact with the Sqlite
+backend.
+•Link: https:/ /github.com/Aditya-Shewalkar/Medicine-Reminder

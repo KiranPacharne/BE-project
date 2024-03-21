@@ -1,0 +1,95 @@
+RAHUL SAKHARKAR
+PICT’24 | Data Analyst | Web-Dev
+rahulsakharkar2002@gmail.com /ne+91 8668321059 /♀nednlinkedin.com/in/rahul-sakharkar-706713212
+/gtbgithub.com/RahulSakharkar
+PROJECTS
+Simon Game Github
+•Simon Game is a popular memory-based game
+that challenges players to remember and re-
+peat a series of randomly generated patterns
+of colors and sounds.
+•The game progressively becomes more dif-
+ﬁcult as the sequence length increases. The
+objective is to see how far the player can re-
+member and replicate the patterns correctly.
+•HTML | CSS | Js | JQuery
+Capstone Project Github
+•Analyzed smart device’s usage data, uncov-
+ered trends, and identiﬁed patterns to improve
+Bellabeat’s marketing strategy and beneﬁt
+its customers. Bellabeat is a women’s health-
+focused smart products company
+•R | Spreadsheets | R markdown | BigQuery
+Book Community Website Github 
+•Designed and developed a Book Community
+Application catering to book lovers. Users can
+create accounts, browse books, participate
+in discussions, and provide reviews for spe-
+ciﬁc books, fostering a vibrant and interactive
+reading community.
+•HTML | CSS | Django | Google books API
+CERTIFICATES
+Google Data Analyst Professional Certiﬁ-
+cate
+Google & Coursera
+•Excellent understanding and proﬁciency of
+platforms for eﬀective data analyses, including
+SQL, spreadsheets, Tableau, and R.
+•Strong communication, organizational, and
+analytical skills.
+Fundamentals of Digital Marketing 
+Google Digital Garage
+ACTIVITIES
+Coordinator of BE Photoshoot cum
+farewell event
+•Successfully organized and managed the se-
+nior farewell cum photoshoot annual event
+comprising 600+ seniors . Led a team of 40+
+volunteers and coordinated all aspects of
+planning and execution, including venue se-
+lection, photography arrangements, and enter-
+tainment.
+Volunteered at Blood donation camp and
+special needs children SchoolEDUCATION
+Bachelor of Engineering
+Information Technology
+Pune Institute of Computer Technology | CGPA: 9.26
+ὌJune 2020 - Present
+Higher Secondary Certiﬁcate
+Centre Point School, Katol Rd. ,Nagpur
+Percentage: 95.40
+ὌApril 2018 - June 2020
+Secondary School Certiﬁcate
+Centre Point School, Amravati road bypass, Nagpur
+Percentage: 93.40
+ὌApril 2017 – July 2018
+EXPERIENCE
+Data Science Intern
+LetsGrowMore
+ὌMarch 2023 – April 2023 
+•The project comprises real-life tasks that need to be solved
+using data science and advanced Python libraries. The primary
+goal is to build accurate models that eﬀectively address each
+task.
+•The various tasks are listed as follows-
+• Iris Flowers Classiﬁcation
+• Stock market prediction and forecasting using stacked
+LSTM
+• Image to pencil sketch with python
+•Achieved an accuracy of more than 90% in all the models
+•Python | Jupyter
+•Libraries- Matplotlib | Pandas | OpenCV | Scikit Learn | Seaborn
+SKILLS
+•OOP, C++, Python, Java, R
+•HTML, CSS, JS, JQuery, Bootstrap, Django
+•SQL- MySQL & Big Query
+ACHIEVEMENTS
+•Solved 300+ questions across multiple coding platforms
+•Secured 3rd position at B-plan , our college’s ﬂagship non-tech
+annual event.
+Demonstrated strong strategic acumen in a competi-
+tive auction round, eﬀectively managing a limited budget to
+acquire companies.
+Impressed as a persuasive pitcher for a nutty butter com-
+pany, delivering a compelling pitch to secure investment from
+a shark investor.

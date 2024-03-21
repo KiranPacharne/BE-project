@@ -1,0 +1,49 @@
+Anushka De
+Pune, Maharashtra
+♂phone+91 7972072105 /envel⌢peanushkade22@gmail.com /linkedinhttps://www.linkedin.com/in/anushkade2002/
+Education
+Pune Institute of Computer Technology 2020 - 2024
+Bachelor of Engineering in Information Technology [CGPA of 9.39] Maharashtra, India
+The Orbis School 2018 - 2020
+CBSE [Aggregate of 95%] Maharashtra, India
+Pawar Public School 2008 - 2018
+ICSE [Aggregate of 95.80%] Maharashtra, India
+Experience
+Spring Up Solution June 2023 – July 2023
+SDE Intern
+•The project is to develop an airplane booking system for a travel agency to streamline the flight reservation process and
+enhance customer satisfaction. The system provides a user-friendly interface for both customers and agency staff.
+•I contributed on both the front and back ends of the project. I was given the responsibility of creating APIs for the
+backend. The task was to carry out login functionalities, such as JWT token authentication, user registration, forget
+password, change password, update, and delete user. For sending emails using the forgot password API, I also used AWS
+SES. For frontend, created the admin user dashboard and a simple login page.
+•My responsibilities included unit testing, frontend and API development, and communication with the team lead and
+other team members.
+•Technologies used were - HTML, CSS, React.js, Node.js, Express.js, MySQL.
+Projects
+My College Network April 2021- November 2021
+College group project Pune, India
+•We have successfully created a dynamic and interactive social networking platform tailored specifically for college
+students. Website makes it easy for students to interact and connect with one another.
+•One of the key features I focused on was developing a user-friendly interface exclusively for club administrators. This
+interface empowers them to effortlessly post vital notices within their respective club groups.
+•Additionally, for students interested in joining groups, our platform provides a quick registration process.
+•Technologies used were - HTML, CSS, Javascript, Bootstrap, Django, Firebase.
+IoT based Smart Car Parking System December 2020- February 2021
+Project Based Learning Pune, India
+•The project is an innovative IoT-based car parking system that optimizes parking space utilization and enhances user
+convenience. The system employs various sensors and technologies to provide real-time information about parking
+availability and enables users to reserve parking spots remotely..
+•My role in the project was to create an interface that will show whether a particular parking slot is booked, occupied or
+free and also allow the user to book a parking slot according to their choice.
+•Technologies used were - HTML, CSS, Javascript, Arduino Uno.
+Achievements
+•Certification in Accelerated Computer Science Fundamentals by University of Illinois including the courses-
+Object-Oriented Data Structures in C++, Ordered Data Structures and Unordered Data Structures
+•3 star on Codechef and 5 star in C++ on Hackerrank.
+•Solved 300+ questions on various coding platforms.
+Technical Skills
+Languages : Java, C++
+Database : MySQL, Firebase
+Technologies/Frameworks/Libraries/other : HTML, CSS, Javascript, Bootstrap, Node.js, Express.js, Git, Postman
+Concepts : Data Structures, Object Oriented Programming

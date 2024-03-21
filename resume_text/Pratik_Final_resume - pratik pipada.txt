@@ -1,0 +1,71 @@
+Pratik Pipada
+pr a tikpipada2002@gmail.c om |+91 80106 61310
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+B.E IN C OMPUTER SCIENCE
+2020- 2024 (Pur suing) | Pune,India
+C um. GP A : 9.36 / 10
+RBNB JUNIOR
+COLLEGE,SHRIRAMPUR
+2018- 2020 | SHRIR AMPUR, INDIA
+Class XII Percen tage: 78%
+ST JOHN'S SCHOOL,RAHATA
+2018 | R AHA T A , India
+Class X Percen tage : 90%
+LINKS
+Hackerank:// pratik-424
+Leetcode:// pratik-424
+LinkedIn:// pratikpipada
+Codechef:// pratik-1765
+Codeforces:// pratikpp123
+SKILLS
+Pr ogr amming
+•Problem Solving
+•DSA
+•OOP
+LANGU AGE S:
+•C
+•C++
+WEB DEVL OPMENT :
+•HTML
+•CSS
+•PHP
+•Javascript
+C ore S ubjects:
+•DBMS
+•Operating SystemsPROJECTS
+HOSTEL PORTAL
+•Developed auser-friendly website forcollege hostel.It helps to
+store andmanage student information andrecords inaconvenient
+andorganized manner.
+•Thewebsite incorporates auserauthentication system where the
+individuals canregister andloginbyproviding their credentials.
+•Web pages aredesigned tohandle specific functionalities suchhas
+todisplay vacancies ofrooms,also ithasdetails ofboys andgirlsin
+thehostel .
+SORTING ANALYZER
+•Designed anintuitive userinterface withresponsive design,
+allowing users tocontrol andvisualize sorting processes inreal
+time. .
+•Demonstrating ablend oftechnical skills, algorithmic knowledge,
+anduser-centric design..
+•Sorting algorithms might seem complex, butwith visualizations,
+theybecome easyforunderstanding.
+ACHIEVEMENTS
+•Won 1stprize inideathon forpresenting startup ideaofjob
+recruiting process
+•Pupil onCodeforces withrating of1258
+•5*Badge onHackerrank (C++)
+•Secured Global Rank 390 among 10000+ participants inthe
+Codechef September 2022 lunchtime
+•Scored 99.684%ile inMHT-CET 2020
+•Solved over1000 problems ondifferent coding platforms.
+•3*Coder onCodechef.
+ACTIVITIES
+•Lead Volunteer inXe-Natus event ofXenia (PCSB CSICLUB)
+•Participated invarious coding competitions .
+•Active member of(PICT CSISTUDENT BRANCH).
+HOBBIES
+•Playing Cricket andVolleyball
+•Competitive Programming

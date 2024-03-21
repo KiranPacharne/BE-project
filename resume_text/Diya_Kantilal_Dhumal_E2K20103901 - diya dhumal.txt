@@ -1,0 +1,43 @@
+PROFILE
+ACADEMIC PROJECTS EDUCATION
+SKILLS
+CERTIFICATIONSdiya dhumaldhumaldiya5@gmail.com9373058477DIYA DHUMAL.
+ 
+Tech-Stack: HTML, CSS, JavaScript.
+Project aimed at providing users with a seamless and
+intuitive platform to browse, search, and purchase a
+wide range of books. The project is developed using
+HTML, CSS, and JavaScript, and it offers a user-friendly
+interface with responsive design, ensuring a consistent
+experience across various devices.Bachelors's Degree in Electronics and
+Telecommmunication
+CGPA - 9.27                              2020 -Present.
+HSC Maharashtra State Board  -     2020
+Percentage:-   87.08%
+Programming Languages : Java, C++
+Frontend: HTML,CSS,JAVASCRIPT
+Backend: MySQL, Servlet, JSP
+Data Structures and Algorithms
+Object-Oriented Programming
+(OOP).
+Project Management: Agile
+MethodologyBookShelf : An online bookstore 
+Easymed : Heathcare PortalPune Institute Of Computer Technology,Pune
+Late Sahebrao Phadtare Junior College.Highly motivated and results-driven Bachelor of Engineering student specializing in
+Electronics and Telecommunication, eager to leverage my technical skills and passion to
+contribute in innovative projects.
+Bhairavnath Vidyalaya, Bhigwan.
+SSC Maharashtra State Board  -     2018
+Percentage:-   95.60%Electronics and Telecommunication Undergraduate at PICT,Pune
+OOP USING C++
+SUDOCODE(Technical compitition of
+PICT CSI Student Branch).Tech-Stack: Frontend-HTML, CSS, JavaScript, Bootstrap
+Servlet , JDBC ,MySQL-Database.
+Server– Apache tomcat server
+Tools – Eclipse Ide, MySQL workbench
+An end to end portal for patient registration, organizing
+information and fixing appointments with healthcare
+professionals.
+EXTRA CO-CORREICULAR ACTIVITIES
+PICT CSI STUDENT BRANCH:
+               Video and Design Team member.

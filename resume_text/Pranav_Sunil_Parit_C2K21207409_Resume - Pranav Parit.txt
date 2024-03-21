@@ -1,0 +1,44 @@
+PRANAV PARIT
+/envel⌢peparitpranav@gmail.com ♂phone+91 70586 13042 /linkedinPranav Parit /github@paritPranav
+ Pranav Parit
+Education
+Pune Institute of Computer Technology Pune, IN
+Bachelor in Computer Engineering GPA: 9.16 Jul 2021 - Jun 2024
+Institute Of Petrochemical Enginering Raigad, IN
+Diploma in Computer Engineering GPA: 9.80 Jun 2018 - Jun 2021
+AGPV High School, Vahagaon Karad IN
+SSC Percentage: 90.00 May 2018
+Projects
+SP News /gl⌢be
+Tech Stack: Node js, Express js, React js, mongo DB
+•Built dynamic e-news website , which delivers categorized news content in theMarathi language
+•Designedadmin panel for CRUD operations and client-side for news display on SP News.
+•65000+ views and16000+ users in 5 months.
+•Successfully generated ad-revenue exceeding INR 50,000 .
+Helping Hands /github
+Tech Stack: React, Node, Express, MYSQL
+•Developed a dynamic web application enabling users to create posts for individuals in need and
+volunteers to help needy people .
+•Application includes features such as uploading posts, searching nearby, requirement filters , etc.
+•My role included UI/UX designing, frontend development, API integration, and backend development.
+Other small scale projects /github
+SSC Result Automation(Web-Scraping), Electricity Management System, E-commerce website of online
+fashion shop etc.
+Skills
+Programming Languages: JavaScript, C++, Java
+Web Development: Node.js, Express js, HTML, CSS, React js, PHP
+DBMS: MySQL, MongoDB
+DevOps: Linux & Windows Administration, Git/GitHub
+Cloud: AWS
+Achievements
+•SecuredMaharashtra state rank 128th in Diploma batch 2021 among 130000+ students.
+CODAY | 1st Prize
+•Coday was a hackathon conducted by NICE system.
+•Solved the problem statement where we have to calculate votes among different constituencies and
+display accurate result injava.
+Extra Curricular
+PICT ACM STUDENT CHAPTER Pune, IN
+OJ Lead April-may 2023
+•Worked as Online judge platform lead .
+•300+Users in single day.
+•Contributed in front end of platform as well as overall management of events held on the platform.

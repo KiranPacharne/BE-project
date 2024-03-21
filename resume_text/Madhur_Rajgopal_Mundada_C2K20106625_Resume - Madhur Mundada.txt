@@ -1,0 +1,47 @@
+MADHUR MUNDADA
++91 9403540394 ⋄Gmail ⋄Linkedin ⋄Github
+EDUCATION
+B.E. in Computer Engineering 2020-2024
+Pune Institute of Computer Technology, Pune CGPA: 9.13
+Higher Secondary Education, CBSE 2018-2020
+Rajarshi Shahu Mahavidyalay Latur Percentage: 93.6
+POSITIONS OF RESPONSIBILITY
+PICT IEEE Student Branch - Joint Secretary
+•Contributed as a vital member of the admin team that effectively executed the annual event CREDENZ’23,
+attracting 4000+ participants nationwide to engage in a multitude of technical and non-technical sub-events.
+•Organized various sessions, workshops, bootcamps and Intra-college event named Credenz Tech Dayz (CTD).
+•Worked as Question Setter in ENIGMA, the flagship event of PISB.
+Pictoreal - PictoSocial Head
+•Led and supervised a team of over 100 members during a blood donation camp held at PICT.
+•Facilitated and coordinated visits to orphanages and schools for the specially-abled.
+•Arranged a Career Guidance initiative at Government schools to help underprivileged students.
+GameDevUtopia - Marketing Head
+•Managed Finances of Gamedevutopia and significantly expanded reach of club, resulting in a much wider audi-
+ence for games developed by us and domain of game development.
+•Successfully orchestrated sponsorships for the annual Game Development event GLITCHED.
+PROJECTS
+Theater Management System
+•Developed a dynamic website leveraging Python, JavaScript, and CSS, integrated with a MySQL database.
+•The website offers comprehensive functionality related to a theatre, encompassing various aspects such as halls,
+available movies, current showings, price lists, and booked tickets.
+Tourist Spot Finder
+•Tourist Spot Finder is a web application designed using React.js, deployed on Firebase and integrated diverse
+APIs to facilitate the discovery of desired destinations, access weather updates, and explore lodging options.
+•A user-centric platform enabling to locate popular tourist destinations through a diverse array of filters.
+Basket-VR
+•Developed a Virtual Reality experience game using Unity-VR-Core, C #scripting, UI and basic AI.
+•Implemented a dual-mode structure, encompassing a ’Practice Mode’ comprising three progressive levels, and a
+’1 vs 6’ mode challenging users to outmaneuver six AI-driven opponents and score baskets.
+SKILLS
+Languages C++,C #, LUA
+Technologies HTML, CSS, Bootstrap, Unity 3D
+Databases MySQL, MongoDB
+Problem Solving Competitive Programming
+Soft Skills Leadership, Teamwork, Planning, Communication Skills
+ACHIEVEMENTS
+•Winner of CODEMIN, an advance code writing and optimising competition in Tantrafiesta at IIIT,Nagpur
+•Finalist of CODEMANIA 3.0, a competitive programming competition conducted at MMCOE, Pune
+•Completed 50-hours workshop of Virtual Reality in Unity conducted by AppyMonkeys.
+•3 Star coder with highest rating of 1785 on CODECHEF
+•Global Rank 24 in ’April Long Two 2022’ which had 10000+ participants.
+•Secured 99.67 percentile and AIR 441 in MHT-CET 2020

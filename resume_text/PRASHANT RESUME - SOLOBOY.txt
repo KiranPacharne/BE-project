@@ -1,0 +1,29 @@
+Prashant Sanjivan Shelar  
+   prasha ntshelar2003@gmail.com  
+  Indian 316175247 
+Profile  
+I am an ambitious and hard -working person, looking to kickstart my career in an esteemed organization and 
+incorporate my skills and experienc ing a high -level professional environment.  
+Education  
+2020 – present                        Bachelor of Engineering  in Electronics and Te lecommunication.  
+        SCTR'S Pune Institute of Computer Technology,  Pune.  
+2020  12th(HSC)  
+Late Vimalbai Gaikwad Junior College , Gaikwad Jalgaon.  
+ 
+Percentage : 84. 00 
+2018                                         10th( SSC) 
+Bhagwan Vidyalaya , Balamtakali . 
+   Percentage : 87.20 
+Skills  
+ 
+Projects  
+Online Quiz Application : 
+In this project, we created a GUI based Quiz application by using Advanced JAVA programming, which take s 
+the input of use r as name an d start a qui z. In the qui z 1 lifeline is available and 15 second s for each 
+question.  After completi ng the quiz,  it displays th e score of the user . 
+ 
+ 
+ 
+ 
+ 
+ 

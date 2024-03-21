@@ -1,0 +1,76 @@
+ 
+ 
+ 
+ 
+   LinkedIn Profile  
+ 
+ 
+ 
+ 
+ 
+ 
+ yash.dhavale2010@gmail.com  
+  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+Traffic Prediction and Analysis using ML    Link 
+-Analyze the traffic based on a number of junctions  from 
+the given dataset.  
+-Used Recurrent Neural Network to train the model and 
+for analysis.  
+-Visualization Tools: Seaborn, Matplotlib, Scikit -learn . 
+ 
+Mental Health Treatment Prediction of Tech Employees  
+-Developed a model to predict whether an employee 
+needs treatment or not.  
+-Various features were analysed using ‘Feature 
+Engineering’.  
+-Visualization Tools: Seaborn, Matplotlib, Scikit -learn . 
+-Model used: Logistic Regression  
+ 
+Fifa W orld Cup Analysis   Link 
+-Performed EDA  
+-Model used: Linear Regression  
+ 
+Developed a chrome extension for latest Tech News  
+ 
+ 
+  
+ 
+ 
+  
+  
+  
+Teamwork and Time Management Skills  
+Problem Solver  
+ 
+                               
+  
+Development : HTML, CSS, ReactJS, ExpressJS  
+Database: SQL, MongoDB  
+Machine Learning : Using Python libraries, 
+Pandas, Numpy, sklearn.  
+Cloud: AWS, Azure  
+  
+ 
+ 
+C E R T I F I C A T E S  A N D  
+A C H I E V E M E N T S  
+ Learn Python: The complete Python 
+Programming Course on UDEMY  
+ “Python Essentials on Data Science” 
+organized by PICT, Pune  
+ “Introduction to CyberSecurity Tools and 
+Cyber Attacks” on Coursera  I N T E R E S T S  
+ Machine Learning, Data Science  
+ Cloud Computing  
+ Development and Analysis  

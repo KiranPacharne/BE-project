@@ -1,0 +1,41 @@
+Pratik Jadhav
+♂phone+91 8888254427 /envel⌢pepratikjr1@gmail.com /linkedinpratik-jadhav /githubPratik-geek
+Summary
+Information Technology student with excellent problem solving skills and ability to perform well in team.
+Passionate about programming and technology.
+Education
+Pune Institute of Computer Technology CGPA: 8.6
+Bachelor of Engineering in Information Technology 2020 - 2024
+Nutan Vidyamandir, Bhagur Percentage: 81.38
+HSC (12th) 2020
+Maratha High school, Nashik Percentage: 92.20
+SSC (10th) 2018
+Experience
+Barclays June 2023 - August 2023
+BA3 Intern On-site
+•Worked as a frontend developer and developed functionalities for trading application.
+•Implemented and developed different functionalities such as pagination, form submissions, applying filters, etc.
+•Developed the application using ReactJS.
+Projects
+Trade Management App |ReactJS, TypeScript, Material UI June 2023 - August 2023
+•Developed an web application using ReactJS andSpring Boot for managing the trades.
+•It is an API based application which powers the admin to insert and modify the trade records.
+•The App dynamically displays trade records in the table and significantly reduces the time required to modify
+a particular record.
+Messaging App |Kotlin, Firebase April 2022 - May 2022
+•Developed an Android application for chatting with friends and families.
+•The Application is developed in Kotlin and supports user authentication using Firebase API.
+•The App uses the RecyclerView to display the user list.
+Covid-19 Tracker |Javascript, Bootstrap, Chart.js June 2021 - July 2021
+•Covid-19 Tracker is web based Application for fetching and displaying Covid-19 Statistics of any particular
+region.
+•It is an API based application for enabling the user to visualise the statistics of Covid-19 pandemic in
+Graphical representation.
+•It visualizes the data using the Javascript library Chart.js
+Technical Skills
+Languages : C, C++, Kotlin, JavaScript, TypeScript
+Developer Tools & Technologies : MySQL, Firebase, MongoDB, Android studio, Git, Github
+Framework & Libraries : ReactJS, Node.js, Bootstrap
+Achievements and Extracurricular
+•Secured 98.86 percentile among 150K+ students in MHT-CET exam
+•Volunteered at PICT InC event

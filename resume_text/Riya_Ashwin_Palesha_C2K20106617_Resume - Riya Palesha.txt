@@ -1,0 +1,78 @@
+RIYA PALESHA
+riyapalesha07@gmail.com /ne(+91) 7264004500 /♀nednriya-palesha /gtbgithub.com/riyapalesha
+EDUCATION
+BE in Computer Engineering
+Pune Institute of Computer Technology
+Ὄ2020 – Present CGPA : 9.56
+BSc in Programming and Data
+Science
+IIT Madras
+Ὄ2020 – Present CGPA : 8.81
+Class XII
+S.M.Choksey High School and Junior
+College
+Ὄ2018 - 2020 94.62%
+SKILLS
+C++ Python Java
+HTML CSS Javascript React
+Nodejs Bootstrap
+SQL MongoDB
+VS Code Eclipse IntelliJ
+Problem Solving Teamwork
+Project Management
+COURSEWORK
+•Data Structures and Algorithms
+•Object- Oriented Programming
+•Operating Systems
+•Database Management Systems
+•Computer Network Systems
+ACHIEVEMENTS
+•Solved 500+ problems across various
+platforms.
+•Secured 99.60 percentile in MHT-CET
+and was ranked under 500 in my state
+among 1.6 lakh students.
+EXTRACURRICULAR
+•Member of PCSB: Contributed to
+organizing and participating in various
+club events, fostering collaboration and
+knowledge-sharing among members.EXPERIENCE
+Summer Intern
+Barclays
+ὌJune 2023 – August 2023 Pune
+•Designed and implemented automated Jira workﬂows using Groovy
+scripts on Jenkins
+•Streamlining Jira issue management processes and ensuring timely
+resolution of critical issues.
+•Contributed to the frontend for the development of a dynamic
+dashboard by writing React code.
+PROJECTS
+Result Analyser - Team Project
+Tech Stack: React, YAKE!, Flask, Python
+•Implemented an automated system to evaluate student answer
+sheets.
+•Developed a robust evaluation criteria considering variations in
+phrasing, ensuring precise grading.
+•Contributed in developing the NLP algorithm as well as in frontend.
+Result Visualizer - Team Project
+Tech Stack: React, ChartJS
+•Developed a dynamic and data-driven website using Reactjs to
+visualize and analyze student data of college.
+•Leveraging Chartjs to present insights through interactive
+visualizations.
+Netﬂix Clone
+Tech Stack: HTML, CSS, React, NodeJS, MongoDB
+•Developed a Netﬂix Clone web application utilizing HTML, CSS,
+React, NodeJS, and MongoDB, replicating the functionalities of the
+popular streaming platform.
+•Implemented a secure Rest API with NodeJS and MongoDB,
+incorporating JWT for authentication
+Automated Performance Analysis of Shortest Path
+Algorithms on Directed Graphs - Team Project
+Exploratory Project
+•Conducted comprehensive analysis of shortest path algorithms:
+Dijkstra’s, Bellman-Ford, and Floyd-Warshall, on a range of directed
+graphs.
+•Developed an automated code to generate random directed graphs
+and measure the execution time for each algorithm to determine the
+shortest path and its weight.

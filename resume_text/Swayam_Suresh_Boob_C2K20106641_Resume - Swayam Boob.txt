@@ -1,0 +1,84 @@
+Swayam Boob
+Tech E n thusias t | Pr ogr amming Pr oblem Sol ver
+s w a y amboob96@gmail.c om | +91 93 70838144 | LinkedIn
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+B.E Computer Engineering
+2020- 2024 | Pune, India
+CGPA :9.66/10
+K.T.H.M COLLEGE
+Class XII HSC Science
+Percentage: 87.23%
+2018- 2020 | Nashik , India
+L.V.HIRAY MAHAVIDYALAY
+Class X SSC
+Percentage: 96%
+Nashik , India
+SKILLS
+PROGRAMMING
+Languages:
+•C/C++ •JavaScript
+Technol ogies:
+•ReactJS •NodeJS •ExpressJS
+•MySQL •Velocity
+F amiliar:
+•Git
+•VSCode
+CS FUNDAMENTALS
+•Data Structure andAlgorithm
+•OOP andProblem Solving
+•Database Management (DBMS)
+LINKS
+CODING PROFILE:
+•Codechef
+•Codeforces
+•Leetcode
+CERTIFICATION
+•MERN Fullstack development.
+•Data Structures &Object Oriented
+Programming withC++
+HOBBIES
+•3Dmodeling andVideo editing
+•Game developmentEXPERIENCE
+SIEMENS DIGITAL INDUSTRIES SOFTWARE INDIA
+Software Engineering Intern
+J une 2023 - J ul y 2023 | Pune, India
+•Automation inProcessing ofPatch Request Creation andApproval.
+•Worked onSiemens internal product- Polarion (Web-based application).
+•Worked ontheCreation ofanActive Questionnaire forQuality engineering.
+Front-end: Velocity, SurveyJs |Backend: Lucene, Javascript
+BAJAJ FINSERV
+Byte-spark intern | Blockchain Development
+March 2023 – Ma y 2023 | Pune, India
+•worked onCreation ofPrivate Blockchain using Geth
+•Worked under theguidance ofNational Head-IT fornode creation in
+blockchain.
+•Fullstack project which maintain therecords ofReward system inthe
+blockchain.
+Tech Stack: Geth, React, Node.js.
+TECHNICAL PROJECTS
+TECH-LANCES | Career guide
+•Implemented aninformative website toguide students about different
+technical domains andtheir roadmaps.
+•Developed withdifferent sections containing resource androadmaps to
+guide students
+Tech Stack: ReactJS, CSS,Node.js.
+ETHPOCKET | Blockchain wal let
+Presen ted in Final R ound o f AIT hack a thon- innerv 7
+•Created Web3 application using React.js
+•Support forConnecting toMeta Mask Wallet, LiveNews Aggregations, Real-Time
+Graph Fetching, Seamless QRCode andtransferring cryptocurrency toother users
+byweb3
+•Developed smart contract foradding transactions toBlockchain andkeeping track
+ofaspecific user’s transaction history
+Tech Stack: ReactJS, solidity, web3.0,node.js.
+Deployed Link: https://ethpocket.vercel.app/
+ACHIEVEMENTS
+•2ndinIITMadras Game Development competition -Genesiss Jam.
+•Finalist inInnerve7 National Hackathon hosted byAIT
+•Runner-up inReverse Coding Programming Contests inPASC event 2022. (Team
+participation)
+•Finalist inCODEFT Programming Contest
+•Rank 1458 inICPC India 2021 Preliminary Online Round
+•Global rank2400th inKickstart Round B2022

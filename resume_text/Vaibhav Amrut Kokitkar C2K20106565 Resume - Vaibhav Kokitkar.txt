@@ -1,0 +1,94 @@
+Vaibhav Kokitkar
+ 91 72359273  v aibha v ak okitk ar00 7@gmail.c om LinkedIn
+Education
+PUNE INSTITUTE OF COM-
+PUTER TECHNOLOGY
+B.E. Computer
+2020‑2024 Katraj,Pune
+•CGPA:9.31
+P ACE JR. SCIENCE COLLEGE,
+DADAR
+HSC 12 TH
+2017‑2019 Mumbai,MH
+•CET:99.15percentile
+•HSC:81.23%
+SACRED HEART CONVENT
+HIGH SCHOOL
+SSC 10 TH
+2017 Ratnagiri,MH
+•SSC:92.40%
+TechnicalSkills
+PROGRAMMING
+LANGUAGES
+•C/C++•JavaScript
+DA T ABASE
+•MySQL•MongoDB
+TECHNOLOGIES
+•Front‑end: HTML,CSS,React.
+•Back‑end: Node.js,Express,
+PHP.
+•Tools: Postman,Git.
+Highlights
+•AcademicAchievement: Secured
+3rdRankinFirstYearEngineering
+withanoutstanding10CGPA.
+•Coding:Activelysolvedmorethan
+400+codingquestionsonLeetCode
+andGeeksforGeeks.
+•CoreTeamMember: PISB,PCSB.
+•LanguageProficency: English,
+Hindi,Marathi.
+•Hobbies: Football,Cricket,
+Travelling.
+•Certificates:
+–FullStackWebDevelopment
+DemestifiedByMagicFlare.
+–MasteringDataStructures&
+AlgorithmsusingCandC++.Experience
+WEB DEVELOPMENT INTERN
+BizzFlyServices
+March2023–May2023 Pune,MH
+•Spearheaded Frontend development, creating dynamic and
+user‑friendlywebpages.
+•UtilizedPHPasthebackendtechnology,seamlesslyintegrating
+andexecutingqueriesforenhancedfunctionality.
+RecentProjects
+VNEWS
+Tech Stack: HTML, C SS, JavaScript, React
+VNEWSisadynamicwebplatformdesignedtokeepusersinformedabout
+recentaffairs,innovations,andchanges.
+•Real‑timeupdatesonrecentaffairs,innovations,andrulemodifications
+•NewsfiltrationbasedoncategorieslikeEntertainment,Sports,and
+Health.
+IDISCUSS
+Tech Stack: HTML, C SS, JavaScript, PHP
+DISCUSSisaninteractivediscussionforumdesignedtofacilitate
+communicationandcollaborationamongprofessionalsandnewcomersin
+thetechworld.
+•Real‑timecommunicationtofosterquickresponsesandactive
+engagement.
+•User‑friendlyinterfaceforseamlessnavigationandbrowsing.
+SNAPPY
+Tech Stack: HTML, C SS, JavaScript, React, NodeJs, MongoDB
+SNAPPYisareal‑timechatapplicationdesignedtoprovideseamlessand
+interactivecommunicationforusers.
+•Real‑timechatfunctionalityforinstantaneouscommunication.
+•BackedbyNode.js,enablingefficientandresponsivebackend
+operations.
+THE FIT CLUB (ON GOING)
+Tech Stack: HTML, C SS, JavaScript, React
+TheFitClubisanongoingwebprojectthataimstopromotehealthand
+fitnessthroughanappealinganduser‑friendlywebsite.
+•StrikingUIdesignwithcaptivatinganimationsandapleasingcolor
+scheme.
+Responsibilities
+VNL HEAD
+PIC T C SI Student Branch
+Jul2022–Aug2022 Pune,MH
+•Oversaweventlogistics,participantregistrations,andensured
+smootheventoperationsthroughoutitsduration.
+DESIGN & MANAGEMENT HEAD
+ADDIC TION’22
+March2022–April2022 Pune,MH
+•Ledthedesignandmanagementteamfor”ADDICTION’22,”the
+culturaleventofPICT.

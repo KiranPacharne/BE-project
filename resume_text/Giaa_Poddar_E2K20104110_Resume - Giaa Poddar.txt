@@ -1,0 +1,45 @@
+Giaa Poddar  
+  Contact: +917043122957   
+Email: giaa.poddar@gmail.com    
+  LinkedIn: https://www.linkedin.com/in/giaa poddar     
+  EDUCATION:  
+    
+  Savitribai Phule Pune University - SCTR’s Pune Institute of Computer Technology (PICT), P une  February 2021 -Present     
+ (Bachelor of Engineering in Electronics and Telecommunication)  GPA: 9. 2  
+    
+  Delhi Public School, Surat  (All India Senior Secondary Certification Examination)   July 2020  
+95.2%  
+  
+  Delhi Public School, Surat  (All India Secondary Certification Examination)  June 2018   
+93.6%  
+  
+ 
+SKILLS:  
+Programming Languages :        Python, C++ , MySQL  
+ Hardware :  Proteus, Multisim   
+ Soft Skills :      Leadership, Designing, Event Management, Logistics and Operations    
+   Software:    Adobe Photoshop, Adobe Illustrator   
+ 
+ 
+   PROJECTS:     
+Pre-Testing Registration System using Speech Recognition    
+- Python based system  to directly store an individual's information by recognizing speech input after 
+a text ual and  audio prompt . 
+- This application works in both English and Marathi.  
+- The stored data can be used for further analysis.  
+ 
+Game genix 
+- A Python -based  Gaming Arcade program allowing a user, with sufficient ‘coins ,’ the option to play 
+single or multiplayer games .  
+- It also allows the user a way to earn more coins .  
+- These coins are stored in a backend  MySQL  database mapped to the user’s username.  
+ 
+           
+EXTRACURRICULAR ACTIVITIES:    
+• Class Representative, acting as an intermediatory between faculty and students.   
+• Leading and coordinating a team of 10+ members as the Design Head at official TEDx club of PICT , and contributing in 
+various decisions  as a Core Team member.  
+• Volunteered for a nd engaged in numerous logistics and operational tasks for Impetus and Concepts (InC), the largest 
+technical event at PICT.  
+• Aided in various technical events as a student member at PCSB (PICT CSI Student Chapter).  
+(12th Project)

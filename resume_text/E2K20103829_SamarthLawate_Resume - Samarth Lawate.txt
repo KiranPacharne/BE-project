@@ -1,0 +1,110 @@
+Samarth Lawate 
+Electronics and Telecommunication Engineering Undergraduate 
+I aim at pursuing a successful and self satisfying career which will provide opportunities of gathering knowledge, self development and
+helping my organization's business growth to the best of my abilities. 
+lawatesamarth00@gmail.com 
++91-7972943829 
+Pune, India 
+linkedin.com/in/samarth-lawate 
+EDUCATION 
+Bachelor of Engineering - Electronics and
+Telecommunication 
+Pune Institute of Computer Technology, Pune 
+01/2020 - Present
+, 
+ 
+8.65 
+Higher Secondary Certiﬁcate (HSC) 
+A . D. Joshi Junior College, Solapur 
+07/2018 - 07/2020
+, 
+ 
+81.54% 
+Secondary School Certiﬁcate (SSC) 
+Bharati Vidyapeeth, Solapur 
+06/2012 - 06/2018
+, 
+ 
+91.6% 
+PERSONAL PROJECTS 
+Expense Tracker 
+A system for tracking expenses and income is the foundation of this
+project. 
+The goal of this project is to provide a simple, quick, and seamless
+tracking system between expenses and revenues. 
+Tech-Stack
+ ReactJs, NodeJs, MongoDB, HTML and CSS
+ 
+Resume Builder 
+A Resume Builder app using 
+React.js 
+is a web application that
+allows users to create, edit, and download their professional
+resumes 
+The app provides a 
+user-friendly interface
+ where users can input
+their all information. 
+Then the app generates a well-formatted resume that can be
+downloaded in 
+PDF
+ format 
+Tech-Stack 
+ReactJs, HTML, CSS, Heroku server
+ 
+WORK EXPERIENCE 
+Web developement Intern 
+Vodafone Intelligent Solutions 
+08/2022 - 10/2022
+, 
+ 
+Pune, India 
+Worked on developing a Hospital Management System. 
+The primary goal of an HMS web app is to 
+digitize
+ and
+automate
+ various healthcare facilities. 
+Tech-stack 
+HTML, CSS, Bootstrap, Nodejs
+,
+ Mongodb
+ 
+SKILLS 
+C++ 
+HTML 
+CSS 
+Javascript 
+ReactJs 
+NodeJs 
+MongoDB 
+Problem Solving 
+DSA 
+Python 
+DBMS 
+OOP 
+SQL 
+ACHIEVEMENTS 
+Solved more than 1000+ problems on various coding
+platforms 
+3 Star Coder on Codechef 
+C++ 
+5 Star Coder on Hackerrank 
+C++ , Python, SQL 
+Pupil at Codeforces 
+C++ 
+District level Kho-kho player and once selected for
+State Kho-kho team 
+LANGUAGES 
+English 
+Full Professional Proﬁciency 
+Hindi 
+Full Professional Proﬁciency 
+Marathi 
+Native or Bilingual Proﬁciency 
+INTERESTS 
+Problem Solving 
+Competitive Programming 
+Cricket 
+Calligraphy 
+Achievements/Tasks 

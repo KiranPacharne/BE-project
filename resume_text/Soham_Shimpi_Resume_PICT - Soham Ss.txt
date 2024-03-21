@@ -1,0 +1,38 @@
+SOHAM SHIMPI
+Tech Enthusiast
+/githubSoham Shimpi |/linkedinSoham Shimpi |/envel⌢peshimpisoham.24@gmail.com |♂¶obile+91 9421565653
+About Me
+An aspiring developer and learner, passionate about acquiring new skills to enhance organizational growth.
+Education
+SCTR’s Pune Institute of Computer Technology, Pune GPA: 9.282 /10
+BE in Electronics and Telecommunications;
+Matoshri Junior Collge, Mhasrul, Nashik 2020, Percentage : 80.31
+12th Grade
+Kilbil St. Joseph’s High School, Nashik 2018, Percentage : 91.40
+10th Grade
+Technical Skills
+Langauges : C, C++, JAVA, SQL, HTML, CSS, Javascript
+Frameworks : Standard Template Library (STL), Spring(Basics), Spring Boot(Basics)
+Developer Tools : Git, Github, VS code, Eclipse IDE, NetBeans, Intellij Idea
+Database : MySql
+Relevent Course Work
+•Data structure and Algorithm •Object Oriented Programming •Operating System
+•Database management system •Computer Networks •Mathematics
+Experience (In-House Internship )
+Student Digital Passport Revolutionized education through the Student Digital Passport App, stream-
+lining student data for tailored learning and efficient administration.
+Projects
+Job Hub (Technologies : HTML,CSS,Javascript,React,Spring boot,Hibernate,MongoDB)
+•A user-friendly app designed to simplify job hunting by providing job recommendations and career
+insights by aggregating a wide range of job listings and resources
+Rest APIs (Technologies : Spring Boot, Hibernate, Postman, MySQL)
+•Created Rest API to perform CRUD operations on database using Spring-boot.
+•Created Rest API to upload and download documents from database.
+File Hider (Technologies : Java, MySQL )
+•Implemented a Java-based File Hider project , acquiring skills in Encryption ,OTP generation,
+andEmail Authentication .
+•Designed to enhance data security through concealment and multi-factor authentication.
+Coding Profiles
+•Leetcode - Solved more than 120+ DSA problems.
+•GeeksforGeeks - Solved more than 150+ DSA problems.
+Hobbies :•Cycling •Paper Craft •Listening to Music •Cooking

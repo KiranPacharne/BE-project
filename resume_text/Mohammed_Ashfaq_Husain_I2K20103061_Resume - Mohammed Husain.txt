@@ -1,0 +1,62 @@
+Mohammed Husainmhdhusain53@gmail.com
+91 8767283614
+Dhule
+EDUCATION Bachelor of Engineering (B.E, Information Technology
+Pune Institute Of Computer Technology
+2021  2024
+Senior Secondary (XII, Science
+Mayur College
+HSC board)
+Year of completion: 2020
+Percentage: 79.08%
+Secondary (X
+Chavara High School
+SSC board)
+Year of completion: 2018
+Percentage: 83.60%
+INTERNSHIPS Web Development
+VCreaTek Consulting Services Pvt Ltd, Virtual
+Dec 2022  Feb 2023
+During this internship, I created Frontend of a Neerathon
+website in ReactJS.
+TRAININGS Modern React With Redux
+udemy, Online
+Dec 2021  Present
+Complete Web Development Bootcamp
+udemy, Online
+May 2021  Dec 2021
+A Udemy course of Web Development by Dr. Angela Yu. In
+this course, I am learning about languages such as HTML,
+CSS, JavaScript and also Node.js and Express.js.
+PROJECTS Portfolio
+Jul 2022  Aug 2022
+https://my-portfolio-mhdhusain.herokuapp.com/
+This is a My Portfolio website to bring light to all my previous
+projects. This website is created with MERN technology.
+Daily Journal
+Oct 2021  Oct 2021https://fathomless-springs-84190.herokuapp.com/
+A website of Daily Journal made by using HTML, CSS,
+Bootstrap, Node.js, Express.js.
+SKILLS HTML
+IntermediateJavaScript
+Intermediate
+CSS
+IntermediateJava
+Beginner
+Bootstrap
+BeginnerC Programming
+Intermediate
+Node.js
+IntermediateExpress.js
+Beginner
+Python
+BeginnerReactJS
+Intermediate
+GitHub
+IntermediateMySQL
+Beginner
+MongoDB
+Intermediate
+WORK SAMPLESGitHub profile
+https://github.com/mhdhusain53
+ADDITIONAL DETAILSSecured 22435 AIR rank in JEE Advanced 2020.

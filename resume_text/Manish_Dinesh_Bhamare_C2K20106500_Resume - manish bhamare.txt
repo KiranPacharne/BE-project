@@ -1,0 +1,94 @@
+Manish  Bhamare  
+Competitive  Programmer  | Interested  in Algorithms  and Data Structures  
+mdbhamare2002@gmail.com  | +91-7620367302 |  LinkedIn  :- manish510  
+ 
+EDUCATION : 
+PUNE INSTITUTE OF  
+COMPUTER  TECHNOLOGY  
+B.E IN COMPUTER  ENGINEERING  
+2020-2024 | Pune,  India 
+Cum. GPA : 9.4/10  
+Z.B.Patil  Senior  
+College,Dhule  
+2018-2020 | Dhule,  India 
+Class XII Percentage  : 91.85%  
+S.T.T.K.Mahajan  Highschool  
+Dhule  
+2012-2018 | Dhule,  India 
+Class X Percentage  : 95.80%  
+ 
+LINKS : 
+CodeChef :-                     
+CodeForces :- 
+Hacker ank :- 
+Leetcode :- 
+ 
+ACTIVITIES : 
+• Solved over 1500+ problems on  
+various sites (over 250+ on CodeChef, 
+350+ on CodeForces  and 400+ on 
+Leetcode). 
+• During Internship at Barclays , I 
+actively contributed to backend , 
+addressing real -time challenges  and 
+delivered optimized  solutions . 
+ 
+SKILLS : 
+PROGRAMMING  
+• DSA, Problem  Solving  
+• Basics DBMS,CNS,OS  
+• Spring Boot , Shell Script  
+• HTML, CSS , JS 
+ 
+LANGUAGES  : 
+• C++ 
+• Java 
+ 
+FAMILIAR  : 
+• Python  
+• GitHub  
+ 
+HOBBIES : 
+• Solving  Algorithmic  Problems.  
+• Playing  Cricket.  PROJECTS : 
+Block Chain Wallet  : Link 
+Tech Stack : ReactJS, Tailwin d CSS, Solidity  
+• Designed Web3  application landing page with Tailwind CSS.  
+• Integrated MetaMask Wallet connectio n crypto  transfers.  
+• Created smart contract for Blockchain  transactions and user -
+specific transaction history tracking.  
+Employee Management System  :  
+Tech Stack : Spring Boot, ReactJ S 
+• Executed CRUD  operations for Employee records, storing data 
+in SQL/H2 database.  
+• Enforced logging for targeted actions using log4j 2.  
+ 
+INDUSTRIAL EXPERIENCE:  
+Business Analyst 3 @Barclays  
+  Tech Stack: -  Spring Boot , Java  and Shell Script . 
+• Created Spring Boot API which exposes REST endpoint and 
+comprehensive loggin g for each action performed . 
+• Engaged in Shell Scripting  to orchestrate continuous 
+scanning of runtime log files. Implemented an automated 
+process that detects runtime errors within the logs and 
+subsequently halts the corresponding application . 
+• Developed a script to iteratively scan files in a designated 
+directory and enable user -driven deletion . 
+ 
+EXTRACURRICULAR:  
+• Working  in Design/Event  Management  Team  of PICTOREAL. Link 
+• Member  at PCSB & DEBOC  (College Clubs).  
+ 
+ACHIEVEMENTS : 
+• Competitive Coding :  
+CodeForces:  Pupil  Max(12 98) 
+CodeChef : 4* Max(1802).  
+LeetCode : solved 400+ Questions.  
+• Global  Rank 96 in Codechef  February  Long Challenge  Div3. 
+• Cleared  Qualification  round  of Google  Code  Jam.Link 
+• Global  Rank 3200  in Google  KickStart  Round  F. Link 
+• Selected in top 15 teams across India for INNERVE Hack ethon conducted by 
+AIT Pune.  
+• Top 100 coders across India in Codi ng Competition(CodeFt) conducted by 
+AIT Pune (Best Rank 6 in Debug challenge)  
+• Hackerrank  :- 5* in Cpp , 5* in J ava. 

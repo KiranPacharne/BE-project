@@ -1,0 +1,43 @@
+Rajsing Jadhav
+♂phone9860838138 /envel⌢pejadhavrajsing@gmail.com /linkedinRAJSING JADHAV /githubRajsing26
+Education
+Pune Institute of Computer Technology, Pune 2020 - Present
+Bachelor of Engineering, Electronics and Telecommunication Engineering 8.8
+Shri.Vardhamn Uchh madyamic Vidyalaya,malegaon 2020
+HSC
+Hon.Sharad Pawar International School,Nashik 2018
+CBSE
+Personal Projects
+Drivers drowsiness detection
+•developed a project that uses Open CV to detect drowsiness and yawns in real-time.
+•The project uses the dlib library to detect facial landmarks, and then calculates the eye aspect ratio (EAR).
+•If the EAR is below a certain threshold, the project will send alert to the person. .
+VirTrade
+•AFull-stack virtual trading platform enabling users to practice trading strategies with live stock prices.
+•Led frontend development for VirTrade using Next.js , ensuring high-performance and scalable user interfaces.
+•Integrated Angel One’s smartapi to fetch live stock prices.
+•Developed a responsive user interface using Tailwind CSS , ensuring seamless user experience across devices.
+Student result management system
+•Developed a Student Result Management System using Java Swing ,AWT , and NetBeans.
+•Utilized JDBC to establish a connection to a MySQL database for storing student information and results.
+•Implemented functionalities for adding, updating, and deleting student records, also calculating overall results.
+Skills
+Languages : C++, Java, HTML+CSS
+Developer Tools : VS Code, Eclipse,Net Beans
+Frameworks : NextJS, NodeJS, ExpressJS, Tailwind Css
+Databases : MySQL
+Relevent Coursework : Data Structures & Algorithms
+Soft Skills : Problem Solving, Leadership, Team Work, Team Management
+Languages Known : English, Hindi, Marathi.
+Positions of Responsibility
+Overall Coordinator 2023
+Elevate 23: Elevate is the annual Sports event organized by the Pune Institute of Computer Technology.
+DEBSOC Creative head 2022-2023
+DEBSOC is a debating society club in PICT.
+AIADMK leader 2018
+was the leader of AIADMK in Indian International Model United Nations held in Gujrat.
+Interest
+•Social work
+•Sports - Volleyball
+•Music
+•Traveling

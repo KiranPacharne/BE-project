@@ -1,0 +1,37 @@
+MIHIR MAHADIK
++91 7559306127 |mihirmahadik07@gmail.com |linkedin.com/in/mihirmahadik07 |github.com/MihirMahadik
+Education
+Pune Institute of Computer Technology Pune, India
+Bachelor of Engineering (B.E.), EnTC Engineering |GPA 7.57 2020 - 2024
+Sanjay Ghodawat Junior College Kolhapur, India
+Class XII (HSC) |Percentage: 74.15 2020
+Housabai Jaypal Magdum Public School Kolhapur, India
+Class X (CBSE) |Percentage: 81 2018
+Projects
+Blog Website Using MERN Stack |
+•Developed a dynamic web application using the MERN stack, integrating MongoDB, Express.js, React, and
+Node.js.
+•Designed the user interface using React and Material-UI components.
+•Created back-end using Node.js and Express, enabling efficient routing and handling of API requests for user
+authentication, blog post management, and comment functionality.
+•Integrated JWT-based authentication system.
+•Implemented token expiration and refresh mechanisms to enhance security and user convenience.
+YouTube Clone |
+•Created a YouTube Clone using React for front-end interactions and Tailwind CSS for styling which is fully
+responsive.
+•Integrated Rapid API to fetch real-time video data, including titles, views, likes and thumbnails.
+Technical Skills
+Programming Languages : Java, JavaScript, HTML, CSS
+Libararies and Frameworks : React
+Developer Tools : VS Code
+Internship
+B2A Technologies Remote
+Web Developer
+•Created responsive and user-friendly layouts that provide an intuitive experience which is fully responsive.
+•Conducted thorough testing of front-end components and integrated API’s to identify and resolve any bugs or
+issues.
+Extra Curricular
+Football |Kho-Kho |Chess |
+Organized football and Kho-Kho matches within school and college.
+Won multiple inter-school tournaments.
+Represented school at taluka-level tournaments.

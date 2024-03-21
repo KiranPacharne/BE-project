@@ -1,0 +1,88 @@
+SHUBHAM VIBHUTE  
+Pune Institute of Computer Technology  
+  vibhuteshubham8308@gmail.com  Pune, Maharashtra - India linkedin.com/in/shubhamvibhute-53b2a320b/  
+ 
+EXPERIENCE  
+Kode IT Solutions  
+ 
+  Jan 2022 – Mar 2022 Online internship  
+• Platform Kode IT. 
+• Full Stack Development . 
+• Monthly tasks include web development projects.  
+ 
+ACHIEVEMENTS  
+• CodeForces ( Max. Rating- 983 ) .  
+• CodeChef ( Max. Rating- 1563 ) .  
+• Leetcode ( Max. Rating- 1413 ( 300+ DSA problems 
+solved). 
+• 3-stars badge at HackerRank ( Python ) .  
+• Solved 1500+ problems across various coding platforms.  
+ 
+TECHNICAL SKILLS   
+• C++ ( Intermediate level ).  
+• Python (Competitive Programming, Data Science)  
+• Object Oriented Programming ( C++,Python ).  
+• Data Structures and Algorithms . 
+• Database Management ( MySql ).  
+• Problem Solving ( DSA based problems and implementing 
+algorithm ).  
+ 
+EXTRA CURRICULAR   
+• Volunteer for TnP events. 
+• Participation in ICPC Asia Kanpur Contest. 
+• Participation Elementary and Intermediate drawing competi- 
+tion and pressured B grade.  
+ 
+ 
+LINKS  
+• Codeforces : shubham_83  
+• Leetcode : _shubham83_  
+• CodeChef : vibhuteshubham  
+• HackerRank : vibhuteshubham81  EDUCATION  
+B.E. - 9.06 CGPA (till 6th sem) 
+Pune Institute of Computer Technology  
+  2020 – Currently  
+Higher Secondary ( State Board ) – 
+95.85% 
+Dayanand Science College, Latur  
+   2020 
+ 
+Secondary (CBSE) – 97.20%  
+T.R.S.E.School Umarga  
+   2018 
+ 
+MHT-CET - 99.61 percentile  
+JEE MAINS - 90.07 percentile  
+ 
+PROJECTS  
+Tourism Guide Website  
+• Tech Stack - HTML, CSS, JavaScript, My-PHP 
+admin. 
+• A Tourism Guide Website will help people to 
+choose there dream destination.  
+• Peoples can read comments and reviews on 
+top places in order have an better idea about 
+destinations.  
+• The main goal behind building this website 
+was, people will be able to ﬁnd everything 
+on a single website instead of visiting tons of 
+other websites.  
+ 
+DNA Sequencing  
+• Tech Stack -Python with Pandas, matplotlib, 
+Seaborn, Matpotlib.  
+• Classification of DNA sequence according to 
+its gene family and build a prediction model 
+based on it . 
+• As a data-driven science, genomics extensively 
+utilizes machine learning to capture 
+dependencies in data and infer new biological 
+hypotheses  
+ 
+Blog application  
+• Tech Stack - HTML, CSS, SQLite , Python 
+(Django).  
+• Implemented Django Blog application to share 
+new learning among Tech geeks.  
+• Providing various functionalities to manage 
+our own blogs and read user speciﬁc content.  

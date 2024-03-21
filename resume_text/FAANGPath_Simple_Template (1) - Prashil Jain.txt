@@ -1,0 +1,40 @@
+PRASHIL GULECHHA
+prashilgulechha@gmail.com ⋄+91 9405 88 6060 ⋄LinkedIn ⋄Github
+EDUCATION
+Bachelor of Information Technology , CGPA: 8.53/10
+Pune Institute of Computer Technology Expected 2024
+Relevant Coursework : Object Oriented Programming, Data Structures and Algorithms, Database Management,
+Design and Analysis of Algorithms and Software Engineering.
+Higher Secondary School Certificate Exam (HSC) , Percentage: 88.46
+Balaji Jr College of Science Jun 2018-Feb 2020
+SKILLS
+Programming Languages : C++
+Web Development : HTML, CSS, Bootstrap, NodeJs
+Database : MySQL and MongoDB
+Tools and Technologies : Git and GitHub, VSCode
+WORK EXPERIENCE
+Intern at Sanjeevani Healthcare Feb 2023-April 2023
+•Developed Prescription Management System with CRUD operations for patient history.
+•Implemented medicine autofilling and efficient patient search by name.
+•Enabled easy prescription downloads, improving medical record accessibility.
+•Tech-Stack: React, Node, MongoDB.
+PROJECTS
+E-Voting On BlockChain
+•Developed an E-Voting system leveraging blockchain technology to conduct secure and transparent elections
+between candidates.
+•Implemented cryptographic techniques to maintain voter anonymity and prevent tampering.
+•Developed an E-Voting system leveraging blockchain technology to conduct secure and transparent elections
+between candidates. Created a user-friendly web interface for voters to cast their votes electronically
+•Tech Stack: Javascript, NodeJs, Blockchain.
+SpendWise Expense Tracker
+•Tracks and manages expenses efficiently with user-friendly interface.
+•Employed MongoDB as the database to store and manage expense records.
+•Tech Stack: MongoDB,Chart.js, React.js, Node.js.
+ACHIEVEMENTS AND CERTIFICATIONS
+•Completed NodeJs from Web-dev course by Angela Yu
+•Learned basics of Blockchain by David Katz
+•Certificate of Participation in Flipkart Grid 5.0 Hackathon
+•Scored 99.7 percentile in MHT CET with a rank of 411.
+EXTRA-CURRICULAR ACTIVITIES
+•Religious Committee Head, SMJV Hostel
+•Member of PICT DEBSOC (Debating Society), Member of PICT CSI Club (Computer Society of India)

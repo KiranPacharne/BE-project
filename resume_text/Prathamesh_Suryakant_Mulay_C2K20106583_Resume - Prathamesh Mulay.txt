@@ -1,0 +1,75 @@
+PRATHAMESH MULAY
+Cloud Devotee | Unleashing the Power of AI | Driving Scalability with Distributed Systems
+prathumulay@gmail.com Pune/♀nednLinkedIn
+LANGUAGES & FRAME-WORKS
+Python | CPP | SQL
+Scikit-Learn | Scrapy | Tensorﬂow | NLTK | Pytorch
+Django | FLASK | AWS
+EDUCATION
+Bachelor of Engineering (2020–
+2024)
+Pune Institute Of Computer Technology
+ὌCGPA: 9.3(till 6th semester) 
+Higher Secondary School Certiﬁcate
+(2018–2020)
+Fergusson College Pune (Autonomous)
+ὌMarks: 80.31% 
+Secondary School Certiﬁcate (2012–
+2018)
+Dravid High School Wai
+ὌMarks: 97.8% 
+NOTABLE ACHIEVE-MENTS
+Ἴ2nd Runner Up, Veritas Uconnect
+Hackathon
+Led Team Cloudy-Howdy to a 2nd
+runner-up position in the Veritas
+Uconnect hackathon.
+Event Leadership, Dataquest
+Led and organized the Data Science
+SIGs and served as the Event Lead for
+the Dataquest event in 2023.
+CERTIFICATES ANDSKILLS
+AWS Cloud Practitioner, Credential
+Machine Learning A-Z ™, Credential
+AWS Certiﬁed Solutions Architect Associate
+SAA-C03 (ongoing)EXPERIENCE
+RhythmFlows Solutions Pvt. Ltd. (Software Engineer)
+RhythmFlows Solutions
+ὌFeb 2023 - May 2023 Pune, India
+•Worked on Implementing the design pattern such as the Chain Of Responsi-
+bility in code for improved code structure and reusability.
+•Worked on creating robust and scalable APIs using Django Rest Framework.
+Indian Council Of Medical Research (Text Analytics Consul-
+tant)
+PICT
+ὌFeb 2023 - Apr-2023 Pune, India
+•Working on Sentiment Analysis of tweets about Booster Dose in India.
+•Extracted and analyzed over 50,000 tweets using the Premium Twitter API
+to provide insights for government strategies.
+•Currently ﬁne-tuning the Sentiment Analysis Models.
+Computational Linguistic Lab PICT (Research Intern)
+PICT
+ὌAug 2022 - Ongoing Pune, India
+•Completed writing an NLP research paper.
+•Developed a novel architecture for the lexical simpliﬁcation of sentences and
+Complex Word Identiﬁcation using Encoding Transformers like BERT.
+•Our team ranked 10th internationally (7th as a team) in the TSAR-2022
+Shared Task on Lexical Simpliﬁcation.
+PROJECTS
+Dynamic Read-Quorum Scaling in Cloud Native Storage
+GitHub
+•Designed a novel distributed database engine for dynamic read-quorum scal-
+ing, ensuring high scalability, availability, and fault tolerance.
+•Developed a fully functioning prototype using Python scripts and demon-
+strated replicated databases on MongoDB.
+•Winner of the Veritas Hackathon, kickstarting our Cloud Tech journey.
+Tech Stack & Technologies used: Django, HTML, MySQL, Cloud Archi-
+tecture
+Sports Prediction
+GitHub
+•Developed the backend and machine learning sections of the sports predic-
+tion website.
+•Scraped and cleaned data for machine learning model training.
+•Created machine learning models to forecast match scores and winners.
+Tech Stack & Technologies used: Django, Machine Learning, Tensor-
+Flow

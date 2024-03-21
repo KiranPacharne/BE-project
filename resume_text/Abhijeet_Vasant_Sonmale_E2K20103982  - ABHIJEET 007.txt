@@ -1,0 +1,42 @@
+Abhijeet  Sonmale  
+abhijeetsonmale007@gmail.com | linkedin.com/in/abhijeet -sonmale -1b401b22a/| github.com/ABHIJEET007001  
+Mob.  no. - +91 9511766199  
+EDUCATION   
+Pune  Institute  of Computer  Technology  Pune,  MH 
+B.E. Electronics  & Telicommunication  Engineering  (2020 -2024)  8.62  CGPA  
+Chhatrapati  Shahu  Academy  & Science  Junior  College,Satara  Satara  , MH 
+12th  HSC 2020  77.69  % 
+Maharaja  Sayajirao  Vidyalaya,Satara  Satara,  MH 
+10th  SSC 2018  95.20%  
+ACHIEVEMENTS   
+SSB Return  DEC.  2020  
+Service  Selection  Board  
+• Conference  out from  SSB Bengaluru  & SSB Kolkata  
+• Cracked  UPSC  (N.D.A)  2 times  
+ 
+Scored  100 out of 100 marks  in maths  -SSC March  2018  
+Cracked  State  Level  Scholarship  Exams  in both  4th & 7th March.  2012  & March  2015  
+Satara,  MH 
+PROJECTS   
+Hotstar Clo ne | HTML,  CSS,  JAVASCRIPT  Jan. 2023  – Feb.  2023  
+• Technologies  used  : React  Js 
+ 
+Food Delivery App   | HTML,  CSS,  JAVASCRIPT  March  2023  – April  2023  
+• Implemented  functionalities  like login,  search , signin and ca rt. 
+• Technologies  used  : React  Js, MongoDb,  
+• Node  Js, Express.  
+ 
+ 
+ 
+ACCOMPLISHMENTS AND CERTIFICATIONS   
+Codechef  | 2-star max -rating  (1453)  
+Geeks  for Geeks  | Solved  100+  problems  
+ 
+Completed  Cloud  Computing  with  AWS  Bootcamp  by DevTown  
+Completed  Backend  Web  Development  Bootcamp  by DevTown  
+TECHNICAL  SKILLS  AND  OTHER  ACTIVTIES   
+Languages : C/C++,  Java,  SQL,  JavaScript,  HTML/CSS,MongoDB  
+Frameworks : React  Js, Node  Js, Express  
+Developer  Tools : Git,  AWS,  VS Code,  PyCharm,  Eclipse,Google  colab  
+Extra curricular skills : Group discussion , Debate on various topics  
+Other  activities : Cricket,Watching  historical  serials  

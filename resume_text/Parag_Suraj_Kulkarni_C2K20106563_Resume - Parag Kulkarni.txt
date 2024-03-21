@@ -1,0 +1,54 @@
+C o n t a c t
+E x p e r t i s eE d u c a t i o n
+L a n g u a g e sP r o j e c t sE x p e r i e n c e
+A c h i e v e m e n t s8262939246
+Pune,Maharashtraparag.kulkarni.pk@gmail.com
+A technical club focusing on enhancing skills of the team members. A member of the Podcast, Content, Curations and Partnerships Team of the TEDxPICTGuiding a team of 30-40 juniors especially working on technical side for managing the
+logistics and from the sponsorship team for raising a certain sum for the conduction
+of the annual event operated under the license from TED.E m a i lP h o n e
+A d d r e s sParag Kulkarni
+May 2020 -PresentJuly,2022 - June, 2023
+July,2021- June2022A tech geek filled with zeal, open for new opportunities and experimentation.
+Student Volunteer, TEDxPICTPartnerships and Technical Head, TEDxPICT
+Student Volunteer, PICT IEEE STUDENT BRANCH
+English
+GermanMarathi
+Hindi2020-Present
+B.E in Computer Engineering
+Pune Institute of Computer Technology.
+2020
+H.S.C
+89.08% at the Late P.B. Jog Junior
+College under the Savitribai Phule Pune
+University.
+2018
+S.S.C
+94.2% at the New India School under the
+Savitribai Phule Pune University.Developed a fully responsive website for TEDxPICT.
+Tech Stack: HTML,CSS, React Js.
+Link to website: TEDxPICT
+Worked on the web part of the Sports Prediction Website for PBL project.
+Tech Stack: ML Regression Algorithms & HTML,CSS, React Js. Created a Flat Inventory Management System operational from the builder side. The 
+options are to add customers details customer-brokers details select a flat, delete 
+and modify an entry.
+Tech Stack: MYSQL,JDBC,JSP,HTML,CSS. 3rd Year, Computer Engineering Student, at the Pune Institute of
+Computer Technology(PICT).
+CGPA(Avg upto 5th Sem) 9.4/10
+Familiar with C++ ,Python and Java. 
+Comfortable with MYSQL,JDBC,JSP and 
+MongoDb. 
+HTML,CSS,Bootstrap and ReactJs.
+ Gold Badge in C++ on Hackerrank.
+ 3* rating on Codechef.Web Development
+Web Development & AI/MLDatabase Management Systems (DBMS)
+Semifinalist for SIH'22 (at college level).
+Cleared the JEE Advanced Examination.
+Received the Outstanding Achievement Award in the school. Bagged the
+Special Prize under the Maharashtra Talent Search Examination (MTSE)
+thrice in a row.
+Represented the school at the Zonal German Level Competition Organized
+by INDAF at Goethe Institute, Pune. 
+Fit ins Deutsch Certificates : 1. Fit eins: 55/60  2.Fit zwei : 89/100April,2023 - Present
+Intern at Defence Research and Development Organisation
+(DRDO) R & D (Engrs.), Pune
+Building a DBMS application using .NET & Oracle.

@@ -1,0 +1,89 @@
+Last Upda ted on 27th Jul y 2023Krushna Pulate
+Web De vel oper | Tech E n thusias t | Pr ogr amming Pr oblem Sol v er
+krushnapulate3082@gmail.com |+91-8390120118 |Github |Linkedin
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+B.E. Computer Engineering
+J an 2021 - J une 2024| Pune ,India
+CGPA: 9.14/10
+P V P COLLEGE OF ARTS,
+SCIENCE AND COMMERCE,
+12th Science
+J une 2019 - Feb2020| Pr a v ar anagar
+Percentage: 82.40%
+P .DR. V . V .P . V .LONI
+10th
+J une 201 7 - March2018| L oni ,India
+Percentage:93.80%
+SKILLS
+PROGRAMMING
+Languages:
+•C/C++ •Java •JavaScript •Python
+Technol ogies:
+•ReactJS •NodeJS •ExpressJS •MySQL
+•MongoDB
+BUILD TOOLS
+Git•Github •VSCode
+COMPUTER FUNDAMENT ALS
+•Data Structure andAlgorithm(DSA)
+•Object Oriented Programming (OOP)
+•Database Management(DBMS)
+•Operating System
+SOFT SKILLS
+•Leadership
+•Teamwork andAdaptability
+•Problem Solving
+•Time Management
+CODING PROFILES
+•Leetcode
+•Codeforces :-Specialist(Max.1416)
+•Codechef :3star(Max.1711)
+HOBBIES
+•Playing andWatching Cricket
+•Playing Chess
+•Watching Movies andWeb Series
+•Listening music
+•TrekkingPROJECTS
+GROCCO(E-COMMERCE APPLICA TION) |HTML, C SS, ReactJS,
+Redux, Node JS, Express JS, MongoDB.
+•GROCCO isaonline Grocery Store Management Application
+•Authentication using JWT tokens andsession tracking isdone using
+cookies .
+•Cloudinary isused asimage storage.
+•Used REST APIforstate transfer.
+ETHPOCKET (BLOCKCHAIN W ALLET | React.js, C SS, Solidity,
+Web 3.0
+Presen ted in final r ound a t AIT hack a thon
+•Designed alanding page forWeb3 application using React.js
+•Support forconnecting toMeta Mask Wallet andtransferring cryptocurrency
+toother users with smart contract iswritten tokeep track ofuser-specific
+Transactions.
+HOTELBOOK | React.js,Express.js , MongoDB, NodeJs
+•HOTELBOOK isaOnline Hotel Reservation Application implemented
+using MERN stack.
+•Customers canbook rooms indifferent hotels based onlocation ,price
+,noofmembers anddate ranges andadmin manages thedashboard.
+•JWT tokens andcookies were used forAuthentication andSession
+tracking .
+EXPERIENCE
+KODE IT SOLUTIONS | Web Developement Intern
+J anuary 2022 t o March 2022
+•Assisted indesigning andimplementing responsive anduser-friendly
+front-end interfaces using React.js, HTML, andCSS
+•Worked closely with theback-end team tointegrate front-end components
+with theNode.js andExpress.js server.
+•Engaged indebugging andtroubleshooting toidentify andresolve issues,
+ensuring smooth functionality ofapplications.
+SYNC INTERN'S | F rontend Development Intern
+Mar 2023 – Apr 2023
+•Developed andimplemented interactive andvisually appealing user interfaces
+using React.js, HTML, andCSS.
+•Ensured seamless responsiveness across various devices byadopting
+mobile-first design principles andutilizing media queries.
+ACCOMPLISHMENTS
+•Meta HackerCup 2022 :AIR913inRound 2
+•Finalist inINNERVE 7National Hackathon
+•Finalist inCODEFT Programming Contest
+•Solved 700+ Coding Problems
+•Hackerrank 5starandGold Badge atC++ andSQL

@@ -1,0 +1,58 @@
+Sanskruti Patil Email: psanskruti09@gmail.com
+Mobile: +91-8669764259
+LinkedIn : linkedin.com/in/sanskruti-patil-8399a0206
+Education
+•Pune Institute of Computer Technology, Pune Maharashtra
+Bachelor of Engineering - Electronics and Telecommunication CGPA: 8.97 2020-Present
+•AP Patel Junior College, Nashik Maharashtra
+HSC Percentage:80 2018-2020
+•Horizon Academy, Nashik Maharashtra
+ICSE Percentage:92 2010-2018
+Work Experience
+•Pune Institute of Computer Technology
+Digital Academic Passport August’22 - March’23
+Role: Frontend Developer Intern Created A react web application to store, analyze, manage and supervise student
+and teacher data.College Management System using MERN Stack. This system consists of various modules such as
+student management,course management,faculty management and many others.
+Projects
+◦SwiftCart : An Ecommerce Website built from scratch using Angular framework for the front-end and JSON Server for
+back-end data management.The website has capabilities for efficient data storage and retrieval, resulting in optimized
+website performance. Successfully showcased a diverse product range and ensured seamless navigation for users.
+Tech- Angular , JSON Server
+GitHub Link: https://github.com/SansPatil/SwiftCart
+◦IoT Based Smart Security Surveillance Robot : The project focuses on Obstacle Detection through a wireless BOT
+operated using web portal. My work focused on Frontend Development and model integration at the Backend.
+Tech:HTML, CSS, MySQL.
+◦EatEaze- The Food Delivery App : Designed user-friendly interfaces using React, developed robust APIs with NodeJs
+and Expressjs, integrated MongoDB for data management, ensured secure user authentication with JWT, and deployed the
+app for a seamless ordering experience.
+Tech:React MongoDB,ExpressJS,ReactJS,NodeJS
+GitHub Link: https://github.com/SansPatil/EatEaze
+Skills
+◦Languages : Python, C++, C, JavaScript, HTML, CSS, Bootstrap
+◦Frameworks : ReactJS , Angular, NodeJS, ExpressJS, MongoDB
+◦Tools : GIT
+◦Platforms : Windows, Arduino
+◦Soft Skills : Leadership, Event Management, Public Speaking, Time Management, Resource Management
+◦Courses : DSA , OOPS, DBMS, OS, Computer Networks
+Volunteer Experience
+◦
+Data Head at Training and Placement Cell, PICT PUNE, India
+Managing database of 1600 students preparing for internships as well as placements◦
+Founder of PICT Reader’s Club PUNE, India
+Founded a club in PICT which now consists of 300 members◦
+Domain Head at Impetus and Concepts PICT 2022 PUNE, India
+Worked as a head for Embedded and VLSI domain at Impetus and Concepts◦
+Volunteer of Operations at PICT InC 2023 PUNE, India
+Looked after the overall planning and execution of the annual college tech-fest.◦
+PCSB Annual Event Xenia PUNE, India
+Anchoring and Event head in annual flagship event Xenia of CSI club
+Honors and Awards
+•Awarded Judges Prize at Instructables Contest for IoT Based Smart Security Surveillance Robot - June,2022
+•Class Representative in Second and Third year of Engineering
+•Solved 300+ DSA problems on various coding platforms
+Certifications
+•Coursera certifications for Object Oriented Programming in C++,Ordered and Unordered Data Structures
+•5 stars on Hackerrank in C++ and Python programming
+•Data Structures and Algorithm course on Coding Ninjas platform
+•Python and C++ Course conducted by PICT CSI Branch

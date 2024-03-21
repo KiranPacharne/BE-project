@@ -1,0 +1,36 @@
+JAYDEEP DATRE
+/githubJayDp13 |/linkedinJaydeep Datre |
+/envel⌢peJaydeep Datre |♂¶obile+919405455375
+Objective
+Secure a responsible career opportunity to fully utilize my training and skills, while making a significant
+contribution to the success of the company and Environment.
+Education
+JULY 2020 - Present Pursuing BE in Computer Engineering at PICT
+2017 Class 10th (CBSE) at Hon. Sharad Pawar Public School Nashik (9.8/10)
+2019 Class 12th (MH board) at B.V. Public School and Jr. college Nashik (80.62)
+Skills
+Programming Languages - C++, Java, Mysql, HTML, CSS.
+Languages - English, Hindi and Marathi.
+Projects
+Hospitality Room Manager
+The project is implemented using Swing GUI widget toolkit and MYSQL database. The hotel managing
+software saves time spent on manual updates. The System provides the access:- (i) Add room details,
+easily update, delete records and view all records. (ii) Customer Check in insert all record including room
+details, (iii) Customer Check out and Calculate bill automatically. (iv) Auto Generate Bill when Customer
+Checkout. (v) Store Bill Details in future see and print this bill. Installation Technology Used:- JAVA,
+AWT and Swing Tools Used:- Apache Net-Beans for Coding JDBC for database Connectivity Database:-
+MYSQL for Storing Transaction history.
+PixelLock: Image Cryptographer
+The Image Encryption and Decryption project in Java aims encrypting and decrypting images using the
+Java OOP concepts. This project utilizes Java’s AWT (Abstract Window Toolkit) and Swing libraries to
+create a user-friendly graphical interface, allowing users to encrypt and decrypt their images with ease..
+Achievements
+SPORTS - NATIONAL and STATE level Volleyball Champion, and participated at various Volleyball
+tournaments at various levels and colleges.
+Participated at various Extra co-curricular activities as Elocution and Debates.
+Experience - Managing Head of PICT Elevate 2023 event.
+Certification courses
+Completed courses for C++ and Data Structures and Algorithms.
+Interest
+Problem solving and Analysis, Reading Books.
+Sports - Volleyball and Badminton.

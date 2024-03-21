@@ -1,0 +1,64 @@
+E d u c a t i o n
+W o r k  E x p e r i e n c e
+A J A Y  P A T I L
+P r o b l e m  s o l v e r ,  c o d e r ,  w e b - d e v e l o p e r  a n d  a n  a t t e n t i v e  l e a r n e r .
++ 9 1 - 7 0 9 8 8 7 1 7 1 7 a j a y . p i c t @ g m a i l . c o m
+B E ( C o m p u t e r  E n g i n e e r i n g )
+ P u n e  I n s t i t u t e  O f  C o m p u t e r  T e c h n o l o g y
+      0 7 / 2 0 2 0  -  0 7 / 2 0 2 4
+      R e l a t e d  C o u r s e w o r k
+   -  D S A ,  O O P ,  D B M S ,  O S8 . 5 3 / 1 0  C G P A
+P e r f o r m e d  c o d e  r e v i e w  o f  e x i s t i n g  w e b s i t e  a n d  s u g g e s t e d  p i v o t a l  c h a n g e s .
+B u i l t  t h e  c o m p l e t e  F r o n t - E n d  f r o m  s c r a t c h  u s i n g  H T M L ,  C S S  a n d  J a v a S c r i p t  f o r  t h e  s a m e  a n d  e n h a n c e d  t h e  u s e r
+e x p e r i e n c e  b y  3 0 % .  
+L e d  t h e  t e a m  o f  t h r e e  p e o p l e  t o  a c c o m p l i s h  t h e  p r o j e c t .W e b  D e v e l o p e r  I n t e r n  
+K O D E  I T  S o l u t i o n s  
+1 1 / 2 0 2 1  -  1 2 / 2 0 2 1 ,   
+K O D E I T  S o l u t i o n s  i s  a  s t a r t u p  p r o v i d i n g  s o f t w a r e  s o l u t i o n s  t o  b u s i n e s s e s .  
+ T a s k s :
+I n v e s t m e n t  a n d  F i n a n c e
+ D S A
+ F u l l s t a c k  D e v e l o p m e n t  C r i c k e t  
+C h e s s  
+R e a d i n g  S e l f - H e l p  B o o k sP u n eP u n e , M a h a r a s t r a , I n d i a L i n k e d I n G i t h u b  L e e t c o d e
+1 2 t h  G r a d e  ( H S C )
+S h r i  S w a m i  S a m a r t h  J u n i o r  C o l l e g e
+      0 6 / 2 0 1 7  -   0 5 / 2 0 1 98 4 . 4 6 %
+1 0 t h  G r a d e  ( S S C )
+S . G . S .  H i g h s c h o o l
+      0 6 / 2 0 1 2  -   0 6 / 2 0 1 79 7 . 4 0 %S k i l l s
+L a n g u a g e s :  C + + ,  J a v a S c r i p t ,  P y t h o n
+F r o n t e n d :  H T M L ,  C S S ,  B o o t s t r a p ,  R e a c t . j s
+B a c k e n d :  N o d e . j s ,  E x p r e s s . j s
+D a t a b a s e s :  M y S Q L ,  M o n g o D B
+D e v  T o o l s :  G i t ,  G i t H u b ,  P o s t m a n ,  T h u n d e r  C l i e n t ,  V S
+C o d e
+O t h e r  S k i l l s :  P r o b l e m  S o l v i n g ,  D e c i s i o n  M a k i n g ,  T i m e
+M a n a g e m e n t ,  A d a p t a b i l i t y ,  C o l l a b o r a t i o n ,  L e a d e r s h i p .
+P r o j e c t s
+D e v e l o p e d  a  d y n a m i c ,  u s e r - c e n t r i c  a n d  r e s p o n s i v e  p o r t f o l i o  w e b s i t e .  
+B u i l t  u s i n g  R e a c t ,  R e a c t - b o o t s t r a p ,  a n d  E m a i l J S .
+I n t e g r a t e d  c o m m u n i c a t i o n  u s i n g  E m a i l J S ,  e n a b l i n g  e f f i c i e n t  u s e r  i n t e r a c t i o n  a n d  f e e d b a c k  c o l l e c t i o n .  
+B u i l t  a  R E S T  A P I  t o  c r e a t e  s h o r t  U R L s  u s i n g  N o d e ,  E x p r e s s  a n d  M o n g o D B .  
+A d d e d  a  f e a t u r e  t o  t r a c k  t h e  t o t a l  c l i c k s / v i s i t s  o n  t h e  l i n k .
+D e v e l o p e d  a  s i m p l e  s t o c k  m a r k e t  w e b  a p p l i c a t i o n  u s i n g  R e a c t ,  T a i l w i n d  C S S ,  a n d  R e a l S t o n k s  A P I .  
+C r e a t e d  a n  i n t u i t i v e  U I  w i t h  R e a c t  c o m p o n e n t s  a n d  r e s p o n s i v e  d e s i g n .
+A d d e d  a  f e a t u r e  d i s p l a y i n g  r e a l - t i m e  s t o c k  d a t a  f e t c h e d  f r o m  i n t e g r a t e d  R e a l S t o n k s  A P I .  C o d e  C h r o n i c l e s
+        L i n k  
+C u t e L i n k  A P I  
+       L i n k .
+S t o c k G a z e  
+        L i n k .  
+A c h i e v e m e n t s  
+S o l v e d  3 5 0 +  D S A  p r o b l e m s  a c r o s s  v a r i o u s  c o d i n g  p l a t f o r m s  l i k e  L e e t c o d e ,  G F G  a n d  C o d e c h e f .  
+S e c u r e d  G l o b a l  R a n k  4 1  i n  C o d e c h e f  D e c e m b e r  L o n g  C h a l l e n g e  2 0 2 2  ( D i v - 4 ) .
+S c o r e d  9 8  p e r c e n t i l e  i n  J E E - M a i n s  2 0 2 0  a n d  s e c u r e d  r a n k  i n  t o p  2  p e r c e n t  a m o n g  1  m i l l i o n  c a n d i d a t e s .
+M a n a g i n g  a  P o r t f o l i o  o f  m o r e  t h a n  ₹ 1 . 5  m i l l i o n  a c r o s s  d i f f e r e n t  i n v e s t m e n t  c a t e g o r i e s .
+P o s i t i o n s  o f  R e s p o n s i b i l i t y
+B u s i n e s s  D e v e l o p m e n t  a n d  M a r k e t i n g  L e a d  ( K O D E  I T  S o l u t i o n s )  ( 0 8 / 2 0 2 1  -  1 0 / 2 0 2 1 )  
+C o m p u t e r  S o c i e t y  o f  I n d i a  ( P I C T  B r a n c h )  ( 0 2 / 2 0 2 1  -  P r e s e n t )       P l a n n e d  a n d  d i r e c t e d  t h e  s o c i a l  m e d i a  m a r k e t i n g  c a m p a i g n  a l s o  l e d  t h e  B D  t e a m  t o  g e n e r a t e  r e v e n u e  1 0 %  h i g h e r  t h a n  t h e  t a r g e t  r e v e n u e .  
+        M e m b e r  o f  w e b  d e v e l o p m e n t  t e a m .
+C e r t i f i c a t e s
+P r o b l e m  S o l v i n g  U s i n g  C o m p u t a t i o n a l  T h i n k i n g  
+        ( 0 2 / 2 0 2 3 )  
+        U n i v e r s i t y  o f  M i c h i g a nI n t e r e s t s

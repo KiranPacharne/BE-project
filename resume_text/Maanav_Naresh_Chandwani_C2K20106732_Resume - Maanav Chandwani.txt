@@ -1,0 +1,55 @@
+Maanav Chandwani Email: maanavchandwani@gmail.com
+LinkedIn: Maanav Chandwani Mobile: +91-8928177711
+Github: Maanav-C
+Education
+•Pune Institute of Computer Technology Pune, India
+Bachelor of Engineering - Computer Engineering; GPA: 9.23 July 2020 - Present
+Courses: Artificial Intelligence, Machine Learning, Statistics, Big Data, Operating Systems, Data Structures, Analysis Of Algorithms,
+Networking, Databases
+•Chatrapati Shahu Vidhyalay & Jr. College Kolhapur, India
+12th - Higher Secondary Certificate; Percentage: 85 % July 2018 - March 2020
+•Dr. D. Y. Patil’s Academy Shantiniketan Kolhapur, India
+10th - Central Board Of Secondary Education; Percentage: 89.94 % July 2008 - March 2018
+Skills Summary
+•Languages : Python, C++, SQL, HTML, CSS, JavaScript
+•Frameworks : Pandas, NumPy, Scikit, NLTK, SpaCy, TensorFlow, LangChain, Flask, ReactJS, NodeJS, Bootstrap
+•Tools : Git, MySQL, Microsoft Office, Jupyter Notebook, Google Colab, MongoDB, Google Cloud
+•Platforms : Linux, Web, Windows, Arduino, GCP, Heruku
+•Soft Skills : Leadership, Event Management, Writing, Public Speaking, Time Management
+Experience
+•Bytes Arena Pune, India
+Software Developing Engineer (Full-time) April 2023 - June 2023
+◦Using OpenAI Large Language Models(LLM’s) : Using Language Models to process raw information.
+◦Backend Service Usinf LangChain : Implementing project Logic in python using Langchain framework
+Projects
+•Enhancing Attack Detection in Multi-Tenant Distributed Systems through a Hard Voting Ensemble Classifier
+(Machine Learning, Data Science) : Study of status of Virtual Machines to predict whether a cyber attack is being
+executed on it or not.
+Applying multiple AL/ML and data science methods to predict an attack.
+Applying ensemble and voting Methods to enhance results for accurate predictions.
+Tech: Python, TensorFlow, JuPyter
+Project Link
+•Theater Management System : A Dashboard to manage booking of a theatre.
+Ticket booking and show management can be done using this web application.
+Tech: MySQL, Flask, HTML,CSS. (September ’22 - January ’23)
+Project Link
+•CoWIN Alert : To ease the search for covid vaccine centres and appointments, a list of all Covid-19 vaccine centres where
+vaccines are currently available is sent to an e-mail.
+Using API a list of all vaccine centres where vaccine is available is generated and this list is sent to user’s mail id.
+Tech: Python, SMTP, Flask, JavaScript. (May ’21 - August ’21)
+Project Link
+Publications
+•Extracting trends from social media to identify trending products : In Process paper to Published in IEEE
+conference. Tech: Python
+•Enhancing Attack Detection in Multi-Tenant Distributed Systems through a Hard Voting Ensemble Classifier
+Approach : In Progress paper to be published in IEEE Conference. Tech: TensorFlow, Python
+certifications
+•Excel Intermediate Udemy 2020
+•Python, Pandas, NumPy, AI Kaggle
+•Data science course (bits goa)
+•HTML, CSS, Bootstrap, Data structures, Algorithms, Java, C++
+Volunteer Experience
+•Operations in charge at InC PICT Pune, India
+Organized events and looked after Operations of the event. May 2023
+•Volunteer Flood relief camp Kolhapur, India
+Managed the packing and transportation wing to help distribute food for flood affected people. Aug 2019

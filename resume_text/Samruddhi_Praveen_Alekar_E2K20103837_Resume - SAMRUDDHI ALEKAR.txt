@@ -1,0 +1,117 @@
+SAMRUDDHI ALEKAR 
+An energetic and hardworking ﬁnal year Engineering student wanting to work in an organization
+where I can utilize and build my technical and analytical skills. 
+alekar.samruddhi@gmail.com
+8408925753 
+Pune, India 
+linkedin.com/in/samruddhi-
+alekar 
+github.com/SamruddhiA 
+SKILLS 
+Communication Skills 
+Collaboration Skills 
+Adaptibility 
+Problem Solving 
+Fast Learner 
+Digital Designing 
+Microsoft Oﬃce 
+Highly Responsible and
+Reliable 
+LANGUAGES 
+English 
+Full Professional Proﬁciency 
+Hindi 
+Full Professional Proﬁciency 
+Marathi 
+Full Professional Proﬁciency 
+ADDITIONAL
+ACTIVITIES 
+Design Lead, PICT NSS 
+Volunteer, IEEE 
+EDUCATION 
+B.E Electronics and Telecommunications 
+Pune Institute of Computer Technology 
+06/2020 - 07/2024
+, 
+ 
+GPA 8.97/10 (SEM 6) 
+Relevant Coursework: 
+Data Structures and
+Algorithms
+ 
+Programming languages: 
+C++, JAVA
+ 
+UI/UX Designing, HTML, CSS, Bootstrap,
+ReactJS
+ 
+Database: 
+MySQL
+ 
+Version Control: 
+Git, GitHub
+ 
+H.S.C 
+Shri. Fattechand Jain Jr. College 
+06/2018 - 03/2020
+, 
+ 
+Score: 90.46% 
+Science 
+S.S.C 
+M.S.S Highschool 
+03/2017 - 03/2018
+, 
+ 
+Score: 96.20% 
+PROJECTS 
+1. Vehicle Detection and Parking Management System (Ongoing Sponsored Project)
+ (07/2023 - Present)
+ 
+Problem Statement: To develop a system to ensure security of vehicles in public parking lots and to check
+the availability of space beforehand to avoid chaos. Extended feature will be to estimate the cost of
+parking for particular vehicle. 
+Technologies to be used: 
+OpenCV
+ for Image Processing, 
+ReactJS
+ for Web Application Development,
+PostgreSQL
+ for Database Management 
+2. Peertrade — A pre-owned college essentials trading system (3 Months) 
+Problem Statement – Unavailability of an organized online platform for buying & selling pre-owned college
+essentials at an aﬀordable rate. 
+Created 
+Peertrade Web App 
+frontend using 
+HTML, CSS and Bootstrap
+. 
+The Backend technologies used were 
+Flask
+ and 
+MySQL
+ for databases. 
+The Peertrade is an aggregator platform for college students for trading pre owned college essentials
+which might include but not limited to stationary, books, tools etc. 
+Future scope includes in-app networking options. 
+3. GoFoodie: Food Ordering System Using MERN Stack (4 Months) 
+GoFoodie is a comprehensive food delivery application developed using the 
+MERN (MongoDB, Express.js,
+React.js, Node.js) stack.
+ 
+The application serves as a user-friendly platform that connects hungry users
+with their favorite restaurants, allowing them to order a variety of delicious meals and have them delivered
+conveniently to their doorstep. 
+4. ChatBreeze: Chat application built using React(2 Months) 
+ChatApp is a chat application made using 
+ReactJS
+ and
+ Firebase.
+ 
+In this application the features included are: Creating New User, Login, Searching for a User to start a
+conversation, Sending an Image, Seeing a message sent by another user in same window. 
+ACHIEVEMENTS 
+International Olympiad Of Science - 2018 
+International Olympiad Of Mathematics - 2018 
+Courses 
+Stream: 

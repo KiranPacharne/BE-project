@@ -1,0 +1,41 @@
+An aspiring software engineerDARSHAN UDIKERI
+7666718443
+udikerid@gmail.comCONTACT
+EDUCATION
+Pune Institute of Computer Technology
+2020-PresentB.E. INFORMATION TECHNOLOGY
+Sandip Jr. College
+2018-2020HSC
+SSC
+S t .  L a w r e n c e  H i g h  S c h o o l
+2 0 1 8WORK EXPERIENCE
+Twilearn Edutech
+March 2023 - May 2023WEB DEVELOPMENT INTERN
+Training on HTML, CSS, JS, jQuery, Firebase, Git
+commands
+Built a final website using the learnt technologiesSUMMARY
+Hello, I'm Darshan, a passionate and results-driven software
+professional with a strong foundation in computer science.
+My enthusiasm for exploring emerging technologies pushes
+me to stay up-to-date with the latest industry trends and
+best practices.
+ACHIEVEMENTS
+Solved 180+ coding problems across various coding platforms
+(GFG, Leetcode)
+Scored 99.35 percentile in MHTCET
+ORGANIZATIONS
+Wisdom Eye
+Overall Coordinator(2022 - Present)PROJECTS
+Sentiment Analysis
+It reads the reviews from a amazon product and labels the
+sentence as positive or negative and also shows the score,
+to show the degree of positiveness.Image Classifier
+This is a image classifier which identifies whether the
+image is of a happy person or a sad person using
+tensorflow librarySKILLS
+Java
+C++
+OS
+DSDBMS
+SQL
+Python

@@ -1,0 +1,81 @@
+RUTIK DESHMUKH
+rutikdeshmukh3@gmail.com /ne+91-7720006985 Pune, India
+TECHNICAL SKILLS
+•Programming Language: C++,
+Python.
+•Web Technologies: HTML, CSS,
+Javascript, React, PHP.
+•Tools and Libraries: VS Code, STL,
+Numpy, Pandas.
+•Database Systems: MySQL.
+COURSEWORK
+•Data Structure and Algorithms
+•Object Oriented Programming
+•Database and Management Sys-
+tems
+•Operating Systems and Computer
+Networks
+RESPONSIBILITIES
+Marketing Head
+PICT NSS
+VNL Head- Roboliga Event
+PICT IEEE CREDENZ 2022
+Marketing Team Member
+PICT IEEE CREDENZ 2022
+HIGHLIGHTS
+•Actively solved more than 750+
+questions on various coding plat-
+forms.
+•1714 contest rating on Leetcode
+•Secured 532 global rank out of
+18000+ participants on Codechef
+(July Long challenge (Div 3)).
+•Scored 97.23% in JEE Mains 2020
+& 99.41% in MHT CET 2020.
+•STRENGTHS: Hard Working, Team
+Player, Quick Learner.
+•HOBBIES: Playing Chess and Table
+Tennis.
+•LANGUAGE: English, Hindi,
+Marathi.EDUCATION
+Pune Institute of Computer Technology (B.E. in Computer
+Engineering)
+Pune, Maharashtra
+ὌJuly 2020 – Present CGPA - 9.27/10.0 (Upto 5th Sem )
+R. Mahadik Jr College of Science (Class XII State Board)
+Sangili, Maharashtra
+ὌJuly 2017 – May 2019 Percentage - 82.15%
+Jawahar Navodaya Vidyalaya, Raigad (Class X CBSE )
+Raigad, Maharashtra
+ὌJuly 2012 – May 2017 CGPA - 9.6/10.0
+PROJECTS
+CodeJourney
+TECHSTACK: HTML, CSS, Javascript.
+•The CodJourney is a responsive web application devel-
+oped for visualization of various sorting algorithms, in-
+cluding bubble, selection, insertion, merge, and quick sort.
+•Users can interact with the website to generate new ran-
+dom arrays of user-deﬁned size and adjust the speed of
+sorting visualization, aiding in a better understanding of
+how sorting algorithms work through visualization.
+IDISCUSS
+TECHSTACK: HTML, CSS, Javascript, PHP.
+•An interactive discussion forum facilitating communi-
+cation and collaboration among tech professionals and
+newcomers.
+•Real-time communication to ensure quick responses and
+active engagement.
+•Utilized MySQL database for secure storage of user pro-
+ﬁles, discussions, and comments, oﬀering a seamless user
+experience.
+YumHub
+TECHSTACK: React, HTML, CSS, Javascript.
+•YumHub is a responsive food recipe web application built
+using React functional components and React router DOM.
+•Implemented a user-friendly interface allowing users to
+search for various dishes.
+•Utilized the MealDB API to fetch and display detailed in-
+formation about dishes, including ingredients, instruc-
+tions & Integrated YouTube videos within the app, en-
+abling users to watch recipe tutorials and cooking demon-
+strations.

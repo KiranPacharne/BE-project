@@ -1,0 +1,45 @@
+Alok Agrawal
++918806588148 |agrawalalok425@gmail.com |linkedin.com/in/alokagrawal08/ |github.com/alokagrawal08
+Education
+Pune Institute of Computer Technology Pune, India
+Bachelor of Engineering, Electronics and Telecommunications. CGPA-8.70. Dec. 2020 – July 2024
+Akola College of Arts, Commerce and Science Akola, India
+Higher Secondary School Certificate, 85.85%. May 2018 – June 2020
+Holy Cross Convent High School 
+Secondary School Certificate, 93.60%. June 2012 – April 2018
+Experience
+Software Developer 
+PICT CSI Students Branch Pune, India
+•A group of highly dedicated individuals, working passionately in the field of software. The Forum focuses on
+development through knowledge transfer .
+•Generate solutions to the challenges provided in vivid technical domains.
+•Mentored a Java workshop of around 25students.
+Pune Institute of Computer Technology 
+PICT Elevate’23 Event Organizer Pune, India
+•ELEVATE’23 is the Annual Sports Event of PICT College.
+•I was Appointed as a Managing Head.
+•Lead team of 12 members and contributed in making event grand success.
+Projects
+Library Management System |Java, Java Swing, Servlet, MySQL, HTML/CSS 
+•Developed a feature-rich system using Java, Servlet, and MySQL forefficient book management and
+borrower tracking.
+•Enables admins to manage books, students, and track book issuance and returns.
+•Students can securely log in to view their personal data and borrowing history.
+Sorting Visualizer |Java, Java Swing, Sorting Algorithms Sept. 2022 – Nov. 2022
+•A Java Application designed and developed to visualize working of Various Sorting Algorithms .
+•Allows the user to select - Sorting Algorithm, Speed Of The Visualization, and Input Array.
+•Enabled users to interactively observe and understand the sorting process.
+Achivements
+•5 Star Coder at HackerRank in JAVA:- @agrawalalok425.
+•Credit Suisse Global Coding Challenge 2022 Secured 85th Global rank and 48th national rank.
+•HackerRank Problem Solving Certificate Credential ID - 3bfe785c4ac4.
+•HackerRank JAVA Skills Certificate Credential ID - ddbf2b76578c.
+Technical Skills
+Languages : Java, C/C++, SQL(MYSQL), HTML/CSS.
+Miscellaneous : Data Structure and Algorithm, Object Oriented Programming, Operating Systems, Database and
+Management Systems.
+Interests
+•Fitness, Volleyball, Teaching, Traveling.Akola, India
+April 2023 – May 2023
+Feb. 2023 – Feb 2023
+Jan. 2023 – Mar. 2023

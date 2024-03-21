@@ -1,0 +1,49 @@
+Gaurav Somani
+× +918767686456 |ć gauravsomani52750@gmail.com |a gaurav-750 |] LinkedIn
+EDUCATION
+PUNE INSTITUTE OF COMPUTER TECHNOLOGY, PUNE 2020 - 2024
+Bachelor ofEngineering, Computer Engineering |CGPA: 9.30 Pune, India
+BRIJLAL BIYANI SCIENCE COLLEGE, AMRAVATI 2018 - 2020
+Higher Secondary Education |HSC: 89.85 |CET: 99.795 Amravati, India
+EXPERIENCE
+BARCLAYS B A3 Intern
+J une 2023 - Presen t Pune, India
+•Developed anddeployed areal-time dashboard formonitoring andanalyzing RPS(Regular Payment Service) response
+codes, enhancing error detection. Thedashboard offers nearly real-time insights intosystem performance andupdates
+every 5minutes.
+•Extracted datafrom IBMDB2using Zowe CLI,ensuring reliable dataaccess from Mainframe .
+•Leveraged aNode.js script toconvert theretrieved dataintoaformat thatwascompatible withMongoDB ,theproject’s
+selected database system.
+•Integrated Grafana withMongoDB fordatavisualization, creating adynamic dashboard thatupdated every 5minutes to
+ensure realtimedataaccuracy. Thisincluded linecharts fortimeseries data, piecharts forcode frequency distribution, etc.
+Thisallowed stakeholders toeasily understand RPSsystem’s performance andquickly identify trends andproblems.
+•Implemented acontinuous integration/continuous delivery (CI/CD )pipeline using Jenkins ,automating thedataupdate
+process foruptodatevisualizations. Thedataextraction, processing, andvisualisation refresh operations arecoordinated
+bythispipeline, which runsaNode.js script every fiveminutes.
+PROJECTS
+XENIA WEBSITE [aî]
+Ma y 2022 – A ugus t 2022 | Pune, India
+•Built fortheAnnual Technical Event ’Xenia’ hosted byPICT CSI.Theplatform recorded afootfall of6000+ registration.
+•Reduced query times by30%engineered thebackend ofXenia Website using Node.js ,Express.js andMongoDB .
+•Using Nodemailer andhbstemplate engine, created anemail service forXenia, resulted in50%increase incustomer
+engagement.
+DJANGO STORE [aî]
+J an 2023 – Mar 2023 | Pune, India
+•Developed backend foranecommerce store appusing Django andDjango restframework withcomplete authentication.
+•Used Celery forbackground tasks, Redis forcaching. Pytest forautomated andLocust forperformance testing resulting in
+a90%reduction inbugincidents.Added Chatbot withGoogle Dialogflow andkommunicate.
+SOCIAL WEBSITE [a]
+Feb 2022 – Ma y 2022 | Pune, India
+•Created asocial network utilising Node.js, Express.js, EJS,andMongoDB.
+•Complete authentication withPassportJs andGoogle OAUTH 2.0.
+•User canaddanddelete posts, comments. Likewise, viewandmodify their profile resulting ina40%increase inuser
+engagement.
+ACHIEVEMENTS
+HACKFORMERS 2023 - 2ND RANK [Þaî]
+2nd Prize | Organized b y - Terna E ngineering C ollege
+•Developed ofProjectBuddy, implemented arecommendation system using theNLTK library, suggesting potential
+teammates based ontheir skills andinterests withaccuracy of80%. Added chatfunctionality tofacilitate effective
+communication between users using SendBird API.Django forbackend andPostgresql DBwere used.
+ORGANIZATIONS
+PICT CSIStudent Branch | Feb 2023 – Presen t
+WEB HEAD

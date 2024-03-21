@@ -1,0 +1,47 @@
+Priyank Shah
+Pune, Maharashtra
+/ne9322647142 priyankshah293@gmail.com Priyank Shah
+EDUCATION
+Pune Institute of Computer Technology 2020 – 2024
+B.E. in Electronics and Telecommunication - CGPA -8.5 Pune,Maharashtra
+TECHNICAL SKILLS
+•Data Structures &
+Algorithms•Database Management
+System (DBMS)•Artificial Intelligence
+•OOPS Concept•Web Development
+PROJECTS
+Decentralized Banking System |React Js and Tailwind CSS 09/2022
+•About project Led a team of five in crafting a blockchain-based crypto transaction site with ReactJS and
+Tailwind CSS. Facilitated seamless front-to-back integration for secure, user-friendly transactions.
+Collaborated effectively, delivering a cutting-edge solution in the dynamic realm of cryptocurrency..
+Pascathon-22 Website |HTML CSS JavaScript 2022
+•About project Pascathon-22 website pascathon was a event oraganized by the tech club of pict
+called pasc . i worked on the informative website for the pascathon-22 event using css and
+html.This enhanced my web skills, blending tech proficiency with creative design and helped me
+to work on aproject as a team .
+Online Payments Fraud Detection |Python Machine Learning 2022
+•About Project The project focused on countering online fraud by employing machine learning.
+We used the RandomForestClassifier algorithm to build a model that distinguished between
+legitimate and fraudulent digital transactions. Data preprocessing ensured accurate results. Our
+collaborative efforts led to a robust solution, contributing to online security. This experience
+affirmed our commitment to innovative tech solutions for real-world challenges
+Sentiment analysis |NLP Deep learning 2023
+•About Project My project centered on sentiment analysis in Amazon reviews. Through natural
+language processing, we built a model to classify sentiments. Employing machine learning and
+precise data preparation, our system effectively gauged sentiments, showcasing AI’s insight
+from customer feedback for informed decisions.
+INTERNSHIP
+VOIS 08 2022 – 09 2022
+Front-end Development intern Pune
+•About the role team was given the task of decentralized banking system . My role was of frontend developer
+using react js and tailwind css our project was also selected as one of the finalist of the innovation marathon
+among 250 participants as top 40 teams and got a chance to present the project prototype in the showcase
+event hosted by VOIS
+TECHNICAL SKILLS
+Languages: Python, Java, C, C++, JavaScript, SQL, NoSQL, CSS, HTML
+Developer Tools: VS Code,Dev C++, Jupyter Notebook, Intellij
+Technologies/Frameworks: GitHub, ReactJS, , Git, MySql, TensorFlow,
+ACHIEVEMENTS
+Finalist for vois for tech inovation marathon We participated for vois for tech innovation marathon with
+our decentralized banking system project ,where we were Selected as a finalist among 100 teams
+Dr. Homi Bhabha Balvaidnyanik Compititon Merit in Dr. Homi Bhabha Balvaidnyanik Compititon in 2016

@@ -1,0 +1,38 @@
+Purav Jain
++917666364068 |puravjain1@gmail.com |linkedin.com/in/puravjain |https://github.com/puravjain30
+Education
+The Bishop’s School Pune, Maharashtra
+(10th percentage : 95.6) 2018
+Arihant College Pune, Maharashtra
+(12th percentage : 83.5) 2020
+Pune Institute Of Computer Technology Pune, Maharashtra
+Bachelor of Engineering in Computer Engineering (CGPA : 9.24 Upto Fifth Sem) Feb. 2020 – May 2024
+Experience
+MSP IT Concepts Pvt Ltd. March 2023 - June 2023
+Front-end React Developer
+•Web-application development in ReactJS environment.
+June 2023 - July 2023
+Back-end Developer
+•Built secure user authentication and authorization system (Express, Node.js, MongoDB).
+Projects
+1. Naina Yoga Website March 2023 - May 2023
+React, HTML, CSS, Javascript∗Created a 10 page website for NainaYoga using ReactJS.
+∗Concepts used - React Router, React Hooks, React Icons, React Bootstrap
+2. AI Image Generation May 2023 - June 2023
+MERN Stack∗AI-powered image creation from text prompts.
+∗Efficiently stores and manages AI-generated images in Cloudinary.
+3. E-Commerce Web Application Jan 2023 - March 2023
+REACT, HTML, CSS, Javascript∗Dynamic React-based e-commerce store with essential features like sort, filters, checkout and cart management
+4. Expense Tracker Dec 2022 - Jan 2023
+MERN Stack∗Developed full-stack app for managing income and expenses with various user friendly features.
+Achievements
+Solved over 1000 DSA questions∗Platforms used - Leetcode , Codechef
+∗Leetcode rating - 1648, Leetcode Profile - leetcode.com/puravjain30/
+∗Certification - The Complete 2023 Web Development Bootcamp
+Extra-Circular Activities
+Operations and Management, MUN PICT April 2022 – Sep. 2022∗Ground work for organizing conferences.
+∗Contacting the local vendors and onboarding of sponsors.
+Technical Skills
+Languages : C++, HTML/CSS, Javascript ,MongoDB, MySQL ,RestAPI, GraphQL
+Frameworks : React, Express ,Mongoose ,Node.js, Firebase
+Developer Tools : VS Code, PyCharm, Eclipse

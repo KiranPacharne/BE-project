@@ -1,0 +1,93 @@
+Maitreya Awad 
+Software Developer 
+maitreya.awad@gmail.com 
++91-7719868463 
+Pune, India 
+linkedin.com/in/maitreya-awad-53bb00250 
+github.com/maitreyaawad10 
+EDUCATION 
+B.E/B.Tech 
+S.C.T.R's Pune Institute of Computer
+Technology 
+Pune, India 
+CGPA : 
+8.45
+(Present) 
+12th - HSC 
+St. Vincent's High School & Junior College 
+Percentage : 
+87.69
+ 
+10th - SSC 
+J.N. Petit Technical High School 
+Percentage : 
+95.20
+ 
+PROJECTS 
+SOCIOPEDIA 
+Developed a social media application using MERN stack. 
+This application let's users create and view new posts. Users
+can also check out the proﬁles of other users. 
+Implemented the 
+CRUD
+ operations in the application. 
+The application has a Authentication and Authorization
+system too. 
+https://sociopedia-ivory.vercel.app/ 
+Talk-A-Tive 
+Developed a MERN stack real-time chat application. 
+User's can search for other users they wish to chat with. 
+Users can also create various groups. 
+https://github.com/maitreyaawad10/TALKATIVE 
+SKILLS 
+Procedural Language : C 
+Object Oriented Language : C++, Python, JAVA 
+Frontend : HTML, CSS, Javascript, Bootstrap, REACT
+Backend : Node JS 
+Database : Mongo DB, SQL, Firebase 
+Version Control : Git 
+IDE & Tools : VSCode, Sublime Text and Github 
+ACHIEVEMENTS 
+Leetcode and GeeksForGeeks 
+Solved around 
+300 Data structures and algorithms 
+problems
+on 
+Leetcode, CodeStudio
+ and 
+GeeksForGeeks
+ platform. 
+Achievement Name 
+Codeforces 
+Solved 
+150+
+ problems on 
+Codeforces
+ platform.
+https://codeforces.com/proﬁle/Maitreya_10 
+CodeChef 
+Solved 
+130+ 
+problems on 
+CodeChef
+ platform.
+https://www.codechef.com/users/maitreya_10 
+Non-technincal 
+National level Football player
+. Represented 
+Pune
+,
+Maharashtra
+ at the 
+RFYS
+ All India Football Tournament in
+Mumbai in 2017. 
+HIGHLIGHTS 
+Experience in Web Application development using
+MERN stack. 
+Sound knowledge in Algorithm designing. 
+Sound knowledge of Operating Systems internals. 
+Sound knowledge of OOP concepts. 
+Graduation year : 2024 
+Passing Year : 2020 
+Passing Year : 2018 

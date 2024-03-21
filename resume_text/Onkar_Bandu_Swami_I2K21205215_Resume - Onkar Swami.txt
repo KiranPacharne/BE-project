@@ -1,0 +1,72 @@
+ONKAR BANDU SWAMI  
+WEB DEVELOPER  
+ 
+EDUCATION  
+• Pune Institute of Computer  
+Technology , PUNE  (2021 -24) 
+B.E – Information Technology  
+SPPU  CGPA: 9.01%  
+• Vidya Pratishthan Polytechnic College , 
+Indapur, Pune  (2018 -21) 
+Diploma – Computer Engineering  
+MSBTE Marks: 9 7.49% 
+• K.S.B PATIL VIDYALAYA, ANGAR  
+(2012 – 2018) 
+SSC Marks: 92.40 % 
+SKILLS  
+• JavaScript, CSS, Bootstrap, ReactJS  
+• PHP, NodeJS (Basic level)  
+• MySQL , MongoDB  
+• C, C++, Java, Python  
+• Git, DBMS, OS 
+• AWS Cloud  
+CONTACT  
+Email:  
+onkarswami2002@gmail.com  
+LinkedIn:  
+onkarswami  
+GitHub:  
+omiswami99  
+ 
+LINKS  
+Leetcode:  
+https://leetcode.com/onkar_swami/  
+GFG:  
+https://geeksforgeeks.org/onkar_swami  
+Coding Ninjas:  
+https://www.codingninjas.com/onkar_swami   EXPERIENCE  
+ TICKTECH IT SOLUTIONS, PUNE  3 MONTHS INTERNSHIP  
+ JULY 2023 - OCTOBER  2023 
+• Worked as a Backend developer  intern . 
+• Worked on Water Jar Management System Project.  
+• Gained hands -on experience in various technologies, including figma , MySQL, 
+PHP, and more.  
+ 
+ PROJECTS  
+ BILLING APPLICATION  
+ • PHP-based full stack web app.  
+• Solves the problem of shopkeepers for billing and customer report 
+management.  
+• Generates reports easily.  
+• Manages sub -users.  
+ E-GRAM PANCHAYAT  
+• Manages Birth, Marriage and Death Certificates  
+• Developed a PHP -based full stack web app for efficient management of 
+grampanchayat certificates, incorporating features such as storage, printing 
+and QR code embedding.  
+ 
+EASE -E LEARNING: ( front end lead ) 
+• Learning platform which contains different course ca tagories and their 
+courses along with youtube videos  
+• Web product for youtubers to store their content on web  
+ 
+INTRODUCTORY REACT -JS PROJECTS  
+• Top 5 Netflix Series  
+• Todo -list app  
+ 
+COURSES  
+AWS Cloud Practitioner Essentials by Coursera.( certificate ) 
+ 
+ACHIEVEMENTS  
+First prize in inter college blockchain based hac kathon. ( certificate ) 
+Diploma – Topper of the college in 3rd year. 

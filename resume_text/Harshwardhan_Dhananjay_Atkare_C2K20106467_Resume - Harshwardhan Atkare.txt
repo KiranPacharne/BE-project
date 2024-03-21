@@ -1,0 +1,92 @@
+Last Upda ted on 21st A ugust 2023Harshwardhan Atkare
+ +91 9922889487  a tk arehar sh@gmail.c om
+Education
+• Pune Ins titu te Of C ompu ter
+Technol ogy( Bac helor Of
+Engineering i n Computer
+Science)
+CGPA:9.07
+July2024 Pune,Maharashtra
+• S ar o sh J unior C ollege
+HigherSecondarySchool
+Certificate(HSC).
+Percentage: 88%
+July2020 A’bad,Maharashtra
+• Cambridge High School
+IndianCertificateofSecondary
+Education(ICSE)
+Percentage: 91%
+July2018 A’bad,Maharashtra
+Certification
+•AWSCertifiedSolutionsArchitect
+March2023
+•AWSCertifiedCloudPractitioner
+Dec2022
+Links
+GitHubHarshwardhan431
+Linkedin harshwardhan‑atkare
+Leetcode atkareharsh
+Skills
+PROGRAMMING
+•C/C++•Dart•Java
+CORE SUBJECTS
+•OOP•DSA•DBMS•OS
+DATABASE
+•SQL•Firebase•AWSDynamoDB
+TOOLS
+•Git/Github•VsCode•Android
+Studio
+Roles/Responsibilities
+•CaptainofPictBasketballTeam
+•ElevateOrganizingCommitteeHead
+(AnnualSportstournamentofPict)
+•PictTrainingandPlacementcell
+Volunteer
+•MemberofPICTACMStudent
+ChapterExperience
+SOFTWARE DEVELOPER INTERN
+MIB A IO Elmec Smart Automations Pvt Ltd
+July2022–October2022 Pune,Maharashtra
+•Aimofthisstartupistorevolutionizemodernlivingthrough
+innovativehomeautomationsolutions.
+•WorkedonAndroidappdevelopmentusing Flutterandbuildpixel
+perfect,butterysmoothUI’sacrossmobileplatforms
+•Developedarobust AWSDynamoDB,GraphQL Backendusing AWS
+AppSyncAPI.
+•Integrated MQTTClient withFlutterAppandensuredproper
+workflowofmessagepackets
+•Maintainedcodeandwroterefactoredcode.
+FLUTTER INTERN
+REBER T TECHNOL OGIE S P VT . L TD
+June2022–July2022 Pune,Maharashtra
+•WorkedonAndroidfrontendandbackendappdevelopmentusing
+Flutter,implementedbeautifulUIsacrossthemobileplatform.
+•UsedFirebase asbackend.
+Achievements
+Smart India Hackathon Finalist
+Github Link :- link
+Aug2022 Pune,Maharashtra
+•Teamof3membersmadeanapplicationonAttendanceManagement
+Systemforrecordingandtrackingattendanceinruralareas.
+•Myrolewastomakeintuitiveuserinterfacefordesktopapplication.
+Thisincludedisplayingattendanceingraphicalformat,making
+beautifulUIscreens,writingproperrefactoredcode.
+•Alsoworkedondeployingappon AWSAmplify
+•Technogyused:‑ AWSdynamoDB,AWSAmplify,GraphQL,Flutter.
+Projects
+PICT SPORT APP
+Available on PlayStore :- link
+Github Link :- link
+Jan2022‑March2022 
+•AimofthisappistodigitalizethesystemoftheSportsDepartmentofour
+college.Featuresincluded:‑Sportseventannouncements,Equipment
+availability,GroupChatfunctionality,Calendardisplayingeventdates
+•TechnologyUsed: Firebase,Flutter
+COVIUPDATE
+Github Link :- link
+June2021‑July2021 
+•Thisappwasdesignedtodisseminatecrucialinformationabout
+COVID‑19vaccineavailabilityacrossdifferentdistrictsinIndia.
+•Aim:‑provideuser‑friendlyinterface,real‑timeupdates,simplifythe
+processofbookingvaccinationappointments.
+•TechnologyUsed: CovinSetupAPI,Flutter

@@ -1,0 +1,41 @@
+SATYAJEET MORE
+svmore456@gmail.com |/♀nednSatyajeet More |/gtbSATY4JEET
+Education
+New Era English School, Nashik [SSC Percentage : 94.80] June 2018
+R.Y.K. Junior College [HSC Percentage : 79.23] July 2018 - June 2020
+Pune Institute Of Computer Technology July 2020 - June 2024
+Bachelor of Engineering in Computer Engineering
+Projects
+Blood Bank Management Web App
+GitHub
+•Designed and Developed a web application for Blood Bank Management using MERN Stack
+•Included User(Donor), Organisation and Admin Interface
+•Secured using JWT authentication and Bcrypt Library
+•Designed as per the MVC Architecture with User, Inventory Models. Controllers to manage the database models and
+Views using Frontend Framework.
+StockWave : Stock Management System
+GitHub
+•Built using Next.js, MongoDB as the database, and Tailblocks for its responsive UI components.
+•Helpful in keeping track of inventory levels in real-time for all products. Instant updates result in seamless stock
+monitoring which prevents stockouts and overstocking.
+•Utilized Tailblocks’ ready-to-use UI components to create an intuitive and visually appealing user interface. The respon-
+sive design ensures optimal usability on various devices.
+Sorting Visualizer
+GitHub
+•Developed a dynamic web-based sorting visualizer using JavaScript to demonstrate various sorting algorithms in an
+interactive and visually appealing manner.
+•Enabled users to select and visualize different sorting algorithms such as Bubble Sort, Merge Sort, Quick Sort, etc.
+•Employed a color-coded system to represent different stages of the sorting process, including data comparisons, swaps,
+and sorted elements, enhancing clarity and comprehension.
+Achievements
+•Solved300+problems on different coding platforms on different Data Structures and Algorithms .
+•Coding Profile : Leetcode Coding Ninjas
+•Ranked among top 2% students in the MHT-CET 2020 examination.
+•’A’ Grade Certification in Intermediate Drawing Grade Exam.
+Skills
+Programming Languages : C++, Java
+CS Fundamentals : Data Structures and Algorithms, Database Management
+Systems, Object Oriented Programming, Operating Systems
+Web Technologies : HTML, CSS, Bootstrap, Javascript, NodeJs, ExpressJs
+Databases : MySQL, MongoDB
+VCS and Deployment Tools : Github

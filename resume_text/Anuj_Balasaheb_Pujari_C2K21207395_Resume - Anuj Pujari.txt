@@ -1,0 +1,48 @@
+ANUJ PUJARI
+/gtbanujpujari |/♀nednAnuj Pujari |anujbp.2121@gmail.com |</> LeetCode Profile
+Education
+Pune Institute Of Computer Technology [CGPA:8.96/10] July 2021 - June 2024
+Bachelor of Engineering in Computer Engineering
+Government Polytechnic Pune [Percentage : 93.13] Aug 2018 - June 2021
+Diploma in Computer Engineering
+Parner Public School [Percentage : 96.00] June 2017 - June 2018
+SSC Board
+Skills
+Programming Languages : C++, Java
+Web Technologies : HTML, CSS, Javascript, Google Cloud(GCP)
+Databases : MySql, MongoDB, Firebase
+VCS and Deployment Tools : Git, Github
+Relevant Coursework : Data Structures and Algorithms,DBMS,Operating Systems,OOP
+EXPERIENCE
+Salesforce Developer Intern July 2022 - Sep 2022
+SmartInternz https://trailblazer.me/id/anujpujari
+•Explored various methodologies in Salesforce and understood Salesforce Developer modules from basic to advanced level.
+•Earned 2 super badges: Apex Specialist and Process Automation Specialist on the Trailhead Platform.
+•Skills: Salesforce ·Salesforce Lightning ·Salesforce Development
+Projects
+ReachUs [Android,XML,Java,Firebase ]Video Link GITHUB REPO
+•Enabled10+features foruserstointeractwiththeapplicationefficientlyincluding authenication anduserverification.
+•Improved UI with the help of Interactive and Responsive User Interface usingXMLfor easy interaction of users
+and provided 5 +services to users
+QuizEasy [Android,XML,Java,Firebase ]Video Link GITHUB REPO
+•Enabled10+features for users to interacts with application and learn more about the technologies.
+•Implemented multiple Quiz Options for users from 4+different domains of computer Science
+•Added an unique feature that allows a user to create his own quiz and share quiz with other with the help of a unique
+code
+Blood Bucket [Java,MongoDB ] GITHUB REPO
+•Developed the Blood Donation Management System using Javaprogramming language and MongoDB database as
+data storage for an efficient and scalable solution.
+•Implemented features such as donor addition, update, and search for donor based on location and blood group, optimizing
+the process of matching donors with recipients through a menu-driven interface using Advance Java Concepts.
+Achievements
+•Coding Profiles : Leetcode Codechef Codeforces
+•Rated1470+contest rating on Leetcode Platform.(Top 52% amongst 20 lakh Users) 
+•Solved400+problems on different coding platforms on different Data Structures and Algorithms .
+•Completed Google Cloud Engineer Learning Path on Quick Labs 
+•Earned43 Bagdes and 57000 +pointson trailblazer platform duing the salesforce internship period. 
+•Silver winner in Zuno Fellowship Program .Ranked 52 among 3 lakh participants. 
+Position Of Responsibility
+•Management Core Member of GDSC PICT
+•Student Volunteer at PICT ACM Student Chapter
+•Student Partner at CodeAsylums Network
+•Vice President of COM’e’IT (Student organization of Computer IT Department GPP)

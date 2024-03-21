@@ -1,0 +1,40 @@
+AVANTIKA NANDRE
++91 8010998324
+⋄avantikanandre@gmail.com ⋄https://www.linkedin.com/in/avantika-nandre
+ABOUT
+I am an engineering student at Pune Institute of Computer Technology, having stream Electronics and Telecommu-
+nications. I’ve always been a problem solver. I’m always adding new skills to my repertoire and always eager to gain
+new skills.
+EDUCATION
+Bachelor of Electronics and Telecommunications Engineering
+Pune Institute of Computer Technology, Pune Expected 2024
+GPA: 8.6
+HSC
+Shree Pramod Patil Jr. College, Nashik 2019 - 2020
+Percentage: 88.92
+SSC
+New Engilsh School, Sakri 2017 - 2018
+Percentage: 95
+SKILLS
+Programming and Languages C++, MySQL, DSA, Java(basics)
+Devlopment and Databases HTML, CSS, React JS, Linux, Dbms
+Soft Skills Team Management, Strategic Thinking, Communication
+ACHIEVEMENTS
+Certificate of Web development Course 2021
+Homeflic Wegrow
+•Achieved HTML, CSS and React JS skills. Developed a simple advice giving web page using react js
+Cloud computing on AWS Aug 2023
+Udemy
+•Learned Cloud Computing Concepts and AWS Basics — Fundamentals of Amazon Web Services (AWS)
+PICT Art Cicle: Won first position for Purushottam Karandak 2022
+PROJECTS
+TRAVEL ADVISOR: A simple tarvel advisor web-app using react to to give different advises for restaurants and
+hotels, Using React, hooks for state management, styled-components for UI Design also used Material UI.
+RAILWAY RESERVATION SYSTEM: The ”Railway Reservation System using JDBC” is a console-based,
+menu-driven project implemented in Java. This project aims to provide a simplified railway reservation system,
+where users can search for available trains, book tickets, and manage their reservations.
+POSITION OF RESPONSIBILITY
+•PICT ART CIRCLE:
+Part Of the cultural college team that officially represents the college on various levels of dramas
+•PICT IEEE Student Branch:
+Member of PISB student Branch

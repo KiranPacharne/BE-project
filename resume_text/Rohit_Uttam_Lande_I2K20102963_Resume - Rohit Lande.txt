@@ -1,0 +1,39 @@
+ROHIT LANDE
++91 9423549958 ⋄Pune, Maharashtra
+landerohit73@gmail.com ⋄linkedin-id ⋄github:Rohit-Lande
+EDUCATION
+PUNE INSTITUTE OF COMPUTER TECHNOLOGY,Pune - Bachelor of Engineering 2020 - 2024
+CGPA: 8.75
+Agasti Arts, commerce And Dadasaheb Rupavate Science College Akole,Ahmednagar - HSC 2020
+Percentage: 70%
+Agasti Vidyalaya Akole,Ahmednagar - SSC 2018
+Percentage: 93.40%
+SKILLS
+Languages C++, SQL, HTML, CSS.
+Frameworks Node.js, Express, MongoDB, Bootstrap,React.js
+Tools Git, MySQL, VS Code, Postman.
+CS fundamentals OOP, DBMS ,OS
+Soft Skills Problem-Solving.
+PROJECTS
+CampusSync GitHub
+•Developed a robust Student Management System using Node.js, Express, Handlebars (HBS), and
+MongoDB.
+•Implemented essential functionalities, including admin login and student registration with au-
+thentication for secure access.Manage Student Data and Results.
+•Designed a user response form to collect and store valuable data in the database, enabling efficient
+data management and analysis.
+•Technology Used: Node.js, Express.js, MongoDB, Bootstrap,Handlebars.js.
+ShopNest GitHub
+•Developed an e-commerce platform having functionality of product search, seamless product
+addition, and a user-friendly cart display.
+•Enabled users to add products to their carts, and created a responsive cart display to showcase
+selected items, enhancing the overall shopping experience.
+•Key Features: select ,Add, delete items from cart,showcase the selected elements in cart, Search
+product.
+•Technology Used: React.js.
+ACHIEVEMENTS
+•2nd Prize Winner At at PCCOE Blue Bit Hackathon Codechef chapter(Hackathon) - Selected
+from the final round among top 100+ teams
+•Solved over 500+ questions across various coding platforms like LeetCode, codechef.
+NON TECH (HOBBIES)
+•Travelling, Sketching, video-editing.

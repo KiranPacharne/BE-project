@@ -1,0 +1,53 @@
+Manas Kshatriya
+♂phone+91 8379972888 /envel⌢pemanaskshatriya01@gmail.com /linkedinmanas-kshatriya /githubmanas-kshatriya
+Education
+Pune Institute of Computer Technology CGPA: 9.21
+Bachelor of Engineering in Information Technology 2020 - 2024
+Experience
+Software Developer Intern Mar 2023 – Present
+CodeClock ♂¶ap-pinBanglore, India
+•Optimized user engagement by developing and maintaining the company’s website with modern design principles.
+•Implemented efficient web scraping microservices using Python, data extraction tools, and RESTful APIs, leading to
+anotable 2-minute increase in app retention time.
+•Conduct thorough user behavior analysis and gather feedback for successful performance optimizations.
+Full Stack Developer Intern Jan 2023 – Present
+Huf India ♂¶ap-pinPune, India
+•Leading development of an application for taking Gemba Walk in Huf Industries.
+•Designing user-friendly app UI with React Native , backed by Node.js and AWS cloud services.
+•Managing daily Gemba Walk data by collaborating with managers, streamlining the data collection process.
+Full Stack Web Developer Intern Oct 2021 – Dec 2021
+Kode IT Solutions ♂¶ap-pinPune, India
+•Handling Backend and Frontend development of the websites and applications using MERN Stack.
+•Improved the response time by 40% and deployed two fully functional websites on the Web with active user traffic .
+Frontend Developer Intern Jan 2021 – Mar 2021
+Doodlepie Technologies ♂¶ap-pinNasik, India
+•Developed a portfolio website for a UI/UX designer. The objective of this website was to showcase her creatives.
+•Collaborated on the front-end development of websites and applications and increased user interactivity by 25% .
+Projects
+Expense Tracking Application ὑ7 |/github |ReactJS, NodeJS, TailWindCSS, MongoDB
+∗Developed an Expense Tracking Application with key features like user registration, expense logging, budget
+tracking, and dynamic data visualization . This provided users with a seamless experience in managing their finances
+effectively.
+∗Leveraged React.js for interactive front-end components and Node.js for a scalable and responsive back-end. Utilized
+RESTful APIs for secure data transmission and storage, ensuring a robust and secure user experience.
+InC Event Management Portal ὑ7 |/github |ReactJS, NodeJS, TailWindCSS, MySQL
+∗Designed and implemented an InC Event Management Portal with features such as user registration, event selection,
+payment integration, email confirmation, and a judging portal . Conducted thorough testing to ensure
+functionality and security, delivering a reliable and user-friendly platform.
+∗Streamlined and modernized a 10 year-old workflow , resulting in increased efficiency and improved user experience for
+event management, registration, and judging processes.
+Dadachishala NGO Website ὑ7 |/github |ReactJS, FireBase, TailWindCSS, TypeScript
+∗Developed a user-friendly website for Dadachishala NGO, providing information on events and achievements. Incorporated
+features for donations and volunteering, enhancing user engagement and support for the NGO’s initiatives.
+∗Created an Admin Panel ,empowering NGO administrators with seamless content management capabilities
+Technical Skills
+Languages : C++, Java, Javascript, SQL, HTML, CSS, Python
+Technical : Data Structures and Algorithm, Database Management System, Object Oriented Programming,
+Technologies and Frameworks : React.js, Next.js, Express.js, Node.js, MongoDB, MySQL FireBase, GitHub, Git,
+Bootstrap, TailwindCSS, Figma
+Soft Skills : Leadership, Fluent Communication, Time Management, Flexible, Adaptable , Active Learning
+Achievements & Extra-Curricular
+∗Secured a rank of 422 in February Cook-Off 2022 Division 3 coding contest organized by Codechef
+∗Solved 400+ Questions on Leetcode ὑ7and Codeforces .
+∗Captain of College Football Team
+∗Managed and Organized Intra-college Football tournament .

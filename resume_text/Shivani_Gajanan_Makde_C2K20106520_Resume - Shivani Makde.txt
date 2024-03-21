@@ -1,0 +1,54 @@
+Shivani Makde
++91-9511740552 |shivani010603@gmail.com |linkedin.com/in/shivani-makde |github.com/Ukiyo0603 |
+codechef.com/ukiyo
+Education
+•Pune Institute of Computer Technology, Pune 2020-present
+Bachelors of Engineering in Computer Science) CGPA: 8.69
+•Army Public School,Kirkee, Pune 2020
+Central Board of Secondary Education(C.B.S.E) Percentage: 93.8
+Projects
+•Road Management System(Pothole Detection)
+Python, YOLOv6 object detection, Data Science
+–Pothole detection system using image data which will help decrease the accidents caused due to potholes.
+–Annotating the image datasetusing Labellmg in the Yolo format.
+–Comparisons made between SSDandYOLOv4/YOLOv6 detection algorithms.
+•Airline Reservation System
+Django, HTML, CSS, MySql
+–Developed an end-to-end reservation system using MySQL and Django, enabling efficient flight booking and
+management .
+–Implemented authentication andregistration , ensuring s ecure user access and linking passengers to their reserva-
+tions.
+•Health Hub
+Python, Django, HTML, CSS
+–Built "Health Hub" web app integrating a Food API , offering users detailed nutritional insights.
+–Implemented efficient backend (Django/Node.js) to manage API requests and data processing.
+–Designed a user-friendly exercise section allowing users to access targeted workout information.
+Experience
+•Software Development Intern April 2023 - June 2023
+Virtue Infotek, Pune Online
+–Created APIs for various features of the web app, enabling smooth interactions with the user interface..
+–Utilized Django’s ORM to define and manage database models, ensuring efficient data storage andretrieval.
+–Gainedvaluablehands-onexperienceinbackenddevelopmentusingDjango, deepeningmyunderstandingof REST-
+ful APIs and their implementation.
+•Data Science Intern - Inhouse April 2023 - May 2023
+CAILMD Research Group Online
+–Designed and developed a comprehensive grading system that streamlined the evaluation and reporting of student
+performance.
+–An assortment of question categories each allocated distinct weightages.
+Technical Skills and Interests
+Languages : Python, C/C++, SQL(MySQL), HTML+CSS,
+Libraries : C++ STL, Pandas, Matplotlib, Numpy
+Web Dev Tools : Git, GitHub, VS Code, Figma
+Frameworks : Flask, Django
+Cloud/Databases :Relational Database(mySql)
+Soft Skills : Leadership, Event Management, Writing, Adaptability
+Positions of Responsibility
+•Tresurer PICT ACM Student Chapter March 2023 - present
+–Organizing team member of Pulzion 2023 - handled all the finances of the event.
+–Event lead of Dataquest event.
+–Conducted AI/ML Sigs - Sigs for 2nd year students on pandas library and various preprocessing activities.
+Key Courses Taken
+-Introduction to Machine Learning: NPTEL, IIT KGP
+-Figma & Webflow: Complete Web Design: from Figma to Webflow to Freelancing(Udemy)
+-Essentials of Data Science with Python: Department of Computer Engineering & CAILMD Group, PICT, Pune
+-STEP in AI&ML and Big Data: Department of Information technology, PICT

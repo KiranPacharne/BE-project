@@ -1,0 +1,90 @@
+Sharvi Endait
+sharviendait@gmail.c om | +91 96230 42613 |Github |LinkedIn
+EXPERIENCE
+GOLAIN | Mobile Applica tion Development Intern
+Feb 2023 – Presen t | Pune, Mahar ash tr a
+•Contributed tothedevelopment ofacutting-edge Flutter BLEmesh
+package forGolain.
+•Successfully integrated Golain platform APIs intotheGolain
+package, enhancing itsfunctionality andcapabilities.
+•Created theGolain platform shell application andcontributed tothe
+Golain consumer shell application, catering totheneeds ofGolain
+platform users, andproviding aseamless experience totheend
+consumers.
+•Leveraged theGolain Platform shell andSDKtoenable bidirectional
+data transmission using BLEandPlatform APIs, optimizing data
+exchange efficiency.
+PUNE INSTITUTE OF COMPUTER TECHNOLOGY |
+Undergraduate Research Intern
+Oct 2022 – Presen t | Pune
+•Built aSystem forextracting entities from customer conversation
+audios .Used Wav2Vec2 model forSpeech Recognition andFlair,
+CoreNLP model forNamed Entity Recognition. Achieved an87%
+accurate model toextract right entities.
+•Researched VMallocation policy intheimplementation ofallocation
+graphs. Thedataforthegraph wasobtained from collected data
+through Anomaly Detection .
+OMDENA | Junior Machine Learning Engine er
+J an 2023 - Feb 2023 | Remo te
+•Collaborated increating aconversational AIchatbot toassist
+individuals impacted byinflation.
+•Provided innovative ideas forimplementing Named Entity
+Recognition (NER) techniques.
+•Conducted datascraping from various online sources, including
+Reddit andblogs, togenerate relevant datasets.
+PROJECTS
+CLIENT-HIVE Flutter | Node JS | Prisma | PostgreSQL
+•Acollaborative platform ,where users canstore andshare files,
+communicate inreal-time, andschedule appointments.
+•Italsohassupport forvideo conferencing appointments all
+while keeping their clients intheloop.
+•Astheleadflutter developer, Imanaged thedevelopment of
+theflutter appwhile providing assistance tothebackend team.
+ICEI APP Flutter | Filebase
+•Developed anddesigned anapplication forthe2nd
+International Conference onemerging trends andInnovations
+inICT(ICEI).
+•Integrated Filebase toseamlessly linkandaccess images and
+fileswithin theapplication.EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+Bachelor of Computer
+Engineering (B.E)
+J ul y 2020 – J une 2024 | Pune, MH
+CGP A : 9.38/ 10
+DR. KALMADI SHAMARAO
+JUNIOR COLLEGE
+12th - Maharashtra State B oard
+(HSC)
+J une 2018 – Mar 2020 | Pune, MH
+Percen tage: 92%
+SKILLS
+LANGUAGES
+•C++•Python •Dart
+•JavaScript •SQL•Java
+TECH-STACK
+•Flutter •Node JS•Firebase
+•MongoDB •Machine Learning •NLP
+•Deep Learning
+UTILITIES AND FRAMEWORKS
+•Git/Github •Postman
+•HoppScotch •Flutter BLoC
+•MQTT •BLE/BLE Mesh
+COURSEWORK
+UNDERGRADUATE
+Machine Learning andAI
+Web Technology
+Object Oriented Programming
+Data Structures andAlgorithms
+Database Management Systems
+LIBRARIES
+•Numpy •Pandas
+•Scikit-learn •NLTK •Matplolib
+•Seaborn •Beautiful Soup
+ARTICLES
+•Link: Future ofMars Exploration -PICT
+IEEE Newsletter Group 17.1
+•Link:Blockchain 101-Medium
+ACHIEVEMENTS
+PICT vsVIITHackathon Runner Up-
+Project Link

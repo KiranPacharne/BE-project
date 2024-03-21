@@ -1,0 +1,73 @@
+Rhutuj Bhoir 
+B.E. ( Computer Engineering ) 
+Passionate college student pursuing B.E. in Computer Engineering and have a profound interest in Backend Development and Cyber
+Security. 
+rhutujbhoir@gmail.com 
+9021840638 
+Pune, India 
+linkedin.com/in/rhutuj-bhoir-
+783b1020a 
+github.com/rhutuj 
+SKILLS 
+OS 
+OOP 
+NodeJs 
+MongoDB 
+C++ 
+ExpressJs 
+linux 
+Javascript 
+SQL 
+DBMS 
+HTML 
+CSS 
+LANGUAGES 
+English 
+Professional Working Proﬁciency 
+Marathi 
+Native or Bilingual Proﬁciency 
+Hindi 
+Professional Working Proﬁciency 
+HOBBIES 
+Playing Keyboard 
+Cooking 
+EDUCATION 
+B.E ( Computer Engineering ) 
+Pune Institute Of Computer Technology 
+06/2020 - 06/2024
+, 
+ 
+8.8 CGPA 
+Cyber Security Honors 
+Pune Institute Of Computer Technology 
+06/2020 - 06/2024
+, 
+ 
+HSC 
+Jadhavar College 
+06/2019 - 03/2020
+, 
+ 
+74 .77% 
+SSC 
+Sir S A High School 
+06/2017 - 06/2018
+, 
+ 
+87.34 % 
+PERSONAL PROJECTS 
+Chit-Chat 
+A Real Time Chat Application - I have created a dynamic real-time chat application featuring seamless
+messaging, user authentication, and an intuitive UI designed using Chakra UI. Leveraging MongoDB,
+Node.js, and Express.js. 
+Users can instantly connect, exchange messages, and enjoy a secure experience with password encryption
+and JWT token authentication. 
+Ceated a platform that combines technical sophistication with user-friendly design, ensuring a smooth and
+engaging communication environment. 
+CERTIFICATES 
+- Postman API Fundamentals Student Expert (Postman Academy) 
+- Complete Ethical Hacking Bootcamp 2023: Zero to Mastery 
+ACHIEVEMENTS 
+- First Place winner in PRAXIS digital defender, ITSA PCCOE Pune 
+- Runner up at VIT Melange-23 Band Competition 
+- Winner at SYTICS-23 (coding event) arranged by BVCOE pune 

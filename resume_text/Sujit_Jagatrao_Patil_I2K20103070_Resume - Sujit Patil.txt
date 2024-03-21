@@ -1,0 +1,58 @@
+Sujit Patil  
+                    +91 8459777835  |   sujitpatil276@gmail.com   |    linkedin.com/in/sujit -patil/ 
+ 
+EDUCATION  
+PUNE  INSTITUTE  OF COMPUTER  TECHNOLOGY  | B.E. IN Information Technology  
+CGPA  : 8.75/10 | Pune,  India | 2020 - 2024 
+JAY YOGESHWAR COLLEGE OF SCIENCE AND ARTS | CLASS 12TH 
+PERCENTAGE  : 81.85 % |Amalner,Jalgaon , India | 2017 – 2019 
+G. S. Highschool | CLASS 10TH 
+PERCENTAGE  : 93.80  % |Amalner,Jalgaon,  India | 2017 
+ 
+PROJECTS  
+MOVIE REVIEW APP  | TECH STACK : REACTJS, NODEJS, ExPRESS JS, MONGO DB, Cloudinary  |   See Project  
+ 
+• A site where users can search for  movies  and see info about it like cast, crew, review and recommendation.  
+• Frontend comprises of HTML,CSS,JavaScript with EJS template and NodeJS & ExpressJS is used for backend.  
+• Users can register, login to site and has feature of Create, Read, Update and Delete . 
+ASK IT  | TECH STACK : ReactJs, NodeJs, ExpressJs, MongoDB  |  See Project  
+ 
+• A Full Stack Q&A Web Application where users can ask their questions and give answers.  
+• One level replies can be added to the answers . 
+BLOG POST WEB APP  |TECH STACK :HTML,CSS ,JavaScript ,EJS,NODEJS,ExPRESS JS,MONGO DB|  See Project  
+ 
+• Developed a web app where users can read and compose blogs.  
+• Users can perform all Create, Read , Update and Delete (CRUD) operations on blogs.  
+ 
+SKILLS  
+LANGUAGES  
+C++  • JavaScript  
+  Developer Tools  
+  VS Code 
+LINKS  PROGRAMMING  
+DSA • Competitive  Programming  
+BACKEND  
+NodeJS  • ExpressJS   FAMILIAR  
+Git • GitHub   
+DATABASE S 
+MongoDB  • MySQL  
+•  LeetCode ://  Hercules276  • CodeForces  :// sujitpatil276  • CodeChef:// sujitpatil_276  
+• GeeksForGeeks:// sujitpatil276  • CSES:// Hercules_276  • GitHub://  sujitpatil276  
+ 
+ACHIEVEMENTS  
+• CodeChef  : 3 Star Rated  - 1659  
+• CodeForces  : Pupil  Rated  - 1316 
+• Global  Rank 533 out of 39k participants in Codeforces Round 886 (Div4)   
+• Global  Rank 263 out of 3.5k participants in Codechef Starters 69 (Div3)  
+• Global  Rank 355 out of 6k participants in Codechef April Cookoff (Div4)  
+• Global Rank 402 out of 2 .5k participants in Codechef Starters 99 (Div2)  
+• Solved over 900 problems  on various online judges like Codeforces, Codechef, Leetcode, GeeksForGeeks, CSES combined .   
+• Was among top 0.67 percentile  of students in MHT -CET 2020  (Rank 879 out of 90k+ students)  
+ 
+PROFESSIONAL MEMBERSHIP  
+• PICT ACM STUDENT CHAPTER ( 03/2021 – Present)  
+ 
+ 
+RELEVANT COURSEWORK  
+• Design and Analysis of Algorithms •  Data Structures and Algorithms  • Object Oriented Programming   
+• Database Management System • Operating Systems  

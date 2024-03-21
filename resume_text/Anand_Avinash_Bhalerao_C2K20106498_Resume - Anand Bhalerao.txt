@@ -1,0 +1,47 @@
+Anand Bhalerao
+Pune, Maharashtra
+♂phone+91 9175799277 /envel⌢peanandbhalerao.l.a3b@gmail.com /linkedinAnand Bhalerao /githubAnand-Avinash-Bhalerao
+Education
+Pune Institute Of Computer Technology 2024 (Expected)
+Bachelor of Engineering in Computer Engineering - CGPA: 9.05 (Till 5th Semester) Pune, Maharashtra
+Army Public School, Kirkee 2019
+Class 12th (PCM + IP) - Percentage: 83.4% Pune, Maharashtra
+Army Public School, Kirkee 2017
+Class 10th - Percentage: 85.6% Pune, Maharashtra
+Projects
+Upastithi (Smart Attendance Platform) |Code |Demo
+•Platform to simplify the tedious task of marking attendance using Bluetooth andDynamic QR code. The teacher
+walks around the class once and the attendance of the entire class is marked.
+•Highly Scalable application that can be used by institutes and business organizations
+•Developed using three layer Architecture. All API calls handled using Volley library
+•Tech Used : Java, XML, Firestore , User Authentication using Firebase Authentication
+•Phone Sensor’s Used: Bluetooth, Location
+Security System (Smart Home Intercom) |Code |Demo
+•Developed an android app to track the visitors at Home and alert connected residents about the same using a spare
+smartphone. User can send messages to communicate with the visitors and other users in real time.
+•Separate login for User’s and Admin’s. Users can be linked to multiple devices at once.
+•Tech Used : Kotlin, XML . Dual login handed using Firebase authentication andFirebase Realtime Database
+•Phone Sensor’s Used: Camera Flash
+CoviHelp (Social Distance Maintainer) |Code
+•Developed an android app to check if Social Distance is being maintained by people.
+•Devices in a range of 2 meter trigger an alarming sound alerting the user to maintain social distance.
+•Data about hospitals beds and daily Covid cases, recoveries in Maharashtra fetched using various REST APIs
+•User can book a slot for vaccination.
+•Tech Used: Java, XML .
+•Phone Sensor’s Used: Bluetooth Low Energy, Location
+Achievements
+•Finalist in Smart India Hackathon ’22 . Team name - Bhole Chature
+•Solved more than 500+ problems across various platforms such as LeetCode, CodeChef and Codeforces.
+•Highest rating of 1697 at Codechef, which is the top site in terms of participation of programmers across globe.
+•Secured all India rank of 145, 496 in Codechef’s Starters in the month of September 2021 among 12k+ participants.
+•Gold badge in Java, C++ and Problem Solving on Hackerank
+Coding Profile Links
+•LeetCode (400+ Solved)
+•CodeChef
+•Hackerank
+Technical Skills
+Languages : Java, XML
+Familiar With : Kotlin, C++
+Technologies : Android Development, Unity
+Databases : Firebase Realtime Database, Firestore, MySQL
+Course Work : Data Structures and Algorithms, Database Management Systems, Operating Systems, Computer Networks

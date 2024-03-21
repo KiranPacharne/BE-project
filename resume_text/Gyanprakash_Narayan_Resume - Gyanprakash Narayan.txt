@@ -1,0 +1,71 @@
+GYANPRAKASH NARAYAN
+SCTR’S Pune Institute of Computer Technology
+gyanprakashnarayan01@gmail.com /gtbhttps:/ /github.com/gyanprakashbot
+Pune, Maharashtra - India
+PROJECTS
+Automating AWS resources with Terraform
+•Automate the provisioning and manage-
+ment of AWS resources using Terraform, an
+infrastructure-as-code tool. By deﬁning the
+desired infrastructure in code, the project
+streamlines resource creation, conﬁguration,
+and updates, ensuring eﬃcient and consistent
+deployment while minimizing manual inter-
+vention.
+Network Traﬃc ﬂow learning models
+•Development and implementation of network
+traﬃc ﬂow learning models using Cisco Packet
+Tracer. These models will analyze and predict
+the ﬂow of data across a network, optimizing
+performance and security measures for eﬃ-
+cient data transmission and overall network
+management.
+3D modeling with AutoCAD
+•Comprehensive 3D model of a waste manage-
+ment system using AutoCAD, implementation
+of industrial techniques for scaled down sys-
+tems. Visualizing its components and layout
+for eﬃcient planning and analysis.
+SOFT SKILLS
+•Analytical Abilities.
+•Communication Collaboration.
+•Teamwork.
+•Adaptability
+CERTIFICATIONS
+Network Analysis
+NPTEL - IIT Bombay
+Introduction to Docker
+Coursera
+Java Network Programming
+UdemyTECHNICAL SKILLS
+•Java, C++, Python, ReactJS.
+•Data Structures and Algorithm, Problem Solving, Network Ad-
+minstration, Terraform, Cloud resource management, Database
+Management, Scripting,.
+TECHNICAL INTERESTS
+•Network fabric design Development, Data traﬃc control, En-
+terprise networking, SD-WAN, NVF, abstract virtualisation.
+•Cloud technology ethusiast, study of hybrid cloud models,
+blockchain.
+EDUCATION
+B.E ( Electronics and Telecommunication)
+SCTR’S Pune Institute of Computer Technology, Pune
+Ὄ2020 – 2024
+Senior School Certiﬁcate Examination
+Kendriya Vidyalaya No.1 Dehuroad, Pune
+Ὄ2019
+Secondary School Examination
+Kendriya Vidyalaya No.1 Dehuroad, Pune
+Ὄ2017
+EXPERIENCE
+Lead Technical Writer
+CuriousityCrunch
+ὌFeb 2023 - Present
+Cyber Security Intern
+VIEH Group
+ὌApril 2023 - May 2023
+HOBBIES
+•Reading webnovels
+•E-Sports
+•Doodle Arts
+•Badminton

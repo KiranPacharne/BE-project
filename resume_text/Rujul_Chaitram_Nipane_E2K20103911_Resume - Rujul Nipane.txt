@@ -1,0 +1,72 @@
+RUJUL NIPANE
+E&TC PICT Pune
+@rujulnipane2002@gmail.com /envel⌢pePune, India /githubrujulnipane ♂phone+919370185230 /linkedinrujul-nipane-255042231
+EDUCATION
+B.E in Electronics and Telecommunication
+Engineering
+Pune Institute of Computer Technology
+Ὄ5CGPA: 9.1 ♂¶ap-¶arkerPICT-2024
+Higher Secondary School Certiﬁcate - Class XII
+Dr. Ambedkar College Nagpur
+Ὄ5Percentage: 87.13% ♂¶ap-¶arkerHSC-2020
+Secondary School Certiﬁcate SSC - Class X
+G.M.B. English Med Highschool
+Ὄ5Percentage: 93.20 ♂¶ap-¶arkerSSC-2018
+TECHNICAL SKILLS
+•Programming Languages : C, C++ (Competitive
+Programming), JavaScript, Java
+•Data Structures & Algorithm
+•Object Oriented Programming
+•Database Management System & Mysql
+•Operating System
+•Git & GitHub
+ACHIEVEMENTS
+•Ranked 373 Global in CodeChef Starters 58
+•Solved 600+ Data Structures and Algorithms
+across diﬀerent coding platforms
+•CodeChef 2* Highest Rating- 1561
+•Ranked 688 Global in CodeChef Starters 86
+•Leetcode- Contest Rating- 1506
+CODING PROFILE
+•CodeChef - Rujul Nipane [Highest Rating: 1561 -
+2 star]
+•Leetcode - rujulnipane2002 [Rating: 1506]
+•Hackerrank - rujulnipane2002PROJECTS
+E-Commerce Website
+•E-Commerce website application to buy an
+electronics products.
+•Key features: User authentication, User Proﬁle,
+Product Cart, Checkout Process with payment
+integration
+•Technologies used - MERN stack, Redux Dev Tools,
+Bootstrap, MongoDb Atlas Database.
+•/githubrujulnipane/Shopping_Application
+Doctor Appointment System
+•Doctor Appointment System is an application for
+patients for booking an Appointment with
+available slots.
+•Key Features: Admin, User, Doctor dashboard,
+Booking System, Available Slots, Doctors List
+•Technologies used - MERN stack, Redux Dev Tools,
+Bootstrap
+•/githubrujulnipane/Doctor_Appointment_System
+ATM-Simulator
+•It is an JAVA project simulation of ATM where
+user can login, deposit, withdrawl, view money.
+•Key Features: User Login, Cash Deposit, Cash
+Withdrawl, Balance Enquiry, Mini Statement
+•Technologies used - JAVA, MYSQL, JDBC.
+•/githubrujulnipane/ATM-Simulator
+Weather app
+•Application for displaying Real time weather.
+•Fetch real time weather data from API and display
+on website
+•Technologies used - React, Bootstap.
+•/githubrujulnipane/weather
+EXTRA CURRICULARS
+Volunteer- Addiction-2023
+Cultural Event
+•Volunteered Blood Donation Camp in our college
+Volunteer- INC-2022
+Project Competition
+•Participated and volunteered in INC event

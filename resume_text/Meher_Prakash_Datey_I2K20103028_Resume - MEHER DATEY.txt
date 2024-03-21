@@ -1,0 +1,33 @@
+E D U C A T I O N
+A c t i v i t i e sS k i l l s
+P r o j e c t s7 3 8 7 7 3 4 4 8 2
+L a n g u a g e sM e h e r  D a t e y
+I n f o r m a t i o n  T e c h n o l o g y  S t u d e n t
+m e h e r p d a t e y @ g m a i l . c o m
+P u n e  I n s t i t u t e  o f  C o m p u t e r  T e c h n o l o g y ,  P u n e   B E  i n  I n f o r m a t i o n  T e c h n o l o g y  ( 8 . 5 4  C G P A )         2 0 2 0  -  P r e s e n t
+Z  .  P  A g a r k a r  J r .  C o l l e g e  ,  A k o l a   H S C   ( 8 9 . 8 5 % )  ( M H T - C E T  -  9 9 . 5 0 )                                                                              2 0 2 0
+B h a r a t  V i d y a l a y a  ,  A k o l a  S S C  ( 9 5 . 0 0  % )                                                                                                                                  2 0 1 8
+C + + ( O O P s ) ,  D S A ,  O p e r a t i n g  S y s t e m ,  D B M S ,   H T M L ,  C S S ,  J a v a S c r i p t ,  B o o t s t r a p ,  S Q L ,  N o d e . J S ,  R e a c t
+T a l k - A - T i v e
+D e v e l o p e d  a  M E R N  s t a c k  r e a l - t i m e  c h a t  a p p l i c a t i o n .   
+U s e r ’ s  c a n  s e a r c h  f o r  o t h e r  u s e r s  t h e y  w i s h  t o  c h a t  w i t h .  
+T a l k - A - T i v e  w a s  d e v e l o p e d  u s i n g  a  m o d u l a r  a p p r o a c h ,  m a k i n g  i t  e a s y  t o  m a i n t a i n  a n d  u p d a t e .
+ U s e r s  c a n  a l s o  c r e a t e  v a r i o u s  g r o u p s .
+h t t p s : / / t a l k a t i v e . v e r c e l . a p p /
+S o l v e d  2 5 0 +  p r o b l e m s  o n  v a r i o u s  c o m p e t i t i v e  p r o g r a m m i n g  s i t e sK a r w a a n  ( c a r  - R e n t a l )
+D e v e l o p e d  a  f u l l - s t a c k  M E R N  a p p  f o r  c a r  r e n t a l  t h a t  a l l o w s  u s e r s  t o  s e a r c h  f o r  c a r s ,  b o o k  r e s e r v a t i o n s ,
+a n d  p a y  f o r  r e n t a l s .
+U s e d  R e a c t J S  t o  c r e a t e  a  u s e r - f r i e n d l y  f r o n t e n d  t h a t  i s  r e s p o n s i v e  a n d  e a s y  t o  u s e .
+U t i l i z e d  N o d e . j s  a n d  E x p r e s s  t o  b u i l d  a  s c a l a b l e  a n d  r e l i a b l e  b a c k e n d .
+I m p l e m e n t e d  M o n g o D B  t o  s t o r e  u s e r  d a t a  a n d  c a r  r e n t a l  i n f o r m a t i o n .
+h t t p s : / / g i t h u b . c o m / M e h e r 2 0 0 3 / C a r _ R e n t a lM a r k M y V i e w s
+M a r k M y V i e w  i s  a  b o o k  r e v i e w  s y s t e m  .
+T h i s  p l a t f o r m  w i l l  h e l p  s t u d e n t s  t o  c o m p a r e  a n d  s e l e c t  t h e  b e s t  b o o k  a s  p e r  t h e i r  n e e d s  a n d  r e v i e w s
+f r o m  o t h e r  p e e r s  w h i c h  e v e n t u a l l y  s a v e  t i m e .
+S t u d e n t s  c a n  p o s t  r e v i e w s  f o r  b o o k s  w h i c h  w o u l d  h e l p  s i m p l i f y i n g  t h e  p r o c e s s  o f  c h o o s i n g  b e t w e e n
+m a n y  b o o k s .
+T e c h  U s e  :  N o d e . J S ,  M o n g o D B ,  H T M L ,  C S S ,  J a v a S c r i p t ,  B o o t s t r a p .
+h t t p s : / / m a r k m y v i e w s . o n r e n d e r . c o m /M e h e r 2 0 0 3 M e h e r  D a t e y
+C o - C u r r i c u l a r  A c t i v i t i e s
+S t u d e n t  V o l u n t e e r  a t  P C S B .                       S t u d e n t  c o o r d i n a t o r   o f  a d d i c t i o n  D e s i g n  T e a m .
+E n g l i s h M a r a t h i H i n d i

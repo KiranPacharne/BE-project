@@ -1,0 +1,90 @@
+Sarthak  Hupare  
+sarthakhupare25@gmail.com  | +91-7559170473  
+ 
+ 
+EDUCATION  
+PUNE INSTITUTE OF  
+COMPUTER  TECHNOLOGY  
+B.E IN COMPUTER  TECHNOLOGY  
+2020-Present  | Pune,  India 
+Cum. GPA: 8.8/10  
+ 
+MANERE  HIGHSCHOOL  & 
+JUNIOR  COLLEGE  
+2020 | Kolhapur,  India 
+Class XII Percentage:  88% 
+ 
+VYANKATESHWARA ENGLISH  
+SCHOOL  
+2018 | Kolhapur,  India 
+Class X Percentage:  92.80%  
+ 
+LINKS  
+LEETCODE : sarthakhupare25  
+CODEFORCES : Sarthakhu  
+CODECHEF : sarthakhupare  
+GFG: sarthak  
+GITHUB : sarthakgit  
+LINKEDIN : sarthakin  
+ 
+SKILLS  
+PROGRAMMING : 
+•Problem  Solving  •DSA 
+LANGU AGES: 
+•C++  •C •Python  
+Frontend DEVELOPMENT: 
+•HTML  •CSS •JavaScript  
+DATABASE: 
+•MySQL  
+FAMILIAR : 
+• Data Science  
+ 
+ACTIVITIES  
+PICT  CSI STUDENT  CHAPTER  
+COLLEGE  CLUB (CO-CURRICULAR ) 
+Volunteering  for coding  events  ‑ 
+Setting  problems  for contests.  
+ 
+PICT  PICTOREAL  
+COLLEGE  CLUB (CO-CURRICULAR ) 
+Volunteering for non-technical  
+events.  EXPERIENCE  
+INTERVIEW  MOCHA  | PROBLEM  Setter  
+September  2022 – Present  | Pune,  India 
+• Created new problems based on data structure and  
+algorithms.  
+• Problems are used in online coding tests.  
+Business  Development  Intern  | KODE  IT SOLUTIONS  
+September  2021 - October  2021 | Pune,  India 
+• Worked  with 12 interns  and completed  my task within  
+the given  time. 
+• Brought  highest  number  of registrations  for 
+a course.  
+ 
+PROJECTS  
+DSA Based  Calculator      LINK  
+• A basic calculator has a limit to the length of numbers  
+that it can process, but it can calculate very large  
+numbers as well.  
+• I have used data structures like Linked list and Stack  
+to do so. Initially converted the expression to postfix  
+and then evaluated.  
+SORTING  VISUALIZER       LINK  
+• Designed and developed a Web Application to 
+visualize working  of  Various  Sorting  
+Algorithms . 
+• The application  allows  the user to select  - 
+Sorting Algorithm , Speed  Of The 
+Visualization , and Input  Array . 
+• Tech Stack - HTML,  CSS,  JavaScript  
+ 
+ACHIEVEMENTS  
+• Solved  more than 800+  Problems  on various  Coding  
+Platforms.  
+• Solved  50 problems  on consecutive  days and earned  
+a T-Shirt from Geeks  for Geeks.  
+• Won 3 Consecutive  Cricket  Tournaments  as Best 
+Bowler  (Highest  Wicket -Taker).  
+HOBBIES  
+• Singing  
+• Travelling  

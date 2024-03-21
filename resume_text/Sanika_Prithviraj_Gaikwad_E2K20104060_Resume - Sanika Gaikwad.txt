@@ -1,0 +1,66 @@
++91 99230 19990
+sanikapgaikwad@gmail.com
+Sanika Gaikwad
+SOFTWARE DEVELOPER
+ABOUT ME
+Hard-working, creative and proactive.
+Keen Interest in ML and Data Science.
+Ambitious, eager to keep growing and
+evolving in my profession. Constantly
+developing new skills and abilities.EDUCATION
+WORK EXPERIENCE
+EtherService Enterprise
+February 2023- April 2023
+Software Development Intern
+e-Zest Solutions
+March 2023- May 2023
+InternSKILLS
+C, C++
+Java
+Python(Basics + 7 libraries)
+HTML
+JavaScript
+CSS(Tailwind & Bootstrap)
+SQL(MySQL)CONTACT
+SOFT SKILLS
+Proficient in English, Hindi & Marathi.
+Inspirational Leadership
+Emotional Intelligence
+Exceptional Communication
+Effective Collaboration
+PROJECTS
+Sports prediction application based on
+Machine Learning:
+Training and Placements Portal:A linear regression algorithm written in
+Python to accurately predict the players
+who will perform well in given stadium
+against given team by the user. Tested on
+real time fixtures on Fantasy Team
+applications and proved to provide an
+accuracy between 93 to 99%
+A full stack web based service to aid the
+faculty, the students and the employers for
+a smooth placement experience. Portal
+contains all student data such as interested
+domains; CGPA and other important scores;
+coding profiles; GitHub; resume etc.2020-2024
+SCTR's Pune Institute of Computer Technology
+B.E. in Electronics and Telecommunication
+2018-2020
+Fergusson Junior College
+HSC Board- 82%
+2007-2018
+The Bishop's Co-Ed School, Undri
+ICSE Board- 92.6%
+VOLUNTEER WORK
+PICT Model United Nations- Executive Director  
+May 2022- March 2023
+PICT Model United Nations- Design Head  
+May 2022- March 2023
+PICT Newsletter and Brochure- Design and Tech Lead
+January 2022 - May 2022
+ACHIEVEMENTS
+ Quarter-Finalist in Dr. Reddy Digital Hackathon 2022.Secured AIR-5  in Samavesh - Case Presentation
+organized by Indian Institute of Management, Lucknow.
+Organized an MUN conference as the executive director
+of a club.

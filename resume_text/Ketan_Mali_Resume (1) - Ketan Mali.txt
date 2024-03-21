@@ -1,0 +1,47 @@
+Ketan Mali Mob. +91-8378810763
+B-E Electronics and Telecommunication maliketan511@gmail.com
+Pune Institute Of Computer Technology LinkedIn
+Course College/University Year CGPA/%
+B-E Electronics and Telecommunication Pune Institute Of Computer Technology 2020-24 9.17
+12th Fergusson College, Pune 2020 84.31
+10th Narayanrao Sanas Vidyalaya, Pune 2018 95.20
+PROJECTS
+•Pulzion EMS [GitHub]
+◦Technology Stack- ExpressJS, NextJS, PostgreSQL, NodeJS, Html, CSS.
+◦The primary goal of the PULZION’23 website was to host the annual flagship event of PASC which received around
+3400+ registrations and 40000+ requests.
+◦Deployed a fully functional website on the web with active user traffic.
+◦Live site
+•Travendo [Drive Link]
+◦Technology Stack - Express.js, MongoDB, Node.js, ReactJS, Redux, Html, CSSMaterialUI.
+◦It is a platform for the village and local vendors to sell their authentic products that urban society always underrated.
+It is an initiative to promote “Made in Village” products.
+◦Our platform won first prize at Impetus and Concepts under the open software application category’ In the annual
+technical flagship event of PICT.
+•Travel Adviser [Website]
+◦Technology Stack- ReactJS, MaterialUI, HTML, CSS, JS
+◦Provides comprehensive details on Restaurants, Hotels, and Attractions for the user’s location and any destination
+worldwide.
+◦Integrated Google Maps API to fetch interactive maps and Travel-Adviser API to retrieve location-specific data.
+◦Incorporated Weather API to display real-time weather updates based on the user’s current location.
+SKILLS
+•Programming Languages : C ,C++, Python, Java, SQL
+•Web-Development : HTML, CSS, JS, MERN, Git, GitHub
+•Frameworks : React.JS,Bootstrap,MaterialUI
+•Database : PostgreSQL, MySQL
+ACHIEVEMENTS
+• Solved 500+ Problems on various platforms
+•Pupil on CodeForces. max Rating 1213 [CodeForces]
+•Solved 200+ Questions of Leetcode [LeetCode]
+• Solved 125+ questions on Coding Ninjas [Coding Ninjas]
+•PICT (Impetus and Concept) Hackathon Winner-Under Open Software Application domain (among 100+ teams), awarded
+for delivering a top-notch solution that showcased technical prowess and creative thinking
+EXTRACURRICULAR
+•PICT ACM Student Chapter
+◦Full Stack Developer
+◦Worked on Pulzion Event Management System and other inhouse projects.
+◦To volunteer for various events like Pulzion, Pasckathon, Radiance organized by PASC.
+Hobbies
+• Coding and staying updated with tech articles
+• Exploring space and Physics through videos
+• Enjoying anime and manga

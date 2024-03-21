@@ -1,0 +1,43 @@
+Chaitanya Kadam
++91 7378619735 |chaitanya02kadam@gmail.com |linkedin |github
+Education
+Pune Institute of Computer Technology Pune
+BE, Electronics and Telecommunication Engineering (CGPA:9.25) 2020-2024 (Pursuing)
+Sawkar Science College,Panmalewadi Satara
+HSC (Percentage:84.15) 2020
+Dnyandeep English Medium School Wai
+SSC (Percentage:94.80) 2018
+Technical Skills
+Problem Solving, Data Structures and Algorithms
+CS Fundamentals : Object Oriented Programming, Database Management System, Operating Systems
+Languages : C++ ,Core Java, Python
+Web Technologies : HTML , CSS , Django , Javascript
+Experience
+WEB DEVELOPMENT AND DESIGNING INTERN Feb 2023 - Mar 2023
+Oasis Infobyte Pune
+•Worked on Front-End Technologies like HTML, CSS, Bootstrap, Tailwind CSS and JavaScript.
+•Designed Landing Page, Personal Portfolio and Temperature
+Projects
+Student Study Portal |HTML,CSS,Django,Bootstrap
+•Developed a comprehensive student study portal using HTML, CSS, and Django, providing an integrated platform
+for students to access essential study tools and resources. Implemented individualized todo, homework, and notes
+modules, empowering students to organize their academic tasks,including a YouTube search feature, a Books search
+option, and length conversion tools.
+•Employed Django’s framework for seamless data management, authentication, and user access control, showcasing
+expertise in web development and database management.
+Blog site |HTML,CSS,Bootstrap,Django
+•Developed a dynamic blog site using Django, enabling users to create, publish, and manage blog posts with an
+intuitive user interface.
+•Utilized Django’s templating engine and responsive design to ensure a seamless user experience across various
+devices.
+Achievements
+•5 Star on HackerRank in Problem Solving,C++
+•HackerRanK certified Problem Solving Certificate
+•300+ Problems on LeetCode
+•Mastering Data Structures and Algorithms Udemy
+•4th Rank in ENTC Department in SE Engineering
+•100/100 marks in HSC and SSC Mathematics
+Community & Leadership
+Member at PICT IEEE Student Branch
+Hobbies
+Painting , Playing Badminton , Travelling

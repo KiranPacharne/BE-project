@@ -1,0 +1,40 @@
+ANIKET SANJAYSING THAKUR     
+(+91) 7498578502  | aniketsi ngt@gmail.com | LinkedIn |  GitHub  | pune , Maharashtra  
+EDUCATION      
+     
+Pune Institute of Computer Technology                                                                                                              Pune, India     
+BE Information Technology CGPA : 7.96/10                    2020 -2024     
+Sakeshwar Jr. Science College                                                           Jamkhed, India     
+HSC(Science) : 74.75%                                                                                                                                          2019 -2020     
+Bal Vidya Vihar                                                                                                                                                Parbhani, India    
+SSC : 93%                                                                                                                                                               2017 -2018     
+PROJECTS     
+     
+Crypto Stalker  | (ReactJS, Material UI and Chart JS)    
+• The primary goal of this web application is to track different Crpytocurrencies  information.   
+• Real-time value of cryptocurrencies, their exchange rates in USD and INR, its change in price in the last 24 hrs/ 30 
+days/ 3 months/ one year, and the current m arket cap is shown.   
+Car Accessories Management System | ( JA VA and database SQL)   
+• It is the management system in JA V A to manage equipments of automotive. This entire system is developed in 
+Eclipse IDE   
+• Developed an interface using JA VA awt and established a database connection using JDBC.      
+INTERNSHIP      
+    
+Web Development  Intern at Exposys Data Labs     
+• Underwent hands on training on Web Developement concepts. Learnt about Various Web Developement  techniques   
+• Developed  a Mass Mail Dispatcher which will allow end user to send mass no of mail in one time using csv file   
+SKILLS      
+     
+Programming : C++, Java and JavaScript.  
+Development : HTML, CSS, Bootstrap, React.js , Nodejs , Express. js 
+Database: MySQL, MongoDB.  
+Platform : Windows, Linux  
+Core Concepts :  OOPS, DSA, OS, DBMS  
+CERTIFICATION      
+    
+• Mastering Data Structures & Algorithms using C and C++ By Abdul Bari     
+• The Complete  2021 Web Development Bootcamp By Angella Yu.     
+ HOBBIES  AND INTERESTS     
+    
+• Trekking  
+• cooking  

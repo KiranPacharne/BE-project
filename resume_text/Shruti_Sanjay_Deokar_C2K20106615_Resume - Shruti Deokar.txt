@@ -1,0 +1,62 @@
+Bachelor Of Engineering (Computer Engineering) 
+12th
+10th       Pune Institute Of Computer Technology, Pune
+       (2020-2024)
+       SGPA: 9.14 (5th sem)
+       Sir Parshurambhau College, Pune (2020)
+       Percentage: 92.92%
+       Kendriya Vidyalaya D.I.A.T (2018)
+      Percentage: 98.20%
+     -CBSE Certificate Of Merit for being among top     
+       0.1% of successful candidates.
+     -Kendriya Vidyalaya Sangathan Certificate Of  
+       Merit for securing a position in 1.5% of K.V.S  
+      Students in A.I.S.S.E Examination  
+Languages: C++, Python
+Database: MySQL
+Frontend: HTML, CSS
+Backend: Django
+Object Oriented Programming
+Data Structures 
+Problem SolvingSKILLSshrutideokar.022@gmail.com
+PROJECTS
+Fit Foodie | Code:
+A full-stack user-interactive web application that calculates the
+nutritional value of food. 
+It accepts food images as input, automatically detects the food,
+and provides nutritional information. 
+Built using the Wolfram alpha api and the Clarifai food
+recognition pre trained model.
+Tech Stack: Flask, MySQL, HTML, CSS, Javascript
+College Query | Code: 
+A discussion forum project which aimed to narrow the gap
+between college students by providing them a doubt solving
+platform, wherein students can ask as well as solve the doubts
+raised by their fellow college mates and juniors.
+The doubts are categorized based on various domains.
+Tech Stack: HTML, CSS, JavaScript, NodeJS, ExpressJS,
+MongoDB
+ORGANIZATIONACHIEVEMENTSSHRUTI DEOKAR
+9325591558 Pune https://www.linkedin.com/in/shruti-deokar-765194219/
+EXPERIENCE EDUCATION
+PASC (ACM student chapter):
+Volunteered at the Pulzion 2022-2023,
+flagship event of the PASCRanked 1st in Web Weaver Hackathon held by PICT-IEEE 
+Solved more than 200 questions on Leetcode
+6 stars in Problem Solving on HackerRank
+5 stars in C++ on HackerRank
+Participated in IBM Hack Challenge 2022       student  chapter. 
+HOBBIES
+Playing Piano-I've been playing the instrument for a long time
+and have participated in several intra-college activities and the
+college annual fest in a group for the role of playing piano.
+Listening to musicLINKS
+Leetcode: https://leetcode.com/user2845WU/
+HackerRank:
+https://www.hackerrank.com/shrutideokar_19
+Linkedin: https://www.linkedin.com/in/shruti-
+deokar-765194219/Barclays: BA3 intern  (June 2023-July 2023)
+Converted api specification from RESTful API Modeling Language
+(RAML) to OpenAPI Specification (OAS). 
+Integrated and deployed OAS on service mesh.
+Performed api sanity using insomnia.

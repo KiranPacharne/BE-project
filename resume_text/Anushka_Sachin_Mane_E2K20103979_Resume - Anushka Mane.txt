@@ -1,0 +1,42 @@
+Anushka Mane
+♂phone+91 9172264145 /envel⌢peanushkamane17@gmail.com /linkedinlinkedin.com/in/anushka-mane /githubgithub.com/AnushkaMane8
+Education
+Pune Institute of Computer Technology Pune, India
+B.E. (Electronics and Telecommunications Engineering) - CGPA 8.5 2020-Present
+Noble Junior College Pune, India
+12th grade (HSC Board) - Secured 80.62% 2018-2020
+The Bishop’s co-ed school, Undri Pune, India
+10th grade (ICSE Board) - Secured 94.2% 2018
+Experience
+Website Development Intern March 2023 – May 2023
+Eco Credible Enviro Solutions Pvt. Ltd. Pune
+∗Developed a website for a waste management company with user interfaces involving modern JavaScript frameworks,
+HTML5 and CSS3.
+∗Troubleshot and debugged code ensuring compatibility with devices, browsers, and operating systems.
+∗Adhered to best practices for software development methodology.
+Junior Project Intern July 2023 – Present
+CyberMeru Technologies Pune
+∗Developed the frontend for an asset management software using MaterialPro React Redux Admin with hooks.
+∗Worked on the inventory ERP module as a product for the company.
+Projects
+Soil Monitoring and Analysis System
+∗Incorporated sensors to collect data on soil moisture, temperature and humidity.
+∗Processed and analysed the collected data using Random Forest Classifier and CNN to provide insights into the health
+and fertility of the soil and any potential farming issue that may arise.
+∗Utilised an irrigation motor to irrigate the dry soil samples.
+Cryptocurrency Tracker
+∗A Cryptocurrency tracking website built using ReactJS, MaterialUI and ChartJS.
+∗It allows the users to have a dashboard and log in using either their Google or email accounts.
+∗Implemented using ContextAPI and CoinGeckoAPI.
+Technical Skills
+Languages : Python, Java, C/C++, SQL, JavaScript, HTML/CSS
+Developer Tools : Git, VS Code, PyCharm, Eclipse, Figma
+Technologies/Frameworks : ReactJS
+Libraries : Pandas, NumPy, Matplotlib, Scikit Learn, Bootstrap
+Certifications:
+∗Accelerated Computer Science Fundamentals - Specialization (3 courses) - University of Illinois at Urbana-Champaign
+∗Mathematics for Machine Learning - Specialization (3 courses) - Imperial College London
+Volunteer Experience and Positions of Responsibility
+∗Operations Head - TEDxPICT (May 2022 – February 2023)
+∗Social Media Representative and Instagram Lead - PICT Newsletter and Brochure club (May 2022 – February 2023)
+∗External Affairs Committee Member - PICT Debate Society (January 2022 – May 2022)

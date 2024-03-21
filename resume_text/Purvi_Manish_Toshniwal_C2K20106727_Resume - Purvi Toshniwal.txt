@@ -1,0 +1,98 @@
+Purvi  Toshniwal  
+Undergraduate  
+Final year Computer Science Undergraduate dedicated to  
+improving  skills  through  hands -on learning.  Well -Organized  and 
+collaborative team player with strong communication  and 
+analytical  skills.  purvitoshniwal11@gmail.com   
+ 
+7758874315  
+ 
+Pune,  India   
+linkedin.com/in/purvi -toshniwal -01a994200  
+ 
+ 
+EDUCATION  
+B.E Computer  Science  
+Pune  Institute  of Computer  Technology.  
+2020  - 2024 , 9.18 
+ 
+Class  XII(CBSE)  
+Shiv Jyoti  Convent  School,  Kota.  
+2020 , 94.2%  
+ 
+Class  X(CBSE)  
+Raja Narayanlal  Lahoti  English  School.  
+2018 , 92.2%  
+ 
+PROJECTS  
+Auction  Platform for "BPLAN" event in Credenz'23  
+using  Django.  
+Sophisticated  auction  platform  which  allowed  participants  to bid 
+on ﬁctitious  companies,  displayed  real-time company  values, and 
+showcased detailed bidder portfolios and  wallets.  
+Frontend  using  HTML+CSS   
+Backend  using  Django  
+Blood Bank Management System  
+Web application built using PHP and MySql for efficient 
+interaction between hospitals and blood acceptors.  
+Streamlines the process of blood type tracking and availability 
+checking.  
+Includes features like blood request management, blood type 
+tracking and data handling.  
+Minutes  of Meeting  creator  Using  Machine  
+Learning  and python.  
+Intelligent ML model designed to generate automated and concise 
+meeting minutes  
+Key features include Speech to text conversion and text 
+summarization using NLP techniques . 
+ 
+WORK  EXPERIENCE  
+Summer  Internship  
+Barclays  
+06/2023  – 08/2023 , 
+Data  Warehousing  and ETL 
+Gained valuable  experience  in data warehousing  and ETL 
+tools.  
+Successfully learned and applied new skills,  speciﬁcally  
+Abinitio  and Unix,  to optimize  data processing.  SKILLS  
+ 
+ 
+ 
+  
+ 
+   
+ 
+   
+ 
+ 
+ 
+ACHIEVEMENTS  
+Ranked  ﬁrst among  150+  participants  in mock  
+placement  event  “Dextrous”  in PULZION’22.  
+Ranked  ﬁrst in the leadership  and situation  
+handling  event  “Xenatus”  in XENIA’22.  
+Qualiﬁed  for ﬁnals in the National  level  Women's  
+Hackathon  organized  by ACM -W PCCE  goa. 
+Successfully  led the "BPLAN"  event  at Credenz'23,  
+resulting in record -breaking participation and  positive  
+feedback  from  attendees.  
+Semi -Finalist  in inter -college Basketball  
+Tournaments  "SUMMIT  2021"  and "PENTACLE"  
+ 
+ 
+POSITIONS  OF RESPONSIBILITY  
+Secretary of Finance  
+PICT  IEEE  Student  Branch   
+06/2023  - Present , 
+ Developed detailed event budgets, allocating resources  judiciously to 
+maintain  cost efficiency.  
+Negotiated contracts  and agreements,  ensuring  favorable  terms  and 
+conditions  for Credenz’ 23. 
+ 
+ 
+INTERESTS  
+ 
+   
+ 
+  
+Badminton  Dancing  Travelling  Movies  Basketball  Public  Speaking  AB initio  Python  UNIX  Basics  MySQL  HTML  + CSS C language  c++ Data  Structures  and Algorithms  Problem  Solving  

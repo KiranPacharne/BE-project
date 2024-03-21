@@ -1,0 +1,75 @@
+PRANIT KOTHAWADE
+Pune Institute Of Computer Technology
+Pranitk2002@gmail.com /gtbhttps:/ /github.com/Pranitk1501 /♀nednhttps:/ /www.linkedin.com/in/pranit-kothawade-015a24206/
+Pune, Maharashtra - India
+PROJECTS
+Fitness Tracker
+•Designed and developed a complete ESP32
+development board for speciﬁc use case of
+calculating pulse oximeter values and step
+count using accelerometer. Programmed this
+on two frameworks and compared its pro-
+cesses. Demonstrated technical proﬁciency
+and problem-solving abilities throughout the
+development process.
+•https:/ /github.com/Pranitk1501/ESP32 watch
+Battery Management System
+•A complete BMS depicting working of an elec-
+tric vehicle showcasing all necessary values
+like speed, Current and voltage on Serial moni-
+tor.
+•
+EXPERIENCE
+Embedded Engineer Intern
+Vecros Technologies Private Limited
+ὌNov 2022 - Jan 2023 
+•Complete development of the an important
+component of their latest product
+•Designing electronics System board for their
+secondary project.
+•Demonstrated rapid adaptability to the latest
+EDA tools and adept at designing in accor-
+dance with international standards
+Lead Electronics Developer
+PICT Robotics
+ὌAug 21 - Jun 23 
+•Accomplished in designing, developing, and
+seamlessly executing end-to-end electrical
+systems projects within tight timelines, ensur-
+ing a competitive edge.
+•Skilled in ﬁrmware development for robots,
+optimizing functionality and performance.
+•https:/ /github.com/PICT-Robotics-
+23/Elephant-Robot – Documentation to all
+the source code developed in 2023
+CERTIFICATIONS
+Introduction to Programming to IOT
+CourseraTECHNICAL SKILLS
+•Languages: C++, Python
+•Frameworks: Arduino, ESP32, RTOS, ROS, ESP-IDF
+•Domains: Computer Networks, Operating Systems, Electron-
+ics System Design, Data Structures and Algorithms, Database
+Management, Linux.
+ACHIEVEMENTS
+•Secured AIR of 6 in 2022 and AIR of 16 in 2023 of ABU Robo-
+con India
+•Secured 1st place in Electroquest conducted by PASC in 2021
+EDUCATION
+B.E. (ENTC) - 8.74 CGPA
+Pune Institute of Computer Technology
+Ὄ2020 – Present
+Higher Secondary Certiﬁcate - 89.80%
+New Horizon Scholars School, Thane
+Ὄ2020
+Indian School Certiﬁcate Examination - 93.4%
+Smt.Sulochanadevi Singhania School, Thane
+Ὄ2018
+PERSONAL SKILLS
+•Having Leadership Qualities.
+•Ability to work under pressure.
+•Organising and managing events.
+•Comfortable Working Independently.
+HOBBIES
+•Photography
+•Video Games
+•Computer Hardware and Technology

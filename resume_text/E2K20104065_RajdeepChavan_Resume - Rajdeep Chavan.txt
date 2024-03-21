@@ -1,0 +1,105 @@
+Rajdeep Chavan 
+Student 
+rajdeepchavan12@gmail.com 
+7021249513 
+linkedin.com/in/rajdeep-chavan 
+I am an enthusiastic and driven engineering student from PICT looking for a well-versed internship ,which will guarantee a great
+professional as well as technical exposure and will make me industry ready for future endeavours. 
+EDUCATION 
+10th Class 
+Reliance Foundation School 
+04/2017 - 06/2018
+, 
+ 
+93% 
+12th Class 
+Reliance Foundation School 
+04/2019 - 07/2020
+, 
+ 
+91.2% 
+B.E. Electronics & Telecommunications 
+Pune Institute of Computer Technology 
+08/2020 - Present
+, 
+ 
+9.03 GPA 
+Honours In Data Science 
+Pune University 
+06/2022 - Present
+, 
+ 
+LEADERSHIP SKILLS 
+Vice Captain 
+School 
+In 10th grade was elected as vice captain of the house.
+Was responsible for leading the house in various school
+competitions. 
+Head Boy 
+Higher School 
+In 11th grade was elected as head boy of the school.
+Was responsible for all the student related activities in
+the school and also headed the council which arranged
+all intra school activities 
+Class Representative 
+College 
+Responsible for co-ordinating all the necessary things
+between the students and professors. 
+VOLUNTEERING 
+Pulzion 
+Volunteered 
+marketing part of whole Pulzion event within college and
+outside college. Was also part of AI vs Human team which oﬀered self
+created 
+AI games like ping pong ball , etc to the students to play. 
+T&P 
+Part of 
+T&P team responsible for co-ordinating BE Placements and TE
+internships. 
+SKILLS 
+Python 
+C++ 
+DSA 
+Excel 
+Machine Learning 
+OOP 
+SQL 
+OS 
+PERSONAL PROJECTS 
+Flight Fare Prediction System 
+Employing machine learning algorithms like random forest,
+implementing EDA, and performing ﬁtting on available datasets
+to predict airline prices. Using FLASK to deploy the ML model
+and HTML & CSS to create an active website, which will accept
+our input and deliver forecasted prices based on the dataset. 
+Credit Card Fraud Detection 
+Using an unbalanced dataset that contains 95% authentic
+transactions and only 5% fraudulent ones to predict the
+patterns of credit card fraud. Using logistic regression with
+class as the target variable to make predictions. Importing the
+accuracy, logistic regression, and test and train modules from
+the Sklearn linear model and metrics package. Obtaining a
+balanced test dataset and comparing it to a training one to
+determine the model that ﬁts the data the best. 
+INTERNSHIP 
+Reliance Jio
+ (02/2023 - 04/2023)
+ 
+In order to determine the density of the RSRP strength of the 4G LTE/
+5G network received, work is being done on plotting the Folium
+Heatmap on the global map using Geopandas and the Folium
+library. Identifying numerous identiﬁers, such as network type and
+data congestion, and ﬁltering the grid accordingly. Flask is used to
+further render the model. 
+ACHIEVEMENTS 
+Both in the 5th and 8th grades, I obtained the
+district topper position in Ganit Sambodh. 
+Was selected for U15 State cricket team. 
+INTERESTS 
+Cricket 
+Politics 
+Coding 
+Automobiles 
+Achievements/Tasks 
+Achievements/Tasks 
+Achievements/Tasks 

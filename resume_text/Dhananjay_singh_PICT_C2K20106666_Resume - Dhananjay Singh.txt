@@ -1,0 +1,84 @@
+Dhananjay Singh
+ 7 7 7 493 7 898  sdhananja y0187@gmail.c om
+PersonalProfile
+PIC T
+Iamcurrentlypursuingmybachelors
+degreeinComputerEngineering
+fromPICT.Iamkeeninlearning
+aboutevolvingtechnologiesin
+domainrelatedtosoftware
+development.Ihaveagood
+knowledgeofseveralprogramming
+languages,datastructuresand
+algorithmicstrategies.Ihavesolved
+over1000+problemsondifferent
+programmingplatforms.
+Education
+PUNE INSTITUTE OF COM-
+PUTER TECHNOLOGY
+BE Computer E ngineering
+Aug2020‑Current Pune,India
+•Aggregatecgpa: 8.54
+MHALSKANT JR. COLLEGE
+Jr. college
+Aug2018‑May2020 Pune,India
+Percentage85.85
+SARASWATI VISHWA
+VIDYALAYA High School
+july2008‑May2018 Pune,India
+Percentage88.20
+Links
+Linkedin DhananjaySingh
+Leetcode Dhananjay9798
+codeforces dhananjaySingh10
+Codechef dhanajaySingh10
+Skills
+PROGRAMMING
+•C++•Reactjs•Firebase•HTML/CSS
+•mySQL•mongodb•expressjs•
+nodejs
+MISCELLANEOUS
+•DSA•Git•Blender
+SOFT SKILLS
+TimeManagement•Teamwork•
+Problem‑solving•Documentation•
+EngagingPresentation.Projects
+CHATAPPUSINGREACTANDFIREBASE
+Pune Institute of Computer Technology
+•Thisappprovidesrealtimechattingenvironmentforauthenticated
+users.
+•Thisappperformsuserauthentication,uploadandfetchmessages
+fromcloudfirestoreinrealtime.
+•TechnicalSkills: ReactJs,Firebase
+QUIZAPPWITHREACTJSANDMONGODB
+Pune Institute of Computer Technology
+•Thiswebsitecanbeusedtodesignquizforanytopic.
+•ItusesReactJsandNodeJsforitsfrontendandbackendrespectively.
+•TechnicalSkills: ReactJs,MongoDb,expressJs
+AchievementsandParticipations
+PUPIL @CODEFORCES AND 3 STAR CODECHEF
+MAX 1314 , 1644
+2023 INDIA
+GLOBAL RANK 24/13K, 47/13K IN LONG CHALLENGE APRIL
+LONG 2 AND JULY LONG 1
+Codechef Long Challenge
+2022 Worldwide
+GLOBAL RANK 1635/16K IN CODEFORCES ROUND 878
+CodeForces
+2023 Worldwide
+PICT PRADNYA CODING EVENT
+Reached Level 2
+2023 India
+CREDENZ-22 MANAGEMENT TEAM
+Credenz PISB
+2022 India
+MAHARASHTRA RANK 691
+MH-CET
+2020 India
+Languages
+ENGLISH
+Professional proficiency
+HINDI
+Native proficiency
+MARATHI
+Bilingual proficiency

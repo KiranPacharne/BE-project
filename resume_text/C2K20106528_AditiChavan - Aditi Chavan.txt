@@ -1,0 +1,40 @@
+ADITI CHAVAN
+Warje, Pune-23, Maharashtra
+(+91) 9172682087 ⋄chavanaditigulab@gmail.com
+EDUCATION
+PICT, Pune 2020 - 2024
+Computer Engineering GPA: 8.91
+Fergusson College, Pune 2020
+XII Percent: 86.46
+Paradise English Medium School, Pune 2018
+X Percent: 94.20
+EXPERIENCE
+Chairperson , PICT ACM Student Chapter Feb 2023 - Feb 2024
+Leading a team of over 500 technocrats of 5 times Best ACM Student Chapter Award and Outstanding
+Website Award-winning chapter (International)
+Project Intern , Pustakwale Dec 2021 - Feb 2022
+Wrote a program that helped PUSTAKWALE- schedule visits for a year to a society based on given
+parameters, and available data by learning from its previous schedules, to maximize profits. Tech Stack:
+Python and its libraries for main code and HTML, CSS, and JAVASCRIPT for the front-end
+PROJECTS
+Online Grocery Management System , PICT Jan 2023
+Built an online grocery management system that has features such as a cart system, payment gateway,
+search engine, and recommendation system.
+Tech Stack: NodeJs, ExpressJs and MongoDb .
+SRI Management System , PICT October 2022
+Built a Student Research and Internship management system to handle the college students’ data re-
+garding their research projects, domain and other details for easier access to faculty as well as other
+students to enable networking.
+Tech Stack: HTML, CSS, Java Servlets, MYSQL .
+Travel Time Optimization using Machine Learning , PICT October 2022
+Studied the efficiency of travel time prediction and optimization algorithms - XGBoost and Genetic
+Algorithm- and compared them with the existing ones.
+Language: Python
+SKILLS
+Programming Languages and Frameworks
+C++, Python, Java, MySQL, MongoDB, HTML5, CSS3, JAVASCRIPT, NodeJs, ExpressJs, R Pro-
+grammingOther
+Object Oriented Programming, Data Structures and Algorithms, Database Management Systems, Op-
+erating Systems, Computer Networks, Information Security
+HOBBIES
+Trekking, Learning French, Reading

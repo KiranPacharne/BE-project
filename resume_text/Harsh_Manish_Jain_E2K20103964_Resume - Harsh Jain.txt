@@ -1,0 +1,82 @@
+Harsh Jain
+https://www.linkedin.com/in/harsh- jain- 1b7398200/
+har shjain1 7ma y @gmail.c om
+EDUCATION
+PUNE INSTITUTE OF COM-
+PUTER TECHNOLOGY
+Electronics and
+Telecommunication
+Pune, Year : Presen t
+C um. GP A: 8.824 / 10.0
+CET : 99.016 | JEE : 92.8
+BHA V ANS VIDY A MANDIR
+Percen tage : 89.8 / 100
+Nagpur, Year : 2020
+ST . XA VIERS HIGH SCHOOL
+Percen tage : 89 / 100
+Nagpur, Year 2018
+SKILLS
+LANGUAGES
+•C++•Python •C#•Lua•HLSL
+•MySql
+FRAMEWORKS
+•Unity3D (used tomake 3Dsoftwares
+andwebGL portofthesame)
+•Love2d (used tomake 2Dsoftwares)
+•MySql (Fordatabase storage)
+PLATFORMS
+•Windows •Android •Website |Web
+Development
+CORE CONCEPTS
+Networking, Multiplayer Networking,
+Data Structures andAlgorithms,
+Computer Game Graphics, 3DRendering
+Graphics, Object Oriented Programming
+LINKS
+LinkedIn: Linked inprofile
+Github: Github Profile
+Itch.io :ItchProfile
+Codechef :Codechef profile
+Codeforces :Codeforces Profile
+EXTRA CURRICULAR
+•Chess
+•DrawingEXPERIENCE
+APPY MONKEYS Game Programmer Intern
+Ma y 2023 - J ul y 2020 | Bengaluru, India
+•Built analgorithm forprocedurally generating Levels atruntime.
+•Enhanced thegraphics bywriting shaders forvarious utilities
+•wasresponsible forintegrating alltheother people work intoasingle Build.
+PRESIDENT AT GAMEDEVUTOPIA Game Developm ent Club of
+PIC T
+J une 2022 - J une 2023 | PIC T
+•Wasresponsible forconducting theAnnual Flagship event oftheClub.
+•Handled theoverall functioning oftheclubduring myoneyeartenure.
+•conducted sessions toteach juniors about newtechnologies evolving inthe
+industry
+OTHER ACTIVITIES Member ofPISB (IEEE), Member ofDebsoc
+(Debate Society)
+PROJECTS
+RISK AND DICE (WINDOWS | ANDROID): A Ne t w orking so ft w are
+(Game ) tha t can be pla yed be t ween 2 pla yer s which harn ess the c oncept o f
+mul tipla yer model in C ompu ter Ne t w ork s
+https://github.com/HarshJainCodes/Risk andDice
+RUSTY CHAMBER A E scape R oom t ype game tha t w on the 2nd prize a t
+IIT Madr as Hack a thon, where y our goal is t o escape the Chamber b y so l ving
+v arious small puzzles as y ou find y our sel f tr apped inside
+https://github.com/HarshJainCodes/RustyChamber
+ALGORITHM VISUALIZER (WINDOWS) Visualise differen t sorting
+algorithms, measure ho w much time the y take t o sort the give n sub se t and
+c ompare their perf ormance with o ther algorithms
+https://github.com/HarshJainCodes/Algorithm Visualiser
+PRIM’S ALGORITHM VISUALIZER Made a web site on Ne tlify tha t le ts
+y ou in ter activel y see ho w Prim’ s algorithm w ork s with the fea ture o f a dding
+vertices on the run time
+Thiswasmade once ihadlearned about prim’s algorithm when iwaslearning about
+thegraph datastructure, butwanted tovisualize itaswell.
+livelinkofthegame :https://harshjain.netlify.app/
+https://github.com/HarshJainCodes/Prim-s-Algorithm
+ACHIEVEMENTS
+•2ndprize inIITMadras Hackathon
+•2ndprize inIntra College Rapid Chess Tournament
+•3rdprize inIntra College BlitzChess Tournament
+1

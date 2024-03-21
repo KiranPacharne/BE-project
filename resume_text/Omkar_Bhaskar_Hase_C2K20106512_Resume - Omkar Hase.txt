@@ -1,0 +1,48 @@
+Omkar Hase
+♂phone7773987839 /envel⌢peomkarhase1123@gmail.com /linkedinlinkedin.com/in/Omkar Hase /githubGitHub/Omkar1123
+Education
+Pune Institute of Computer Technology Jan. 2021 – Present
+B.E. Computer Engineering Pune, Maharashtra
+Cum. GPA till Sem 5 : 8.125
+Pragnya Junior College of Arts, Commerce and Science 2017 – 2019
+High School Certificate (HSE) Pune, Maharashtra
+Percentage : 72.46 MHT-CET : 99.34 Percentile
+Jawahar Navodaya Vidyalaya, Ahmednagar 2015 – 2017
+Secondary School Certificate (SSE) Ahmednagar, Maharashtra
+Percentage : 89.3
+Relevant Coursework
+•Object Oriented Programming
+•Data Structures and Algorithms•Database Management Systems
+Projects
+Hospital Management System |HTML, CSS, JavaScript, Django
+•Developed a website using HTML, CSS, JavaScript, Django to record Patient Details and digitalize the entire process.
+•It is designed in a way that it makes the doctor’s job easier by giving them access to necessary information whenever
+needed without any delay.
+•Data is added by the Hospital Management so that it consists the least redundancies in it and can only be accessed by
+the Hospital staff or the Doctor himself.
+News Aggregator System |HTML, CSS, JavaScript, Django
+∗It is a web application which aggregates data (news articles) from a few websites. Then presents the data in one location.
+∗The application fetches the headlines of the news from the websites and stores it in the database. Those headlines are
+served to the user in a web-page’s form.
+Experience
+Barclays |Summer Intern (June 24 - August 24 )
+·Worked with two different teams in my two months of internship.
+·Did projects on Mainframe with tech stack of Zowe, React, Node. Also worked on creation of JIRA dashboards for
+multiple tasks and projects
+Technical Skills
+Languages : C++, HTML, CSS, SQL
+Developer Tools : VS Code, Eclipse, QtCreator
+Familiar : Python, Java
+Achievements / Extracurricular
+An active member of the current Basketball team and representing the college at various competitive fixtures.
+Volunteered as a coordinator for the Training and Placement activities and worked under the Heads to oversee the same.
+Secured rank 877 (99.34 percentile) in MHT-CET 2020
+Personal Traits / Interests
+·Traits :
+1. Well Organized
+2. Quick Learner
+3. Good Communication Skills
+4. Works well with team·Interests :
+1. Travelling
+2. Music
+3. Sports

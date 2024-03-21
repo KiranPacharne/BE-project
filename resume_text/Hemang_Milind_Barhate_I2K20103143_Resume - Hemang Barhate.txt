@@ -1,0 +1,126 @@
+Hemang Barhate 
+IT Undergraduate, PICT 
+I am an Information Technology undergrad from PICT with urge to learn new technologies. I am in constant search of good
+opportunities that will add up to my experience and enrich my knowledge in my ﬁeld of study. 
+hemangbarhate@gmail.com 
+9309700517 
+Pune, India 
+linkedin.com/in/hemang-barhate-624080232 
+github.com/hemangbarhate 
+EDUCATION 
+B.E. ( Information Technology ) 
+Pune Institute of Computer Technology 
+07/2020 - Present
+, 
+ 
+CGPA : 9.29 
+12th HSC - 90.66 % 
+Sarosh Junior College of Science 
+06/2018 - 07/2020
+, 
+ 
+Aurangabad 
+10th SSC - 94.80 % 
+A. T. Zambare Highschool 
+06/2012 - 02/2018
+, 
+ 
+Jalgaon 
+PROJECTS 
+• VirtueCards ( Flutter Application )
+ (12/2022 - 12/2022)
+ 
+ 
+VirtueCards is a ﬂutter app developed for sharing and storing e-visiting
+cards. 
+Flutter is used for developing UI while ﬁrebase service is integrated with
+ﬂutter app to achieve various functionalities. 
+Flutter packages used : ﬂutter_barcode_scanner, qr_ﬂutter,
+ﬁrebase_auth, 
+google_sign_in 
+Other features: 
+1. Unique QRCode for each user 
+2. QRCode scanner is
+integrated 3. Login and Sign Up Activity using Google Firebase
+Authentication 
+• Task Manager ( Flutter Application )
+ (01/2023 - 03/2023)
+ 
+ 
+This is an app for 
+task management, developed as per Client Request. 
+Worked as fronted lead and was responsible for developing UI
+components. 
+shared_preferences was used for session management. 
+• Hostafe ( Flutter Application )
+ 
+ 
+Developed an application in ﬂutter for ease of students in ﬁnding good
+hostels and mess near college. Flutter is used for UI and ﬁrebase as a
+service for backend. 
+WORK EXPERIENCE 
+Flutter Developer Intern 
+Virtuebyte Private Limited 
+12/2022 - 03/2023
+, 
+ 
+Pune 
+VirtueBytes Private Limited. is a Pune-based IT service company that
+specializes in delivering custom software solutions to clients across the globe. 
+Responsible for development , design and testing of ﬂutter
+applications working in a team. 
+SKILLS & TOOLS 
+Flutter 
+Firebase 
+MySQL 
+C++ 
+GIT 
+VS Code 
+GitHub 
+Android Studio 
+OOP 
+DBMS 
+ACHIEVEMENTS 
+• In top 3 percent, among 10Lac+ students, in JEE
+2020 
+held by NTA. 
+• In top 2 percent, among 
+1.5Lac+ students, in
+MHTCET 2020 . 
+EXTRA CURRICULAR ACTIVITIES 
+PICT PISB
+ (03/2021 - Present)
+ 
+Member 
+Member of Publicity Team - PISB CREDENZ
+ (04/2022 - 04/2022)
+ 
+Got an opportunity to promote an event named 
+CREDENZ, which
+includes Technical and Non-Technical activities. 
+Activity Management
+ (04/2022 - 04/2022)
+ 
+Involved in the B-Plan activity management team, a non-technical
+activity involving business idea presentation before a panel. 
+CERTIFICATES 
+• The Complete 2021 Flutter Development
+Bootcamp with Dart 
+- 
+Course Instructor : 
+Dr. Angela Yu 
+LANGUAGES 
+English 
+Professional Working
+Proﬁciency 
+Hindi 
+Professional Working
+Proﬁciency 
+Marathi 
+Professional Working
+Proﬁciency 
+INTERESTS 
+Geopolitics 
+Cricket 
+Chess 
+Achievements/Tasks 

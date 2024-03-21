@@ -1,0 +1,45 @@
+Balaji Vaste
+balajivaste212@gmail.com |https://github.com/Bala212 |balaji-vaste-91a09220a/
+Education
+PUNE INSTITUTE OF COMPUTER TECHNOLOGY Pune,India
+BE in Information Technology June-2024
+Cum.GPA: 9.185
+SHREE GANESH JUNIOR COLLEGE Shirdi,India
+Higher Secondary School Certificate 2020
+Class XII Percentage: 85.85%
+CET-98.81%ile
+ATMA MALIK INTERNATIONAL SCHOOL Shirdi,India
+Scondary School Certificate 2018
+Class X Percentage: 87.00%
+Technical Skills
+Skills: DSA, Problem Solving, OOP, DBMS, Operating Systems
+Languages: HTML, CSS, JavaScript, C++, MySQL
+Techstack: Tailwind CSS, React JS, Node JS, MongoDB, Express JS
+Projects
+MEDI PORTAL : view
+Techstack : MongoDB , Express JS , React JS , Node JS
+•MERN stack web app for doctor appointments with user registration, login, and profile management.
+•Seamless doctor selection and appointment booking functionality for enhanced user experience.
+•Admin system for doctor approval, user management, and appointment tracking.
+•Real-time notifications for users and doctors to stay informed about appointment statuses and updates.
+•Secure data storage in MongoDB to ensure data integrity and prevent information loss.
+MOVIE REVIEW APP : view
+Techstack : MongoDB, Express JS, React JS, Node JS, Tailwind CSS
+•Developed an advanced movie review app featuring an admin panel allowing easy movie uploads, updates and deletions.
+•Implemented a user-friendly rating system enabling users to rate movies on a scale of 1 to 10.
+•Designed actor creation functionality, allowing admins to create new actors and link them to specific movies.
+•Utilized React JS and Tailwind CSS to create an intuitive frontend with advanced UI components including sliders,
+live search, rating models, and multiple forms.
+Achievements
+•Rated 1466 on Codechef
+•Rated 1001 on Codeforces
+•Secured Global Rank of 126/18000+ in Codechef Starters 90(Div4)
+•Solved over 600+ problems on various coding platforms like Codechef, Codeforces and Leetcode
+•Secured AIR Rank 1629 in MHT-CET Exam
+Links
+•Codechef- balaji_212
+•Codeforces- balaji_212
+•Leetcode- balaji212
+Extra Curricular Activities
+PICT ACM STUDENT BRANCH (PASC) Pune
+Student Member 2020- Present

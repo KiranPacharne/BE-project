@@ -1,0 +1,64 @@
+Harish Sumant
+harishsuman t2@gmail.c om | +91 - 7 7094 72484
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+B.E. in Computer Engineering
+2020- 2024(pur suing) | Pune,India
+Cum. SGPA: 9.28/10
+A.D. JOSHI JUNIOR COLLEGE
+Mahar ash tr a S ta te B oar d
+2018- 2020 | Solapur,India
+Class XIIpercentage:87.85
+B.F. DAMANI HIGH SCHOOL
+Mahar ash tr a S ta te B oar d
+2012- 2018| Solapur, India
+class Xpercentage: 90.60
+TECHNICAL SKILLS
+PROGRAMMING
+LANGUAGES
+•C++
+TECHNOLOGIES
+•HTML
+•CSS
+DATABASE
+•MySQL
+PROBLEM SOLVING
+COURSE WORK
+•Data Structures andAlgorithms
+•Object Oriented Programming
+•Database Management System
+•Operating System
+PROFILE LINKS
+LinkedIn
+Leetcode
+Codechef
+Codeforces
+HackerrankEXPERIENCE
+SOFTWARE DEVELOPMENT INTERN
+NICE Systems Ltd
+December 2022- J ul y 2023 | Remo te
+•Responsible fordesigning andimplementing algorithms toextract
+relevant metrics ofavideo file.
+•Responsible forcreation ofauser-friendly GUI.
+•Technologies used: Python- OpenCV.
+DATA ENGINEERING INTERN
+Bajaj Fianance Ltd
+March 2023-Ma y 2023 | Remo te | Certifica te
+•Built anAddress Clustering Model tocluster similar addresses.
+•Built anendpoint tofetch similar addresses from thedatabase.
+•Technologies worked with: Django, MySQL.
+PROJECTS
+URL SHORTENER
+•Arealtime web-application toshorten thegiven longURLs.
+•Sizes oftheURLs canbereduced upto 50% oftheactual size.
+•Technologies used: HTML, CSS,Django.
+ACHIEVEMENTS
+•Winner oftheNICE Virtual Internship Program.
+•5*Badge onHackerrank forC++andProblem Solving.
+•Hackerrank Problem Solving andSQL certified.
+•Secured state rank407with thescore of99.69 %ileinMHT-CET
+2020.
+EXTRA-CURRICULAR ACTIVITIES
+•Member ofACM PICT club(PASC).
+•Volunteered inPulzion-22 Organised byPICT-ACM Chapter.

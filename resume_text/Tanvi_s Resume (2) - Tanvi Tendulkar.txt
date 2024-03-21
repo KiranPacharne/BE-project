@@ -1,0 +1,107 @@
+Tanvi Tendulkar 
+Student 
+An independent and self-motivated student
+who is keen to learn and experiment with
+cutting edge technologies. 
+tanvi.tendulkar1@gmail.com 
+7558240499 
+Pune, India 
+github.com/tanu222 
+EDUCATION 
+B.E. in Information Technology 
+Pune Institute of Computer Technology 
+2020 - 2024
+, 
+ 
+CGPA - 9.4 
+HSC 
+Modern College of Arts, Commerce, Science 
+2020
+, 
+ 
+Percentage - 88.46 
+10th 
+Pawar Public School 
+2018
+, 
+ 
+Percentage -97.5 
+PERSONAL PROJECTS 
+Mentor Finding System
+ (01/2022 - 03/2022)
+ 
+ReactJs, Firebase, Nodejs, Express 
+A system that helps the user to ﬁnd a tutor so that they can
+learn new skills. The web-app includes authentication using
+email and password and users can also register themselves as a
+tutor 
+Hosted on: 
+https://skilup.herokuapp.com/
+ 
+Github - 
+https://github.com/Tanu222/ﬁndmytutor
+ 
+Book Donation Webapp
+ (05/2021 - 07/2021)
+ 
+HTML, CSS, JavaScript, Nodejs, PostgreSQL 
+A platform to post your old books and other people can get
+them by contacting you. It uses google Oauth 
+for sign in. The
+user can post the books they want to donate, and others can
+search for them. It uses dropzone to add the pictures of old
+books 
+Hosted on: 
+https://handmidown.herokuapp.com/
+ 
+Github- 
+https://github.com/Tanu222/hand-me-down
+ 
+WORK EXPERIENCE 
+Software Intern 
+Northern Trust 
+06/2023 - 08/2023
+, 
+ 
+Created Document Tagging and Identiﬁcation Software 
+Created an application using the FastAPI library in python
+Created frontend application using the Mendix platform 
+SKILLS 
+ReactJS 
+NodeJs 
+SQL 
+Firebase 
+Javascript 
+HTML 
+CSS 
+Git 
+MySQL 
+PostgreSQL 
+MongoDb 
+C++ 
+Python 
+FastAPI 
+ACHIEVEMENTS 
+Competitive Coding 
+Solved 200+ problems 
+on coding platforms - Codechef, Leetcode,
+Hackerrank. 
+ORGANIZATIONS 
+PICT CSI Student Branch 
+Contributed in the development of 
+frontend of the PCSB website 
+CERTIFICATES 
+Social Summer of Code 
+Open Source Coding Competition 
+Udemy - MERN Stack Course 
+Built a react app to keep a track of job oﬀers and interviews 
+LANGUAGES 
+English 
+Full Professional Proﬁciency 
+Marathi 
+Full Professional Proﬁciency 
+Hindi 
+Elementary Proﬁciency 
+INTERESTS 
+Reading Articles 
+Achievements/Tasks 

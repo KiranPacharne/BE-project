@@ -1,0 +1,81 @@
+Avishkar Yashwante 
+Electronics and Telecommunication Engineering undergraduate at PICT, Pune. An ambitious and conﬁdent individual keen to learn new
+things and work in a coherent atmosphere. 
+aviyashwante1911@gmail.com 
+8530989719 
+Nashik, India 
+linkedin.com/in/avishkaryashwante 
+github.com/ABYashwante 
+EDUCATION 
+PUNE INSTITUTE OF COMPUTER
+TECHNOLOGY 
+B.E. IN Electronics & Telecommunication 
+2020 - Present
+, 
+ 
+8.54 CGPA 
+Grade 12 (Higher Secondary Education) 
+HPT arts & RYK science college, Nashik 
+2020
+, 
+ 
+79.54% 
+Grade 10 (Central Board of Secondary
+Education) 
+St. Francis High School, Nashik 
+2018
+, 
+ 
+91.60% 
+PERSONAL PROJECTS 
+Face Recognition Based Attendance System 
+A Python project employing machine learning with the CNN algorithm
+to perform real-time face recognition 
+Newsﬂasher 
+A news website designed to keep users updated with the latest, most
+relevant news from around the world. 
+Tech Stack- HTML, CSS, Reactjs 
+iNotebook 
+Created website which will contains notes of the user. This website is
+fully authenticated using the JWT Token. 
+Tech Stack- ReactJs, NodeJs, MongoDB 
+SKILLS 
+C++ 
+CSS 
+HTML 
+Javascript 
+ReactJS 
+MYSQL 
+Problem Solving 
+DSA 
+ACHIEVEMENTS 
+Solved 300+ problems on various programming
+platforms. 
+Secured Global-Rank 350 in Codeshef Starter 50 
+CERTIFICATES 
+Object Oriented Programming using C++
+ 
+ 
+Pune Institute Of Computer Technology 
+SQL basics
+ (10/2022)
+ 
+ 
+HackerRank 
+Python Programming
+ 
+ 
+Pune Institute Of Computer Technology 
+LANGUAGES 
+English 
+Full Professional Proﬁciency 
+Hindi 
+Full Professional Proﬁciency 
+Marathi 
+Native or Bilingual Proﬁciency 
+INTERESTS 
+Cricket 
+Travelling 
+Football 
+Music 
+Gaming 

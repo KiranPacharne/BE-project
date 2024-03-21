@@ -1,0 +1,35 @@
+Prasad Unecha
+/githubPrasadUnecha |/linkedinPrasad Unecha |/envel⌢peprasadunecha16@gmail.com |♂¶obile+91 9359126816
+Summary
+Over time, developed a unique set of abilities that make life miserable for bugs. They enable me to develop
+dependable, scalable software and to prepare a suitable line of action for each scenario. I like to push the
+boundaries and assist others along the way.
+/universityEducation
+2020 - Present Bachelor’s Degree at PICT, Pune (CGPA: 8.93)
+2018 - 2020 Class 12th HSC at S.T. Vincent’s Junior College, Pune (72.31)
+2011 - 2018 Class 10th SSC at S.T. Vincent’s High School, Pune (80.20)
+/black-tieInternship
+VIEH Group |Role : ML Intern Link to Project
+Work :♂planeFlight Ticket Price Prediction
+/f⌢lder-⌢penProjects
+Sentiment Prediction on Movie Reviews Link to Project
+Skills : Python |Machine Learning Libraries |Flask |Jupyter Notebook
+Analyzing vast text data using NLP techniques. Detecting sentiments and opinions to gain valuable
+insights. Enhancing decision-making and understanding customer feedback for improved user experiences.
+Yudhishthir : AI-based Voice assistant Link to Project
+Skills : Wolfram Alpha |Subprocess |Pyttsx3 |Speech Recognition |Ecapture |Twilio
+AI-based Voice assistant incorporated with 30+ different commands like Price Drop Alerts, Certificate
+generator, Finding location of place, Games, Security Surveillance and motion detection, Weather Report.
+Business Data Management for UNECHA FIREWORKS & CO. Link to Project
+Skills : Microsoft Excel |Python |Data Collection |Data Analysis |Data Visualization
+Crackers Shop Business Anlysis Project: Leveraging Excel for in-depth insights. Analyzing sales data,
+identifying popular products, and forecasting demand. Inventory management and profit analysis for
+data-driven decision-making. Optimize pricing strategies and identify growth opportunities.
+Ἴ6Hackathons and achievement
+National Project Competition (2021-AISSMS) July 2021 - August 2021
+Secured 1st place for the Yudhishthir project in a Hackathon sponsored by IEEE Communication Society.
+Kaggle Competition (2023-IIT Madras) June 2023 - August 2023
+Achieved rank 10th for the Sentiment Analysis project in a Kaggle Competition held by IIT, Madras.
+Badminton - National Level Player
+- Played U-19 Boys Doubles in Main Draw in Bangalore Nationals.
+- Runner-up at COEP Zest & Secured 3rd place at University Sports Meet

@@ -1,0 +1,39 @@
+Abhijeet Dhane Location: Pune, Maharashtra, India
+abhijeet-dhane.com |LinkedIn |GitHub |Leetcode Email: dhaneabhijeet30@gmail.com |Mobile: 7028021588
+PERSONAL PROfiLE
+I am a highly motivated and enthusiastic final-year student with strong interest in problem solving. Curious to learn new
+technologies and use it solve real-world problems or improve existing technologies
+EDUCATION
+BE in Computer Engineering CGPA - 9.26
+Pune Institute of Computer Technology Aug 2020 – Jun 2024(Expected)
+Higher Secondary School Certificate Exam (HSC) Percentage - 88.62
+Pragnya Junior College of Science July 2018 - May 2020
+Indian Certificate of Secondary Education (ICSE) Percentage - 90.8
+Rosary High School June 2008 - May 2018
+TECHNICAL SKILLS
+Languages : C++, Python, SQL, JavaScript
+Technologies : HTML, CSS, MySQL, ReactJS, MongoDB, Git and GitHub
+Libraries : NumPy, Pandas, Seaborn, Matplotlib, Plotly, Cufflinks
+PROJECTS
+Pocket-DRS Source Code
+•Designed a new model using Quadratic Regression and Tensorflow to review LBW decisions thereby helping
+on-field umpires in cricket to make accurate LBW decision .
+•Using our model regional cricket tournaments can implement Decision Review System at very low cost .
+ThoughtWaves Source Code
+•Developed a blogging website using ReactJs, NodeJs, ExpressJs and MongoDB .
+•Cloudinary is used to manage the images on the cloud and MongoDB Atlas is used as a cloud database.
+•Implemented Sign-up feature, CRUD operations and like and comment features.
+Finance-data analysis Source Code
+•Performed exploratory data-analysis ofstock prices .
+•Used various python libraries like NumPy, Pandas, Plotly, Cufflinks to perform analysis.
+VOLUNTEER EXPERIENCE
+Internal Affairs Committee Director Jun 2022 – July 2023
+PICT Debate Society
+•Actively conducted weekly quizzes, group discussions, debates and extempore for500+ members .
+•Led the management team ofPARICHARCHA-X-Glitched , an annual intercollege public speaking competition that
+attracted participation from students across colleges nationwide in India.
+•Skills : Leadership, Communication, Teamwork, Presentation skills.
+ACHIEVEMENTS
+•TIAA Hackathon’23 Winner - Link
+•Pre-finalist in Tally CodeBrewers Hackathon’23 - Link
+•Contributed in various Open-source projects in GSSoC’22.

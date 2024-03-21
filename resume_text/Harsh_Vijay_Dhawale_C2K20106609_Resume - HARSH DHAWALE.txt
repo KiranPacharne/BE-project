@@ -1,0 +1,46 @@
+Harsh Dhawale
+Pune, Maharashtra
+♂phone+91 7588744622 /envel⌢peharshdhawale2404@gmail.com /linkedinlinkedin.com
+Education
+Pune Institute of computer technology 2020 - 2024
+Bachelor of Engineering in Computer Engineering(CGPA : 8.97) Pune, India
+Global Public College 2018 - 2020
+Higher Secondary Education(XII Board: 71.54%) Nashik, India
+Rangubai Junnare High School 2018
+Secondary Education(X Board: 92.8%) Nashik, India
+Projects
+Ecommerce Website
+Tech Stack : ReactJS, NodeJS, MongoDB, Express |Github link March 2023
+•Developed a full-fledged ecommerce website using the MERN stack to provide a seamless online shopping experience to
+users.
+•Implemented a user-friendly and responsive frontend using React , ensuring a smooth and engaging user interface across
+various devices.
+•Utilized Redux for state management, enabling efficient handling of application data and facilitating seamless interactions.
+•Utilized MongoDB as the database system to efficiently store and retrieve product information, user details, and order
+records.
+User Management App
+Tech Stack : Servlet, JSP, JDBC, MySql |Github link November 2022
+•The primary objective of the project is to demonstrate the implementation of Create ,Read ,Update , and Delete
+(CRUD) operations in a web application
+•Project uses Servlets andJSP for the presentation layer, and JDBC to interact with the MySql database, which stores
+all the Student data.
+•The project follows the Model-View-Controller (MVC) architecture to ensure a clear separation of concerns.
+Achievements
+•Solved more than 600+ DSA problems across platforms.
+•Secured 98.84 Percentile in JEE Mains 2020.
+•Secured a global rank 328in Codechef Starters 65.
+•Played Volleyball at State Level and secured 3rdPlace.
+•Secured runner up in ELEVATE’23 and SPORTSAGA’23 Volleyball Tournament.
+Profile Links
+•Leetcode
+•Codeforces
+•GitHub
+Technical Skills
+Languages : C++, JAVA, HTML/CSS, JavaScript.
+Technical Skills : DSA, OOPS, DBMS, Operating Systems.
+Framework Libraries :Express, NodeJs, ReactJs.
+Extracurricular Activities
+•Captain of PICT volleyball team.
+•Event Planning Head of ELEVATE:
+Efficiently managed an inter collegiate flagship event ELEVATE (volleyball tournament), overseeing logistics, team
+registrations, scheduling, and referee coordination.

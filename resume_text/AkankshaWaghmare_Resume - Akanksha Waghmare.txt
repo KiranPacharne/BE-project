@@ -1,0 +1,49 @@
+Akanksha Waghmare
+♂phone+91-9130494725 GFG
+/envel⌢peabwaghmare172@gmail.com LeetCode
+/githubGitHub CodeChef
+/linkedinLinkedIn Codeforces
+Education
+•Pune Institute of Computer Technology, Pune 2020 - 2024
+Bachelor of Engineering - Computer Engineering CGPA: 9.23
+•Vidya Niketan Junior College, Gondia 2020
+HSC, Maharashtra Percentage: 89.85
+•Adarsh Vidyalaya, Gondia 2018
+SSC, Maharashtra Percentage: 95.40
+Experience
+•Abhyaz May - June 2023
+Software Engineering Intern Chennai
+–Tech Stack - HTML, CSS, Servlet, JSP, MySQL
+–Created a cloud-based feedback form that securely stores user feedback in a database, making it easily accessible
+and improving the user experience.
+Personal Projects
+–Capital Hospital: A website for Hospital Management June - Aug 2021
+https://github.com/Akanksha172/Hospital-Management
+∗Tech Stack - HTML, CSS, JavaScript, Django.
+∗Assists the receptionist in scheduling patient appointments and managing the hospital’s data.
+∗Worked on the backend part where there are two types of logins (Admin and User), used Django for this.
+–Hostel Management System July 2023 - Present
+https://github.com/Akanksha172/Hostel-Management
+∗Tech Stack - HTML, CSS, JavaScript, Servlet, JSP, MySQL
+∗Real-Time project helpful for the hostelites to reduce the paperwork and shift to digitalization.
+∗Three types of forms are created (Leave form, Login Form, Library Visit Form)
+Technical Skills and Interests
+Languages : C++, Python (Basics), JAVA (Basics)
+Frameworks : HTML, CSS, Django, Servlet, JSP
+Databases : MySQL, MongoDB
+Coursework : OOP, DSA, DBMS
+Developer Tools : Git, GitHub
+Soft Skills : Event Management, Leadership, Teamwork
+Softwares : Adobe Photoshop, Adobe Illustrator, Canva, WordPress (Basics) and Blender (Basics)
+Positions of Responsibility
+–PICT IEEE Student Branch Jan 2022 - Present
+∗Working as a frontend developer
+–PICT ACM Student Chapter Nov 2021 - Present
+∗Creative Head (Graphics Designer)
+∗Working as a member of Competitive Programming Team
+Achievements
+–3 stars on CodeChef (Max Rated - 1622) and Newbie on Codeforces (Max Rated - 1090).
+–Solved 700+ problems on platforms including HackerRank, CodeChef, Codeforces, Coding Ninjas, GFG,
+and LeetCode.
+–Successfully completed Python Programming and Personality Development course organized by Wisdom
+Eye under IIT Kharagpur.

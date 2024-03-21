@@ -1,0 +1,83 @@
+Saurav Mohanty
+sauravmohanty2002@gmail.com |+91-7620438721 |Github |Linkedin
+EDUCATION
+PUNE INSTITUTE OF COMPUTER TECHNOLOGY
+Bachelor of Engineering (Information Technology)
+A ugus t 2020 - Presen t | Pune, India
+CGPA: 9.256
+CITY INTERNATIONAL SCHOOL
+12th Standard
+A ugus t 2018 - 2020 | Pune, India
+Grade: 94
+ARMY PUBLIC SCHOOL
+10th Standard
+A ugus t 2008 - 2018 | Pune, India
+Grade: 94.4
+EXPERIENCE
+BAJAJ FINSERV SDE Intern (Backend)
+Mar 2023 – Presen t | Pune, Mahar ash tr a
+•Asanintern, worked onbuilding amulti-user chatapplication
+wherein multiple users canchatacross multiple rooms
+•Messages along withtheuserdatastored inthedatabase along
+withreflection ofmessages according tothedate/time ofjoining
+theroom.
+•Technologies Used: NodeJS, Socket.io, ExpressJS, MongoDB,
+Javascript, HTML, CSS
+PROJECTS
+EXPENSE TRACKER | NodeJS, ExpressJS, MongoDB,
+Bootstrap, C SS, HTML, Javascript
+A ug 2022
+•Developed aExpense Tracker application which allows creation
+anddeletion ofexpenses anddisplays totalexpenses incurred.
+•Used MongoDB Atlas forstorage andupdation ofexpense data.
+•Used PassportJS forauthentication ofuserinlogin andregister
+pages.
+•Used cookies andsessions forseamless experience.
+WEATHEROID APPLICATION | NodeJS, ExpressJS,
+Javascript,APIs,HTML,C SS,
+No v 2022
+•Wetheroid isarealtimeapplication thatprovides accurate
+weather information ofmore than20000 cities across theglobe.
+•Used OpenWeather APIforfetching weather dataofvarious
+citiesSKILLS
+LANGUAGES
+•C++ •Java(OOP) •Javascript •HTML •
+CSS
+FRAMEWORKS
+•NodeJS •ExpressJS
+DATABASES
+•MySQL •MongoDB
+BUILD TOOLS
+•Github •VSCode
+ACHIEVEMENTS
+•Solved over 400+ problems across vari-
+ouscoding platforms
+•Highest Rated 1466 onLeetcode
+•Intop0.7percentile ofMHTCET 2020
+among 2Lakh students
+CERTIFICATIONS
+OBJECT ORIENTED
+PROGRAMMING USING
+JAVA PIC T
+Dec 2021
+Classes, Objects, Constructors,
+Destructors, Inheritance,
+Polymorphism, Exception Handling
+COURSEWORK
+Algorithms andData Structures
+Computer Systems
+Database Management System
+OOP Programming
+Software Engineering
+Operating Systems
+Web Application Development
+Computer Graphics
+LINKS/PROFILES
+Leetcode
+Codechef
+Hackerrank
+Linkedin
+Github
+HOBBIES/INTERESTS
+•Badminton •Basketball •Stocks
+•Finance •Antique coins

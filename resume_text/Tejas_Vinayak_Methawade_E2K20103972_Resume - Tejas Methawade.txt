@@ -1,0 +1,74 @@
+TEJAS METHAWADE
+PICT Pune 2024
+@tejasmethawade457@gmail.com /envel⌢peMH, India /githubtejasmethawade ♂phone+919021066725 /linkedintejas-methawade
+EDUCATION
+B.Tech in Electronics & Telecommunication Engineering
+Pune Institute of Computer Technology
+Ὄ5CPI: 8.8 ♂¶ap-¶arkerPICT-2024
+Higher Secondary Examination - Class XII
+Residential Junior College
+Ὄ5Percentage: 83.6% ♂¶ap-¶arkerMH State Board-2020
+Secondary Examination - Class X
+Renavikar Madhyamik Vidyalaya
+Ὄ5Percentage: 93.6% ♂¶ap-¶arkerMH State Board-2018
+PROJECTS
+Study Notion| Live
+•Developed an Ed-Tech website using MERN stack for
+teachers and students..
+•Implemented secure user authentication and payment
+gateway integration.
+•Ensured the website’s responsiveness and cross-browser
+compatibility, allowing users to access and interact
+with the platform on various devices and browsers.
+•Received positive feedback from users, demonstrating
+the eﬀectiveness and usability of the platform in en-
+hancing the teaching and learning experience.
+•Technologies used : React, Node, Express JS
+My Connection
+•A Full stack based project to connect people and share
+ideas together to work on projects.
+•A team project, contributed in FrontEnd section.
+•Implemented secure user authentication.
+•Fully responsive realtime user interface.
+•Technologies used - HTML, CSS, JavaScript, Bootstrap.
+•/githubTanmay-Thanvi/MyStartUp
+Expense Tracker
+•A mini project based on Javascript to manage daily ex-
+penses and to keep track of them.
+•Implemented using important concepts of javascript
+like Map, Reduce, Filter.
+•Technologies used - HTML, CSS, Javascript.
+•/githubtejasmethawade/Expense-TrackerPROGRAMMING LANGUAGES
+•C++ (Competitive Programming, DSA), Java,
+JavaScript
+•Libraries : React-JS, Node-JS, Express-JS,
+Tailwind-CSS
+TECHNICAL SKILLS
+•Data Structures
+•Algorithm
+•Object Oriented Programming
+•Database Management System : MySql
+•Operating System
+ACHIEVEMENTS
+•Solved 1000+ DSA problems on multiple
+platforms
+•365+ days of streak @Leetcode
+•Rated 1730+ on Leetcode (Top 10% on plat-
+form)
+•3 stars @Codechef
+•Secured 77 rank in Starter-77 Div-3 out of
+3500+
+•Secured 274 rank in Starter-70 Div-3 out of
+4000+
+CODING PROFILE
+Leetcode - Tejas_457 [Rating: 1730 - Top 10%]
+Codechef - tejas_457 [Rating: 1633 - 3 Star]
+EXTRA CURRICULARS
+Member of ACM Club
+•Active member of PASC, organised and par-
+ticipated in multiple events
+Volunteer
+•Volunteered at Blood Donation Camp in
+PICT
+•Volunteered at district level powerlifting
+competition

@@ -1,0 +1,39 @@
+Vijay Mane
+Pune, Maharashtra
+♂phone+91 9325196640 /envel⌢pevijaysaudagarmane1510@gmail.com /linkedinhttps://www.linkedin.com/in/vijay-mane-362427231/
+Education
+Pune Institute of Computer Technology 2020 - 2024
+Bachelor of Engineering in Electronics and Telecommunication [CGPA of 8.56] Maharashtra, India
+Vidya Bhavan Jr. College 2018 - 2020
+HSC Maharashtra State Board [Aggregate of 85.85%] Maharashtra, India
+St. Joseph Boys High School 2007 - 2018
+SSC Maharashtra State Board [Aggregate of 94.60%] Maharashtra, India
+Experience
+VoIS For Tech Aug 2022 – Oct 2022
+Project Intern Pune, India
+•Creating a website to manage the operations of hospital using Cloud Computing.
+•Using AWS to host the website and getting hands on experience on AWS services.
+PICT NSS Oct 2022 – Present
+Event Management Head Pune, India
+•Worked on various aspects of social work. Hands on experience in team building and management.
+•Worked with the management team that organized the annual camp of NSS.
+•Managed various events under PICT NSS (Blood Donation drive, Tree Plantation drive, etc).
+•Collaborated with various NGO’s and organisations working for the social cause.
+Projects
+•Hospital Management System using AWS Services like S3,Lambda Function,API Gateway,IAM Roles,
+Databases.
+•Severless File Uploader using AWS Services like S3, Lambda Function, API Gateway, IAM Roles,
+CloudWatch.
+•Fire Fighting Bot using Arduino, sensors, programming language C.
+•Soil Monitoring System using Arduino, programming language C.
+Technical Skills
+Languages : HTML, CSS, C++
+Scripting Languages : MySQL, JavaScript(Beginner)
+Cloud Computing : AWS Services EC2, ELB and ASG, API Gateway, IAM, Amazon S3, Lambda Function
+Certifications
+Cloud Computing |Udemy 4
+•Cloud: Learn concepts of cloud computing including storage, database, networking, virtualization, containers, and cloud
+architecture.
+•DevOps: Learn how to use DevOps tools on AWS to automate a continuous integration and continuous delivery
+(CI/CD) pipeline.
+•Databases: Launch a relational database on Amazon RDS and a NoSQL database using Amazon DynamoDB.

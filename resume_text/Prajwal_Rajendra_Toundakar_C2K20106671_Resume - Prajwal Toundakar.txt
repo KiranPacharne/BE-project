@@ -1,0 +1,44 @@
+Prajwal Toundakar
++91 8767809296 |/envel⌢peprajwalrt01@gmail.com |/linkedinprajwal-toundakar |/githubprajwalt27
+Education
+Pune Institute Of Computer Technology Pune, Maharashtra
+BE in Computer Engineering (CGPA: 8.9/10) 2020 - Present
+Vyankatrao Jr. College Kolhapur, Maharashtra
+Higher Secondary Certificate (Score: 84.46%) 2018 - 2020
+Vidyapeeth Highschool Kolhapur, Maharashtra
+Secondary Certificate (Score: 96.80%) 2012 - 2018
+Experience
+Angular Intern Mar 2023 - May 2023
+Bajaj Finserv Pune, Maharashtra
+•Worked on a ”Bug Management” project where general users can report bugs, encountered during software usage.
+•Implemented a user-friendly interface where users could add comments, discuss bugs, and collaborate effectively.
+•Contributed to the bug details page and Implemented filtering functionality on the bug list page using Angular.
+Managed Network Expert Mar 2023 - May 2023
+Chegg Inc. India
+•Worked as a computer science subject expert and helped students solve computer science questions. Collaborated
+with students, clarified doubts, and provided additional resources to support their learning.
+Projects
+AgroNet |BootStrap, Express.js, MongoDB |(Link)
+•This web application aims to assist farmers in choosing the most appropriate crops for their region by offering vital
+details such as soil type, optimal sowing period, expected yield, and current market prices
+•It is designed to be user-friendly and easily accessible for farmers seeking crop selection guidance.
+Credenz.in |Reactjs, Django |(Live Demo)
+•This is the official website of the Credenz 2023, a technical event organized by the PICT IEEE student branch
+•Implemented a feedback form functionality and Integrated Google Maps into the Contact Us page, providing users
+with an easy way to locate the event venue.
+TrailTrekker |Bootstrap, Node.js, MongoDB |(Link)
+•This is a website where authorized users can create and review campgrounds, and comment on other campgrounds
+•Implemented campground creation with image upload, enabling users to add new campgrounds with detailed
+information.
+Technical Skills
+Languages : C++, Java(core), SQL
+Frameworks/Libraries : HTML/CSS, Angular, Bootstrap, Node.js, MongoDB, MySql
+Developer Tools : GitHub, Git, VS Code, Postman
+Courses : Data structures and Algorithms, Object-oriented Programming, DBMS, OS
+Achievements
+•Solved over 850+ problems on different coding platforms like LeetCode, GeeksforGeeks,Codeforces, CodeChef, etc.
+•Rated 3*at CodeChef with a maximum rating of 1681 .
+•Got108 Global Rank in CodeChef June Long One 2022 Division 4 (Rated) among 18k+ participants.
+•Got591 Global Rank in CodeChef August Long 2022 Division 3 (Rated) among 10k+ participants.
+•5*Badge at HackerRank in C++ programming language.
+•Secured an all India rank of 569in MHT-CET 2020 with a score of 99.57 percentiles.

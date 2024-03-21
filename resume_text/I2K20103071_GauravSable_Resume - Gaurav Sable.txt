@@ -1,0 +1,83 @@
+PROFILE
+Good in understanding Data-Structures, Analysis
+of Algorithms in Data-Structures, Concept of
+object-Oriented-Programming (JAVA). Passionate
+about designing solutions for real life problems
+and launching new Projects. Looking to start the
+career as an entry-level Software Engineer with a
+reputed firm driven by technology.
+SKILLS
+Programming Languages
+C++, JAVA, JavaScript.
+Web Technologies
+HTML, CSS, React JS, Node JS MySQL, Mongo DB.
+Coursework
+DSA, DBMS, OOP, OS.
+Tools
+GitHub, VS Code, Google Colab, Jupyter Notebook.
+ACHIEVEMENTS
+•Specialist @Codeforces ( Max Rating : 1407 )
+•3 Star @Codechef ( Max Rating : 1650 )
+•1000+ Problems solved on all Competetive 
+Coding Platforms.
+•Secured - Global Rank 157 in February Long 
+2022 Codechef
+•Secured - Global Rank 1813 in Google Kickstart 
+Round F 2022
+•Secured - Global Rank 1458 in ICPC 
+Preliminary Round 2022
+•Secured - Global Rank 2098 in Facebook 
+Hackercup Round 1 (Qualified to Round 2 )
+•Hackerrank - Gold badge in CPP, JAVA and 
+Silver badge in MySQL
+•Hackathon : Runner up in Inspiron 2.0 
+(Organised by COEP CSI)
+CERTIFICATES
+Hackerrank - Problem Solving ( Basic )
+Google Kickstart and Codejam - 2022
+Facebook Meta Hackercup - 2022EDUCATION
+Pune Institute of Computer Technology, Pune
+BE Information Technology                                        
+CGPA : 9.23
+2020 – 2024 | Pune, India
+Shri Shivaji Jr. College , Akot
+HSC Maharashtra State Board                    
+Percentage : 88.77
+2020 | Akot, India
+Shri Bhausaheb Potey Vidyalaya, Akot
+SSC Maharashtra State Board                     
+Percentage : 94.80
+2018 | Akot, India
+PROFESSIONAL EXPERIENCE
+Business Analyst 3 Intern
+Barclays
+06/2023 – 08/2023 | Pune, India
+•Worked on Mainframe systems and developed 
+an essential WebApp component for business 
+application used in organisation.
+•Used ZOWE software for interacting with 
+Mainframe and used MERN stack for 
+developing the WebApp component.
+•The component is useful in fetching testbed 
+information through a web interface by 
+providing testbed name as input.
+PROJECTS
+Disease Prediction - Based on Symptoms
+01/2023 – 03/2023
+•Implemented web application which is useful 
+for prediction of disease based on symptoms.
+•Tech Stack :- React JS, Material UI, Node JS, 
+Express JS, Mongo DB, Machine Learning.
+Melodium - A Music Player
+09/2022 – 10/2022
+•Implemented Web Application which is useful 
+as a Music Player providing list of songs and 
+artists from various genres.
+•Tech Stack - React JS, Tailwind CSS, Rapid API, 
+GitHub.
+INTERESTS
+Web Development|Competitive Programming
+Exploring New TechnologiesGaurav Sable
+Tech Enthusiast
+sablegaurav098@gmail.com +91 9767662724 Pune, India Linked In GitHub
+Codechef Codeforces Leetcode

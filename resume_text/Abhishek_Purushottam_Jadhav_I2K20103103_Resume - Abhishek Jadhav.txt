@@ -1,0 +1,73 @@
+Abhishek Jadhav
+email.abhishekjadhav@gmail.com |+917030405299 |linkedIn/AbhishekJadhav2002 |github/AbhishekJadhav2002
+EDUCATION
+Bachelor of Engineering | J ul
+2020 - J ul 2024
+Pune Institute of Computer
+Technology | Pune, India
+GPA :8.9Higher Secondary Certificate |
+2018 - 2020
+K. T .H.M. College | Nashik, India
+Percentage :76.77High School | 2012 - 2018
+S.C.S. V idyalay | Nashik, India
+Percentage :92.20
+WORK EXPERIENCE
+HEIM LABS | Full Stack Developer Intern Mumbai, India J ul y 2023 – Presen t
+•Developing Dapps intheDeFi domain.
+•Working onUIofDapps, managing complex Design Patterns infrontend frameworks.
+•Wallet Connections, Contract Analysis using MERN stack.
+•Creating multi service fullstack client projects withcaching ,event logging ,security andcontainerization .
+Skills: React.js, Node.js, Solidity, Metamask, Ethers.js, Typescript, SCSS
+HUF INDIA PVT. LTD. | Full Stack Developer Pune, India J an 2023 - Presen t
+•Developing anapplication fortaking Gemba Walk inHufIndustries.
+•Designing appUI,developing appusing React Native ,backend using Node.js .
+•Taking inputs from managers, managing daily Gemba Walk data, withgraphs ,feedback ,notifications .
+Skills: React-Native, Node.js, MongoDB, GitHub Actions
+ZENSOLVE CORPORATION | React JS Intern Pune,India Dec 2022 – Feb 2023
+•Developed aCRM system forclient.
+•Working assoleReact.js developer byhanding complex forms andAPIintegration withswagger .
+•Significant features like,downloading csvanduploading files.
+Skills: React.js, Material UI
+PROJECTS
+LOL TOKEN  | GitHub Ethers.js, MERN Stack
+•Tolearn about token development andafullstack implementation.
+•Used ERC20 contract tocreate token code, deployed itonBSCTestnet thendeveloped React frontend andNode
+backend fortoken interactions.
+•Send token toanyaddress, getyourtransactions, listen toevents from theblockchain
+PROJECT BUDDY  | GitHub React.js, Tailwind, PostgreSQL, Django, Machine Learning
+•Aplatform thatfacilitates collaboration andteamwork among college students. Ourplatform enables students to
+findlike-minded peers withcomplementary skills tojointheir teams andprovides tools tohelpthem collaborate
+effectively, communicate efficiently, andtrack their progress towards shared goals.
+•Leveraging technologies suchasdata analytics andmachine learning algorithms ,thisplatform matches students
+withpotential team members based ontheir skills andinterests. Itfeatures arange ofcollaboration tools, including
+real-time messaging .
+RECYCIFY  | GitHub React.js, Postman, NodeJs, MongoDB
+•Tocollect recyclable material from endusers andshowcase those tothecollector whowillbuythatmaterial.
+•Features likecreate, update profile ,post products ,buythatproduct andview previous orders.
+XENIA'22  | GitHub React.js, Redux, Tailwind, NodeJs, MongoDB, Razorpay
+•Started from searching fordesign ideas ,thenused React.js todevelop thewebsite. Integrated Razorpay payment
+gateway, used bymore than600+ users.
+•Features likecreate ,jointeam ,userprofile login, admin page, online payments.LEADERSHIP ROLES
+WEB TEAM HEAD | Pune Insti tute of Computer Technology Pune J an 2023 - Apr 2023
+•During thisinternship period under college flagship technical event ,InC,Iwasleading theteam offellow
+developers bymanaging therequirements anddeadlines .
+•Redesigned thewhole workflow of5-year-old legacy softwar .
+•Followed security practices while developing thesoftware.
+GDSC WEB DOMAIN LEAD | Google Developer Student Club Pune Dec 2022 - Presen t
+•Abletoleadteam ofdevelopers along withtaking SIGs andsession forguiding juniors inwebdevelopment domain.
+WEB HEAD | PIC T C SI Stude nt Branch Pune Mar 2023 - Presen t
+•Setting system architecture forclubprojects.
+•Helping other developers todebug code,inmentorship program inproject based subjects.
+ACHIEVEMENTS
+3RD PRIZE IN HACKFORMERS'23 HACKATHON | Won 3rd prize in 24 -hour offline Hackathon by
+Terna College of Engineering, Mumbai
+•Won the3rdprize inmyfirstoffline hackathon
+•Wedeveloped across domain webapplication for
+students•Gottolearn about fastpaced development and
+presentations
+HACKTOBERFEST 2022 | Open Source Collaboration Eve nt
+•Won Hacktoberfest Badge bycompleting open
+source challenge ,created 8+pullrequests inthe
+month ofOctober indifferent projects•Explored andcontributed indifferent techstack like
+Flask, React.js, Node.js. Helped project admin for
+resolving open issues.

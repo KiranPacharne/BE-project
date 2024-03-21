@@ -1,0 +1,51 @@
+SARTHAK DESHPANDE
+CYBER-SECURITY ENTHUSIAST+91 - 7420827994
+dsarthak12@gmail.com
+linkedin.com/in/sarthak-
+deshpande-4a5788212/
+Education
+Projects and CertificationsRasbihari International School
+SSC Percentatge : 96.60 %RYK Science College 
+HSC Percentage : 80.77 %Pune Institute of Computer Technology (PICT)
+B.E. in Information Technology
+GPA : 8.57
+2 0 0 6 - 2 0 1 82 0 1 8 - 2 0 2 02 0 2 0 - P r e s e n t
+Nashik, MaharashtraNashik, MaharashtraPune, Maharashtra
+Skills
+Programming and languages
+C++, Competitive ProgrammingWeb Development and Database
+HTML, CSS, JavaScript, Bootstrap,
+ReactJS, SQL
+Cyber Security and Ethical Hacking
+Kali OS, Penetration Testing Techniques,
+Networking, Hacking Soft Skills 
+Team management, Leadership,
+Communication, Strategic Thinking
+A simple expense manager web-app using MERN
+Stack to track down daily expenses, Using React
+and Ant Design for UI Design and Node.JS,
+Express.JS and MongoDB for data handlingExpense Manager Web-App
+A MCQ Quiz Platform for Credenz Event
+organised by PICT IEEE Student Branch.
+HTML, CSS, JavaScript, React, Bootstrap
+used.Quiz Platform Completed course in Cyber-security and
+Ethical Hacking from Udemy.Ethical Hacking Certification 
+POR (Position of Responsibilities)
+Part of the team for Purushottam
+Karandak '22. Won the first position.
+Part of the team for Purushottam
+Karandak '23. PICT Art CircleTreasurer at PICT Debate Society
+Member of the External Affairs
+Committee of PICT Debate Society
+Part of the organising committee of
+Paricharcha'22, the annual flagship event
+of PICT Debate SocietyPICT Debate Society
+Head of PICT Social Media Cell for current
+academic year.
+Part of the design team.
+Designed Digital Posters for PICT Social
+Media handles using Canva and Photoshop.PICT Social Media Cell
+Member of the PICT IEEE Student BranchPICT IEEE Student BranchWorking on developing a full stack web
+application  for the digitalization of entire
+working module of Huf India Pvt Ltd.
+using MERN Stack as Final Year Project.Industry 4.0 Project

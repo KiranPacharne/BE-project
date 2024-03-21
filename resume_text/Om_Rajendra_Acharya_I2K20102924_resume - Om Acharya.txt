@@ -1,0 +1,48 @@
+Om Acharya
+Ħ7689876758 |ćomacharya8769@gmail.com |^github.com/raenyx |]linkedin.com/in/om-acharya-4b00b813a
+Education
+PuneInstituteofComputerTechnology Pune,Maharashtra,India
+BEinInformationTechnology SGPA‑8.83
+•RelevantCourses: DatabaseManagementSystems,DataStructuresandAlgorithms,ObjectOrientedProgramming,OperatingSystems,Basics
+ofComputerNetworking,LearningSkillsthroughCaseStudies
+IndianInstituteofTechnologyMadras Online,India
+BScinDataScienceandProgramming SGPA‑8
+•RelevantCourses: PythonAlgorithms,Statistics,MachineLearning,ProjectBasedLearning
+ShivJyotiInternationalSchool Kota,Rajasthan
+HighSchool Apr2018‑Apr2020
+WorkExperience
+BajajFinserv Pune,India
+DataEngineeringIntern
+•LearnedTensorflowandneuralnetworks,workedonbuildingaddressclusteringmodels,hostingandconvertingthemintopythonpackages.
+•WorkedonsyntheticdatagenerationusingGANandNeuralnetworks.
+•TechnicalSkills: PythonwithTensorflow,NumPy,Matplotlib,Pandas,Scikit‑learn.
+•SoftSkills: Teamwork,TimeManagement,Communication,Presentationskills.
+AchievementsandProjects
+SmartIndiaHackathon(Winner) Hyderabad,Telangana
+AdhaarDataVaultwithSSIcapabilities Aug2022‑Sept2022
+•We had a team of 6 people under the alias ’Cartographers’ everyone had different skill sets we made a website which was connected to a
+blockchainnetworkonPolygonwhichwethenusedtodeployoursmartcontracton.
+•Afterpassingallthethreerounds,ourteamwasdeclaredthewinnerofourquestionset. Wewonalumpsumof1lakh₹(s)
+•TechnicalSkills: Solidity,Polygonnetwork
+•SoftSkills: TimeManagement,Teamwork,Presentationskills,Reportwriting.
+UnescoIndiaAfricaInternationalHackathon(Finalist) Delhi,India
+Suiteoftoolsforslowlearners Oct2022‑Nov2022
+•CoordinatedandledateamofAfricansfromvariouscountriestobuildtoolsformonitoring,detectingandhelpingslowlearners.
+•Theprojectincludes2websiteextensionswhichmanipulateawebpagetomakeconsumingthecontenteasier. Alongwiththatthereisaportal
+forteacherstouseinschoolstomonitoranddetectdyslexia,ADHD,etc.
+•TechnicalSkills: Javascript,HTML,CSS,Firebase,DataStructures
+•SoftSkills: TeamLeading,IdeaPitching,Team‑work.
+2ndYearProject Pune,Maharashtra
+MeridorideshareApp Mar2022‑June2022
+•DesignedanddevelopedamobileapplicationforPICTstudentswith4otherteam‑matestofind,offerandreceiveridesontheirwaytocollege
+orgoingbackhome.
+•Studiedrelevantresearchpapersandprevioussimilarapplications,findingfaultsinthemanddevelopingourappaccordinglytomakeitsafe,
+responsiveandeasytouse.
+•TechnicalSkills: Flutter,Dart,MapBox,Firebase
+•SoftSkills: Reportwriting,LogicalThinking,CriticalThinking.
+WorkedwiththeappdevelopmentteamoftheflagshipeventofPICTCSIclub(PCSB)
+Skills
+Programming Flutter,Dart,Python(OpenCV,PIL),C/C++,HTML/CSS,Solidity,JavaScript,SQL,Java.
+Miscellaneous Firebase,Git,Linux,Shell(Bash/Zsh)
+SoftSkills TimeManagement,Leadership,Debating,Teamwork,Problem‑solving,Documentation,EngagingPresentation.
+JULY29,2023 1

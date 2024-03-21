@@ -1,0 +1,57 @@
+Key Projects : 
+Skills : 
+Achievements :   
+Kunal Jaipuria  
+     4th Year  Undergraduate                                                                                                                           Email : kunaljaipuria04 @gmail.com  
+Department  of Elec tronics  and Telecommunications  Engineerin g                                                                  Phone : +91-7218447844  
+Pune, India                                                                                                                                    GitHub:  https://github.com/kunaljaipuria  
+ 
+A passionate  coder,  enthusiastic  learner  who  is enhancing  his skills,  knowledge  and understanding  in Data  
+Structures,  OOP           concepts , Algorithms  and Problem  Solving.  
+• I also enjoy  writing poetry and  playing chess . 
+Academic  Qualifications : 
+Year           Degree/Certificate  Institute  CGPA/%  
+2020 - Present  B.E.  Pune  Institute  of Computer  Technology,  Pune  9.40  
+2020 HSC  Dr. Ambedkar College,  Nagpur  87.08 % 
+2018 SSC  Shree Gajanan Maharaj School, Shegaon  96.40 % 
+           EShop  – Ecommerce Websit e  
+           Github :  https://github.com/kunaljaipuria/ecommerce_website  
+– Technologies  Used:  PHP, SQL, HTML,  CSS 
+– EShop is a dynamic and user -friendly e -commerce website that  enables seamless shopping experiences by allowing users to 
+register accounts, place orders, and browse an extensive product catalog.  
+Hospital Reception Management System  
+GitHub:  https://github.com/kunaljaipuria/Hospital_Management   
+– Technologies  & Languages  Used:  HTML,  CSS,  Django, SQL  
+– Hospital Reception Management System was created with the aim to reduce deaths caused due to inaccurate medical 
+history.  Around 10% of total deaths caused every year is due to inaccurate diagnosis because of inaccurate data.  
+– The core focus of the system is  on efficiently tracking patient records and medical history, providing hospitals with a 
+secure and organized database.  
+Business Plan  
+GitHub:  https://github.com/kunaljaipuria/Business_plan  
+– Technologies  used:  HTML, CSS,  Django, SQL  
+– Business Plan is a website created  to auction tailored companies, which  was used in a technical event Credenz -23. 
+– Participants can bid on these companies, and the bidding process is influenced by the company's rating, where higher  
+ratings  attract  higher bids.  
+• Technical:  C++,  OOPs, DSA,  DBMS, SQL,  PHP, HTML,  CSS,  Java (Beginner)   
+• Soft Skills:  Problem Solving,  Teamwork,  Leadership, Public  Speaking,  Finance   
+ 
+Treasurer, PICT IEEE Student Bran ch                                                                                                       (Oct’21-Present  ) 
+– PISB is the oldest technical club of PICT. Though being the Treasurer I wore multiple hats including Finance, Management 
+and Marketin g. I was also instrumental in increasing the membership of the club.  
+– I was the event lead for Business Plan - an event conducted under Credenz  - the flagship technical festival of club. The 
+event saw 200 % increase in the participation under my lead.  
+Public Service Director, Rotaract club of Shegaon                                                                                 (June’19-June’20 ) 
+– During my time with the Rotaract Club of Shegaon, I held the position of Charter Public Service Director.  
+– One of the projects that I led was The Talking Wall,  which involved painting Mathematical formulas and Science Diagrams 
+on the  walls of a rural school. The project aimed to promote education for underprivileged children.   
+• Runner  up in Interlock  (Aptitude+ Coding competition ), Gandharva ’23 organized  by VIIT College  (Pune).  
+• Represented Buldhana district at 2 divisional chess championships.  
+• State Merit (MTSE) for 3 consecutive years . 
+ Positions  of Responsibility : • 
+• 
+• 
+• 
+• 
+• 
+ About  Me: 
+ 

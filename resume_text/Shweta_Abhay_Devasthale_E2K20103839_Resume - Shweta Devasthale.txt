@@ -1,0 +1,42 @@
+– About  Me:  Shweta  Devasthale  
+4th Year  Undergraduate  Email  : shwetadevasthale@gmail.com  
+Department  of ENTC  Engineering  Phone  : +91-9607206554  
+• An enthusiastic  and passionate  coder,  who  is enhancing  her skills  in Data  structure  and problem  
+solvingmainly  focused  on (C++),OOPS.  
+• An individual  with  a motivated  attitude  and a variety  of powerful  skills.  
+• I also enjoy  doing  Content  Writing  and composing  poems  and competitive  programming . 
+Academic  Qualifications  : 
+Year  Degree/Certificate  Institute  CGPA/ % 
+2021  - Present  T.E Pune  Institute  of Computer  Technology,  Pune  8.56  
+2020  HSC  Brijlal  Biyani  Science  College,Amravati  95.67%  
+2018  SSC  Golden  Kids  English  High  School,Amravati  95.6%  
+ 
+ Key Projects  :  
+AN E-COMMERCE  WEBSITE(PEERTRADE)  
+• Build an e -commerce website using Html Css and Javascript for frontend and using  
+flaskfor backend to make trade between college students so that seniors students can  
+sell their  college  materials  to their  junior  students  at affordable  prices . 
+ 
+ 
+ Technical  Skills  :  
+• C++,  Java,  Python(Basic),HTML,  C, CSS,  JavaScript, DBMS ,Data  Structure,  
+OOPS,Operating  System,Creative  Problem -Solving . 
+ 
+ Achievements  :  
+• Secured  98.88  percentile  in MHT -CET(2020)  
+ 
+• Secured  2 rank  in college  in 12th HSC 
+ 
+• Secured  95.6%in  10th SSC. 
+ 
+• Solved  Numerous  Problems  on codeforces,  build  an completely  working  website . 
+ 
+• Participated  in Hactoberfest  and contributed  more  than  4 repositories.  
+ Extra -Curricular  Activities  :  
+• Active voulnteer of PASC -ACM PICT STUDENT CHAPTER , contributed in various tech and non -tech  
+activities in  the anuual  flagship  event  of PASC (Pulzion).  
+• Lead  an event  in Pulzion  (Insight)  successfully.  
+• Active  volunteer  of Radiance  Event  of PASC.  
+• Active  Member  of Pictoreal -club  of PICT.  
+ Courses:   
+• Completed  an Web -Development  course  by Angela YU,  Udemy.  

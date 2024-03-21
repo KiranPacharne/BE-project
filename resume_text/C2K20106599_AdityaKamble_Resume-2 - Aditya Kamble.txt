@@ -1,0 +1,40 @@
+ADITYA KAMBLE
+Pune, Maharashtra-411043.
+/ne9527635379 ⋄/♀nednadityakamble615 ⋄adityakamble615@gmail.com ⋄/gtbAditya1608-pict
+EDUCATION
+Pune Institute of Computer Technology, Pune CGPA: 8.61
+Bachelor of Engineering - Computer Engineering
+Residential Junior College, Ahemdnagar Percentage: 85.38
+HSC(Maharashtra State Board)
+Shree Samartha Vidya Mandir, Ahemdnagar Percentage: 98.20
+SSC(Maharashtra State Board)
+SKILLS
+Programming Languages: C++, Python
+Databases: MySQL, MongoDB
+Core Subjects: OOP, DBMS, OS
+Web Technologies: HTML, CSS, Javascript, Bootstrap, ReactJS
+Tools: VS Code, Eclipse, Microsoft Office
+EXPERIENCE
+1.Management and HR head , Training and placement cell, PICT July 2023 - current
+Responsible for building and nurturing relationships with potential employers, industry partners, to
+facilitate recruitment opportunities for students.
+2.Overall Co-ordiantor , Addiction’23, PICT
+Responsible for managing the entire annual cultural event of pict from planning process to end.
+3.Publicity Head , Impetus and Concepts’23(InC), PICT
+Responsible for the publicity of the InC, which is international level project competition and coding
+event of the PICT.
+PROJECTS
+1.My Portfolio Website —React, Bootstrap, EmailJS
+-Developed modern and visually appealing platform created using React.js and Bootstrap.
+-It showcases the developer’s skills, projects, and achievements in an organized and user-friendly man-
+ner.
+2.Employee Management System —MySQL, React, DBMS
+-Basic Employee Management System using React for the frontend and MySQL and Express for the
+database management system (DBMS).
+CERTIFICATIONS
+1.Udemy course on Object Oriented Programming in C++ Interview Preparation.
+2.Udemy course on HTML CSS - Certification Course for Beginners
+3.Udemy course on JavaScript Ultimate Guid
+ACHIEVEMENTS
+*Among top 10 ranked students in Ahmednagar district in SSC examination.(98.20%)
+*Solved 150+ problems on different coding platforms like Leetcode, GFG, Hackerrank, Codechef,etc.

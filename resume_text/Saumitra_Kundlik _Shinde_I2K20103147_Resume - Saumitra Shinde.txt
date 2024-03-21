@@ -1,0 +1,38 @@
+Saumitra Shinde
+/githubSaumitra-02 |/linkedinSaumitra Shinde |
+/envel⌢pesaumitra.k.shinde@gmail.com |♂¶obile(+91) 7020147667
+Education
+Jul 2020 – Expected Jun 2024 B.E. (I.T.) at PICT (CGPA: 8.83)
+2018 - 2020 HSC at Abasaheb Garware College (Percentage: 83.08)
+Skills
+Technologies/Frameworks Node.js, Express.js, Ruby on Rails, jQuery, Git, GitHub, HTML, CSS.
+Programming Languages C++, Javascript, Python
+Databases MongoDB, PostgreSQL, MySQL
+Work Experience
+Cloudanix.com (YC S21) Software Engineering Intern (Dec 2022 - Present)
+•Wrote the code for ELT processing of VM scan data
+•Wrote backend logic to process incoming data for GitHub webhooks and store it in the database.
+•Updated existing code to use a new version of the dynamic query builder used to form SQL queries.
+•Built the UIfor displaying GitHub secret scan data and connected assets graph.
+•Built UI and backend logic for VM Scanning and GitHub secret scanning subscription management
+•Technologies: Ruby on Rails, Javascript, jQuery
+Projects
+Pulzion ’22 EMS(Event Management System) (Repo Link) (Website Link)
+•Pulzion is annual techfest conducted by PICT ACM Student Chapter. EMS is a platform which allows
+participants to register in different events, book slots and get emails about their events.
+•It received around 3900+ registrations and40000+ requests . For this year’s website, we have
+added cart and payment features.
+•Worked on cart, payment and mailing services (hosted on Amazon EC2 ).
+•Technologies: NodeJS, ExpressJS, PostgreSQL, Docker, JWT for Authentication.
+Weather website (Repo Link)
+•The website has a user interface that allows users to search for weather information by city.
+•Weather data is retrieved from Mapbox and Dark Sky APIs.
+•Technologies: NodeJS, ExpressJS, Handlebars.
+Achievements
+Zonal Finalist at Aakruti 2021 by Dassault Systemes (Certificate Link)
+Led a team of 4 and got selected in top 30 teams from over 875 teams (3500+ students) from colleges
+all over India for zonal round. Designed a scientific toy for kids using Solidworks for the competition.
+Volunteering
+PICT ACM STUDENT CHAPTER: Developed the website and coding problems for the event
+Pulzion ’23, a technical event of the club. Worked in content and sponsorship team for Pulzion ’22 and
+Radiance ’21 events.

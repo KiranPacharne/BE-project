@@ -1,0 +1,88 @@
+Maitreyee Khunte
+PERSONAL PROFILE
+A computer engineering student passionate about learning new
+technologies and exploring the world of data. To secure a challenging
+engineering position as a fresher, where I can leverage my technical
+expertise, creative problem-solving abilities, and passion for innovation
+to contribute effectively to the success and growth of the organization.
+SOFTWARE SKILLS
+C++, Python
+HTML, CSS, JavaScript
+SQL
+Python libraries for Data Analysis- Pandas, NumPy,
+Seaborn, Matplotlib 
+Microsoft PowerBI
+SKILLS
+Engaging presentation skills
+Effective leadership
+Critical thinking and problem solving
+Collaboration and teamwork
+Organization and management
+EDUCATION BACKGROUND
+Pune Institute of Computer Technology
+(Affiliated to Savitribai Phule Pune University)
+BE- Computer | 2020-Present
+CGPA- 8.88
+Indian Institute of Technology, Madras
+Online BSc- Programming and Data Science
+2020-Present
+Dr. Kalmadi Shamarao Junior College
+Higher Secondary School | 2018-2020
+Percentage- 88.31Road Accident Analysis | Krios Info Solutions
+Developed a dynamic Dashboard to delve into the details of the accidents
+that took place in the UK in 2021-22 based on severity, vehicle type, road
+type, weather, etc.
+Rainfall Predictor | University, Pune
+Trained different models to analyze the various parameters, compare output
+of the models and to predict the probability of rainfall, with the use of Python
+libraries.
+Wind Energy Prediction | University, Pune
+Trained and compared the results if two different models for a wind energy
+dataset and predicted the output power of a turbine.
+Hostel Management System | University, Pune
+Developed a website-based Hostel Management System, with an aim of
+reducing the paperwork and making the overall process more smooth.PROJECTSPROFESSIONAL EXPERIENCE
+Krios Info Solutions  |  Data Analytics Intern
+02/06/2023 – Present
+Working on Microsoft PowerBI to implement various stages of Data
+Analytics Lifecyle viz. Preprocessing, Modelling, Analysis and Visualization 
+ Generating interactive Dashboards
+Oasis Infobyte |  Web Development Intern
+12/02/2023-12/03/2023
+Developed responsive and user-friendly websites using HTML, CSS and
+JavaScript.
+Supported testing and debugging effortsCONTACT
+mmkhunte@gmail.com
+Pune, Maharashtra+91 7350348100
+https://www.linkedin.com/in/maitreyee-
+khunte-60a8a620b/
+presented a paper on the in-demand topic 'Industry 5.0', including its
+evolution from 1.0, technologies associated and significance.
+emphasized the concept of Sustainability and the necessity to
+implement it.
+collaboratively designed a LIT Spinner, under the sub-theme of 'Scientific
+Toy Design for Kids'.
+LIT Spinner demonstrated the scientific concepts of- Centrifugal Force in
+circular motion, Faraday's Laws of Electromagnetic Induction and
+Newton's Colour Wheel Concept.Paper Presentation, GCeMP 2023 | Ganpat University, Gujarat 
+February 2023
+Aakruti 2021, Zonal Round |  Dassault Systems 
+March 2022ACHIEVEMENTSEXTRA-CURRICULAR 
+Sponsorship Head, Addiction'23 | PICT
+Identified and approached potential sponsors for our
+college's annual cultural festival, while also
+coordinating and guiding my junior teammates.
+Event Organizer, Xenia'22 | PCSB, PICT
+Volunteered to organize the 'Campus to Corporate'
+sub-event for Xenia'22, the annual flagship event of
+PCSB(PICT CSI Student Branch).
+Delegate of Honduras, UNDP | IMUN
+Participated in the International Model United Nations
+2021 and expressed my views on the topic 'Ensuring
+healthy lives and promoting well-being for all' for UNDP.
+Volunteer | Women in Data Science(WiDS),Pune 2021
+Contributed in Data Science Summit 2021 where I was
+tasked with moderating the online booths.
+LANGUAGES
+English, Hindi, Marathi, GermanHOBBIES
+Dancing,  Gardening, Travelling

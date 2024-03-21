@@ -1,0 +1,51 @@
+                                                          Vishal Harne  
+⋄ hvishal 561@gmail.com ⋄ ⋄ +7219401735  
+EDUCATION  
+ 
+SCTR’s Pune Institute of Computer Technology  
+BE in Electronics and Telecommunications; GPA: 7.82/10 
+ Expected 2024  
+KULBHUSHAN JR. COLLEGE AURANGABAD M.C  March 2020  
+12th; Percentage: 7 2.15 
+NAVAJIVAN VIDHYLAY ROHINKH ED                                                                                                                                         March 2018  
+10th:93%  
+SKILLS  
+ 
+C++  ,  Javascript    , HTML  ,CSS  , SQL  , DBMS  , OS , OOP  , CN ,JAVA,  Basic  AIML   
+EXPERIENCE  
+Project Intern  MAY 2023 - JUNE 2023  
+PICT  PUNE,MAHARASHTRA  
+  
+• Created E -commerce Website and deployed it on cloud.  
+• Created virtual machine using EC2 instance  
+ 
+ 
+Project Intern  
+ JULY 2022 - SEP 2022  
+ PUNE,MAHARASHTRA  
+PROJECTS  
+WEB -CHAT -APP  
+Developed and implemented real -time web chat application using modern technologies, facilitating seamless 
+communication and collaboration among users. Demonstrated strong proficiency in full -stack development, user 
+authentication, and real -time  data synchronization.  
+Study of Deep Learning for Implementation of Sign Language Recognition Conducted comprehensive research on 
+implementing sign language recognition using deep learning techniques, showcasing expertise in computer vision and 
+neural network models.  
+RESUME PARSER. (ML,PYTHON,HTML,CSS)  
+Developed and implemented a Resume Parser using natural language processing (NLP) and machine learning 
+techniques. The parser efficiently extracts key information from resumes, such as contact details, work experience, 
+skills, and education, and converts t hem into structured data.   
+ 
+ 
+CODING PROFILES  
+ 
+LeetCode:        7219401735        GeeksForGeeks: hvishafkz l 
+Codeforces : VISHAL HARNE       CodeChef: vishalharn e 
+ 
+ 
+HOBBIES  
+ 
+• Reading  
+• Fitness  
+ 
+ 

@@ -1,0 +1,50 @@
+SHANTANU JOSHI
+Vaishnavi Vihar, Katraj , Pune, Maharashtra 411046
+♂phone+91 7083797937 /envel⌢pejoshishantanu21@gmail.com /linkedinlinkedin.com/in/shantanuj2002
+Education
+Pune Institute of Computer Technology Dec. 2020 – May 2024
+Electronic and Telecommunication Engineering Pune, Maharashtra
+Relevant Coursework
+•Data Structures
+•Algorithms Analysis•Database Management
+•Operating System•Object-Oriented Program
+•Power Devices•Machine Learning
+Experience
+Vodafone Idea June 2022 – August 2022
+Intern
+•Worked on API mocking feature for checking the integrity and testing components implemented in the front-end
+•Designed an algorithm based on least waiting time to assign the best available service provider for user assets
+•Implemented features to share anddownload pdf after receiving it from the server in base64-encoded string format
+Projects
+Image DataSet Generation System | Feb 2023
+•Reviewed multiple research papers to develop an optimized DataSet Generation for Machine Learning with high
+accuracy.
+•Used Generative Adversarial Networks (GAN) in which two models are trained simultaneously by an adversarial
+process.
+•During training, the Generator progressively becomes better at creating images that look real, while Discriminator
+becomes better at telling them apart.
+•Git Repo : github.com/shantanuj2002/Imagedatasetgeneration
+Single-Tomato (Food delivery App) |Flutter, Google Firebase June 2022
+•The main objective of the project is to experience the process of App Developement from scratch till publishing this app
+to the Play Store
+•Used Google Map API and Services for fetching user live location and showing relevant path and time to reach.
+•Git Repo : github.com/shantanuj2002/Single-Tomato
+•App Link : play.google.com/store/apps/details? id=com.shantanuj2002.flutterapp1
+Electricity Billing System | March 2022
+•Electricity Billing System is a desktop-based application , this project aims at serving the department of electricity by
+computerizing the billing system.
+•Software: - Microsoft SQL Server Front End: - Java core/swings (NetBeans) Back End: - My SQL
+•Git Repo : github.com/shantanuj2002/ElectricityBillingSystem
+Technical Skills
+Programming : Java, C++, Python, HTML/CSS, JavaScript,Dart, SQL
+Developer Tools : VS Code, Android Studio, Google Cloud Platform, Android Studio
+Technologies/Frameworks : Flutter, GitHub, Google Firebase
+Leadership / Extracurricular
+PICT IEEE Student Branch[PISB] Jan 2021 – Present
+Active Member
+•Flutter App Developer for PISB CTD (College event)
+•Question Setter for Cretonix game.(event in Credenz)
+-Created a Desktop Music Player in a python 5-week course organized by Web and Coding Club,IIT
+Bombay(2020)
+-Manage personal investment with keen financial awareness and good working knowledge of technical
+analysis in Stock Market .

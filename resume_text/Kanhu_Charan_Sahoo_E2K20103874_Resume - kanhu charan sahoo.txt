@@ -1,0 +1,38 @@
+KANHU CHARAN SAHOO
+⋄kcsahoo1419@gmail.com ⋄linkedin-Kcsahoo ⋄+91-8779470318
+EDUCATION
+SCTR’s Pune Institute of Computer Technology Expected 2024
+BE in Electronics and Telecommunications with Data Science(Hons.), GPA: 8.92/10
+Kendriya Vidyalaya Koliwada, Mumbai March 2020
+12th, Percentage: 94.40
+Kendriya Vidyalaya Koliwada, Mumbai March 2018
+10th, Percentage: 90.80
+SKILLS
+C++ , SQL , Python, Java, OOPs , DBMS , Operating Systems , Data Structures, Hadoop
+Microsoft SSIS, Apache Spark,
+EXPERIENCE
+Data Analytics Intern FEB 2023 - MAY 2023
+Center For Developement of Advanced Computing (CDAC). PUNE,MAHARASHTRA
+•Developed a Resume Parser Model using NLP.
+•During the internship, I was actively engaged in various NLP projects and tasks, demonstrating a deep
+understanding of the fundamental principles and methods of Natural Language Processing.
+PROJECTS
+RESUME PARSER (Python , NLP Libraries, RegEx , PDF Miner)
+Built a Resume Parser using Python, NLP, and ML to extract essential details from resumes. Matched the extracted
+skills with job descriptions, presenting a list of suitable candidates. Streamlined candidate selection, significantly
+enhancing recruitment efficiency for potential employers.
+BANK MANAGEMENT SYSTEM (Java AWT and Swing , JDBC ,MySQL)
+Developed a robust Bank Management System using Java AWT and Swing for a user-friendly interface. Utilized
+JDBC to interact with a MySQL database for account management and transactions. Streamlined operations for
+efficient customer handling, demonstrating strong Java programming and database integration skills.
+CODING PROFILES
+LeetCode: kcsahoo1419 GeeksForGeeks: kcsahov2hy
+Codeforces: kcsahoo1419 CodeChef: kcs14
+EXTRACURRICULAR-ACTIVITIES
+•Data Head at PICT NSS and managed events like Annual NSS Camp at Khopi, Blood Donation Camp.
+•Video Editing Head at PICT Model United Nations (MUN) , managed Annual PICT MUN Conference and
+participated in VIT MUN as a delegate of PERU in United Nations Commission on Science and Technology for
+Development (UNCSTD) Committee.
+HOBBIES
+•Fitness •Reading Blogs
+•Playing Badminton •Travelling

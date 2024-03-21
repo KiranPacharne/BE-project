@@ -1,0 +1,53 @@
+.
+.Bhavesh Oswal
+Pune, Maharashtra, Indiabmoswal285@gmail.com+91 7058290838https://www.linkedin.com/in/bhavesh-oswal-13999020a
+EXPERIENCE
+Flutter Developer
+• Developed cross-platform applications using Flutter with Firebase as the backend. 
+• Delivered four projects within a short time frame, including two user apps and two admin apps. 
+• Developed and executed advanced database operations utilizing Firebase Firestore & Cloud Storage. 
+• Implemented features like image handling, CRUD operations, dynamic app and data, impressive UI, and smooth transitions. 
+• Optimized data handling between screens, reducing buffer time to less than one second.
+Web Development Intern
+• Handled complete database Systems For Real World Clients (SQL/NoSQL). 
+• Role of creation and managing database for a local hospital. 
+• Extracting required API's from desired sources and provide them to respective team in usable format.
+Business Development Intern
+• Management of end to end product. 
+• Strategizing the Promotion of Product & Advertising Campaign of Product. 
+• Engaged with nearly 62 Clients For Clear Idea of Product and its usage . 
+• Generated around 35% of revenue and handled around 50 clients maintaining 80.6% success rate .
+PROJECTS
+Focus MHT-CET 
+Education System
+•Designed and developed applications with a user-centric approach, ensuring seamless alignment with the needs and preferences of the target 
+audience. 
+• Inclusion of all type of required learning material, pdf, video solutions, mock test system, notification service related to new tests. 
+• Dynamic application served as host platform for other institutions to conduct tests & activities. 
+• Milestones achieved -: 20000+ downloads with average rating of 4.275 stars & served more than 10 private institutions. 
+• Dart, Flutter, MongoDB/AirtableDB, Rest API, Google Firebase, Google Admob, Applovin, Onesignal.
+Flutter Express App
+April 2023 -July 2023
+• Designed and developed a comprehensive Flutter Express App with 50+ widgets/components using Dart core programming. 
+• Integrated AI chatbot model (gpt 3.5)to provide real-time support and resolve Flutter-related queries. 
+• Created a resource section offering curated external resources, including free and paid courses. 
+• Planned future updates to integrate Firebase modules, third-party development packages, and a UI practice section. 
+• Successfully deployed on Google Play Store attracting 250+ active users.
+SKILLS
+C++, Dart
+Framework - Flutter
+Database - Firebase,MySQL, MongoDB, AirtableDB
+JSON, Rest APIs, Onesignal and Monetization platforms
+Soft Skills: Agile, Scrum, SDLC experience, Product Development/Management, Client Handling
+EDUCATION
+Bachelor of Engineering (Information Technology)
+Pune Institute Of Computer Technology•Pune•2024• current CGPA
+HSC (XII)
+Smt C.H.M college•Ulhasnagar,Maharashtra•2020•91.6%
+SSC (X)
+Good Shepherd Convent School•Karjat , Maharashtra•2018•92.6%Zolatte Apps Malad(Virtual), January 2023 - March 23
+Kode IT Solutions Pune, January 2022 - March 2022
+Kode IT Solutions Pune, September 2021 - October 2021
+(app insights) 
+(app insights) 
+9.46 

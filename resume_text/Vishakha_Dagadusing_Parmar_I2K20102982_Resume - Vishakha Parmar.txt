@@ -1,0 +1,38 @@
+Vishakha Parmar
+Email: vishakhaparmar04@gmail.com |Phone: 9011628404
+Education
+SCTR’s Pune Institute of Computer Technology 2020 - 2024
+Bachelor of Engineering in Information Technology. CGPA: 9.08
+L.V.H. Arts, Science and Commerce College, Panchavati, Nashik 2020
+12th Standard HSC. Percentage: 81.69
+Maratha Highschool, Nashik 2018
+10th Standard SSC. Percentage: 97.00
+Skills
+rTechnical: C++, Data Structures & Algorithms, OOP, OS, MySQL, ReactJS.
+rNon-Technical: Problem Solving, Leadership, Effective Time Management.
+Projects
+rMovie Review Web-App
+Tech Stack Used : MongoDB, Express.JS, React.JS, Node.JS, Tailwind CSS.
+Description: An advanced movie review app featuring an admin panel allowing easy movie uploads,
+updates and deletions.
+rArticle Insight(GPT AI Web-App)
+Tech Stack Used : React.JS, Redux, Tailwind CSS, RapidAPI.
+Description: An open-source article summarizer that transforms lengthy articles into clear and concise
+summaries.
+Experience
+rCloud Computing Research Intern
+Pune Institute of Computer Technology
+Acquired hands-on expertise in OpenStack’s core components and deployment methods, showcasing
+proficiency in manual installation and setup of cloud services, priming them for effective contributions in
+OpenStack-based cloud environments.
+Extra Curricular
+rPICT’s Technical Flagship Event (InC’23)
+Worked as Concepts Head
+rPICT CSI
+Worked in Organizing team of Campus to Corporate in PCSB’s annual flagship event Xenia.
+Achievements
+rCertification courses on DSA and C++ from Udemy
+rCracked Maharashtra State Board Scholarship exam in grade 7
+rSecured ‘A’ grade in Intermediate Drawing Exam
+Other Interests
+rReading, Drawing and Doodling, Gardening.

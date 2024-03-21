@@ -1,0 +1,70 @@
+Shubham Pitale
+shubhampitale45@gmail.com ·+91 8291039175 ·LinkedIn ·Github
+Pune, India
+EDUCATION
+•B.E. in Information Technology
+Pune Institute of Computer Technology
+Current CGPA: 9.27
+Jan 2021-Current
+EXPERIENCE
+•Siemens Digital Industries Software
+Intern - Pune, India
+1) Integrated Fluent Validator into Siemens’ Web Me
+ASP .NET Core app, enhancing model validation.
+2) Led creation of Interview Feedback web app using
+Siemens’ Mendix low-code platform. Designed for HR
+team, supporting 10,000+ annual interviews.
+Jun 2023 - Aug 2023
+PROJECTS
+•Bookmate
+GitHub Link
+Web-based library management system catering to
+admins and student users. Admins can manage
+books—view, add, issue, and track returns. Users ex-
+plore and search library, filter by genre, and view de-
+tailed book info. User-friendly design includes pagina-
+tion and personalized issue tracking.
+MongoDB, Express.js, React.js, Node.js, JWT, CSS
+•Job Tracker
+GitHub Link
+A web app that allows users to keep track of all the job
+applications they have submitted.The app implements
+a rate limiter, which restricts each IP address to a maxi-
+mum of 100 requests per 15-minute window
+MongoDB, Express.js, React.js, Node.js, JWT, CSS
+•Hostlify
+GitHub Link
+A website for the students to find hostel and food ser-
+vices in their vicinity efficiently. I implemented the
+front-end of the project using React, utilizing different
+hooks. The project uses 4 different Firebase products.
+React.js, Firebase, CSSAWARDS & RECOGNITION
+•Winner
+WebDev Pulzion’21 conducted by PICT ACM Student
+Chapter(PASC)
+2021
+•First Rank in Junior College
+Higher Secondary Education Examination(HSC)
+2020
+SKILLS
+•Technologies
+React.js, Node.js, Express.js, MongoDB, Angular,
+ASP .NET, C++, Java, SQL, JavaScript,
+•Core Subjects
+Object Oriented Programming, Data Structure & Al-
+gorithms, Operating Systems, Database Management
+System
+•Miscellaneous
+Git, GitHub, Mendix, Linux, Firebase, Postman.
+OTHER HIGHLIGHTS
+•Solved over 700 plus problems on LeetCode and Geeks-
+ForGeeks
+•I have completed courses on web development on
+Udemy and I am well-equipped with MERN technolo-
+gies.
+HTML& CSS Tutorial and Projects Course
+The Complete JavaScript Course
+React - The Complete Guide
+HOBBIES & INTERESTS
+Web
+DevelopmentProblem Solving Cricket

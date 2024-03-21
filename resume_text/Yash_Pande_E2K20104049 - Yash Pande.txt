@@ -1,0 +1,86 @@
+Yash Pande
+Web Developer |UI UX Developer |Graphic Designer
+♂phone9579345348 /envel⌢peyashpande2002@gmail.com /h⌢mePortfolio /linkedinlinkedin.com/yash-pande- /githubgithub.com/yash797
+Education
+Pune Institute of Computer Technology, Pune 2020 - 2024
+Bachelor of Engineering, Electronics and Telecommunication Engineering 9.08
+SR Public School, Kota 2020
+Intermediate - Class XII 90.8%
+Stepping Stones High School, Aurangabad 2018
+Matriculate, Class X 92.2%
+Experience
+Fetch.ai June 2023 – July 2023
+Software Developer Intern
+•Developed Fetch.ai’s main website and API documentation using Next.js andTailwind CSS , creating a modern and
+user-friendly online presence.
+•Collaborated with the development team to implement innovative solutions, improving website functionality and user
+experience.
+•Gained valuable insights into modern web development practices and contributed to enhancing Fetch.ai’s online presence
+and developer experience.
+ZentrumHub February 2023 – May 2023
+Software Developer Intern
+•Developed and maintained Lambda functions using AWS , enhancing the functionality and performance of the
+company’s APIs.
+•Collaborated with a team of developers to build and deploy Node.js andExpress.js applications, leveraging Aws SNS
+for seamless real-time communication within the applications.
+•Integrated ElasticSearch andDynamoDB for efficient data storage and retrieval.
+•Developed API functions using ExpressJS andNodeJS to fetch and store correlation IDs and compressed data.
+•Implemented error handling and advanced problem-solving techniques for smooth operation and reliability of the system.
+Freelancer
+Web Developer
+•Designed and developed ReactJS websites for an architecture firm and a digital photo studio, elevating their online
+presence and showcasing portfolios effectively. .
+•Collaborated closely with clients to understand requirements, create wireframes, and implement responsive designs,
+ensuring a seamless and engaging user experience.
+•Demonstrated strong communication and project management skills, fostering positive client relationships.
+Projects
+XENIA
+•Built a complete website for the PICT CSI annual event Xenia, The platform recorded a footfall of 6000+ registration.
+•From registrations and displaying content to payments, everything was made from scratch and integrated.
+•Used ReactJS for the frontend, MongoDB for the database, and NodeJS for the backend.
+•Link: www.pcsbxenia.com/
+Crypto Stalker
+•The primary goal of this web application is to track different Cryptocurrencies’ information.
+•Real-time value of cryptocurrencies, their exchange rates in USD and INR, its change in price in the last 24 hrs/ 30
+days/ 3 months/ one year, and the current market cap is shown.
+•Used ReactJS ,Material UI , and Chart JS .
+•Link: cryptostalker.netlify.app
+Project Buddy
+•Led the development of ProjectBuddy, a LinkedIn-like platform for college students, using ReactJS ,Django ,
+PostgreSQL , and SendBird API .
+•Collaborated with a team to ideate, design, and deploy ProjectBuddy, focusing on user needs and seamless
+communication.
+•Implemented a flexible post creation feature, enabling users to find teammates for hackathons or projects based on
+complementary skills.
+Visit my Portfolio to view all my projects.Achievements
+•Winner in Intercollegiate Hackathon organized by TIAA.
+•Runners-up in the Inspirion 2.0 Hackathon organized by CSI COEP Tech.
+•Second Runners-up in the HackFormers Hackathon organized by Terna Engineering College.
+•Runners-up in the Webster Hackathon organized by NMIMS.
+•Second Runners-up in the Global Ideathon organized by the IEEE section of PICT.
+•Winner in the Frontend development competition organized by the IEEE section of PICT.
+Skills
+Computer languages : HTML/CSS, JavaScript, Java, C++
+Developer Tools : VS Code, Eclipse
+Technologies/Frameworks : React JS, Next JS, Node JS, Express JS, MongoDB, GitHub
+Designing Tools : Photoshop, Illustrator, Figma, Adobe XD, Canva, InDesign, Premiere Pro
+Soft Skills : Leadership, Team Work, Team Management, Problem Solving
+Languages Known : English (SRW), Hindi (SRW), Marathi (SRW)
+Positions of Responsibility and Extra Curricular
+Training & Placement Cell Head July 2023 – Present
+Pune Institute of Computer Technology
+Technical Secretary November 2022 – Present
+PICT CSI Student Branch (PCSB) PICT
+•Managed events such as XENIAVERSE and XENIA.
+•Curated coding questions for Codestrike and Ninja Coding and contributed to the official website.
+•Led a team of junior members to develop a registration portal for the club.
+Overall Coordinator April 2023
+Addiction’23 PICT
+•Addiction is the annual cultural festival organized by the Pune Institute of Computer Technology
+Design Head August 2021 – August 2022
+PICT Newsletter and Brochure (PNAB) PICT
+•As a design head, I mentored a group of students in creating various social media posts.
+Design Head May 2021 – August 2022
+PICT Official DEBATE Society (DEBSOC) PICT
+•Was an essential part of Design and Social Media Teams.
+•Organized and managed Debate Competition ’PARICHARCHA’.

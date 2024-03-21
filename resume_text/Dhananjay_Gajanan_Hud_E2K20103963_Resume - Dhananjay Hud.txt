@@ -1,0 +1,40 @@
+DHANANJAY HUD
++91-9075122036 ⋄Pune,Maharashtra
+dhananjayhud29@gmail.com ⋄https://www.linkedin.com/in/dhananjay-hud ⋄
+EDUCATION
+Bachelor of Engineering in Electronics and Telecommunication 2020 - 2024
+Pune Institute of Computer Technology, Savitribai Phule Pune University
+12th Board ,Maharashtra State Board 2019-2020
+Hislop College, Nagpur
+SKILLS
+Languages C++, Java, Python, MySQL, HTML, CSS
+Developers Tools DevC++, VSCode, Eclipse, Jupiter Notebook, Github
+Soft Skills Fluent in English,Hindi,Marathi
+RELEVANT COURSEWORK
+1.Data Structures
+2.Database Management
+3.Fundamentals of JAVA
+4.Object Oriented Programming
+5.Operating Systems
+6.Power Devices and Circuits
+PROJECTS
+Electricity Billing System.
+•The purpose of the project is to build an windows application program to managed the amount of units consumed
+by the customers and generating the electricity bill according to the type of customer, individual or commercial.
+•Used Java Swing to create a GUI and MySQL for data management that displays the details of the customers,
+units consumed by them and bill history etc.
+•Git Repo : https://github.com/Clifton29/Electricitybillsystem
+Mobile Signal Jammer
+•The project is use to block mobile signals in real time.
+•Used Proteus and Multisim software to design project layout.
+•Used electronics components like mosfet,timer ic ,capacitors ,registers and used oscilloscope to verify output.
+INTRESTS/ACTIVITIES
+•Competitive Programming
+1. Codechef : Two star on codechef
+2. Codeforces 3.leetcode
+•Exploring Machine Learning
+•Reading Novels
+1.Clifton Chronicals
+2.Mossad
+3.Alchemist
+•Geopolitics,Geography,Politics

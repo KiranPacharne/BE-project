@@ -1,0 +1,95 @@
+           ASHUTOSH ROKADE  
+Data Enthusiast | Interested in Algorithms and Data Structures   
+ ashutoshrokade111@ gmail.com  | +91-9673400650 | LinkedIn:// Ashutosh Rokade   
+ 
+EDUCATION  
+PUNE INSTITUTE OF  
+COMPUTER TECHNOLOGY  
+B.E. IN COMPUTER ENGINEERING  
+ Present -2020 | Pune, India  
+Cum. GPA:  9.12 /10  
+SHRI BHAIRAVNATH, HIGHER SECONDARY,  
+JR COLLEGE  
+2018 -2020 | Pune, India  
+Class XII Percentage:  82.31 %  
+SHRI SWAMI SAMARTH SCHOOL  
+Passed - 2018 | Pune, India  
+Class X Percentage:  92%  
+ 
+LINKS  
+Codeforces ://ashutosh_304   
+Codechef :// random_2045  
+Leetcode :// ashutoshrokade999  
+LinkedIn ://ashutosh -rokade  
+Github ://Ashutosh309   
+SKILLS  
+PROGRAMMING : 
+        • Problem Solving • DSA  
+LANGUAGES :  
+       • C    • C++    • Python  
+DATABASE :    
+       • MySQL  
+FAMILIAR :  
+     • NumPy      • Pandas    •Matplotlib  
+     • Seaborn      • PowerBI    
+     • GitHub and Git  
+     • HTML and CSS  
+Technical Skills:  
+    • Data Analysis  
+    • Data Visualization  
+ 
+ACHIEVEMENT  
+• 3 Star at CodeChef.  
+• Solved more than 800++ Problems on different  
+coding platforms.  
+• Secured Global rank 2 in CodeChef Long Challenge.  
+• Participated in Visualization Hackathon   
+   organized by VIIT  
+•Runner -up at SYTYCS Debugging Competition  
+ held by Bharti Vidyapeeth . PROJECTS  
+MOM (Minutes of Meeting)  Using NLP MODEL  
+•Using Concept of NLP – Sentence tokenization, filtering 
+stop words, creating word frequency table, sentence 
+scoring.  
+    •Curating a sentence score to filter out most important  
+      sentences for the summary.  
+ 
+ SORTING VISUALIZER   
+•Designed and developed a Web Application to visualize 
+working of various Sorting Algorithms  
+•The Applications allows the user to select the Sorting 
+Algorithm, Speed of Visualization, and Input Array  
+•Tech -Stack - HTML, CSS, JavaScript.  
+ 
+PRODUCT SALES DATA ANALYSIS     
+    •Created Dashboard for Product Sales Analysis using  
+       PowerBI  
+    •Analysing Tables & Relations.  
+    •Data Cleaning – Power Query Editor: - DAX  
+    •Developing Model  
+    •Creating Dashboard  
+ACTIVITY  
+ PICT ACM STUDENT CHAPTER   
+College Club ( Co-Curricular)  
+• Organized All India ACM Summit 2023 held at IISER,  
+Pune.  
+• Also Volunteered for PULZION 22Annual Tech Event of 
+ACM (PASC) Club . 
+ 
+PICT DEBATE SOCIETY   
+Spearheaded diverse activities as Internal Affairs  
+Committee member in the Debate Society  
+Club.  
+• Internal Affair Committee  (IAC) of PICT DEBSOC Club.  
+• Volunteered for PARICHARCHA 22 Annual Event of PICT 
+DEBSOC Club.  
+ 
+CERTIFICATES  
+• IBM Data Science Professional   
+   IBM Skills Network  
+• Viz-A-Thon  (Data Visualization)  Participation   
+    Vishwakarma Institute of Information Technology  
+• Basics Formula and Functions in Microsoft Excel   
+    Coursera Project Network  
+• Object Oriented Programming C++  
+    Pune Institute Of Computer Technology  

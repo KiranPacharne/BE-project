@@ -1,0 +1,36 @@
+SANIYAM ANGRAL
+7006579914 | sainyamangral18@gmail.com  | Linkedin
+EDUCATION
+Bachelor of Engineering , Pune Institute of computer technology          2020 -2024  
+Computer Engineering                                                                                                                                           CGPA- 8.6
+         
+HSC, K V no.2 Jammu cantt.                                                                                                                                2019-2020
+ Science                                                                                                                                                              Percentage-84.2
+SSC, K V no.2 Jammu cantt.                                                                                                                                  2017-2018
+                                                                                                                                                                              Percentage-83   
+WORK EXPERIENCE
+Student Volunteer , PICT Newsletter And Broucher
+Working as Vice Editor.                                                                                                                                       2021-2022
+My job was to supervise and final the work done.
+Subject matter expert  Intern at YoFoxy (remote)                                                                                    07-08/2022
+Worked as Content writer, problem solver
+and providing calculations
+PROJECTS
+TODO_CLI | C++
+It is a command-line interface developed in C++ that allows the user to track their tasks in the command-line
+interface. It allows users to add, list, delete, and mark them done various tasks. 8/2021 – 11/2021
+Portfolio website | HTML,CSS,JS,REACT
+It is a basic portfolio website constructed with react js which showcases my skills, projects and some basic
+details. It is frontend based website which is very responsive and elegant in design.           06/2023-08/2023
+Hospital Management System website | HTML,CSS,JS
+It is a project website which provides a robust and user friendly appointment scheduling module that optimizes
+resources utilizations, reduces waiting times, minimizes appointments conflicts, enhances patient satisfaction
+and improves overall operational efficiency in healthcare facilities. 03/2023- 05/2023 
+ACHIEVEMENTS
+Solved 240+ DSA problems on leetcode  and gfg 
+Represented school cricket team at state level
+SKILLS 
+Programming languages - C++, java, python
+Web development/ Technology – HTML, CSS, JavaScript, ReactJs
+CS core – OOPS, CNS, DBMS( mysql), OS
+                                                                                                 

@@ -1,0 +1,47 @@
+                              
+   Name:  PRANITA  GAVALI  
+     Contact:  8668470672                                                               Email:  pranitagavali01@gmail.com  
+LinkedIn:  https:// www.linkedIn.com/in/pranita -gavali -451a411b2  
+Github:     https://github.com/pranitagavali  
+ 
+ 
+EDUCATION:  
+SCTR’s Pune Institute of Computer Technology  (PICT), Pune  
+(Bachelor  of Engineering  in Electronics  and Telecommunication)   
+ 
+GPA:  9.07 
+Arihant  College, Pune  70.62%  
+ 
+St Helena’s  High  School,  Pune  90.16%  
+ 
+EXPERIENCE:  
+       
+    Shivankit TechSolutions                                                                                                           Feb-March  
+    (FrontEnd Web Developer)  
+• Built frontend part for the website from scratch.  
+    Tech Stack used - ReactJs   
+ 
+ 
+SKILLS:  
+ 
+ Programming  Languages : Cpp , Java,  Html,  CSS,  Javascript  ,React Js , Python  
+ 
+ACHIEVEMENTS  AND  AWARDS  
+ 
+•  highest rating on codechef .                                                                                       [Codechef ]  
+ 
+PROJECTS  
+• Chat Application                                                                                                                                       
+Tech stack used : CSS,  ReactJs, Firebase                                                                                          
+Implemented real -time messaging functionality using Firebase's Firestore database.  Integrated 
+Firebase Authentication for secure user login and registration.  
+• Travelogy  website                     
+Tech stack used :  Html ,CSS,  Javascript                                                                                                              
+Implemented features such as destination search along with the information about that 
+destination,Booking form.Implemented re sponsive and visually appealing user 
+interface  using  CSS.  
+ 
+ 
+    HOBBIES  
+ 
+        Listening music, Playing Badminto n 

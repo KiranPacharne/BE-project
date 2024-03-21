@@ -1,0 +1,56 @@
+Sanika Joshi
+♂phone9373614174 /envel⌢pesanikamj@gmail.com /linkedinsanika-joshi-808683218 /githubSanikajosh
+Objective
+Results-driven computer engineer with a strong academic background and practical experience in software development. I can
+leverage my technical skills to contribute to innovative projects and solutions. Dedicated to continuous learning and staying
+updated with emerging technologies to drive advancements in the field of computer engineering.
+Education
+Pune Institute of Computer Technology, Pune June 2020 – June 2024
+Bachelor of Engineering, Information Technology CGPA: 8.54
+Matoshree Junior College, Nashik June 2018 – June 2020
+12th Grade Percentage: 85.23
+Ashoka Universal School, Nashik June 2008 – June 2018
+10th Grade Percentage: 91
+Technical Skills
+Languages/Database : C++, Python(Pandas, Numpy, Seaborn, Matplotlib), SQL
+Web Technologies : HTML, CSS, JavaScript
+Software & Tools : Tableau, Salesforce, Microsoft Azure
+Experience
+AlgoAnalytics August 2023 – Present
+Cloud Computing Intern Pune
+•Will be working on their FABRIC project
+IIT Hyderabad e-cell February 2023 – March 2023
+Cloud Computing Intern Online
+•Collaborated with a team to gain hands-on experience in Microsoft Azure services.
+•Gained a comprehensive understanding of fundamental Azure services, including virtual machines, storage accounts,
+networking, and identity management.
+•Acquired proficiency in navigating the Azure portal and using its interface to monitor and manage cloud resources
+effectively.
+Exposys Data Labs December 2021– January 2022
+Technical Content Writing Intern Online
+•Created and maintained user-friendly technical documentation for a variety of audiences.
+•Translated complex technical concepts into easily comprehensible language, ensuring clarity and accuracy.
+•Gathered user feedback and incorporated it into documentation updates, improving user experience.
+Projects
+Expense Tracker |MongoDB, Express, ReactJs, NodeJs
+•Developed a full-stack web application using the MERN to manage personal expenses and track financial transactions..
+•The user can add or delete the expense item and it’s cost, shown along day transaction.
+•Weekly report is displayed, graphically.
+Wine Quality Analysis |Numpy, Pandas, Seaborn, Matplotlib
+•Utilized machine learning techniques to perform a comprehensive analysis of wine quality, and preprocessed and cleaned
+the dataset by handling missing values, scaling features, and encoding categorical variables.
+•Implemented a feature selection process to identify the most influential attributes affecting the wine quality predictions.
+•Achieved a regression model with an R-squared value of 0.89, indicating a strong correlation between predicted and
+actual wine quality scores.
+Positions of Responsibility
+•Head of Delegate Affairs, PICT MUN.
+•Student Member, PICT ACM Student Chapter
+•Student Member, PICT CSI Student Chapter
+Certifications
+Certificate 1 : AWS Getting Started with Cloud Security - (AWS)
+Certificate 2 : 50 hours Full Stack Development : Demystified - (PICT)
+Certificate 3 : AI ML Big Data 32 hours Seminar - (PICT)
+Certificate 4 : AWS Compute Services Overview - (AWS)
+Extra-Curricular
+•Enjoy Singing, Madhyama Purna (5 levels)
+•Enjoy participating in group discussions, debates, extempore and MUNs

@@ -1,0 +1,45 @@
+Ankita More
+♂phone+91-7756022387 /githubGitHub
+/envel⌢pemoreankita2404@email.com GFG
+/linkedinLinkedIn Codechef
+Education
+•Pune Institute Of Computer Technology,Pune 2023-24
+BE-Computer Engineering CGPA: 9.23
+•Arihant College of Science,Pune 2019
+Maharashtra State Board-HSC Percentage: 73.38
+•Maharaja Sayajirao Vidyalaya,Satara 2017
+Maharashtra State Board-SSC Percentage: 98.60
+Experience
+•Barclays June-July’23
+BA3 Summer Intern Pune
+–Automation of JIL files in different software development enviornments using python programming language.
+–Worked on SQL formatting plugin required to reduce manual work of formatting SQL queries.
+Personal Projects
+•E-Art Gallery April’23
+Web application for E-Art Gallery
+–Tools & technologies used:VSCode,HTML,CSS,ReactJS,ExpressJS,NodeJS,MongoDB
+–A platform for users to view and showcase their art.
+–Website which can efficiently provide a way to small scale artists, to provide their piece of art to the world.
+–User can view,add,delete,update its own art work and viewer can give only review to that arts.
+•Hostel Management System October’22
+Web application for Hotel management system
+–Tools & technologies used: HTML,CSS,Javascript,PHP,MySQL
+–Web application for computerization of the current procedure of allocating hostel rooms.
+–Students can fill the registration form & can book the room if there is availability of the rooms in that particular
+hotel.
+–SQL database is used to segregate and manage the huge data of students
+Technical Skills and Interests
+Languages : C++,Python,HTML,CSS,Javascript(basics)
+Developer Tools : Git,Github
+Databases : MySQL,MongoDB(basics)
+Coursework : DSA,OOP,DBMS,OS
+Soft Skills : Problem Solving,Teamwork,Presence of Mind
+Positions of Responsibility
+•PICT IEEE STUDENT BRANCH(PISB) 2021-Present
+–Worked as a frontend developer for annual event CREDENZ’22
+–Volunteer for CREDENZ’23
+Achievements
+•2 Star on Codechef
+•Gold badge in Problem Solving on HackerRank.
+•99.45 percentile in MHTCET with rank of 720.
+•Developed problem solving skills and critical thinking by participating in national and state level competitions.

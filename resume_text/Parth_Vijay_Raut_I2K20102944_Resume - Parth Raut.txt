@@ -1,0 +1,41 @@
+PARTH RAUT
++918830445921 ⋄Pune, Maharashtra
+parthraut05@gmail.com ⋄LinkedIn ⋄GitHub
+ABOUT
+I am a fourth-year undergraduate student at Pune Institute of Computer Technology, pursuing B.E in Information
+Technology and honors in Data Science. I have completed several certifications in Machine Learning and Data Science.
+I possess a keen interest in both fields and strive to deepen my knowledge and expertise in them.
+EDUCATION
+B.E. in Information Technology , Pune Institute of Computer Technology Pune, 2020 - 2024
+CGPA (Upto 6 semesters): 9.42
+Honors: Data Science.
+Class 12th HSC , Fergusson College Pune, 2018 - 2020
+Percentage: 85.6%
+Class 10th SSC , Podar International School Chakan, 2010 - 2018
+Percentage: 93.8%
+SKILLS AND INTERESTS
+Technical Skills Python, Java, NodeJS, C++, HTML/CSS, MySQL,
+Machine Learning Regression Techniques, Deep Learning, Sequence Models
+Frameworks FastAPI, Flask, Streamlit
+Soft Skills Problem Solving, Teamwork, Communication, Leadership
+INTERNSHIP EXPERIENCE
+Artificial Intelligence Intern (Certificate) Oct 2022 - Dec 2022
+IoTIoT Remote Work
+•Deployed Computer vision applications on Edge/BrainyPi including object detection, pose estimation, style
+transfer, super resolution and image segmentation.
+•Created an object detection API using FastAPI.
+•Tensorflow custom Object Detector and transfer learning using caffe framework.
+PROJECTS
+YOLOV3 from scratch. Created you only look once(yolo) detector using pytorch, built up all the layers including
+shortcut and route layers. The detector made 3 predictions for 3 different grids (total 9 anchors). Objectness score
+thresholding, IOU, input and output pipelines and the forward pass were constructed from scratch using only the
+official yolo config file. (Link)
+Custom Object Detection API. Custom Object Detector built using yolov5 and FastAPI. Dataset created and
+annotated using robloflow. (Link)
+Disease Prediction using Symptoms Web project built using NodeJS, Express and MongoDB which works as a
+symptom checker. The project was upgraded to include Machine learning algorithms for making a prediction. (Link)
+ACHIEVEMENTS AND CO-CURRICULARS
+•Coursera - Machine Learning by Stanford University.
+•Coursera - Deep Learning specialization by deeplearning.ai. (Link)
+•Coursera - Data Analysis by IBM. (Link)
+•Solved 200+ coding problems on coding platforms including Codeforces and Leetcode.

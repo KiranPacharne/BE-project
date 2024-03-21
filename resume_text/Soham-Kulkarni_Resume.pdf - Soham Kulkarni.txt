@@ -1,0 +1,58 @@
+SOHAM KULKARNI
+EDUCATION+91 77219 20812
+Pune, Maharashtrasohamkulkarni0706@gmail.comA Data Vault for Storing Sensitive Aadhar Information using the
+concept of Chaining of Certificates, to ensure Trust management,
+on top of Blockchain to create a Certificate Chain that is
+immutable.
+Also implemented Self Sovereign Identity to fulfill our Zero Trust
+aspirations.SSI is an approach to digital identity
+Worked on Solidity to test and develop a Smart Contract
+Developed an ability to present an idea in a group.Aadhaar Data Vault  (SIH'22)SOFTWARE DEVELOPER | SMART INDIA HACKATHON 2022 WINNER  | UNDERGRADUATE STUDENT 
+I give credence to defining “why” before “how” and “what”. I strongly believe in living a purposeful life and making a
+positive impact on society through my profession. As an engineer, I enjoy solving computer science problems and
+have a strong affinity towards nicely designed products that echo minimalism and authenticity. 
+CONTACT
+Soku07Soham Kulkarni
+B.E INFORMATION TECHNOLOGY
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+2020 - 24
+GGPA 9.21
+HIGH SCHOOL EDUCATION
+FERGUSSON JR. COLLEGE
+2018 - 20
+%TAGE 84
+CET %TILE 98.9
+SECONDARY EDUCATION
+DECCAN EDUCATION
+SOCIETY
+2018
+%TAGE 95
+SKILLS
+Programming Language :  C++, Sql
+App Development : Flutter
+Blockchain Contract : Solidity
+Curious to understand and implement
+concepts of DSA.
+Deliver presentations and conduct
+sessions on my favorite topicsPROJECTS
+An application created for college students to identify their
+collegemates residing in the same locality.
+Worked on Flutter to create a consistent interface from scratch.
+Implemented a secure verification of the users to build trust for the
+application.Merido - A Carpooling application A Model which shards data into encrypted chunks, metadata thus
+generated is stored on the blockchain.
+Studied the application of IPFS.
+Worked on Python to demonstrate the prototype of the model.Cloud Data Resiliency Model 
+(Veritas UConnect Hackathon '23)
+ACHIEVEMENTS
+Smart India Hackathon Winner 2022
+Veritas UConnect Hackathon Finalist
+In top 1 percentile of MHTCET 2020 Exam
+Completed Level 1 in the Presentation Mastery pathway at
+Toastmasters International
+ACTIVITIES/INTERESTS
+General Secretary at PICT DEBATE Society
+Volunteer at Toastmasters Club of Pune
+Avid Reader with a keen interest in reading biographies and
+business case studies. 

@@ -1,0 +1,88 @@
+Dhiraj Thorat
++918552041489 dpthorat85@gmail.com
+Education
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+Electronics and
+TeleCommunication Engg.
+July2020‑present Katraj,Pune
+•CumGPA:9.298
+HUTATMA RAJGURU
+MAHAVIDYALAYA
+High School Cert ificate
+July2018‑Jun2020 Khed,Pune
+•Courses: PCMB
+•Percentage: 87.23
+Links
+Githubdhirajpt1234
+CodeForces dhirajpt1234
+Codechef dhirajpt123
+Leetcode dhirajpt1234
+Geeksforgeeks DhirajThorat
+LinkedInDhirajThorat
+Coursework
+DataStructuresandalgorithms
+ObjectOrientedProgramming
+DatabaseManagementSystems
+Micro‑Controllers
+DataAnalytic
+Skills
+LANGUAGES
+•C/C++•Python•Java•SQL
+FRAMEWORKS
+•StandardTemplateLibrary(STL)•
+PythonFlask•Bootstrap•Tailwind
+CSS•ReactJs
+TOOLS
+•Git•VS‑Code•Arduino•EclipseIDE
+Interests
+•ReadingNovelsandpersonality
+developmentbooks.
+•ProblemSolving
+•CyclingExperience
+PROBLEM SETTER INTERN
+I-Mocha
+Sep2022–present Pune,Maharashtra
+•SettingandcuratingproblemsbasedonconceptsofDataStructures
+andAlgorithms(DSA).
+•Theproblemsareusedincodingroundsaswellastechnical
+interviewsforcandidateassessment.
+RESEARCH INTERN
+PIC T , Pune
+Feb2023‑May2023 Pune,Maharashtra
+•DevelopedTexttoImagegenerationmodel.
+•Technologiesused: StableDiffusionandKarloPipelinealongwith
+Transformers,Diffusers,Gradio.
+Projects
+MATH-WIZ 
+April2022–Present PICT,Pune
+•Mathwiz‑MathVirtualLabWebsite.
+•Technologyused: PythonflaskandReactJS.
+•Aimedatinteractivelearningofmathematicsthroughdata
+visualizationtechniques
+AUTOMATIC FOOD AND WATER DISPENSER FOR PET
+ANIMALS
+Feb2023–April2023 PICT,Pune
+•AnIOTbasedProjectforanimalfoodhabitbuilding.
+•DevelopedacustomizedMicro‑Controllerboard(ATMega328p).
+•Theprojectaimsatprovidingfoodandwatertopetanimals
+eliminatingthehumanefforts.
+XENIA’22 WEBSITE 
+PIC T C SI Student Branch
+July2022–Aug2022 PICT,Pune
+•Xenia’22isaflagshipeventofPCSB.
+•Technologyused: React‑jsandrelatedLibraries.
+•IthandledtheregistrationandscheduleofXENIA’22.
+Achievements
+•Solvedmorethan1200problems.
+•3staronCodeChef‑Highestrating1744
+•PupilonCodeforces‑Highestrating1324
+•Leetcodehighestrating: 1797
+•Globalrankof163inStarters54.
+•SecuredfirstrankinrecodeitinXENIA’21.
+•Completed GoldmanSachsSDEvirtualexperienceprogram
+Activities
+TREASURER
+PIC T C SI Student Branch
+COMPETITIVE PROGRAMMING TEAM HEAD
+Google Developers Student Club

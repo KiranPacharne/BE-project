@@ -1,0 +1,70 @@
+Kapil Vyawahare
+k apil. vy a w a hare7262@gmail.c om | +91 72629 78491
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+B.E in Computer Engineering
+2020-Presen t | Pune, India
+cum.GPA 9.42/10
+CAMBRIDGE JUNIOR COLLEGE
+MAHAR A SHTR A S T A TE BO ARD
+2018- 2019| Nanded, India
+class XIIpercentage: 82.15%
+CAMBRIDGE HIGH SCHOOL
+MAHAR A SHTR A S T A TE BO ARD
+2016- 201 7| Nanded, India
+class Xpercentage: 96.40%
+SKILLS
+PROGRAMMING
+•C++
+WEB DEVELOPMENT
+•Html
+•CSS
+•Django
+•PHP
+CORE SUBJECT
+•Object Oriented Programming
+•Data Structures andAlgorithms
+•Database Management System
+•Operating System
+DATABASE
+•MySQL
+LINKS
+Codechef:// kapil_7262
+Codeforces:// kapil.vyawahare7262
+Hackerrank:// kapil_vyawahare1
+Leetcode:// Kapil_Vyawahare
+Linkedin:// Kapil VyawaharePROJECTS
+ORHANCARE: ORPHANAGE MANAGEMENT SYSTEM
+•Built awebsite thatcontains comprehensive details regarding the
+children andvarious programs offered bytheorganization.
+•Users canregister orlogin inwebsite andcansupport children
+through donations.
+•Administrator canaddandmanage various programs sothatusers
+canaccess information about it.
+PASSVAULT: PASSWORD MANAGER
+•Developed aweb-based password manager tostore andmanage
+usernames andpasswords ofdifferent websites.
+•Users canregister orlogin inwebsite andcanstore their details se-
+curely inauser-friendly interface.
+ACHIEVEMENTS
+•3*Coder onCodechef.
+•5*Badges onHackerrank (C++).
+•Secured Global Rank 411 among 5000+ participants inthe
+Codechef September Lunchtime Division 3.
+•Solved more than500problems ondifferent coding platforms.
+•Completed theCampus Ambassador Internship Program with
+NEO Foundation.
+ACTIVITIES
+•Completed theCertification course onDSAandOOP withC++,
+organized byDepartment ofComputer Engineering.
+•Completed Python SIG,organised byPICT CSIStudent Branch.
+•Conducted SUDOCODE ,acollege level competition onHacker-
+rank.
+•Participated inCampus-to-Corporate andNinja Coding acollege
+levelcompetition conducted inXenia’22.
+•Member ofPICT CSIStudent Branch.
+HOBBIES
+•Problem solving
+•Traveling andExploring
+•Listening musics

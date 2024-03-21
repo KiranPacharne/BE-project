@@ -1,0 +1,104 @@
+Priti Bhise 
+Student 
+pritibhise9595@gmail.com 
++918080896662 
+Malthan,Karjat, Dist-Ahmedhnagar, India 
+linkedin.com/in/priti-bhise-42b28924a 
+quora.com/proﬁle/Priti-Bhise-5 
+github.com/PritiBhise 
+EDUCATION 
+Collage 
+Pune Institute Of Computer Technology,Pune 
+07/2020 - 06/2024
+, 
+ 
+Pune 
+9 CGPA 
+12th 
+Mahatma Gandhi Jr.College Karjat
+Ahmednagar 
+07/2019 - 07/2020
+, 
+ 
+Karjat 
+76.46% 
+10th 
+New English School Malthan, Karjat 
+07/2017 - 07/2018
+, 
+ 
+Malthan 
+91% 
+Joint Entrance Examination 
+Ahmednagar 
+95.77percentile 
+PROJECTS 
+Food Delivery Website | HTML, CSS, JS,
+Bootstrap5,MongoDB, Express.js, React, Node.js 
+Developed and designed a user-friendly food delivery website with
+a dynamic interface. 
+Implemented various tabs, including "Sign In,” "Login," "Home,"
+"Add to Cart," "My Order," and ensuring seamless navigation and
+enhanced user experience. 
+Design and developed a robot to perform the system
+accurately measures dimensions of detected obstacles.
+Microcontroller, Embedded C, Ultrasonic Sensor 
+The project aimed to improve the safety and reliability of
+autonomous vehicles and robotics. 
+Robots utilized sensor integration and real-time data analysis to
+ensure accurate obstacle recognition. Successfully contributed to a
+project that improves navigation and eﬃciency in autonomous
+systems. 
+Sentimental Analysis of Twitter Data | Python, Machine
+Learning, Data Visualization ,Streamlite 
+Created a twitter sentiment analysis model which is the automated
+process of identifying and classifying sentiments of Tweets into
+Positive , negative and neutral polarity. 
+Collected and preprocessed Twitter data using the Twitter API,
+ensuring data quality and integrity for accurate analysis. 
+SKILLS 
+C++ 
+Java 
+Object Oriented Programming 
+Data Structures and Algorithms 
+DBMS 
+MYSQL 
+HTML 
+CSS 
+Operating System(Basic) 
+ACHIEVEMENTS 
+Rated 5
+⋆
+ at Hakerrank in C++ 
+Solved More than 500 problems on Leetcode 
+In top 4 percentile in JEE held by NTA 
+Achieved Rank 1 in 10th 
+PROFILES 
+leetcode 
+95_Priti 
+hackerrank 
+@ 22208_2021 
+geeksforgeeks 
+pritibhi1cuz 
+codechef 
+priti_26 
+CERTIFICATES 
+C++ Programming Language 
+by: Regal Computers 
+Data Structures and Algorithms 
+by: Regal Computers 
+LANGUAGES 
+English 
+Full Professional Proﬁciency 
+Hindi 
+Full Professional Proﬁciency 
+Marathi 
+Full Professional Proﬁciency 
+INTERESTS 
+CPP 
+Listening to music 
+Cooking 
+Electronics and Telecommunication Engineering 
+HSC 
+SSC 
+JEE 

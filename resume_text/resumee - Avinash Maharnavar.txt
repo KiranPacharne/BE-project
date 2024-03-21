@@ -1,0 +1,84 @@
+Avinash Maharnavar
+Pune, Mahar ash tr a, India.
+amaharna v ar21@gmail.c om | 801041 7 4 73 | Linkedin
+EDUCATION
+PUNE INSTITUTE OF COMPUTER
+TECHNOLOGY
+Bachelor of Engineering in
+Information Technology
+2020- 2024
+CGP A: 8. 7
+Pune
+RESIDENTIAL JUNIOR COLLEGE
+HSC Class- 12th
+2018- 2020
+Percen tage: 86
+Ahmednagar
+EXPERIENCE
+ALLER TECHNOLOGIES
+Web Developer Intern
+Feb . 2023 - Mar . 2023
+CODING PROFILES
+•Leetcode :Avi_8010 î
+•Codeforces :Avi_8010 î
+•Codechef :Avi_8010 î
+•GeeksForGeeks :Avi_8010 î
+•Github :Avi8010 î
+COURSEWORK
+•Data Structures.
+•Database Management Systems.
+•Operating Systems.
+•Object Oriented Programming.
+SKILLS
+PROGRAMMING LANGAUGES
+•C•C++•Python •Java
+WEB DEVELOPMENT
+•HTML •CSS•ReactJs •ExpressJs
+•NodeJs
+DATABASE MANAGEMENT
+•SQL•MogoDB
+VERSION CONTROL
+•Git
+PROBLEM SOLVINGACHIEVEMENTS
+•Solved around 1000+ DSA problems atLeetcode, Codeforces, Geeks-
+forGeeks, Codechef, etc.
+•Secured Global Rank 1831 among 25000+ participants intheEducational
+Codeforces Round 150.
+•Rated 3StaratCodechef (max. rating 1605).
+•Secured Global Rank 160among 3500+ participants inCodechef Starters
+99.
+PROJECTS
+PROPTSY | MERN Stack î
+J an. 2023 – Mar . 2023
+•Proptsy isanonline property management system. Itprovides easy
+solution tobuy,sellorrentproperties.
+•Storage system optimizes withthebase64 encoding. Images converted to
+base64 string andtheneffectively stored inMongoDB.
+•Itisintegrated withMapMyIndia andRazorPay APIs. Supports JWT
+authentication.
+•Technologies used: ReactJs, NodeJs, ExpressJs, MongoDB, Material-UI.
+PLACEMENT-PREDICTOR | Machine Learning î |
+Oct. 2022 – No v . 2022
+•Thiswebsite provides users withanestimation oftheir chances of
+securing on-campus placements, considering several parameters suchas
+CGPA, backlogs, internships andmore.
+•Byleveraging theDecision TreeClassification technique, themodel has
+been trained toanalyze theinput parameters andmake predictions
+regarding placement outcome.
+•Themachine learning model achieved 86%accuracy.
+•Technology used: HTML, CSS,Python, Flask framework, Jupyter
+notebook.
+ELEVAT-IQ | OOP î
+Mar . 2023 – Ma y . 2023
+•Elevator management system which dynamically changes thepositions of
+elevator andstrategically schedules theelevator according torequests.
+•Attempt toreduce thewaiting timeandenergy consumption bydynamic
+scheduling ofelevator..
+•Technology used :Java, Object oriented programming.
+MEMORY-MANAGER î
+J ul. 2022- Sept. 2022
+•Thisproject isanimplementation ofMemory allocation scheme toaddress
+theproblem ofmemory fragmentation.
+•Successfully demonstrates thememory usage, statistics.
+•Technology used: CProgramming language, Data Structures.
+1

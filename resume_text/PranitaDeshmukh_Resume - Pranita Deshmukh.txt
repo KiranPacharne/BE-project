@@ -1,0 +1,62 @@
+Dynamic Weather Website using Real-Time API
+Used Node.js, Html, JavaScript
+A system to detect pilot's drowsiness in an
+aircraft.
+Using Machine Learning algorithms and aiming to
+implement OpenCV to detect eyes within a
+pictureWEATHER APP : 
+PILOT DROWSINESS DETECTION SYSTEM :  9158909067    |        dpranita9158@gmail.com   |         Pranita-11                                                                PRANITA DESHMUKH
+E D U C A T I O N
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+BACHELOR IN COMPUTER
+ENGINEERING
+2020-2024 | PUNE, INDIA
+CURRENT CGPA (AGGREGATE): 9.25
+SAROSH JUNIOR COLLEGE 
+AURANGABAD
+HIGHER SECONDARY EDUCATION
+2018-2020 | AURANGABAD, INDIA
+HSC : 78.3%   | CET : 99.38 Percentile
+MGM CLOVER DALE SCHOOL
+PRIMARY EDUCATION
+2018 BATCH | AURANGABAD, INDIA
+SSC : 88.6% 
+S K I L L S
+C++
+JAVA (Learning)
+Node.js & Express.js
+(Learning)
+Angular
+MySqlPROGRAMMING LANGUAGES
+DEVELOPMENT
+DATABASESA B O U T   M Y S E L F
+P R O J E C T S
+E X T R A  C U R R I C U L U M
+Contributed in website team of PASC Pulzion' 22.
+Volunteered for Organizing Opening and Closing
+ceremony of Pulzion'22 attended by 100+people
+Volunteered for two Non-tech events in Radiance'21PICT ACM STUDENT CHAPTER
+          L I N K S
+LinkedIn
+HackerRank
+CodeChef
+GitHubA  Bachelor's student who is enhancing her skills and
+knowledge to seek an opportunity to add value to
+organization as well as the  industry through use of
+new age technologies to ultimately solve complex
+problems faced by the world today.
+W O R K   E X P E R I E N C E
+WEB DEVELOPER INTERN      RESURRECTED BIRD
+Website : Worked on the website FrontEnd
+Application-Payout:
+                   Created FrontEnd with Backend to accept 
+                   payment using Stripe Payment Processor
+                   [ Github ]
+A C H I E V E M E N T S
+Research Paper on "Pilot
+drowsiness detection system"
+accepted (Publication in
+progress).Working on Angular, Java and Design PatternsTECHNOLOGY SUMMER ANALYST INTERN
+(June 2023 - Present)MORGAN STANLEY
+(March 2022 - March 2023 )

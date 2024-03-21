@@ -1,0 +1,79 @@
+Pratham  Sunil  Agrawal  
+pratham05072002@gmail.com | 8483048845  | Pune,  MH | linkedin.com/in/pratham -agrawal -82a251215  
+ 
+ 
+EDUCATION  
+ 
+SPPU  University  Pune,  MH  
+Pune  Institute  of Computer  Technology  Expected  June  2024  
+• Bachelor  of Technology:  Information  Technology  
+• Current  CGPA: 9.33/10.00 
+Maharashtra State  Board of  Secondary and  Higher  Secondary  Education  Yavatmal,  MH  
+Smt.  Nankibai  Wadhwani  Kala  Maha  Vidyalaya  
+• Higher  Secondary  Certificate  Examination , 
+2020  
+• Percentage:  81.69%  
+CBSE  Board  Yavatmal,  MH  
+School  of Scholars  
+• SSC - Secondary  School  Certificate  Examination  / Matriculation  
+Examination  
+• Percentage:  92.2%  
+ 
+ 
+EXPERIENCE  
+ 
+Rajiv Gandhi  Science and Technology  Commission                                                                       Pune,  MH  
+Research  Intern        Feb – May 2023  
+• Working  on Emotional  Facial  Recognition  using  Sequential  model.  
+• Adding  sound  clips  to detect  emotions.  
+ 
+Novel  Vista  Learning  Solutions  Pvt Ltd Pune,  MH  
+Data  Analyst  Intern  April  – Aug  2022  
+• Developed  business  plans  and  strategies  to support  the business  analysis  team.  
+• Implemented business strategies  and  visualized it using  the Matplotlib Library  and SciPy.  
+• Conducted  research  and  compiled  data  about  customer  and  industry  trends.  
+Balaji  Enterprises  Yavatmal,  MH  
+Data  Entry  and  Analyst  Intern  April  – June  2021  
+• Analysed  using  Ms Excel  to gauge the sale  of product.  
+• Interacted  with  potential  customers  by communicating  and  answering  questions.  
+ 
+ 
+PROJECTS  
+Filter  Out  Card  Counters  in Casino  – C++,  Deep  Learning  Based  (Website)  Mar  2022– Current  
+• Model  contains  Object  and  Facial  Detection  to catch  card  counters  on Blackjack  casino  table  game.  
+• Developing  an appealing,  functional  webpage,  for front -end  we use HTML,  CSS and  JavaScript.  
+• Front -end  web  development  ensures  that  the website  is aesthetically  pleasing,  and  then  
+back -end  development  makes  website  fully  functional  by deploying  model  using  Flask.   
+Music  Recommendation  System  – Deep  Learning  Based  Aug  – Sept  2022  
+• Developed  an ML  model  to recommend  the songs  based  on the song  played.  
+• Model  takes  song  name  as it’s input  and  gives  recommended  songs  as output.  
+• Used Cosine similarity  for finding  out similar songs.  
+A Brain  Cancer  Detection  System  – Python  and  Deep  Learning Based  March  – April  2022  
+• Python  model  to detect  brain  tumor  in humans.  
+• Distinguished  it based  on type  of brain  tumor  like pituitary  tumor,  glioma  tumor  and  meningioma  
+tumor  to generate  reports.  
+Flower  Recognition – Machine  Learning  Based  March  – April  2022  
+• ML model  to recognize  the type  of flower  using  Convolutional  Neural  Network  (CNN).  
+• Model  takes  Image  as it’s input  and  gives  flower  name  as output.  
+ 
+ 
+SKILLS  
+ 
+Machine  and  Deep  Learning:  Computer  Vision,  OpenCV,  TensorFlow  Keras,  Tableau  
+Tools:  Microsoft  Office,  VS Code,  Jupyter  Notebook,  Google  Colab,  MySQL  
+Concepts : DBMS,  Data  Structure  & Algorithms,  Object -Oriented  Programming,  Operating  Systems  
+Language:  C, C++,  Python, SQL.  
+ 
+Certifications : Introduction  to Data  Science  - Python  For  Data  Science , 
+Data  Analysis  - Data  Analysis  with  Python , 
+Machine  Learning  - Machine  Learning  with  Python . 
+ 
+ 
+ ACHEIVEMENTS  
+ 
+ 
+ Winner at TIAA Hackathon  
+• Developed a Ration Distribution System in the form of website and app.  
+• Built the system from  organization end  to make available ration slots and customer end to book the ration 
+slot.  
+  

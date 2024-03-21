@@ -1,0 +1,37 @@
+Sudarshan Joshi  
+Katraj, Pune, Maharashtra  | +91 -9969218302  | sudarshanjoshi1@gmail.com  
+Relevant Coursework  
+-Data Structures and Algorithms  -Operating System  -Database Management  -Compute r Networks  
+- Cloud Computing    -OOP  
+Education  
+- Computer Engineering, PICT College, Pune University    2020 – 2024  
+- Honors Course in Data Science, Pune University     2022 - 2024  
+Courses Completed  
+- “Mathematics for Machine Learning”  specialization offered by Imperial College London  
+ A sequence of 3 courses on the prerequisite mathematics for applications in data science 
+and machine learning. Topics covered by this Specialization include linear algebra, Mathematically 
+Manipulating objects, Optimization Problems and Principal Component Analysis (PCA)  
+- “Accelerated Computer Science Fundamentals”  specialization offer ed by Illinois University  
+ Topics covered by this specialization include basic object -oriented programming, the 
+analysis of asymptotic algorithmic run times, and the implementation of basic data structures, as well as 
+algorithms for traversals, rebalancing  and shortest paths . 
+- “Certificate of Excellence” awarded  in C++ with Data Structures course by Coding Ninjas  
+Projects  
+-Heart Disease Prediction Model            
+ -Analyzed data of heart patients and trained ML model to predict the degree of heart disease.   
+ -Cross validation, Calibration curve, Hyperparameter tuning etc techniques are used.    
+ -Deployed project on cloud platform using flask framework.  
+-Employee Man agement System            
+ -A database management project for Employee Data.         
+ -Used Python and SQL for database connectivity         
+ -Libraries in Python like  tkinter, ttkthemes, pandas are used.  
+Technical Skills  
+- Languages – C++, Python, SQL  
+- HTML, CSS, JavaScript, PHP , Bootstrap  
+- Data Science and ML algorithms  
+- Platforms like VS Code, Jupyter Notebook, Eclipse  
+Other Activities and Skills  
+- Fluent in English, Hindi, Marathi  and Kannada  
+- Flute, Trekking, History, Chess, Poetry  
+- Organizing various social activities.   
+ 

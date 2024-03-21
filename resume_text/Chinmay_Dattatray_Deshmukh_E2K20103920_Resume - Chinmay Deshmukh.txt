@@ -1,0 +1,39 @@
+CHINMAY DESHMUKH
+⋄chinmay.deshmukh21@gmail.com ⋄linkedin-Chinmay ⋄+91-7391950119
+EDUCATION
+SCTR’s Pune Institute of Computer Technology Expected 2024
+BE in Electronics and Telecommunications; GPA: 8.86/10
+PVG’s Maharashtra Vidyalaya, Pune March 2020
+12th; Percentage: 76.92
+SKILLS
+C++, Javascript, React(novice), NodeJS(novice), ExpressJS(novice), MongoDB, SQL, Git,
+Computer Networks and Security
+EXPERIENCE
+SDE Intern JULY 2022 - SEP 2022
+VOIS Tech Marathon PUNE,MAHARASHTRA
+•Developed a user-friendly website to carry out Blockchain transactions
+•The project was qualified for the finals of the Tech Marathon as part of the top 40 teams across the nation
+PROJECTS
+HOME AUTOMATION. (ESP8266 MODULE,HTML,CSS)
+Created a Home Automation system by building a Smart Socket using the ESP8266 Wi-Fi module. The Smart Socket
+allows users to remotely control their electrical devices through a simple and intuitive web page.By integrating Wi-Fi
+connectivity, users can easily turn on and off the socket from anywhere, enhancing convenience and energy efficiency
+in home automation.
+YOUTUBE PLAYLIST LENGTH CALCULATOR (JAVASCRIPT, HTML, CSS, NODEJS, EXPRESSJS)
+YouTube Playlist Length Calculator utilizes the YouTube Data API to fetch details of each video within a playlist.
+It employs the axios library to make asynchronous API requests and the express module to set up a simple web server
+DEFI SYSTEM USING BLOCKCHAIN . (HTML, CSS, REACT, JAVASCRIPT)
+Developed a user-friendly web application utilizing HTML, CSS, and JavaScript, integrated with React and Web3
+technology to enable seamless transactions of blockchain-based cryptocurrencies. Implemented smart contracts on
+the blockchain to securely store transaction data. Leveraged the GIPHY developer API to display captivating images
+to signify successful transactions
+CODING PROFILES
+LeetCode: Chinmay GeeksForGeeks: ChinmayD
+Codeforces: ChinmayD CodeChef: Chinmayd2112
+EXTRACURRICULAR-ACTIVITIES
+•An active member of the PICT ACM Student Chapter (PASC) which is awarded the best student chapter in
+India by ACM 4 consecutive times.
+•Team leader of VOIS Tech Marathon Team.
+HOBBIES
+•Photography •Video Editing
+•Playing chess •Travelling

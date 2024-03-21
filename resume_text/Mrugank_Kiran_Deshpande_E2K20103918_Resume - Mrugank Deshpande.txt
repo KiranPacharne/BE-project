@@ -1,0 +1,45 @@
+MRUGANK DESHPANDE
+EDUCATION
+Pune Institute Of Computer Technology    (Lin k)
+Full Stack Developer Intern  
+Vehicle Number Plate Recognition System        : (Link) (Project)    WORK EXPERIENCE:
+RELEVANT PROJECTS:           +91 7083823772            mrugankkiran@gmail.com          Mrugank Deshpande          Mru911              Porfolio
+2020-2024 PUNE INSTITUTE OF COMPUTER TECHNOLOGYCGPA : 9.31BACHELOR OF ENGINEERING, ELECTRONICS
+AND TELECOMMUNICATION ENGINEERING
+2018-2020 HPT ARTS AND RYK SCIENCE COLLEGE
+% :  87.23
+HSC X11
+Implemented a system to read vehicle number plates and store them in a database. 
+Also made a website using REACT JS to input vehicle images and other details and connect to the
+recognition  model
+OpenCV, Easy-OCR, React Js, CSS
+SKILLS:NextGen AI (Link):
+COMPUTER LANGUAGES: C, C++, Python, HTML5, CSS3, Javascript, Typescript, SQL
+FRAMWORKS/TECHNOLOGIES:React JS, React Native, Node JS, Bootstrap, Tailwind CSS, Next Js,
+Material UI, Git, Firebase, Micro-frontend (beginner), 
+Cloud Native(beginner), Angular
+POSITIONS OF RESPONSIBILITY AND OTHER ACTIVITES:
+Event Head at the flagship event of PICT Impetus And Concepts PICT 2023.
+Solved 200+ coding problems on various platforms
+Participation in district level Cricket Tournament 
+ Worked on a react web application aimed at storing, analyzing, managing, and supervising student and
+teacher data (College management system)
+My role involved implementing visually appealing user interfaces, ensuring a smooth user experience,
+and collaborating with the development team to bring the project to fruition. 
+Tech-stack:  React Js, Node Js, Mongo dB,  Tailwind CSS
+Amso Iron Works   (Link)
+Full Stack Developer 
+I was responsible for creating a fully functional website for the company, which specializes in
+manufacturing iron doors. The website serves as an online storefront, offering modern facilities for
+potential customers.
+ The website includes features that allow visitors to explore the company's products and services, learn
+more about the company itself, and make purchases if interested.
+Tech-stack: React Js, Node Js, Tailwind CSS, firebase
+ Developed, and deployed a cutting-edge Web3 blockchain crowdfunding platform. Utilized blockchain and
+smart contracts for seamless campaign creation, viewing, and secure Ethereum donations .
+React Js, Tailwind, Solidity 
+TECHNICAL SKILLS: DSA, OOP, DBMS, Computer Networks|  September 2022 - March 2023
+|  April 2023 - June 2023
+FundChainSpark:Developed AI SaaS Platform with five AI tools - Image, Code, Music, Video Generation, and conversation
+Open AI API for the tools with user authentication and limit of free trials 
+Next 13, React, Tailwind, Prisma, MySQL, Clerk, Stripe Integration

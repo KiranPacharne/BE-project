@@ -1,0 +1,92 @@
+TANAY KOLHE  
+Competitive Programmer | Interested in Problem Solving |  Data Structures and Algorithms  
+kolhetanay01 @gmail.com  | +91-8788536 289 | Link edIn :// Tanay Kolhe   
+EDUCATION  
+PUNE INSTITUTE OF  
+COMPUTER TECHNOLOGY  
+B.E. IN  Electronics & Telecommunication  
+ 2020 -Present  | Pune, India  
+Cum. GPA:  8.38/10  
+  
+ST. LAWRENCE HIGH SCHOOL & JUNIOR 
+COLLEGE  
+2020 | Nashik,  India  
+Class XII Percentage:  74%  
+ST LAWRENCE HIGH SCHOOL  
+2018 | Nashik , India  
+Class X Percentage:  89.2%  
+ 
+LINKS  
+Codeforces ://tanaykolhe01   
+Codechef :// tanaykolhe01   
+Leetcode ://kolhetanay1  
+GFG ://kolhetanay01  
+LinkedIn ://tanaykolhe  
+Github ://tanaykolhe   
+SKILLS  
+PROGRAMMING : 
+      • Problem Solving • DSA  
+LANGUAGES :  
+      • C    • C++    • Python  
+DATABAS E:  
+     • MySQL  
+FAMILIAR:  
+     • AWS Fundamentals . 
+      •PowerBI  
+     •NumPy •Pandas •Matplotlib  •Seaborn . 
+     • HTML , CSS & JavaScript . 
+Technical Skills:  
+    • Data Analysis  
+    • Technical Analysis  
+    •Fundamental Analysis  
+    
+ACTIVITIES  
+PICT  CSI STUDENT CHAPTER  
+College Club(Co -Curricular)  
+Volunteered various events functionality in  
+Xenia 2022  
+PICT  PICTOREAL  
+Conducted outreach programs to engage NGOs,  
+Amplifying the importance of lifelong learning . PROJECTS  
+Sign Recognition Model (Finger Counter )  
+    •Developed a system ca pable of classifying dynamic 
+gestures without pre -saved data using contour defects.  
+    •Python Libraries:  NumPy, Pandas, OpenCV  
+ 
+Sorting Visualizer  
+    •Designed and developed a Web Application to 
+visualize working of various Sorting Algorithms  
+    •The Applications allows the user to select the 
+Sorting Algorithm, Speed of Visualization, and Input 
+Array  
+    •Tech -Stack - HTML, CSS, JavaScript.  
+ 
+Product Sales Data Analysis  
+     •Created Dashboard for Product Sales Analysis      
+using  Power BI  
+     •Analysing Tables & Relations  
+     •Developing Model  
+     • Creating Dashboard  
+ACHIEVEMENTS   
+• 3 Star at CodeChef  
+• Solved more than 1300 problems on different 
+programming platforms (500+ on Codeforces)  
+• Secured Global -rank 50 in CodeChef July Challenge  
+• Secured Global -rank 206 in CodeChef Starters 83  
+• Runner -up at SYTYCS  Debugging  Competition held  
+by Bharti V idyapeeth  
+• Participated in INC(Impetus & Concepts) an 
+International level project competition.  
+CERTIFICATES  
+•AWS Internship  
+   (Created EC2 Instances and S3 Bucket for hosting 
+Webpage)  
+• Advanced Data Structures and Algorithm  
+   Udemy  
+•Technical and Fundamental Analysis   
+    Zerodha Varsity  
+•Object Oriented Programming C++  
+    Pune Institute Of Computer Technology  
+•Python Programming   
+    Pune Institute Of Computer Technology  
+ 

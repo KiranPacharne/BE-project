@@ -1,0 +1,41 @@
+Apoorva Sarnaik
++91-8767191800 |apoorvasarnaik77@gmail.com |LinkedIn
+Education
+Pune Institute of Computer Technology Pune, India
+BE, Electronics and Telecommunication Engineering 2021-2 024 (Pursuing)
+CGPA: 8.78
+Government Polytechnic Kolhapur Kolhapur, India
+Diploma in Electronics and Telecommunication 2018-2021
+Percentage: 96.81%
+Kolhapur Public school Kolhapur, India
+10th (CBSE BOARD) 2018
+Percentage: 84%
+Technical Skills
+•CS Fundamentals: DSA , OOP , DBMS
+•Languages : C++, Java, Python,Sql
+•Web Technologies: HTML, CSS, Javascript,Php
+•Database: MySQL
+Experience
+Siemens Summer Internship June 2023 – July 2023
+Siemens Pune, India
+•Engaged in a 2 - Month Summer Internship at Siemens , Contribu ting to automation task of dashboard and
+applying new skills like Selenium and Webscrapping to achie ve solution.
+•Gained inside into technical knowledge and learned what ind ustry actually used and collaborated with professionals
+, enhancing real-world problem-solving abilities.
+•Strengthened familiarity with technology and concept like code coverage , refactoring , test driven development ,
+fostering growth as a skilled industry practitioner.
+Projects
+School Management Website
+•Worked on building a pet project where i built static school w ebsite with technologies like js,html, css ,sql on
+NetBeans IDE.
+•The Website had Diﬀerent information section like student’ s portal , library section and attendence portal.
+Digital Student Passport mobile app
+•Developed exclusively for PICT student ,allowing seamless upload and management of academic document while
+facilitating teachers to share notices and access student d ata for eﬀective communication and record keeping.
+•Tech Stack : Android Studio , Figma ( UI Design ) and a robust in tegrated database for seamless data storage and
+retrieval .
+Community & Leadership
+•Cultural Head : Appointed as a cultural Head in Electronic En gineering student association (EESA) at
+Government Polytechnic Kolhapur.
+•Volunteer in Impetus And Concepts at Pune Institute of Compu ter Technology.
+•Volunteer at core Impetus And Concept to Organize and Execut e the events.

@@ -1,0 +1,44 @@
+Shreyansh  Sawalkar  
+ 
+Pune,Maharashtra,India  
+E-mail:  sawalkar336@gmail.com  ✼ Contact  number:  9561118065  
+Education  
+Bachelor  Of  Engineering,  Pune Institute of Computer Technology  
+CGPA: 8.58   2020  - 2024  
+HSC  Maharishi  Public  School  Amravati  
+CBSE  2020  
+SSC School Of Scholars  Amravati  
+CBSE  2018  
+Work  experience  
+Software  Development  Intern  March 23 – June23  
+TwinIOT   Mumbai,  India  
+• Design  and Developed  Restful  API’s  for different  modules  in the project  as per the requirement.  
+• Implemented  Data  Access  Layer  (DAL)  using  Spring  Data  and Hibernate  ORM  tool.  
+• Utilized  Spring  MVC  framework  to implement  design  patterns  like IOC(Dependency  injection),  
+Spring  DAO(Data  access  objects),  ORM  Mappings.  
+• Working  on a project  called  SyntHeim,  which  is a social  networking  service  for photo  and video  
+sharing  and storage.  
+ 
+Projects  
+SuperDuperDrive  
+ 
+A Simple  storage  web  application  with  three  user -facing  features:  Simple  File Storage,  Note  Manage - 
+ment,  Password  Management.  
+The back -end with  Spring  Boot  (Managing  user  access  with  Spring  Security,Handling  front -end calls  
+with  controllers,Making  calls  to the database  with  MyBatis  mappers)  
+The front -end with  Thymeleaf  
+Hostel  Management  System  
+ 
+A software  developed  for managing  various  activities  in the hostel.  
+Followed  the MVC  design  pattern  for developing  the system.  
+Used  SpringMVC  along  with  Spring  Security  for creating  all the validations  and client -side functionality  
+ 
+Technical  skills  
+Programming  Languages/Frameworks/Tools  Java,C ++,SQL,Servlet,JSP,SpringCore,Spring  
+Boot,SpringMVC,Hibernate,Struts,Lombok,  
+Microservices,RestfulWebservices,Git/Github,  
+Docker,Postman,PostgreSQL  
+ 
+CourseWork  
+Undergraduate  Database  Management  Systems,Object  Oriented  Programming,Data  Struc - 
+tures  and Algorithms,Advance  Java  

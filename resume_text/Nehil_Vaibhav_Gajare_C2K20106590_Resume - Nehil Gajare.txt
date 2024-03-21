@@ -1,0 +1,45 @@
+Nehil Gajare Email: gajarenehil@gmail.com
+Mobile: +91-8421554421
+Github: https://github.com/nehilgajare
+Education
+•Pune Institute Of Computer Technology Pune, India
+Bachelor of Engineering - Computer Engineering; GPA: 8.77 2020.- 2024
+•Global Public School Nashik, India
+12th grade- Secured 71.5 % (HSC) 2018 - 2020
+•Nashik Cambridge School Nashik, India
+10th grade- Secured 89.6 % 2006 - 2018
+Skills Summary
+•Languages : Python , C++ , JavaScript(Beginner) , Tailwind CSS , TypeScript(Beginner) , SQL.
+•Frameworks : Django, ReactJs , NextJs , BootStrap.
+•Technical : Data Structures and Algorithms , Object Oriented Programming , Database Management Systems
+•Other Technologies : GIT/Github , MySql
+•Soft Skills : Team Work , Leadership , Logical Thinking , Time Management
+Projects
+•DadachiShala Website :A website for an NGO : I collaborated with a team to develop a website for an NGO called
+DadachiShala. The website aims to provide users with information about the diverse activities conducted by the organization.
+Additionally, it offers an intuitive interface through which users can contribute by making donations and also sign up as
+volunteers to support the NGO’s noble cause. The technologies used are : Tailwind CSS , ReactJs , TypeScript ,
+Firebase . Website Link:- dadachishala.org
+•Host-Afe : I created a user-friendly website that facilitates the easy discovery of hostels for college students in need of
+accommodation. The website is designed to store information about various hostels in a database, categorized according to
+different colleges. To enhance user experience, I incorporated advanced filtering options, allowing students to find suitable
+hostels based on their preferences. The technologies used are : HTML , CSS , ReactJS , Django . Website Link:-
+hostafe.onrender.com
+•Budget-Pal(Work in Progress) : Built a responsive web app using MongoDB, Express, React, and NodeJS to track and
+manage expenses. Users can record their expenditures and view detailed reports, including a comparison between the actual
+expenses and the ideal budget.Implemented user authentication for secure access and utilized a robust backend to handle data
+storage and retrieval efficiently.
+Achievements
+•Successfully solved and conquered more than 500 coding problems on platforms such as Codeforces, Leetcode.
+•Secured Global Rank 492 out of 11k+ participants on Codechef contest.
+•Felicitated for making website of DadachiShala NGO from the scratch.
+•Bronze medalist in inter-school swimming competition.
+•Secured 6500* Rank in JEE Advance 2020.
+•Secured 99.17 percentile in MHT-CET 2020
+Volunteer Experience
+•Organizing committee InC’2023 : InC is a flagship event of PICT . This event provides platform to all engineering
+students to showcase there talents , projects and ideas . I got the opportunity to be in the organizing commitee
+•Transport Committee Head InC’2022 : I successfully managed and handled all the transport related activities for the
+judges who attended Impetus and Concepts( Annual Flagship Event of PICT )
+•Credenz ’22 volunteer : Engaged in diverse roles within IEEE Student Chapter, contributing technically and non-technically
+to the club’s activities.

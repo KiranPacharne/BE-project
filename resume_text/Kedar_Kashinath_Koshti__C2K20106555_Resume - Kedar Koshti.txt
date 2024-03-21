@@ -1,0 +1,97 @@
+Kedar Kashinath Koshti Email: officialkedark1@gmail.com
+Portfolio Website: https://kedarkoshti.netlify.app/ Mobile: +91 9579025149
+Github: github.com/KedarKK1 Linkedin: linkedin.com/in/kedar-koshti/
+leetcode(325+ qn solved): leetcode.com/KedarKK1 hackerrank(5 star): hackerrank.com/officialkedark1
+Education
+•Pune Institute of Computer Engineering(PICT) Pune, MH, India
+Bachelor of Engineering - Computer Engineering; GPA: 8.71(till sem-6) December 2020 - June 2024(expected)
+Courses: Operating Systems, Data Structures, Computer Networking, Database management systems, Object Oriented Prog.
+•Vivekanand Arts, Sardar Dalipsingh Commerce & Science College Chhtr. Sambhajinagar, MH, India
+HSC - PCM; Aggregate - 73.85% April 2017 - May 2020
+•Saraswati Bhuvan High School Chhtr. Sambhajinagar, MH, India
+SSC; Aggregate - 90.00% May 2016 - March 2017
+Experience
+•Intertwine Technologies, Pune - CERTIFICATE ὑ7, Remote
+Frontend Developer intern (Part-time) - React JS, Redux, Material UI, Ant Design 10 Apr 2023 - 10 Jul 2023
+◦Worked on 2 SaaS projects : :
+◦Invoice Discounting webApp :
+◦Used Ant-Design to build frontend pages from scratch (function-based code) ,
+◦Integrated searching, sorting and filtering functionality on tables &
+◦Used optimisation techniques like debouncing in dashboard page
+◦Twistoe CRM webApp :
+◦Created Separate Module for customer email listing & implemented pagination, sorting using redux ,
+◦Improved code efficiency by identifying reusable code & modularizing it using class-based components code
+•Solvevolve Pvt. Lmt. - CERTIFICATE ὑ7, LORὑ7 Remote
+Backend Developer intern (Full-time) - NodeJS, Express, Apollo GraphQL, MongoDB 26 Oct 2022 - 30 Dec 2022
+◦Built entire backend : for android & web application
+◦REST & GraphQL APIs : used REST APIs for server-hardware interaction and GraphQL for clientside APIs
+◦REST API for JWT based (access & refresh token) authentication & authorization(user, admin) :
+OAuth2.0 for Gmail using PassportJS & Google-Auth-library
+◦Unique dynamic no. of fields & their keys storage & processing it using aggregation pipeline for user
+based search parameters for graphs :
+◦Job scheduling by user : (queuing) using Bull (cron based job scheduler) & algorithm for overlap checking
+◦Razorpay webhooks : for creating dynamic subscription plans and their models
+◦Firebase push notification : on Alert received from hardware Data & for Bull based cron notifications by hearbeat
+checking for Network Error identification
+◦Image upload (Multer) : & Mail Send nodemailer
+◦Jira: daily scrum meetings with AGILE workflow
+•FOSS Club, PICT - CERTIFICATE ὑ7 Pune, MH
+Full Stack Developer intern - (Part-time) - NodeJS, ExpressJS, MongoDB, React JS Sep 2022 - Feb 2023
+◦Placement report generation using population : of various collections
+◦Bulk mail sending (NodeMailer) :
+◦Handled Auth. APIs : eg. forgot password, reset password, update password
+◦MongoDB validations (JOI) :
+◦RESTful API routes : controllers for Apply to company, 30+ eligibility criteria checking route, placement report
+generation API using aggregation , etc
+◦Nested deletion operations : used MongoDB remove, virtual, pre methods
+◦Integration for Auth. routes : handled authorization for separate user & admin in react-router-dom v6
+Projects
+•Reverse Coding(RC) in Credenz Tech Days (CTD‘22) organised by PICT IEEE :Builded Coding platform in
+ReactJs & React-bootstrap from scratch •Added functionality using JS & AJAX like Ace-editor, upload text file, Timer,
+Pagination, logout on time-up, etc •Integrated backend(Django-Rest-Framework) & frontend •Trained
+classmates in reactjs for dividing the web-pages(lead the team) •was played by 40+ juniors •Tech stack used - ReactJs,
+React- bootstrap, Ace-editor for coding env., React-router-dom v6, Font-awsome linkὑ7
+•AWS - Birthday Reminder App with Email Automation : Automated Email Scheduling for reminding Today’s
+birthdays list. User can add new people & birthday to the list and email will be sent everyday for reminding whose birthday is
+on today. •Tech stack Used AWS, Lambda, DynamoDB, EventBridge Scheduler, S3, API Gateway, SES,
+Cloudwatch, IAM. github link ὑ7video demonstration link ὑ7
+•BiDeFi: Auction Website : Build entire backend for auction website for users to post an item for auction and increasingly
+bet on that item. Used, WebSockets for real-time betting & within 2 min of prev. bid . Tech stack used -
+Django-rest-framework, Next js, JWT, Django-channels, Redis, PostgreSQL, Djoser linkὑ7
+•Quiz App : Questions CRUD Operations, API for Filtering by language & Calculating Results. Used Springboot,
+PostgreSQL, Hibernate, JPA, Java 11 , github link ὑ7
+•PanditMitra web-app : Build a project that books Pandit for users. Used Django, PostgreSQL created Authentication
+foradmin & Users. Features - Slot booking, email-sending, authentication, authorization, User Review linkὑ7Archievements and Awards
+•1st runner up in Webster - Ignite5.0 Tech Fest Hackathon org. by Narsee Monjee Clg(NMIMS, Navi
+Mumbai) - Feb ’23 : linkὑ7 linkὑ7
+•Secured 1st rank(Winner) in Web-On-Eye Hackathon (offline) org. by APCOE, Pune) - Feb ’23 : linkὑ7
+•Secured 99.21 percentile (1150 rank) among 3,00,000 students in MHT-CET :
+•5 star coder in Problem Solving at HackerRank: : hackerrank.com/officialkedark1
+•Secured 99 percentile in AMCAT automata link ὑ7:
+Skills Summary
+•Languages : Python, Javascript, C++, SQL, Bash, JAVA(Intermediate)
+•Backend : Django, Django-rest-framework (DRF), Node js, Express js, Flask, Springboot, Solidity
+•Frontend : React js, Redux, Next js, Thymeleaf, HTML, CSS
+•Databases : MongoDB, MySQL, PostgreSQL, MariaDB, SQLite, Firebase, Redis, Hibernate (ORM)
+•Devops & Hosting : AWS, Git, Github, Docker, Heroku, Netlify
+•Frontend Design Libraries : Ant Design, Bootstrap, React-Bootstrap, Semantc UI, Chakra UI, Material UI(Intermediate),
+Tailwind css
+Volunteer Experience
+•Volunteer for conducting/teaching Django for juniors course by PICT college link ὑ7 Pune, India
+Conducted 3 SIGs for teaching Django to students who joined PICT’s official Python Course. Mar 2022 - Mar 2022
+•Lead Volunteer at Fandom by PICT ACM’s flagship event Pulzion‘22 link ὑ7 Pune, India
+Formed 10 mcq & 50 quiz questions in Anime & western-web-series. Hosted event offline. Mar 2022 - Apr 2022
+•Conducted SIG sessions on Blockchain at PICT GDSC club as GDSC Core member link ὑ7 Pune, India
+Conducted (Web3 intro, ethereum, evm, solidity, Remix) & entire day-4 Feb‘23 - Feb‘23
+(Mini-project on Decentralized bank account using ether js, HTML, CSS & JS )
+•Conducted SIG sessoions at PICT IEEE for juniors link ὑ7 Pune, India
+Conducted 3 offline sessions on Front-end development, HTML, CSS, JS, Dec 2022
+Bootstrap & intro-to-ReactJS. Impacted 30+ juniors
+•Contributed in Hacktoberfest 2022 link ὑ7 Pune, India
+Open Source Contributions - added Dark-Light functionality, Feb 2023 - Feb 2023live-reloading to a quote generator using JQuery, AJAX for calculator app
+*Certificates
+Complete NodeJS course with express, socket io and MongoDB
+React JS- Complete Guide for Frontend Web Development [2021]
+DevOps Fundamentals
+AWS S3 Course - GreatLearning
+Serverless Computing Course - GreatLearning

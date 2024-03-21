@@ -1,0 +1,82 @@
+ADITYA MAVLE
++917620469531 ⋄Pune, IN
+adityamavle@gmail.com ⋄linkedin.com/adityamavle ⋄github.com/adityamavle
+OBJECTIVE
+To start a journey into Machine Learning and AI with strong knowledge and right mindset.
+EDUCATION
+B.E: ETC, Data Science(Honors): Pune Institute of Computer Technology Expected 2024
+CGPA:9.09
+HSC: Rajiv Gandhi School and Junior College 2018-2020
+82 %
+ICSE: The Bishop’s School,Camp,Pune 2006-2018
+92 %
+SKILLS
+Programming Languages Python(and it’s ML Stack Libraries) |C++|SQL
+Frameworks/Tools TensorFlow |Scikit-Learn |OpenCV |Docker |OpenVINO |Git|Django
+Technical Interests Neural Networks |Statistical Modeling |NLP|CV|DSA
+Soft Skills Team Player |Analytical |Persistent |Proactive
+EXPERIENCE
+PrimeNumerics Consulting Inc. :ML Intern Jan-2022-March-2022
+Analysis of Electronic Health Records using NLP.
+•Performed semantic analysis of patient health records to maintain patient profile and assess health conditions
+using NER and BERT.
+Pune Institute of Computer Technology :Research Intern (link) June 2022-Aug 2022
+Designing a Backup File System and maintaining File-Tag mapping for searchability.
+•Built a Backup System using Python Socket Programming for file storage in chunked format.Maintained cata-
+logue of files and their chunk mapping.
+•Generated descriptive tags on the files using NLP and CV tasks of topic modeling, name entity recognition,
+abstractive summarization, image and video classification.
+•Tagged text-based files containing sensitive information and PII data to protect user data.Built a module utilising
+concepts of cosine similarity,query matching and keyword extraction for this.
+John Hopkins University (BJGMC-JHU Clinical Trials Unit) :Research Intern (link) Sept 2022-Present
+Simulation study of a Tuberculosis affected population and the influence of various Risk Factors on the Treatment
+Outcomes.
+•Analyzing datasets and mapping out correlations between influencing features.
+•Simulated a TB-affected population and their treatment outcomes,based on mapped out correlations.Simulated
+clinical interventions for the risk factors of alcohol,smoking,depression,diabetes so as to improve their outcomes.
+•Hypothesis testing and statistical power analysis of various treatment and control variables,to determine the
+right sample size,to observe the improvement in treatment outcomes in a real world scenario.
+•Deployed a FastAPI application on the web using Render for the simulation of datasets and Power Analysis of
+the population.
+UST Global :Project Intern Nov 2022-Feb 2023Multimodal Classification using OpenVINO Runtime Environment and Inference Engine
+•Configured and Worked with OpenVINO Runtime environment and inference engine to build,train,test and run
+model inferences for various applications.
+•Trained various models on the Multimodal concept which included the applications of Multimodal Face-Detection-
+Recognition,Object and Pose Detection,nested image classification and motion detection.
+•Built an end to end Attendance System,utilising a face detection and a face recognition model utilising Multi-
+modal execution.
+FOSSEE,IIT Bombay :Software Development Intern Feb 2023-May 2023
+Developing new features for Osdag(a software for the design and analysis of steel structures) in the areas of backend,
+GUI development,automation using shell scripting,docker containers etc.Contributed for the task of building Osdag
+on web.
+•Configured and tested APIs in Django Rest Framework for application functionalities on web
+•Built a web-based CAD model viewer and graphics renderer using ThreeJS framework.
+•Implemented a CAD model converter for interoperability between multiple formats.
+IIIT Hyderabad: Centre for Visual Information Technology :Summer Research Intern (link)
+June 2023-Present
+Developing a Robust Word Detector for Indic Languages Documents.Formation of a Benchmark dataset of Indic
+Languages.
+•Finetuning a model based on Differential Binnarization Resnet50,capable of detecting words in all types of indic
+language documents.
+•Evaluation of previous versions of the word detector on Benchmark datasets.
+•Currently working on the development of docTR-v3, a fine-tuned detector model utilising the framework of
+docTR.
+PERSONAL PROJECTS
+Document Analyzer An Api for performing natural language processing operations of abstractive summariza-
+tion,keyword extraction and word-query searching.
+Auto-Encoders Stroke Disease Prediction A Novelty Anomaly Detection based approach for the problem of
+Stroke Disease Prediction utilising Autoencoders.
+Handwritten Text Recognition Detection and Recognition of Handwritten Digits and Letters using Object De-
+tection and OCR-based methods.
+Sentiment Analysis using BERT A fine tuning experiment of sentiment analysis of written text using BERT
+pre-trained model.
+NGO Directory and Search Engine A website for a domain wise directory and search engine for NGOs.
+EXTRA-CURRICULAR ACTIVITIES
+•TEDx PICT: Volunteer for the Curations and Content Teams. Interviewing onboarding, scripting of event
+speakers,article writing on the TEDx PICT blog and co-organising our annual event; TEDx PICT Marcato
+22’.(link)
+•PISB(PICT IEEE Student Branch):Credenz 21’ Organising Team.Problem statement setting and Dataset prepa-
+ration for DataWiz 21’ a Kaggle-based Machine Learning competition.(link) Member of the Marketing Team.
+•PICT INC(Impetus and Concepts):Member of the Concepts Team in the annual flagship event of our col-
+lege;PICT INC.Responsible for coordinating of meetings between the project evaluation committee and the
+contestants.

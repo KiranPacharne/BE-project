@@ -1,0 +1,151 @@
+Vedant Kulkarni 
+Final year engineering student at Pune Institute of Computer
+Technology,Pune 
+vedsun21@gmail.com 
+9175994987 
+leetcode.com/vkcodes21/ 
+linkedin.com/in/vedant-kulkarni- 
+EDUCATION 
+Bachelor of Engineering in Electronics and
+Telecommunication 
+Savitribai Phule Pune University- SCTR’s Pune
+Institute of Computer Technology (PICT), Pune 
+2020 - 2024
+, 
+ 
+GPA-9.47 
+Maharashtra State Board of Secondary & Higher
+Secondary Education (12th Standard) 
+Vivekanand College,Kolhapur 
+2018 - 2020
+, 
+ 
+Percentage-89.85% 
+Maharashtra State Board of Secondary & Higher
+Secondary Education (10th Standard) 
+New Model English School , Kolhapur 
+2018
+, 
+ 
+Percentage-95.60% 
+PROJECTS 
+Stock Market Price Prediction using LSTM
+ 
+ 
+Worked on developing a stock prediction system using 
+LSTM algorithm
+ of
+Deep Learning 
+Gathered information on more than
+ 25 
+top stocks
+ in the Indian share market 
+Completed their analysis using 
+Power BI
+, created an individual dashboard for
+every stock, implemented LSTM algorithm to predict stock prices and built
+GUI using 
+streamlit
+ framework 
+Diabetes Prediction System using Machine Learning
+ 
+ 
+Worked on project for Diabetes prediction using the dataset, developing
+predictive system using ML algorithms, developed basic UI using python's
+streamlit framework 
+Used 
+Knn algorithm 
+to ﬁnd out whether a person has chance of have
+diabetes depending on parameters like age,glucose,blood
+pressure,BMI,Pregnancies,insulin levels etc 
+Used python's inbuit 
+streamlit framework
+ to create a GUI for user
+friendliness 
+Banking System using Java 
+Developed a Java-based banking system using 
+Swing 
+and JDBC 
+database
+connectivity that allows bank customers to create and manage their
+accounts, make deposits and withdrawals, view transaction history, and
+transfer funds between accounts. 
+The system also allows bank employees to manage customer accounts, view
+account details, and generate reports. 
+DC-DC Buck Converter using Fuzzy Logic Control 
+Improved the performance
+ of normal buck converter 
+by applying fuzzy
+logic
+ control to the converter 
+Also created a 
+MATLAB-Simulink
+ simulation to compare performance a
+normal buck converter and a buck converter implemented using fuzzy logic 
+WORK EXPERIENCE 
+Project Intern 
+VOIS 
+08/2022 - 10/2022
+, 
+ 
+Created a prediction system using LSTM model for prediction of top
+25 stocks in Indian Share Market Developed a user friendly GUI using
+python’s inbuilt Streamlit Framework Embedded Analysis of each
+stock using Microsoft PowerBI Tool.
+ 
+ 
+SKILLS 
+Languages:-C, C++,Java,Python 
+Databases:-MySQL 
+Core:-Object Oriented Programming, Data Structures and
+algorithms 
+Tools:- VS Code, Eclipse IDE , Jupyter Notebook,Google
+Colab,Power BI,Mysql Workbench 
+Soft Skills: Problem Solving, Teamwork and Collaboration,
+Communication, Adaptability, Quick learner 
+ACHIEVEMENTS 
+Got shortlisted for research studies for being amongst top
+1% scorers in HSC examination at college level 
+Amongst top 3500 in MH-CET (2020) with more than 2 lakh
+candidates. 
+Earned Leetcode Badge for successfully completing
+January LeetCoding Challenge 
+CERTIFICATES 
+The Ultimate MySQL Bootcamp: Go from SQL Beginner to
+Expert
+ 
+ 
+Udemy 
+C Programming For Beginners - Master the C Language
+ 
+ 
+Udemy 
+Fundamentals of Artiﬁcial Intelligence and Machine
+Learning
+ 
+ 
+Vodafone India Foundation 
+Python Programming
+ 
+ 
+Department of Electronics and 
+Telecommunication Engineering, PICT,Pune. 
+DATA STRUCTURES & OBJECT ORIENTED PROGRAMMING
+USING C++
+ 
+ 
+ORGANIZED BY PUNE INSTITUTE OF COMPUTER TECHNOLOGY, COMPUTER
+ENGINEERING 
+DEPARTMENT, PUNE 
+LANGUAGES 
+English 
+Full Professional Proﬁciency 
+Hindi 
+Native or Bilingual Proﬁciency 
+Marathi 
+Native or Bilingual Proﬁciency 
+INTERESTS 
+Astronomy 
+Music 
+Reading 
+Tasks 

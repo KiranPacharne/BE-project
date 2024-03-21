@@ -1,0 +1,50 @@
+Chanchal Wadhwa ♂phone+91-9356071974
+B.E. In Information Technology /envel⌢pechanchalwadhwa2003@gmail.com
+Final Year /githubGitHub Profile
+Pune Institute Of Computer Technology, Pune /linkedinLinkedIn Profile
+Education
+•PUNE INSTITUTE OF COMPUTER TECHNOLOGY, Pune 2020- 2024
+BE in Information Technology CGPA: 9.36/10.0
+•PEMRAJ SARDA COLLEGE,Ahmednagar February 2018 -2020
+Maharashtra State Board,Second in college Percentage: 88.15 / 100
+•ST. VIVEKANAND ENGLISH SCHOOL, Ahmednagar March,2018
+Maharashtra State Board Percentage: 93.8 / 100
+Personal Projects
+•Real-Time Data Based Resume Classification and Job Matching January 2023 - April 2023
+Using SVC, Jaccard Index and Cosine Similarity in Python.
+–Dynamic Python-based web application that classifies a given resumeto abest-fitted role and gives a quantitative
+measure of relevance with JD
+–Usedregression models to facilitate efficient job role matching for applicants with model accuracy upto 88 per-
+centage
+–Created a real time data by scrapping data from linkedin
+•EMPLOYEE ATTENDANCE MANAGMENT SYSTEM July 2022 - November 2022
+MySQL,Python libraries OpenCV,Pyzbar,Qrcode
+–Prepared a python script that manages attendance
+–Itgenerates the ID and QR code for new exployees, detectsQR code and storesrecord of attendance.
+–It will store the date and time at which the QR code is scanned
+•GET QUOTES August 2022 - December 2022
+HTML,CSS,JavaScript,API
+–Implemented an APIbased quotes website that provides different quotes on one click
+–This includes changing the background picture with every new quote and sharing quotes on Twitter and WhatsApp
+•EXTENSIONS Febuary 2021 - June 2021
+HTML5,CSS,JS.
+–Invert.io can change the website from dark mode to light mode and vice versa
+–Ad Blocker blocks advertisements from selected websites
+Technical Skills and Interests
+Technical Skills: C++ ,MySQL,HTML,CSS,Javascript,C(basic)
+Soft Skills :Teamwork and collaboration, Active listening , Conflict resolution skills, Adaptability, Leadership
+Areas of Interest : Dancing, Public speaking, Solving basic DSA problems
+Revelant Course Work : Data Structure and Algorithms, Operating System, Database and Management System
+Coding: Have persistently tried to improve my problem solving skills by solving 500+ questions on Leetcode, Coding
+Ninjas and Gfg
+Positions of Responsibility
+•IEEE PICT July 2022 - December 2023
+–Worked with Web Development Team for developing Website for annual flagship event - Credenz’22
+–Worked with Content Writing Team for annual flagship event-Credenz’22.
+–Coordinated with fellow managers and increased participation for events conducted
+Achievements
+PICT ACM STUDENT CHAPTER: Secured2nd position in during Women’s Day Contest held on 8th March 2023
+Coding Ninjas : Recived Letter of Appreciation for the compeltetion of DSA course by solving questions withhighest
+accuracy
+MHT-CET :Secured 98.96 percentile in MHT-CET, ranked 1375out of4.5 lakhs+
+Public Speaking : Stoodfirstin regional level Elocuation andDebateCompetiton

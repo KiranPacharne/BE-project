@@ -1,0 +1,59 @@
+    Technical Skills  ACADEMIC ACHIEVEMENTS AND AWARDS  ACADEMIC PROJECTS    SAIFUDDIN SHAIKH  
+                     +91-7666224653                  saifuddinshaikh818@gmail.com                   LinkedIn  
+ 
+ 
+  Education   Passing Year    Institution    Grades  
+B.E in Information 
+Technology   
+2024   
+Pune Institute of Computer Technology   
+9.3(CGPA)  
+HSC (Class XII)  2019  Maulana Azad College of Science, 
+Aurangabad  87.69%  
+ 
+SSC (Class X)   
+2017  St. Teresa’s Convent English Medium 
+School, Jalgaon   
+97.2%  
+ 
+• Football Website                                                                                                                                                                       
+• A single page web -based application providing a simple interface for users to search for t heir favorite club 
+football team and view the highlights , fixtures, score and ranking in the respective league.  
+• Made use of Serp API which scrapes data from google search engine and retrieve s football information using 
+GraphQL as an API query language.  
+• Technologies used:  ReactJS, NodeJS, GraphQL, Apollo Client  
+• Streamify (Video Streaming Website)                                                                                                                                                                              
+• A MERN stack ‘Video  Streaming ’ web -based  application, where content creators  can upl oad a vid eo and viewers 
+can watch th ose videos. It includes functionalities such as updating, deleting  a video  for authenticated users. 
+Made use of GridFs in MongoDB for storing and retrieving of video files.  
+• Technologies used : React JS, Material UI,  NodeJS, MongoDB  
+ 
+• PICT MUN Conference Website                                                                                                                  
+• A fully responsive multi -page web -based application  created for the annual MUN conference  held on 15th and 
+16th of October  2022.  
+• It contains all the information for viewers to know about the conference like resources for  the committees, the 
+core team members, daily schedule and itinerary  and a contact us page.  
+• Technologies used : React JS, Material  UI, Firebase, SaaS  
+ 
+ 
+ 
+• Scholarship of Rs 80,000 per year awarded by the Maharashtra State Government for the meritorious performance in 
+HSC board  exams.  
+• Scholarship of Rs 2500 per year awarded by the Maharashtra State Government for excelling in the Middle School 
+and High School Scholarship  Examination.  
+• Received Certificate of Excellence in Intermediate Drawing Grade Examination conducted by the Maharashtra State 
+Government.  
+ 
+• Student Volunteer and Member at PICT ACM Student Chapter  
+• Technical Head and Content Team Member of the PICT MUN club.  
+• Collaborated and coordinated the successful conduction of Adlib Event (Extempore and Quiz Competition) 
+organized by PICT MUN club for juniors.  
+• Published an article in the PICT MUN Newsletter  regarding the turbulent situation in eastern Africa.  
+ 
+  
+ 
+• Languages:                      C, C++, Javascript  
+• Web Technologies:         HTML, CSS, JavaScript, Bootstrap, React, Node JS, Express Js, Material UI , GraphQL  
+• Databases:                        MongoDB,  Firebase,  MySQL  
+• Tools:                                Git, Postman  EXTRA -CURRICULAR ACTIVIT IES AND ACHIEVEMENTS  
+ 

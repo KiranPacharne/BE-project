@@ -1,0 +1,28 @@
+Vishal Shere Location: Pune, Maharashtra, India
+LinkedIn |GitHub |Leetcode Email: vishalshere2002@gmail.com |Mobile: 7758000711
+FRONT END DEVELOPER
+I am a Intermediate and passionate front end web developer having enthusiasm in gaining skills of web development
+technologies such as HTML, CSS, Bootstrap,JavaScript . I am highly interested in learning the front end frameworks such as
+React and Angular .
+TECHNICAL SKILLS
+Scripting
+Languages: HTML, CSS,JavaScript,Bootstrap
+programming
+languages: C,C++,Java
+Databases : MySQL, PostgreSQL
+Dev Tools : Visual Studio Code, Git, Devc++,Notepad++,Sublime
+EDUCATION
+Pune Institute of Computer Technology Pune, Maharashtra, India
+Bachelor of Engineering DEC 2021 – JUN 2024
+Puranmal Lahoti Government Polytechnic Latur, Maharashtra, India
+Diploma in Mechanical Engineering AUG 2018 – SEP 2021
+Vidya Vikas Vidyalay Nagalgaon, Maharashtra, India
+SSC MAR 2018
+PROJECTS
+Project 1 Python,MySQL
+•Hospital Management System using Tkinter in Python and MySQL database connectivity.
+Project 2 HTML,CSS,JavaScript,Python,MySQL
+•Designed a project named grocery store management system using HTML, CSS,JavaScript for front end
+development and Python flask server as backend technology.Made use of MySQL as a database.
+CERTIfiCATIONS
+•Practical Web design anddevelopment using Photoshop, HTML5, CSS3

@@ -1,0 +1,52 @@
+ 
+ 
+ 
+ 
+ 
+      
+OBJECTIVE  MEHEK  SIRWANI  
++91 8010877258  ⋄ Pune,  India  
+ 
+ 
+Ambitious computer engineering student with a strong foundation in software development seeks a 
+software engineering position. Proficient in coding, problem -solving, and software design, with a keen 
+interest in creating innovative solutions to contribute effectively to an organization's success . 
+ 
+EDUCATION  
+Bachelor  of Computer  Science , Pune  Institute  of Computer  Technology  2020 -Present  
+ CGPA: 8.71 (Till 5th semester).  
+Mathoshri Junior  College  2018  - 2019  
+Maharashtra Higher Secondary Education  (12th) : 79.29 %  
+Podar International School  2016 - 2017  
+Indian Certificate of Secondary Education  (10th) : 90.67 % 
+SKILLS  
+Languages : C/C++, Python, SQL , Java  
+Technical  Skills  :  Data Structures and Algorithms , MySQL , OS, OOP, Django , HTML, CSS, Java Script  
+Machine learning  : Numpy, Pandas, Scikit -Learn  
+Soft  Skill s : Time  Management,  Teamwork,  Communication,  Leadership  
+ 
+PROJECTS  
+1. E-Shop Website  (HTML, CSS, Django, SQLite)  
+The project focuses on e -commerce website functions, including product display, catalog selection, 
+and cart removal. Customers can add items, complete orders, and pay for items. Security measures 
+include login IDs and passwords to prevent unauthorized access.  
+ 
+2. Stock Market prediction  (Pyth on, Pandas, Tensor Flow, Keras ) 
+Predict ed the stock price for coming  30 days with the output being displayed as a plot. The stock price 
+data of past five years was collected and preprocessed which included getting rid of noisy data and 
+normalizing the data.  LSTM  (Long Short Term memory)  model was created and we use d Tensor Flow 
+and Keras using mean squared error for calculation of loss.  
+  
+3. Music Player Website (HTML, CSS, Java Script, HTML DOM , Bootstrap ) 
+It is a totally responsive Java Script Music player app.  We can play, pause the song. Next and previous 
+buttons are used to go to the next or previous song.  The song automatically changes once the 
+previous song is completed.  
+ 
+ 
+EXTRA -CURRICULAR  ACTIVITIES  
+• Part of  Entrepreneurship Development C ell (EDC)  in PICT.  
+• Actively  participated  in the Design  team  of PICT’s  cultural  fest ADDICTION.  
+• Secured  707 Maharashtra  Rank  in MHT -CET exam.  
+• Qualified  IIT-JEE 2020  and was among  the top 2 percent  of about  9 lakh  students  that  appeared.  
+• I was qualified  to State  Level  Football  Competition  by Students  Olympic  Association.  meheksirwani02@gmail.com  | LinkedIn Profile  | Github profile  
+2020 - Present  

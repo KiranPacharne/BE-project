@@ -1,0 +1,69 @@
+Ruturajsingh Rajput
+× +917447640660 |ć ruturajsinghrajput@gmail.com |a EthanRajput20 |
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+Bachelor in Information
+Technology
+2024 ba tch | Pune, India
+•Current CGPA: 8.5
+ANGLO URDU BOYS HIGH
+SCHOOL AND JUNIOR COL-
+LEGE
+Higher Secondary Education
+2019 ba tch | Pune, India
+HSC: 7 5.6% | JEE: 9 7 .2% | CET: 94.6%
+SAINT MONICA SCHOOL
+Primary Education
+201 7 ba tch | A ur angabad, India
+SSC: 93.6%
+SKILLS
+PROGRAMMING LANGUAGES
+•C++ •Python •Java
+DEVELOPMENT
+HTML |CSS |Bootstrap |React.js
+DATABASES
+•MySQL •MongoDB
+RESPONSIBILITES
+•Member atPICT CSIStudent Branch
+(PCSB)
+•Head ofManagement Team ofPICT
+Addiction (Annual Event)
+•Volunteer atPICT InC annual event
+COURSEWORK
+•Data Structures
+•Machine Learning
+•Operating Systems
+•Database Management System
+•Object Oriented ProgrammingABOUT MYSELF
+Iam aself-motivated and passionate developer and programmer seeking an opportu-
+nity toprove myself by working inachallenging environment, solving critical problems
+and utilizing my knowledge for the growth ofthe organization.
+ACHIEVEMENTS
+•Gold badge inPython and C++ InHackerRank.
+•Achieved Gold Medal inInter-school Debate Competition.
+•Achieved Gold Medal inInter-school Dance Competition.
+•Participated inSmart India Hackathon.
+•Winner ofPune District Cricket Association’s Inter-Club Cricket Championship.
+•Gold Medal inPune Half Marathon Race.
+PROJECTS
+CAMPUS PLACEMENT PORTAL [aî ]
+•POC for Online platform aims atreducing the work ofTNP cell to
+convert all the placement procedure completely online.
+•Used React.js on the client side and for the server-side we have
+used Firebase as acloud database and cloud functions, tomanage
+all the data.
+•T ook initiative tolead this group project.
+CAR RENTAL WEBSITE [a ]
+•Built acomplete website for Car renting management purpose
+which helps us to handle all the data of the customers which are
+logging into our website.
+•Used Bootstrap andReact.js tocreate the user interface and used
+MySQL for storing and handling all the data ofthe customers.
+PERSONAL SKILLS
+T eamwork, Learner, Creative, Helper, Intuitive
+HOBBIES
+Cricket, Football, Video Games, Movies,
+T ravelling and Exploring the World
+SPEAKS
+English, Marathi, Hindi, Rajasthani

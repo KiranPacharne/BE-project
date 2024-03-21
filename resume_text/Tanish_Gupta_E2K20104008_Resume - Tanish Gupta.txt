@@ -1,0 +1,50 @@
+     Tanish  Gupta  
+Rajouri(J&K)  guptatanish012@gmail.com  8492076721  
+ 
+PROFILE  
+ 
+Adaptable professional with proven communication, leadership and management skills. Fast self-learner  for new 
+knowledge. Aiming to leverage  my abilities to successfully fill the role in your company. Proven ability to develop 
+innovative solutions for complex projects.  Applying  for the position  of at Searce Inc  to utilize  my skills  and  experience  to 
+deliver  high -end  solutions.  
+EDUCATION  
+Bachelor  Of Engineering  (Electronics  & Telecommunications)                                                                                2020 -2024  
+Pune  Institute  of Computer  Technology,  Pune,  India                                                                              CGPA -7.80  
+HSC                                                                                                                                                                                                                           2019-2020 
+Delhi Public  School, Rajouri,  J&K        Percentage -85.4%  
+SSC                                                                                                                                                                                                                             2017-2018 
+Army  Goodwill Public  School, Rajouri, J&K        Percentage -88.8%  
+ 
+PROJECTS  
+ 
+Row House Messenger                                                                                                                                          Aug  2023 -Present    
+• Building an  online chat application exclusively for me and my friends.  
+• Building  a full -stack web application using NodeJS and ExpressJS . 
+• Implemented authentication and authorization using JWT and Bcrypt.  
+Milli -Ohm Meter                                                                                                                                         March . 202 3 – June . 202 3 
+• Ohm meter is an electrical instrument that measures electrical resistance, the opposition to the flow of current.  
+• MILLI -OHM METER makes low value resistance measurements in Ohms (Ω)  
+• Most shunt resistors have values below one ohm. Such low values of resistances cannot be measured reliably due to range and 
+resolution limitation of measurement devices.  
+ 
+EXPERIENCE  
+ 
+Web  Development  Intern  
+Digiteon  Consulting  Pvt.  Ltd  Jan. 2023  - March  2023  
+• Constructed user interfaces for digital products using HTML, CSS and JavaScript to meet customer requirements  
+and accelerated delivery of projects.  
+Student  Volunteer  
+PICT  Newsletter  And  Brochure                                                                                                                                       March  202 2- Aug 2022  
+• Worked  as PR Lead.  
+• Worked  with  the social  media  team  and  handled their  official Instagram  Handle.  
+ 
+SKILLS  
+ 
+Soft  Skills:  Leadership,  Strategic,  Team work , Project  Management,  Problem  Solving  
+Technical  Skills:  Basic JAVA , HTML,  CSS,  JS, MYSQL  
+Languages:  English,  Hindi , Punjabi  
+ 
+INTERESTS  
+ 
+Stock  Investing  | Event  Organizations  | Fitness  | Poker   
+ 

@@ -1,0 +1,72 @@
+Tanay Chillal
+tana ychillal@gmail.c om | 91467 44428 |
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+INF ORMA TION TECHNOL OG Y
+2024
+LINKS
+LinkedIn:
+linkedin.com/in/tanay-chillal-a2025795
+Github: https://github.com/tanny0303
+SKILLS
+•DATA STRUCTURES AND
+ALGORITHMS
+•THEORY OFCOMPUTATION
+•MySQL
+•HTML
+•COMPUTER NETWORKS
+•OPERATING SYSYTEMS
+•OBJECT ORIENTED PROGRAMMING
+•DATABASE MANAGEMENT SYSTEM
+•PROCESSOR ARCHITECTURE
+•MACHINE LEARNING
+TOOLS
+•GITHUB
+•VsCode
+•Jupyter Notebook
+•MPLab
+HOBBIES
+•Cricket
+•Running
+•Singing
+STRENGTHS
+•Commnunication
+•LeaderShip
+•MarketingPROJECTS
+IPL WINNER PREDICTOR
+•Used Random Forest Classifier
+•Created alistoftop40players (20bowlers and20batsman)
+•Used listofplayers,previous yearmatch datatofeedtoClassifier
+E-COMMERCE (BACKEND)
+•Schema ofCustomer andProducts
+•User Authentication
+•Functionality ofwebApp includes routes,get andpostrequests
+ACHIEVEMENTS
+6 STAR IN PROBLEM SOLVING
+Awarded witha6starbadge onHackerrank inProblem Solving.
+Itinvolved solving challenges ofvarious types toimprove thinking and
+solving skills.
+5 STAR IN C++
+Awarded with a5Starbadge inC++. Itinvolved implementing var-
+iousOOP concepts andunderstanding pointers indepth.It alsohadSTL
+library questions which helped inCompetitive Coding.
+GEEKS FOR GEEKS AND LEETCODE
+Solved more than150DSAquestions onGeeks forGeeks andLeetcode
+both.
+https://www.hackerrank.com/tanaychillal
+https://leetcode.com/tanny0303/
+INTERNSHIP (INHOUSE)
+DEPLOYMENT OF CLOUD USING OPENSTACK
+•Performed manual installation ofOpenStack
+•Created 1control and4compute nodes indistributed form
+•Used VirtualBox asHypervisor
+EXTRA CURRICULAR
+PCSB
+Worked inPICT’s CSIstudent chapter event Xenia. Where Ihad
+setupquestions inDextrous event.It gave meexposure ofworking in
+team andcoordination init.
+INC PUBLICITY
+Ihave worked inPublicity andMarketing team ofImpetus andCon-
+cepts. Iworked withiMocha asacoordinator during theevent. Igot
+experience ofattracting crowd andcommunity building.

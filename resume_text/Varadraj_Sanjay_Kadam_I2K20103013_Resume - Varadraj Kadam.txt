@@ -1,0 +1,50 @@
+VARADRAJ  KADAM  
+Pune,  Maharashtra  
+  +91 8010813698  varadrajkadam11vk@gmail.com  LinkedIn  
+ 
+Education   
+Pune  Institute  of Computer  Technology  CGPA:  8.77  
+Bachelor  of Engineering  in Information  Technology  2020 -2024  
+Sanjay  Ghodawat  Junior  College  , Kolhapur  Percentage:  81.69  
+HSC  (12th)  2020  
+Sanjay  Ghodawat  Olympiad  School  , Sangli  Percentage:  93.20  
+SSC (10th)  2018  
+Projects   
+ 
+Expense  Tracker  | MERN  STACK  
+• Developed  this to  facilitate  easy  and efficient tracking  of personal  finances.  
+• Designed  and developed  various  reusable  and responsive  UI components  for the application  using  React.js.  
+• Implemented Charts  and graphs  for enhanced  User  experience using  chartJS.  
+• Responsible  for integrating  back -end API  with  front -end for seamless  and efficient data  transfer.  
+ 
+Event  Booking  Platform  | MERN  STACK  
+• User  can bookany  particular  event  online  and can download  the generated  ticket.  
+• Admincan  track  details  like the number  of users,  and userdetail . 
+• Payment  Gatewayand  Ticket  Verification  is also  integrated . 
+ 
+Charity  Organisation  System  | MySQL  
+• Developed  a Database  Management  Systemfor  Charity.  
+• System  manages  different  centers  of a Charity  . 
+• Features  include  categorizing  transactions  according  to relevant  parameter(gender,  size,  type,  head).  
+ 
+Technical  Skills   
+• Languages  : C++  , Java  , HTML,  Javascript  
+• Databases  : MySQL,  MongoDB  
+• FrameWork  : Node.Js,  Express   
+• Additional  Skills  : Competitive  Programming,  Data  Structures  and  Algorithms  
+• CourseWork  : Database  Management  System,  Object  Oriented  Programming,  Operating  System,    
+System  Design  
+Certificates   
+• The  Complete  2023  Web  Development  Bootcamp  
+Achievements   
+• Solved  500+  question  on various  platform  like  codechef,  codeforces,  leetcode,  gfg, etc.  
+• Secured  all India  rank  of 390  in Codechef  lunchtime  in the month  of August.  
+• Played  State -Level  Basketball  tournaments.  
+ 
+Extra  Curricular  Activites   
+• Designed  problems  for Ninja  Coding  in Pradnya  INC,  XENIA  2022.  
+• Runner -Up in Intra  College  Baskteball  tournament.  
+Coding  Profile  Links   
+• LeetCode  
+• CodeChef  
+• CodeForces  

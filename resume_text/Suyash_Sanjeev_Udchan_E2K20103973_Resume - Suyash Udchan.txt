@@ -1,0 +1,35 @@
+SUYASH S. UDCHAN
+ABOUT:
+Currently pursuing bachelors in Electronics and Telecommunication, I have a strong
+desire to learn, grow and contribute to society through technology. 
+Django Blog App             
+Django | SQLite |  HTML |  CSS  |  Bootstrap  
+A web application for online blogging where user can read, write, publish and edit
+blogs 
+User authentication is added to application to ensure security
+URL Shortener
+Django | SQLite |  HTML | CSS | Javascript
+A web application to make long and complex web URLs short
+An appropriate end point name can be given to respective URL according to user's
+choice
+Added Analytics page to view all the custom URLs and their total clicks
+Marketing and Sponsorship Team Member,  
+Contributed as a marketing and sponsorship team member for PISB's annual
+technical event CREDENZ
+Managed to close sponsorship deals for Educational Partner and Food Partner 
+Volunteer,
+ Served as a volunteer in tree plantaion activities, Blood Donation Camp
+Bachelor of Electronics and Telecommunication Engineering               9.34GPA (As of 4 semesters)2020 - 2024 | SCTR's Pune Institute of Computer Technology
+Problem Solving
+Communication and Interpersonal Skills
+Programming efficiency in C, C++, Python  PICT IEEE STUDENT BRANCH (PISB) | September, 2021 - April 2022
+PICT National Service Scheme (NSS) |  June, 2022 - PresentRELEVANT PROJECTS:
+CO CURRICULAR ACTIVITIES :
+EDUCATION:
+SKILLS:L i n k e d I n _ P r o f i l eContact Details
+suyash.udchan@gmail.com
+Contact No.        7722079027
+G i t h u b _ l i n k
+G i t h u b _ l i n k
+2018 - 2020 | Rajiv Gandhi Academy of e-learning
+ Higher Secondary Education                       Overall Percentage:  88.34                Leetcode_Profile

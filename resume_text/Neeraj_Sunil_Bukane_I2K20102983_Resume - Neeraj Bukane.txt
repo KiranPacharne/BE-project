@@ -1,0 +1,47 @@
+Neeraj Bukane
+♂phone+91-7620-755-241 /envel⌢peneerajbukane30@gmail.com /linkedinNeerajBukane /githubNeeraj3062
+Education
+Pune Institute of Computer Technology June 2020 - July 2024
+B.E in Information Technology — CGPA : 8.37 Pune, India
+Nutan College Feb 2020
+HSC |Percentage : 77.86 Nashik, India
+Technical Skills
+Languages : C++, Python, HTML, CSS
+Technologies : ReactJS, NodeJS,Express JS,Django, DRF, MongoDB,Mysql
+Frameworks : Bootstrap, Tailwind, Material UI
+Developer Tools : Docker, GitHub, Heroku,Figma, Illustrator, Procreate, VS Code
+Experience
+UI/UX Intern Nov 2020
+R Cube Digital Studio
+•Contributed to enhance the application’s architecture and screen layouts
+•Re-designed the app’s structure to improve its efficiency and user-friendliness
+•Created Wireframes and Final Designs using Figma
+•Final Design: https://bit.ly/appfinaldesign
+Projects
+Expensifyὑ7 |ReactJS, Firebase, Material UI Jun 2022
+•Developed an React App integrated with Firbase Database to track daily expenses.
+•Implemented Firebase Authentication System for User Registration and Login
+•Utilized Material UI to give the user interface an elegant appearance.
+•Link: https://github.com/Neeraj3062/Expensify
+Lueke Awareὑ7 |Django, Python November 2021
+•Developed a Leukemia Awareness website with Blood donation portal and refferal system
+•Implemented Django User authentication and created frontend using Html Css and Bootstrap.
+•Created Custom Logos and Illustration for website using Adobe Illustrator.
+•Link: https://github.com/Neeraj3062/LuekeAware
+Personal Portfolioὑ7 |HTML, CSS, JavaScript October 2021
+•Designed Personal Portfolio to showcase my projects and skills.
+•Used Html, Css and Javascript to add elegant look and responsiveness to the website
+•Link: https://neeraj3062.github.io/portfolio/
+Other Projects :Cretronix, DevSearch(Django), TodoList(MERN), Omnific Cosmos
+Organizations
+Member, PISB
+PICT IEEE Student Branch
+•Developed Frontend for Cretronix Event in Credenz 22, Flagship event of PICT IEEE Student Branch
+Achievements and Extracurricular Activities
+∗Qualified for Round 2 of Pasckathon 3.0 arranged by PICT ACM Student Chapter wiht over 70 + teams participating.
+∗Qualified for Round 2 of Design Maestro at Xenia’21, PICT CSI Student Chapter flagship event.
+∗Qualified for Final Round in Development Battle PICT and VIIT Inter College Hackathon
+Hobbies
+·Designing
+·Chess
+·Football

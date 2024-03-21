@@ -1,0 +1,23 @@
+EDUCATIONSKILLS
+EXPERIENCE/PROJECTS
+CONTACT abhaybhat86@gmail.com
+Pune,India
+9149842985Languages :                                                                              
+ C++, Basics of Java
+Technology Stack:
+Html,Css,Js,NodeJs,ReactJs,MongoDB,ExpressJS
+CourseWork : OS,DBMS,Computer Networks,OOPS                                     
+An SocialMedia Application where users can register/login and
+post their posts
+TechStack:      
+ReactJS,Html,Css,JS,NodeJS,ExpressJs,MongoDB,Multer   2023-2023SOCIOPEDIA APPLICATION (MERN STACK)Bachelor of Engineering in Information technology
+University of Pune | 2020 - 2024PUNE INSTITUTE OF COMPUTER
+TECHNOLOGY  
+SSC:91.2% (2019-2020)
+HSC:82.4% (2017-2018)
+ ARMY PUBLIC SCHOOL DAMANA I am an undergraduate fresher seeking a full-time position and opportunity where I can apply
+my knowledge and skills for continuous improvement.ABHAY  BHAT
+ROW HOUSE MANAGER
+2023-2023
+Building a online chat application for me and my friends 
+TechStack : ReactJS,Html,Css,JS,NodeJs,ExpressJs,MongoDBCGPA : 8.90

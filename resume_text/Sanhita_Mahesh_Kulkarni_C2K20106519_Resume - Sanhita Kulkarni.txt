@@ -1,0 +1,84 @@
+8 0 1 0 2 3 2 4 9 8 s a n h i t a k 1 7 @ g m a i l . c o m
+2 0 1 8 - 2 0 2 0
+2 0 1 2 - 2 0 1 8
+B a n g a l o r e ( o f f - s i t e )
+2 0 2 0 - 2 0 2 4 P u n e , M a h a r a s h t r a
+P u n e , M a h a r a s h t r aEducation
+PUNE INSTITUTE OF COMPUTER
+TECHNOLOGY
+B . E .  C o m p u t e r  E n g i n e e r i n g
+C G P A ( 4  s e m e s t e r ) :  9 . 3 9 5
+P.V.G'S MUKTANGAN ENGLISH SCHOOL
+AND JUNIOR COLLEGE, PUNE
+H i g h  S c h o o l  C e r t i f i c a t e
+P e r c e n t a g e :  8 8 . 7S a n h i t a  K u l ka r n i
+A  M a c h i n e  L e a r n i n g  e n t h u s i a s t  a n d  a  p r o g r a m m e r
+A  c u r i o u s  l e a r n e r  w h o  l i k e s  t o  l e a r n s  n e w  t h i n g s  u s i n g  h a n d s  o n  p r a c t i c e s
+Activities
+PICT CSI STUDENT CHAPTER
+COLLEGE CLUB(CO-CURRICULAR)
+V o l u n t e e r i n g  f o r  D e s i g n  a n d  V i d e o  T e a m  
+D e s i g n  l o g o s  f o r  a l l  a c t i v i t i e s  a n d  m a k i n g  
+t e a s e r  a n d  m a i n  v i d e o  f o r  t h e  e v e n t  
+Achievements
+F i r s t  p r i z e  i n  I m p e t u s  a n d  
+C o n c e p t s  ' 2 2  i n  M L  D o m a i nProjects
+MOMer
+A  w e b  a p p l i c a t i o n  f o r  a u t o m a t i n g  t h e  M i n u t e s  o f  M e e t i n g s
+T e c h  s t a c k  -  P y t h o n ,  F l a s k ,  H T M L ,  C S S ,  J a v a S c r i p t
+JARVIS
+A  d e s k t o p  v o i c e  a s s i s t a n t  p r o g r a m
+T e c h  S t a c k  -  P y t h o n ,  B u i l t  i n  P y t h o n  l i b r a r i e s
+A  D e e p  l e a r n i n g  r e s e a r c h  b a s e d  p r o j e c t  BRAIN TUMOR DETECTION AND CLASSIFICATION USING PRE-
+TRAINED CNN MODELS (research paper publication ongoing)
+T e c h  S t a c k  -  P y t h o n ,  K e r a s , P a n d a s , M a t p l o t l i b , N u m p y , S c i k i t l e a r n
+CoAnalyzer
+A  D a t a b a s e  M a n a g e m e n t  S y s t e m  w i t h  w e b  s c r a p i n g
+I t  i s  a  d a t a b a s e  o f  c o u r s e s  a v a i l a b l e  o n  w e l l  k n o w n  o n l i n e  l e a r n i n g
+p l a t f o r m s  a l o g  w i t h  p r i m e  a t t r i b u t e s .
+T e c h  S t a c k  -  M y S Q L
+ 
+Skills
+LANGUAGES
+P y t h o n C + +
+FRAMEWORKS
+D j a n g o
+TOOLS
+V i s u a l  S t u d i o  C o d e  
+FAMILIAR
+C J a v a H T M L C S S J a v a S c r i p tP y c h a r m
+G o o g l e  C o l a bM y S Q l
+M o n g o D B
+Hobbies
+L i s t e n i n g  M u s i c
+R e a d i n g  N o v e l s
+D a n c i n gP u n e , M a h a r a s h t r aCITY INTERNATIONAL SCHOOL
+C e n t r a l  B o a r d  o f  S e c o n d a r y  E d u c a t i o n
+P e r c e n t a g e :  8 8 . 6 6
+P o w e r B I
+DOMAINF l a s k
+M a c h i n e  L e a r n i n g D e e p  L e r a n i n g
+I m a g e  P r o c e s s i n gCredBud
+A  B u d g e t  P l a n n i n g  S y s t e m
+D i s p l a y  a  v i s u a l  r e p r e s e n t a t i o n  o f  d a i l y  a s  w e l l  a s  m o n t h l y  s p e n d i n g s
+T e c h  S t a c k  -  H t m l ,  C S S ,  J S ,  D j a n g o
+Work Experience
+Intern at Northern Trust Cooperation
+S o f t w a r e  D e v e l o p m e n t  I n t e r n
+W o r k e d  a s  a  p a r t  o f  c o r e  D a t a  S e r v i c e s  t e a m
+W o r k e d  o n  C o s t  a n a l y s i s  a n d  f o r e c a s t i n g  u s i n g  P o w e r B I  a n d  m a c h i n e  l e a r n i n g
+m o d e l s0 5  J u n e  -  1 1  A u gLung Cancer Classification
+A  d e e p  l e a r n i n g  i m a g e  c l a s s i f i c a t i o n  p r o j e c t
+T r a i n i n g  a  m o d e l  t o  c l a s s i f y  a n  i m a g e  i n t o  d i f f e r e n t  t y p e s  o f  l u n g  c a n c e r s
+Certifications
+W i n n e r  I m p e t u s  a n d  C o n c e p t s ' 2 2
+C o u r s e  C o m p l e t i o n :  
+J a v a  ( I n t e r n s h a l a )
+P y t h o n  ( I n t e r n s h a l a )
+M y S Q L ( U d e m y )
+D j a n g o  ( U d e m y )
+S a n h i t a  K u l k a r n i
+s a n h i t a _ 1 7 7 4
+s a n h i t a 1 7
+s k _ 1 7 7 4Links
+S k - 1 1 7 4

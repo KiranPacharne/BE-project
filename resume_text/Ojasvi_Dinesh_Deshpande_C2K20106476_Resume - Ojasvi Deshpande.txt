@@ -1,0 +1,40 @@
+Ojasvi Deshpande
+Ħ9665713422 |ćojasvi.deshpande@gmail.com |^github.com/Ojacode |]linkedin.com/in/ojasvi-deshpande-454020213/
+PersonalProfile
+Anundergradstudent,pursingB.EinComputerEngineeringfromPuneInstituteofComputerTechnology. Hardworkingandeagerlearner.Interested
+inapplyingmyskillstosolverealworldproblems.
+Education
+PuneInstituteofComputerTechnology Pune,India
+BachelorofEngineeringinComputerEngineering Aug2020‑Current
+•CumulativeGPA‑9.34
+MillenniumNationalSchool Pune,India
+ClassX May2018
+•PassedwithDistinction
+•Percentage‑95.6
+WorkExperience
+PuneInstituteofComputerTechnology Pune,India
+FullStackDeveloper March2023‑May2023
+•Developedawebscrapertogeth‑Indexandi‑10Indexofauthors’publicationsfromGoogleScholarwebsite.
+•TechnicallSkills: NodeJs,Puppeteer,ReactJs,ExpressJs,HTML,CSS
+PICTIEEEStudentBranch Pune,India
+VolunteeratCredenz Sept2020‑Aug2021
+•Credenzisaclubeventatourcollege.Workedasafrontenddeveloperforitswebsite.
+•TechnicallSkills: HTML/CSS,Bootsrap,Javascript.
+PersonalProjects
+DiscussionForumWebsite Pune,India
+•Aplatformthatwouldhelpanswerdifferentqueriesraisedbyengineeringstudents. Itworkssimilartoquora.
+•Motivation: Allowsrichdiscussionsofstudentsonvarioustopicssuchasacademics,placements,technicaldomains,etc.
+•TechnicalSkills: NodeJs,ExpressJs,MongoDb,HTML/CSS
+COMappingWebsite Pune,India
+•DevelopedawebsitethatcouldcalculatetheCourseOutcome(CO)attainmentofeachsubjectattheendofthesemester.
+•Impact:Automatestheprocessofcalculatingcourseoutcomeattainmentandreducescumbersomecalculations.
+•TechnicalSkills: NodeJs,ExpressJs,HTML,CSS
+Skills
+Programming C/C++,HTML/CSS,JavaScript,NodeJs,ExpressJs,ReactJs,MySQL,Mongodb
+Achievements
+20223starcoder(Maxrating1687) ,Codechef
+2022GlobalRank8inJanuaryLong2022 ,Codechef
+2020Secured99.43percentileinCET ,12th
+2020Secured98.48percentileinJEEMains ,12th
+Interests
+Volleyball Zonalvolleyballplayer. RunnerupinElevate‑intercollegiatevolleyballtournament. Girls’VolleyballTeamcaptain.

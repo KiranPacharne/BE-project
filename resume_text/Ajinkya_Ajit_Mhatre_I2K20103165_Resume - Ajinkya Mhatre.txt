@@ -1,0 +1,45 @@
+Ajinkya Mhatre
+Ħ+91 9152009520 |ćmhatreajinkya02@gmail.com |^github.com/thunderkinght |]linkedin.com/in/ajinkya-mhatre-710975212
+Education
+PuneInstituteofComputerTechnology Pune,India
+BEinInformationTchnology June,2020‑June,2024
+•CurrentCGPA:‑8.35
+•InformationTechnology
+SanjayGhodawatJuniorCollege Kolaphur,India
+HigherSecondarySchoolCertificate June,2018‑June,2020
+•Percent:‑76%
+•12thStandard
+OrchidInternationalSchool Nashik,India
+IndianCertificateofSecondaryEducation June2011‑Apr2018
+•Percent:‑86%
+•10thStandard
+WorkExperience
+MadhyamImpactFoundation Pune,India
+AppDeveloper March2023‑April2023
+•ItwasacollabaratedwithIndianGovernmenttomakeaeducationapp.
+•WorkedonFrontendDeveloper
+•TechnicalSkills: React,ReactNative,Expo,Git
+•SoftSkills: Teamwork,TimeManagement,Communication,Presentationskills.
+UniversityProjects
+TheSmartWasteManagement Pune,India
+PuneInstituteofComputerTechnology Nov2022‑April2022
+•Thewebsiteconnectswasteproducerswithrecyclers,facilitatesthecollectionandrecyclingofvariouskindsofwastes.
+•Thewebsiteallowsuserstoschedulepickupsandusesgeolocationtechnologytolocatenearbyrecyclingcenters.
+•TechnicalSkills: HTML,CSS,Javascript,MongoDB.
+•SoftSkills: TimeManagement,Teamwork,Presentationskills,Reportwriting.
+WeatherApp Pune,India
+PuneInstituteofComputerTechnology Nov2021‑April2021
+•Itistofindtheweatherlikewindspeed,temperatureandetc. usingtheuserlocation.
+•TechnicalSkills: Python,WebsiteAPI.
+•SoftSkills: Presentationskills,Leadership,Teamwork,LogicalThinking.
+Skills
+Programming Python,C/C++,Java,SQL,Dart,C#.
+DeveloperTools VSCode,AndroidStudio,VisualStudio
+MobileDevelopment Flutter
+WebsiteDevelopment HTML,CSS,JavaScript,Angular,React,ReactNative
+Achievements
+2023UdemyCertificate ,TheCompleteFlutterDevelopmentBootcampwithDart India
+2023UdemyCertificate ,CompleteC#UnityGameDeveloper3D India
+2021CertificateofParticipation ,HackathonofIIIT,Pune India
+2021IntershalaCertificate ,ProgrammingwithPython India
+JULY27,2023 1

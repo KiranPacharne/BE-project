@@ -1,0 +1,72 @@
+Samarjeet Desai
+desaisamarjeet08@gmail.com|7058547981|Pune,India
+ABOUTME
+Iaimatpursuingasuccessfuland
+selfsatisfyingcareerwhichwill
+provideopportunitiesofgathering
+knowledge,selfdevelopmentand
+helpingmyorganization’s
+businessgrowthtothebestofmy
+abilities.
+EDUCATION
+BachelorofEngineering-
+Electronicsand
+Telecommunication
+From-PuneInstituteofComputer
+Technology,Pune
+06/2020-06/2024 8.21
+HigherSecondaryCertificate
+(HSC)
+From-ServicesPreparatory
+Institute
+07/2017-07/2019 70.00%
+SecondarySchoolCertificate
+(SSC)
+From-VidyaniketanEnglish
+MediumSchool
+07/2006-07/2017 83.00%
+LINKS
+Github:// @desaisamarjeet08
+Linkedin:// @desaisamarjeet08
+Leetcode:// @samar_jeet08
+CodeForces:// @samar_jeet
+CodeChef:// @samarjeet08
+HOBBIES&INTERESTS
+ProblemSolving
+CompetitiveProgramming
+sketching
+ReadingNovels
+Football
+TrekkingPERSONALPROJECTS
+INVENTORYMANAGER
+•DesignedanddevelopedanefficientInventoryManagementSystemby
+streamlininginventorytrackingandmanagement.
+•Mainpurposeofthisprojectistokeeptrackofinventoriesofacompany&
+getaccurateinventorynumbers.
+•providesauser-friendlyinterfacewhereuserscanretriveinformation
+abouttopsellingproducts.
+•Tech-Stack: Frontend-HTML,CSS,JavaScript;Backend-NodeJS,
+MongoDB
+EMPLOYEEMANAGEMENTSYSTEM
+•DevelopedandDesignedanManagementSystemenablingswiftandsecure
+handlingofemployeedata.
+•ItfacilitatesCreate,Read,Update,andDeleteoperationsandalsofacilitates
+authentication.
+•Tech-Stack: Frontend-HTML,CSS,JavaScript;Backend-NodeJS,
+ExpressJS,MongoDB
+SKILLS
+Programming Languages - C/C++ JavaScript
+Relevent Courses - DataStructures&Algorithms DataBase
+ManagementSystem ObjectOrientedProgramming
+Tech Stack - HTML CSS JavaScript NodeJS MongoDB
+SQL
+ACHIEVEMENTS
+0.1 Solvedmorethan800+problemsonvariouscoding
+platformslikeLeetcode,GeeksforGeek,CodingNinjas,
+Codeforces,Codechef,etc
+0.2 3StarCoderonCodechef (C++)
+0.3 5StarCoderonHackerrank (C++,SQL)
+LANGUAGES
+English(FullProfessionalProficiency)
+Hindi(FullProfessionalProficiency)
+Marathi(Native)

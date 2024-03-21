@@ -1,0 +1,42 @@
+SHASHIKANT DESHMUKH
+9421662819 |shashikantdeshmukh736@gmail.com |shashikant-deshmukh-9302901b9/ |github.com/shashikantdeshmukh
+Objective
+A result-driven student, passionate about developing user-friendly software applications. Excellent problem-solving skills
+and ability to perform well in a team. Seeking to help organizations to develop their product as a software engineer, as well
+as develop my own skills as a coder.
+Education
+SCTR’s Pune Institute of Computer Technology Pune, India
+B.E. in Electronics and Telecommunication(CGPA -8.14) 2020 - 2024
+Deogiri College Aurangabad,India
+Class XII 2019
+Pravara Central Public School Pravaranagar,India
+Class X 2017
+Experience
+SCTR’s Pune Institute of Computer Technology
+Cloud Computing Intern
+•Successfully completed a technical internship at SCTR’s Pune Institute of Computer Technology, Pune under
+Industry Connect Course on Cloud Computing, organized by Department of Electronics and Telecommunication
+Engineering in association with TP cell for 4 weeks.
+•During my tenure as an intern, I worked efficiently on Cloud Computing using Amazon Web Services (AWS).
+Projects
+Sorting Visualizer |React.Js
+∗Sorting visualizer that visualizes various sorting algorithms.It uses ReactJs and sorting algorithm.
+∗Designed an intuitive user interface that enables real-time visualization of sorting processes, demonstrating
+effective data visualization techniques.
+Travel Services and Hospitality System |Java, MySQL
+∗Travel Services and Hospitality System in Java and MySQL is a user-friendly and efficient application that caters
+to travel agencies, tour operators, and related businesses.
+∗Implemented user-friendly interfaces forr both travelers and administrators.
+∗By leveraging the power of technology, this system simplifies the complexities of travel planning and enhances the
+overall experience for both travelers and administrators.
+Skills
+Languages : C++, Java
+Databases : MySQL
+Courses :Data Structures, Algorithms, Object Oriented Programming, DBMS, Operating Systems
+Developer Tools : VS Code , Eclipse
+Participations and Achievements
+•PICT ACM Just Coding Event participation.
+•Participated in Impetus and Concepts’23 Organized by Pune Institute Of Computer Technology.
+•Participated in Inter School Basketball Competition Organized by Ministry of Youth and Sports,Govt of India.
+Certifications
+•Object Oriented Programming Using C++

@@ -1,0 +1,43 @@
+Aditya Kulkarni
+|+(91)-7218614006 |adityakulkarni2501@gmail.com |Linkedin |Github |Nationality: American |
+Education
+Pune Institute of Computer Technology (PICT) Pune, India
+Bachelor of Engineering in Computer Engineering |CGPA: 9.222 July. 2020 – Present
+Late P.B Jog Junior College Pune, India
+Higher Secondary Certificate Examination |Percentage: 87.08 Aug. 2018 – May 2020
+Experience
+Software Intern - Image Processing Pune,India
+Periwinkle Technologies Pvt. Ltd. January 2023 – Present
+•Developed a Dataset of 150+ images which is to be used to generate a Classification Model.
+•Developed a ML model to detect scratches on a proprietary glass component.
+•Made use of K-means Clustering Algorithm to get higher accuracy.
+•Technologies used: OpenCV, Python, Scikit-learn,Tensorflow
+Projects
+Loan management system |NodeJs, MySQL, ExpressJs, EJS January 2022 - February 2023
+•Developed a loan management system using Node.js, Express, and MySQL.
+•Developed REST API’s using Nodejs in the backend.
+•Implemented the frontend using Embedded Javascript (EJS) files.
+Social Media Application |NodeJs, MongoDB, ExpressJs October 2022 - November 2022
+•Developed the backend of a social media application.
+•Integrated key functionalities such as JWT authentication and media uploading.
+•Effectively implemented various CRUD functionalities .
+Traffic Sign Detection Model |Python,Keras,Numpy,Matplotlib November 2022 - December 2022
+•Developed a CNN model for detecting traffic signs on the GTSRB dataset.
+•For optimization, made use of the Adam optimizer and categorical cross-entropy loss function.
+•The model achieved an accuracy of 98.6%
+Technical Skills
+Languages : Python,C++,Javascript,SQL
+Frameworks : NodeJs,ReactJs,ExpressJs
+Libraries : OpenCV, Pandas, NumPy, Matplotlib, Scikit-Learn, Tensorflow(Beginner)
+Databases : MySQL, MongoDB
+Relevant Coursework
+•Data Structures and Algorithms
+•Operating Systems
+•Data Science and Big Data Analytics
+Coding Profiles
+Have Solved more than 400+ Problems on Various Coding Platforms
+•Leetcode: AdiKul12
+•Codeforces: AdiKul12
+Publications
+•A Study on Neural Networks used for Traffic Signal Classification
+IRE Journals (Open Access), Jan 2023

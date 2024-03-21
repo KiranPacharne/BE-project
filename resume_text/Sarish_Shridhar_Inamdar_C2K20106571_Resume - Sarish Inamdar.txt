@@ -1,0 +1,39 @@
+Sarish Inamdar Location: Pune, Maharashtra
+LinkedIn |GitHub |Leetcode Email: inamdarsarish@gmail.com |Mobile: 8766813020
+SKILLS
+Technical Skills : C++, Python, Dart, Flutter, Data Science, Machine Learning
+Databases : MySQL, MongoDB
+Other Tools : Power BI, Microsoft Excel, Adobe Photoshop
+Course Work : Data Structures, Operating Systems, Database Management, Object Oriented Programming
+EXPERIENCE
+Machine Learning Intern Sept 2022 – Nov 2022
+IBM Skillsbuild Program Remote
+•Developed a Sign Language Detection model individually under the guidance of a mentor
+•Worked with NumPy, OpenCV, Keras, Tensorflow libraries in Python to develop a model with accuracy up to 91%
+•Documented progress step by step and presented the project at the end of 8 weeks
+EDUCATION
+Pune Institute of Computer Technology, Pune, Maharashtra GPA - 9.1
+B.E. Computer Engineering 2020 - 2024
+Millennium National School and Junior College, Pune, Maharashtra Percentage - 94.60%
+Class 12 CBSE 2018 - 2020
+PROJECTS
+Diabetes Prediction Model
+•Performed data analysis on the Pima Indian Dataset containing upto 800 entries and 9 features
+•Applied feature scaling and preprocessing techniques using Pandas and Numpy and built a model using XGBoost
+algorithm to predict Type-2 diabetes with accuracy score of 89%.
+•Deployed the model for usage using Flask
+Tech News Application
+•Developed an user friendly mobile application using Flutter for iOS and android
+•Fetched various technology related news articles using API and displayed 100 news articles on the page
+•Implemented custom widgets and used flutter packages to implement various functionalities and streamline user
+experience
+EXTRACURRICULAR
+•Played football at District Level and Captained the school football team at multiple inter-school events
+•Member of the Design Team ofPICT IEEE Student Branch responsible for club’s design work and managing a team of
+20 junior club members
+•Led a team of 10 people and handled the digital design work at PICT’s Annual Cultural Fest - Addiction 2022
+•Proficient in playing Tabla and secured 1st position at a tabla competition at S.P .M. English School, Pune
+CERTIfiCATIONS
+•Varsity Stock Market Certification Zerodha
+•Viz-A-Thon (Hackathon for Data Visualizations) 2022 VIIT , Pune
+•Python for Data Science, Data Structures and Programming, Soft Skills Development NPTEL

@@ -1,0 +1,44 @@
+Sangeeta Singh
+Highly inquisitive with never-say-die attitude, a team player and always ready to work in collaborative environment
+♂phone9168086557 /envel⌢pesdsingh1707@gmail.com /linkedinSangeetaSingh17 /githubSangeetaSingh17
+Education
+Pune Institute Of Computer Technology, Pune CGPA: 9.13
+Bachelor of Engineering in Electronics and Telecommunications
+Kamalnayan Bajaj Higher Secondary School Percentage: 74.31
+Higher Secondary Certificate
+P.D.E.A’s English Medium School Percentage: 98.00
+Secondary School Certificate
+Experiences
+Intern - Deutsche Bank Jun’23 - Jul’23
+•Actively contributed to the development and testing of a real-time data processing platform using Java and Spring Boot.
+•Implemented an application that monitors real-time changes for different protocols using gRPC and REST interfaces,
+with data sourced from Kafka.
+•Developed automated test cases using JUnit and Mockito, leading to a 70 percent increase in test coverage.
+•Technologies used: Spring Boot, gRPC, Gradle, Git, Apache Kafka.
+Student Teacher - Campus Education Oct’20 - Jan’21
+•Taught and Mentored 6 higher secondary board students.
+•Provided personalized guidance, motivation, and continuous progress evaluation on IT topics.
+Projects
+Clash and Reverse Coding Oct’21 - Mar’22
+•Associated with PICT IEEE Student Branch (PISB), a web platform which handles code submissions by running the
+code in a sandboxed environment and judges it across multiple test cases.
+•Technologies used: Django, MySQL, Sandbox, HTML, CSS, Git, Linux.
+Mathviz Sep’21 - Jun’22
+•An online virtual Engineering Mathematics Laboratory with real-time graph visualization.
+•Technologies used: Flask, React, HTML, CSS, Github, Docker.
+Skills
+Languages and Frameworks : C++, Java, Python, SQL, Spring Boot, Django, gRPC.
+Tools : Git, Intellij, MySQL, Linux, Gradle.
+Soft Skills : Problem-Solving, Office Etiquette, Communication, Adaptability, Attention to detail.
+Relevent Coursework
+•Data Structures and Algorithms •Object Oriented Programming •Database Management
+Roles and Responsibilities
+P.I.N.G. Head, PICT IEEE Newsletter Group (Issue 18.1 ) Jan’23
+•Led and managed the publication team, overseeing the creation and publishing of technical magazine.
+•Developed editorial strategies, mentored the team, curated content, managed stakeholders, and promoted the magazine’s
+impact.
+Achievements
+•Won 3rd Prize in the coding competition CODESTROM organized by the IEEE Student branch of GHRCoEM
+•Secured a global rank of 14 in Starters 41 on Codechef and achieved 4 stars with a highest rating of 1842
+•Secured First Rank at school organization level in SSC board Exam
+•Solved 600+ problems on various coding platforms

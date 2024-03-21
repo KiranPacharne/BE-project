@@ -1,0 +1,85 @@
++91 8600124455
+smitanaik3004@gmail.com
+Wakad, Pune, MaharashtraCONTACT
+PROFILE
+TECHNOLOGIESWORK EXPERIENCE
+Data Analytics (Python libraries-
+Pandas, Numpy, Matplotlib,
+TensorFlow, Keras, Scikit-learn)
+Cloud Services (IaaS, PaaS, SaaS)
+Cloud Computing types (Public,
+Private, Hybrid)
+Terraform
+AWSIBM – Intern
+FEBRUARY 2023 – JUNE 2023
+Worked on Utilization of Spot Instances on AWS in a distributed
+cluster environment. Planning and implementation to successfully
+utilize Spot Instances in distributed cluster environments.
+Cloud deployment of Spectrum Scale on Google Cloud using
+Terraform.SMITA NAIK
+DATA SCIENCE ENTHUSIAST 
+Organized, trustworthy with the
+eagerness to learn, grow and develop
+new skills. Willingness to give 100% to
+the assigned work, collaborate with
+team members to achieve team
+success.
+PROGRAMMING
+LANGUAGES
+Python
+C++
+JAVA
+MySQl
+CREATIVITY TOOLS
+Photoshop
+Illustrator
+Figma 
+Adobe XD
+LANGUAGES
+English 
+Hindi 
+Marathi
+HOBBIES 
+Sketching 
+Reading 
+Trekking Pune Institute of Computer Technology - Intern
+AUGUST 2022 – SEPTEMBER 2022
+Collaborated with the design team to create visually appealing
+and user-friendly website interfaces using Figma.
+Translated wireframes and mockups into interactive prototypes,
+ensuring seamless user experiences.
+PROJECTS
+NIFTY historical 5/10 years return 
+EDUCATION
+Pune Institute of Computer Technology, Pune – B.E. In Electronics and
+Telecommunication
+2020-2024 – CGPA – 8.80
+Suryadatta Junior College, Pune - (HSC)
+2018-2020 -12th grade Percentage- 77.43%
+Wisdom World School, Pune – CISCE
+2016-1018 - 10th grade Percentage- 93.00%ORGANIZATION
+TEDxPICT — Head of Content (June
+2022 – June 2023)
+Women in Data Science (WiDS), Pune,
+India - Volunteered in Annual Global
+Conference held in March 2021
+PICT CSI Student Branch 
+PICT IEEE Student Branch
+COURSES
+Mastering Data Structures & Algorithms using C and C++
+Machine Learning Specialization
+Google UX DesignAlgo Analytics – Intern
+AUGUST 2023 – PRESENT
+Developed a data visualization project using Python's Pandas,
+Matplotlib, and Seaborn libraries to analyze and present historical
+stock market returns.
+Movie Recommendation System
+Created a movie recommendation system utilizing cosine similarity
+algorithm to suggest personalized movie choices based on users'
+viewing preferences. Implemented collaborative filtering to
+enhance user experience and engagement.Collaborated with a cross-functional team to develop and
+implement machine learning algorithms using Python libraries
+(Scikit-learn, TensorFlow, Keras)
+Implemented data preprocessing techniques such as data
+cleaning, feature scaling, and handling missing values to ensure
+the accuracy and reliability of the model inputs.

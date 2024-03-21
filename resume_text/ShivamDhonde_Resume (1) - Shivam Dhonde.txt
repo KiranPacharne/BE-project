@@ -1,0 +1,49 @@
+Shivam Dhonde shiva2shivam@gmail.com
+Pune,India Linkedin
+Computer Engineer GitHub
+A passionate being who desires to learn, experiment and explore technical, analytical +919822225335
+and problem-solving skills and has an interest in solving various Algorithm problems.
+Education
+•Pune Institute Of Computer Technology Pune
+Bachelor in Computer Engineering; CGPA: 9.37 2020 - 2024
+•Deogiri College Aurangabad
+Higher Secondary Education; Percentage: 95.08 2018 - 2020
+•Chate School Aurangabad
+Matriculate, Class X, Percentage: 93.40 2018
+Skills Summary
+•Languages : C++, C, Java, SQL, HTML, CSS, JavaScript, Typescript
+•Frameworks : React JS, Bootstrap, Material UI
+•Tools : GIT, Visual Studio Code, Github
+•Soft Skills : Presentation, Team Work, Leadership, Critical Thinking
+•Courses : OOPS, Database Management, Data Structures and Algorithms and Computer Network.
+Experience
+Barclays - Software Developer Intern June-July 2023
+•Built a JIRA utility to track the progress of teams and see the Lead time of the overall software Development process.
+•Built the UI for the project, created JQL , and displayed fetched data in the forms of various tables.
+•Implemented the concepts of concepts Data Grids, filtered fetching andformatting fetched data by using
+Typescript.
+•Worked on technologies such as React using Typescript ,Material UI, ChartJS .
+•Learnt uilization of JIRA for streamlined task tracking, workflow management, and cross-functional collaboration in
+software development projects.
+Personal Projects
+Crypto Tracker /github-square:
+●Primary goal of this web application is to track different Crpytocurrencies’ information.
+●Real time value of cryptocurrencies,their exchange rates in USD andINR , its change in price in last 24 hrs/ 30 days/
+3 months/ 1 year and current market cap is shown.
+●Track record of different currencies in chart structure according to different timespans(24 hrs,30 days, 3 months, 1 year)
+through CoinGecko API .
+●Worked on technologies such as ReactJS, MaterialUI, ChartJS
+Career Chats :
+●Created a collaborative plaform that empowers college seniors to share esential suggestions, including interview
+experiences and more, catering the needs of college juniors.
+●User can create, delete and update a post used JWT for user authorization
+●Worked on technologies such as ReactJS, MySQL, ExpressJS and NodeJS .
+Achievements
+●Won National level Impetus and Concepts (InC) Competition PICT.
+●Solved over 300+ questions on various coding platforms.
+●AIR 262 among 1.5lac+ Students in MHT-CET exam 2020.
+Position of Responsibility
+Training & Placement Cell Head - Computer Engineering Department,PICT
+Coding Circle Head - PICT CSI Student Branch (PCSB)
+Coding Profile Links
+Codechef: //Shivam d27 Leetcode: //ShivamD27 Codeforces: //shivamd27

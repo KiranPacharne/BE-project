@@ -1,0 +1,125 @@
+Simran Godhwani 
+Engineering undergraduate from Pune, India 
+I am a passionate learner who always thrives for fresh challenges with charismatic 
+communication skills and passion for computers, my objective is to
+profusely work towards achieving the organization goals and going beyond to maintaining marketing leadership and achieving new heights. 
+godhwanisimran13@gmail.com 
+9510881295 
+Pune, India 
+linkedin.com/in/simran-godhwani-11a8091bb 
+github.com/simrann2002 
+EDUCATION 
+Bachelor's in Computer Engineering 
+SCTR's Pune Institute of Computer Technology 
+01/2021 - 05/2024
+, 
+ 
+8.2GPA 
+Senior Secondary Education 
+Mount Litera Zee School 
+05/2018 - 06/2020
+, 
+ 
+91% 
+Higher Secondary Education 
+Delhi Public School 
+06/2015 - 04/2018
+, 
+ 
+88.85% 
+WORK EXPERIENCE 
+Summer Internship in Software Development 
+Siemens Digital Industries Software India Pvt Ltd
+ 
+06/2023 - 08/2023
+, 
+ 
+Pune, India 
+Worked for Teamcenter Software Development 
+Unit testing - Jest, ATDD Tests 
+Adding React Component 
+Code coverage 
+Refactoring 
+Scrum and Agile 
+Web Development Internship 
+Intern Crowd LLP
+ 
+ 
+04/2023 - 05/2023
+, 
+ 
+Designed and Developed a webpage using Javascript for
+Interncrowd with Login/ Signup Page. 
+Volunteer work for college club PCSB 
+SCTR's Pune Institute of Computer Technology 
+09/2021 - Present
+, 
+ 
+Contributed for technical (Web app) as well as non-technical work
+of the club 
+Social work Volunteer for college club Pictoreal 
+SCTR's Pune Institute of Computer Technology 
+07/2022 - Present
+, 
+ 
+Active member of PictoSocial where we organize and conducte
+various social activities including tree plantation drive, blood
+donation campaign, orphanage visits , old-age home visits and
+career- counselling sessions 
+SKILLS 
+C++ 
+Unit Testing Frameworks like Jest 
+Data Structures and Algoithms 
+Operating Systems 
+Wireframing 
+MongoDB 
+MySQL 
+OOP 
+Javascript 
+HTML 
+CSS 
+Problem solving 
+Project management 
+Communication 
+Bootstrap 
+Video-editing 
+Adobe Photoshop 
+Python for Data Science 
+PERSONAL PROJECTS 
+Student Care System
+ 
+ 
+This web application is made to improve the feedback/complain mechanism
+of the mess and hostel 
+Wireframing, HTML, CSS, 
+Javascript, ReactJS, ExpressJS, NodeJS, MongoDB 
+Job Application Analyst 
+Developed and implemented a Resume Parser using natural language
+processing (NLP) and machine learning tech
+niques. The parser eﬃciently
+extracts key information from resumes, such as contact details, work
+experience, skills, and education, and converts them into structured data 
+ML,PYTHON,HTML,CSS 
+CERTIFICATES 
+Certiﬁcation of Participating in International Model United
+Nations
+ 
+ 
+ACHIEVEMENTS 
+Successfully organised and volunteered at college club's
+annual technical fest 'Xenia' 
+LANGUAGES 
+English 
+Full Professional Proﬁciency 
+Hindi 
+Full Professional Proﬁciency 
+INTERESTS 
+Reading 
+Competitive Programming 
+Badminton 
+Anchoring 
+Dancing 
+Achievements/Tasks 
+Achievements/Tasks 
+Achievements/Tasks 
+Achievements/Tasks 

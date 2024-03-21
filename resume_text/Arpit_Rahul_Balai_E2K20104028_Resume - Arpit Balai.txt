@@ -1,0 +1,32 @@
+Arpit Rahul Balai
+Languages: J a v a ,  C++( B a s i c),  H T M L  ,  C S S ,  S o l i d i t y ( B a s i c ) , S Q L
+Developer Tools :  V S  C o d e ,  R e m i x - I D E ,  P r o t e u s ,  M y S Q L ,  E c l i p s e - I D E
+ Contact No : 9 8 2 3 2 1 8 7 0 0
+LinkedIN : w w w . l i n k e d i n . c o m / i n / a r p i t b a l a i
+SCTR’s Pune Institute of Computer Technology (PICT), Pune
+S a v i t r i b a i  P h u l e  P u n e  U n i v e r s i t y -  
+( B a c h e l o r  o f  E n g i n e e r i n g  i n  E l e c t r o n i c s  a n d  T e l e c o m m u n i c a t i o n )
+        M.P. Junior College ,Pune
+       ( 1 2 t h  H S C - S c i e n c e )
+   Savitribai Phule Pune University : B a d m i n t o n  T o u r n a m e n t  -  T e a m  E v e n t  :  3 r d  R a n k
+   Pune Institute Of Computer Technology :  Impetus(Event) : P a r t i c i p a t i o n           Email : a r p i t b a l a i 1 5 @ g m a i l . c o m  
+GitHub :  h t t p s : / / g i t h u b . c o m / A r p i t B a l a i
+2018-2020  
+PERCENTAGE : 7 8 %
+MARCH 2018
+       PERCENTAGE : 8 3 %
+Fish Tank Automation System:
+Vehicle-Management System :        A Todo-List Website(Blockchain Technology):
+ T h i s  i s  a  t o d o l i s t  t a k e  k e e p  r e c o r d s  o f  y o u r  t a s k ,  i t  i s  m a d e  u s i n g  t h e  s m a r t  c o n t r a c t s  w h i c h  i s  u s e d  i n               
+ b l o c k c h a i n  t e c h n o l o g y  .
+TECH STACK :  R e a c t J s  , S o l i d i t y , W e b  3 . 0 , G a n a c h e , M e t a m a s k ( W a l l e t ) .
+       I n  t h i s  s y s t e m  w e  a u t o m a t e  t h e  p r o c e s s  o f  f i s h  f e e d i n g  ,  a i r  c i r c u l a t i o n  a n d  w a t e r  f i l t r a t r a t i o n .
+     TECH STACK: P r o t e u s  ,  A r d u i n o  _ I D E
+     Hardware : P o w e r  s u p p l y  ,  A r d u i n o  ,  A t m e g a  I C  ,   R e a l - t i m e - c l o c k  .
+       I n  t h i s  s y s t e m  w e  c o l l e c t  t h e  i n f o r m a t i o n  o f  t h e  u s e r  p u r c h a s e  o f  v e h i c l e  a n d  s t o r e  i t  i n  t h e  d a t a b a s e .    
+      TECH STACK: J a v a , M y S q l  JULY 2020-JUNE 2024
+           CGPA : 8 . 9 9
+SKILLS :
+PROJECTS :EDUCATION
+EXTRA CURRICULARS :Hume McHenry Memorial High School , Pune
+( 1 0 t h  I C S E )

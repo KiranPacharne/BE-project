@@ -1,0 +1,55 @@
+SKILLSMachine Learning Enthusiast, Data Science Student, Web Developer,
+Augmented Reality Developer
+A highly driven student with problem solving skills and commitment to
+excellence. A keen learner who is eager to enhance and expand my skill
+sets through challenging projects.PROFILE
+EDUCATION
+Holy Cross Convent School
+94.4% (2018)SECONDARY SCHOOL
+SCTR's Pune Institute of
+Computer Technology
+9.46 c.g.p.a. B. E. - ELECTRONICS AND
+TELECOMMUNICATION &
+HONORS - DATA SCIENCEHIGHER SECONDARY
+SCHOOL
+K. M. Agrawal College of Arts,
+Science and Commerce
+90.6% (2020)LANGUAGESRISHU JHA
+PROJECTS
+2021BEGINNER'S GUIDE TO A PERFECT LAPTOP
+A website that guides the users to buy the most appropriate laptop
+in their quest to buy one.
+Also provides information about various components required to a
+build a personal computer.
+HTML, CSS
+August'22 - September'22PROJECT INTERN AT VODAFONE
+Project name: SUSHRUTA-an assistance to medical professionals
+Developed a disease prediction system for predicting probability of
+breast cancer being benign or malignanat using Neural NetworksWORK EXPERIENCE
+ACHIEVEMENTS
+Got selected among top 40 teams from 500+ teams in the Tech
+Innovation Marathon'22 organised by Vodafone Intelligent Solutions
+Finalist of All India Women Only Hackathon' 23Final Year Student at Pune Institute of Computer Technology
+CONTACT 
+C++
+Java
+Python
+CHTML
+CSS
+JavaScript
+MySQLProblem-Solving
+Web Development
+Machine Learning
+Data Science
+Database Management
+Operating System
+Basics of Unity (A.R.)
+MacOS 2022BOOK RECOMMENDATION SYSTEM
+A machine learning project that recommends a book based on the
+interests of the user.
+Use of K Nearest Neighbour(KNN)  algorithm.2023AR PERSONA CAST
+Developed an Augmented Reality Project using Unity Software
+The virtual 3D character comes to life, projected onto image targets
+for interactive encounters
+Project Simulation link+91 7900183339
+LinkedInrishusjha@gmail.com

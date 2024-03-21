@@ -1,0 +1,61 @@
+Bachelor in Information Technology 
+July 2020-Present
+Cumulative GPA:                        
+The Orchid School,Pune                                                    
+Higher Secondary Education
+2020
+86.4%    
+Sinhgad Public School,Solapur                                                    
+Secondary Education  
+2018
+91.2%                        EDUCATION
+PICT IEEE Student Branch
+(April 2021-Present)C++(+91)-9168879000                 rj2002115@gmail.com              LinkedIn
+ROLES AND RESPONSIBILITIES
+PICT Art Circle 
+(Jan 2022-Present)
+Active member and ·Drummer in
+music section of Art Circle.PICT Debate Society
+(April 2021-Present)
+Student Volunteer  
+VOLUNTEERING EXPERIENCE
+Purushottam Karandak 2022
+Member of the set section and also  
+     an offstage team member.
+Paricharcha (April 2022)
+Student Volunteer  SKILLS
+Python DSA
+SQLDjango
+PROJECTS
+ACHIEVEMENTS 
+Purushottam Karandak '22 
+ Winner of the Competition.
+Aarohan'22
+First Runner-up at band competition
+held by MIT,Kothrud
+INTERESTS
+Music
+Theatre 
+Problem Solving
+Playing Basketball and ChessReverse Coding Quiz Website
+A Quiz website made for Reverse
+Coding Round 1.                                     
+Done user authentication and worked
+with views and models for
+maintaining user database along with
+2 lifelines as the feature.
+TechStack - Django .
+ 
+Student volunteer
+Conducted Reverse Coding event in
+the annual flagship event Credenz'22.R O H A N  J A D H A V
+OOP
+ Job Portal
+  A website where a company can add  
+ multiple job roles and the clients can
+apply for the jobs.
+Done user authentication and made
+different models for client
+requirement and job requirement
+TechStack - Django. Pune Institute of Computer Technology
+ 8.5/10

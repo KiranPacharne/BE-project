@@ -1,0 +1,63 @@
+SUMIT UTTAMRAO KAWALE  
+WEB DEVELOPER  
+I’m Highly Interested in JavaScript  and I want to become professional developer of JavaScript and some of its frameworks.  
+Full-Stack Developer with knowledge in UI, Testing, Planning and Development Process . 
+ 
+EDUCATION  
+• Pune Institute of Computer  
+Technology  
+B.E – Information Technology  
+2021 - 2024 
+Current CGPA: 7.52  
+• Vidya Pratishthan Polytechnic 
+College , Indapur, Pune  
+Diploma – Computer Engineering  
+2018 – 2021 
+MSBTE Marks: 95.43%  
+• Mahatma Gandhi Vidyalay Paranda  
+2015 – 2018 
+SSC Marks: 72.80%  
+SKILLS  
+JavaScript, CSS, Bootstrap, ReactJS  
+NodeJS, ExpressJS, PHP  
+MongoDB, MySQL  
+Git, GitHub  
+CONTACT  
+Email:  
+sumitkawale2002@gmail.com  
+LinkedIn:  
+sumit -kawale  
+GitHub:  
+sumitkawale  
+Portfolio : 
+https://sumitkawale.github.io/portfolio/   EXPERIENCE  
+ SHIVANKIT TECHSOLUTIONS, DELHI  6 MONTHS INTERNSHIP  
+ NOV 2022  -  APRIL 2023  
+• Full-stack web developer intern at Shivankit TechSolutions for 6 months  
+• Gained hands -on experience in various technologies, including Node.js, 
+MongoDB, Express.js, MySQL, PHP, and more.  
+• Worked on existing projects and contributed to the development of web 
+applications with team  
+ REMEDBOOKS TECHNOLOGIES  6 MONTHS INTERNSHIP  
+ MAY 2022  -  OCT 2023  
+• Full-stack web developer intern at Remedbooks Technologies for 6 months  
+• Hands -on experience in various technologies: Node.js, MongoDB, 
+Express.js, MySQL, PHP, and more  
+• Contributed to the development of web applications.  
+• Worked on both new and existing proj ects 
+ PROJECTS  
+ PORTFOLIO  
+ This is my Portfolio designed and developed by me. Tried to develop as  much 
+friendly as possible . This portfolio contains information about myself, projects 
+I did and my Resum e. Devel oped in React.js  
+ BILLING APPLICATION  
+ At some small sho ps, the shopkeeper needs to keep his selling history in a 
+diary/billing book . This application provides easy method to bill generation as 
+well as accessing bill history and other userfull options too.  
+ INTERN MANAGEMENT  
+ Many startup companies and other companies not having any application for 
+managing interns. Using this application they can easily manage their interns 
+and have history of data also. They can ad d new interns, assign work to them, 
+create group of interns for working under employee, giving feedback to intern 
+etc. 
+ 

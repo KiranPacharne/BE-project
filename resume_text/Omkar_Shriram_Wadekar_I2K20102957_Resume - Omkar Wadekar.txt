@@ -1,0 +1,38 @@
+OMKAR WADEKAR
++(91) 7066865060 ⋄Pune
+wadekaromkar08@gmail.com ⋄Linked-In ⋄GitHub
+EDUCATION
+Bachelor of Engineering , Pune Institute of Computer Technology Expected 2024
+Information Technology , CGPA: 9.34
+Class 12th , Ashok Vidyalay & Jr College Completed 2020
+HSC Board , (88%)
+Class 10th , Jnana Prabodhini Prashala Completed 2018
+CBSE , (94%)
+SKILLS
+Languages C++, JavaScript , SQL
+Technical Skills DSA, ReactJS, HTML, CSS, JavaScript, Git, DBMS
+Soft Skills Problem-Solving, Teamwork
+PROJECTS
+Crypto Tracker (Website Link) (GitHub Link)
+Complete Web application for personalized tracking of all the available cryptocurrencies
+•Real-time information (from API), Data Visualization using Graphs and Favourite Cryptocurrency Section
+•Firebase for user authentication and secure storage of personalized watch lists
+•Tech: React Js(Front-end Framework and Libraries), Firebase(Back-end, User Authentication and Database),
+API integration
+Todo-List Web Application (Github Link)
+•Developed a To-Do list web application using MERN stack (MongoDB, Express.js, React.js, and Node.js).
+•Enabled users to efficiently manage tasks by providing features for creating, updating, and deleting tasks through
+a user-friendly and responsive interface.
+•Tech: React Js(Front-end Framework and Libraries), MongoDB, NodeJs & ExpressJs (Backend Development),
+Redux (State Management).
+EXPERIENCE
+Web Development Intern (Interstellar Scientific Pvt Ltd) April 23 - June 23
+Worked as a Web Development Intern to develop a responsive website based on MERN stack for an early-stage
+startup, which includes a portal for finding internships and job opportunities. The project also aimed to provide
+guidance and necessary academic information, such as scholarships.
+ACHIEVEMENTS & CERTIFICATES
+•MHT-CET 2020- 99.18 %ile (Rank 1096 in Maharashtra State Engineering Entrance)
+•Solved 300+ problems on various coding platforms
+•Algorithmic Toolbox-UC San Diago (View Certificate)
+VOLUNTEER EXPERIENCE
+•Member of PCSB Students Club

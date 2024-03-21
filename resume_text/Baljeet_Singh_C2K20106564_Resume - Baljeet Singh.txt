@@ -1,0 +1,124 @@
+Baljeet Singh 
+Sharp and analytical thinker, with a mind for tackling every situation logically. Learning and growing
+everyday by taking one step at a time towards my long term goals. I have a keen interest in the ﬁeld of
+Data Science, with the abilities of statistical and predictive analytics to derive better data driven
+decisions for businesses and aspire to be a Data Scientist as a professional. 
+baljeet.rtm@gmail.com 
+9869986648 
+Pune, India 
+EDUCATION 
+B.E. Computer Engineering 
+Pune Institute of Computer Technology 
+08/2020 - Present
+, 
+ 
+GPA Avg: 8.97 
+SSC & HSC 
+Army Public School, Mumbai 
+06/2008 - 05/2020
+, 
+ 
+92.8% SSC 
+93% HSC 
+PERSONAL PROJECTS 
+End to End Data Analysis Project on Hotel Bookings
+Dataset
+ (03/2023 - 03/2023)
+ 
+Created a problem statement and identiﬁed the data I wanted to
+analyse. 
+Performed the activities related to exploring and cleaning the data
+and analysed the data to get useful insights. 
+Presented the data and the generated results in forms of reports or
+dashboards using visualisation. 
+Data Exploration and Cleaning Project
+ (08/2022 - 09/2022)
+ 
+Performed the basic to advanced level of exploration activities on
+the data set of Trees in New York. 
+Performed basic to advanced level of cleaning activities such as
+dealing with missing values, outliers and corrected in consisted data
+points present in the dataset. 
+Used the following python libraries such as Pandas, Numpy, Pyplot,
+Sqllite etc. 
+Dashboard Projects Using Streamlit and Sqllite3
+ (01/2023 - 01/2023)
+ 
+Built a complete online dashboard using python libraries such as
+Streamlit and Sqllite and generated pdf reports for the same. 
+Gold Price Prediction Time Series Forecasting
+ (04/2023 - 04/2023)
+ 
+Predicted the gold prices for the future by building and testing a
+Time Series Forecasting Model using Linear Regression and Naive
+Bayes Machine Learning Algorithms 
+Market Basket Analysis
+ (10/2022 - 12/2022)
+ 
+performed data cleaning activities on the data set obtained from
+kaggle. 
+performed data visualisation using libraries like Matplotlib, Seaborn
+and python built in visualisation for better understanding of the
+dataset. 
+Deﬁned an Apriori association learning algorithm to train the
+dataset to deduce association rules from the dataset. 
+WORK EXPERIENCE 
+Title/Position 
+Workplace/Company 
+SKILLS 
+DATA ANALYSIS 
+DATA VISUALISATION 
+STATISTICS 
+MYSQL 
+PYTHON 
+SCI-KIT LEARN 
+C++ 
+MS EXCEL 
+NUMPY 
+PANDAS 
+DATAFRAMES 
+DJANGO 
+MATPLOTLIB 
+SEABORN 
+ACHIEVEMENTS 
+INSIGHTS WINNER
+ (09/2021 - 09/2021)
+ 
+Creative writing competition with two stages 
+Published Writer
+ (09/2022 - 09/2022)
+ 
+Articles and poems written by me have been published in the college
+annual magazine for consecutively two years 
+ORGANIZATIONS 
+PICTOREAL
+ (01/2021 - Present)
+ 
+Editing Head & Photography Head 
+PASC
+ (01/2021 - Present)
+ 
+Member 
+CERTIFICATES 
+Google Data Analytics Professional Certiﬁcate
+ (10/2022 - Present)
+ 
+Coursera (certiﬁcation oﬀered by google) 
+Python for Data Science and Machine Learning
+Bootcamp
+ (01/2023 - Present)
+ 
+Udemy (A course by Jose Portilla) 
+LANGUAGES 
+ENGLISH 
+Full Professional Proﬁciency 
+HINDI 
+Native or Bilingual Proﬁciency 
+GURMUKHI 
+Native or Bilingual Proﬁciency 
+INTERESTS 
+FOOTBALL 
+BASKETBALL 
+ATHLETICS 
+PHOTOGRAPHY 
+READING 

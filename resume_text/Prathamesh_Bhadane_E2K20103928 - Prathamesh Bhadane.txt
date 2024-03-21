@@ -1,0 +1,54 @@
+ 
+Prathamesh Y . Bhadane   
+ 
+ 
+ 
+   Contact : 9175825649       Email : prathameshbhadane496@gmail.com  
+   GitHub : prathameshyb       LinkedIn : linkedin/prathamesh -bhadane/   
+ 
+EDUCATION:   
+Pune  Institute  of Computer  Technology  
+(Bachelor  of Engineering  in Electronics  and Telecommunication)  Year  of joining:  2020  
+Present  GPA:  9.17 
+H.S.C  Year  of passing:  2020  
+Percentage:  84.92  
+S.S.C  Year  of passing:  2018  
+Percentage:  93.60  
+ 
+WORK  EXPERIENCE:   
+• SDE Intern: VOIS Innovation Marathon 2022  (08/2022 – 10/2022)  
+Virtual Internship Program under _VOIS Innovation Marathon 2022 by Vodafone Intelligent Solutions.  
+Achievements : The project  was qualified  for finals  of VOIS  for Tech  Marathon  as part of top 40 teams  across  the nation.  
+ 
+PROJECTS:  
+• Decentralized  Banking  System  using  Blockchain  | ReactJs,  Solidity,  Tailwind  CSS 
+Created  a Defi webapp  to transfer  Ethereum  cryptocurrency  using  blockchain.  Created  smart  contracts  in solidity  which 
+are used to handle blockchain.  
+• E Commerce  Website  | HTML,  CSS,  JAVA  Servlet,  MySQL  
+Developed  a fully  functional  online  shopping  platform  where  users  can browse  products,  add items  to their 
+cart, make purchases, and manage their orders.  
+ 
+• Banking  System  | Java,  AWT,  Swing , MySQ L 
+Developed  a banking  application  featuring  of creating  a new bank  account  and accessing  the bank  account 
+for transactions using auto -generated credentials  
+ 
+• Sentiment  Analysis  using  NLP  | Python  libraries  (Matplotlib,  NLTK,  Streamlit)  
+Developed  a robust  sentiment  analysis  model  using  NLP  techniques  to accurately  classify  emotions 
+(positive, negative, neutral) from customer feedback.  
+ 
+ SKILLS:   
+• Technical  Skills : CPP,  JAVA,  HTML,  CSS,  SQL,  Machine  Learning,  Data  Structures  & Algorithms  
+• Hardware : 3D printing  & designing  
+• Soft Skills : Time  Management,  Work  Ethic,  Adaptability  
+• Certifications:  https://shorturl.at/ghDF6  
+ 
+ 
+ACHIEVEMENTS:   
+• Secured  rank 3 in AMCAT  test from  EnTC  department  in PICT.  
+• Solved  300+  problems  on various  coding  platforms.(  leetcode , geeksforgeeks ) 
+ 
+EXTRA  CURRICULAR  ACTIVITIES:   
+• Editing  team  member  for PICT  annual  magazine  club PICTOREAL.  
+• Volunteer  for donation  drive  held in PICT.  
+ 
+ 

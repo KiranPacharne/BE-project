@@ -1,0 +1,50 @@
+varad unhale
+Pune, Maharashtra
+♂phone+91 8669060614 /envel⌢pevaradunhale.vu@gmail.com /linkedinvarad unhale /githubVarad30
+Education
+SCTR’S Pune Institute of Computer Technology July 2020 – June 2024
+Bachelor of Engineering - Electronics and telecommunication (CGPA of 9.362) Pune, India
+N.E.S. Science College August 2019 – June 2020
+Higher Secondary Education (Percentage: 76.31) Nanded, India
+Experience
+Spordia Softech Pvt. Ltd. |Python, YOLO, OpenCV, CVAT |[LINK] February 2023 - June 2023
+Software Intern in Computer Vision Pune, India
+•Wrote a Python script to Successfully track and calculate distances for multiple players in the NFL clips using YOLO
+andOpenCV .
+•Provided accurate and reliable player distance metrics, contributing to the understanding of player performance and
+strategic analysis for coaches and analysts.
+Projects
+Provider Invoice Text Curation |Python, Pytesseract, spaCy, OpenCV |[LINK] September 2022
+•Implemented a invoice text extractor to identify provider names and other critical information tags
+•Created a NLP model to extract information from text using Spacy’s NER (named entity recognition) model.
+Shopify |Django, SQLite |[LINK] May 2022
+•Developed a e-commerce website ShopiFy which provides the user with a list of the various products available for
+purchase in the store.
+•the Admin can add, delete and modify the products.
+•Tech-stack Used- Django, SQLite for back-end and HTML and CSS for front-end
+Stock-Exchange |HTML, CSS, Javascript October 2021
+•A web application which allows users to search for specific companies and get real time data and details about the
+company.
+•This project uses an API which gets the real time data and displays them to the user.
+•It provides a chart of the company’s stock performance over time and news related to the company. The application is
+designed to be user friendly and provides users with the information they need quickly and easily.
+Achievements
+•Highest rating of 1824 and rated 4*. at Codechef which ranks among the top sites for competitive programmers.
+•Secured all India rank of 43,87 respectively in Codechef’s Long Challenge in the month of March and April among 15k+
+participants.
+•Solved more than 400+ problems across platforms.
+•5*. in Java, Python at Hackerrank.
+Profile Links
+•Codechef
+•Codeforces
+•Leetcode
+Technical Skills
+Languages : Python, Java, C++, HTML/CSS, JavaScript, SQL
+Technologies/Frameworks/Libraries : Django, Django REST framework, ReactJS, Pytesseract, Numpy, Pandas.
+Certifications
+•Accelerated Computer Science Fundamentals
+•Mathematics for Machine Learning
+•Object-Oriented Data Structures in C++
+Extracurricular
+PICT IEEE Student Branch[PISB] Octomber 2021 – Present
+•Part of the Web development team.

@@ -1,0 +1,85 @@
+Last Upda ted on 18th A ugust 2023Shravani Deshpande
+ +91 78430 70068  shr a v anideshpande91@gmail.c om
+Education
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+Electronics and
+TeleCommunication Engg.
+July2020‑present Katraj,Pune
+•CGPA:8.8
+VYANKATRAO HIGHSCHOOL
+AND JUNIOR COLLEGE
+High School Cert ificate
+July2018‑Jun2020 Ichalkaranji,Kolhapur
+•Courses: PCM
+•Percentage: 80
+Links
+GitHubShravani07
+Linkedin ShravaniDeshpande
+Leetcode shravani07
+GFGShravani07
+Coursework
+•DataStructuresandalgorithms
+•ObjectOrientedProgramming
+•DatabaseManagementSystems
+•OperatingSystems
+•ComputerNetworks
+Skills
+PROGRAMMING
+C/C++•SQL•HTML/CSS•JavaScript•
+Nodejs•Mongodb
+FRAMEWORKS
+StandardTemplateLibrary(STL)•
+Bootstrap•TailwindCSS•Expressjs•
+ReactJS
+TOOLS
+Git•VS‑Code
+Interests
+•PlayingGuitar
+•ListeningMusic,Readingbooks
+•TravellingProjects
+MERN STACK E-COMMERCE WEBSITE
+February2023 PICT,Pune
+•Thisisafullyfunctional ECommerce websiteusingMERNStack.
+•Thefrontendismadebyusing ReactJS andBootstrap .
+•Thedatabaseisdesignedusing MongoDb .
+•Forbackend,technologieslike NodeJsandExpressJs areused.
+SOCIAL MEDIA APP
+May2022–August2022 PICT,Pune
+•Inthisproject,Idesignedanddevelopedafeature‑richsocialmedia
+application with essential functionalities including user login, regis‑
+tration,follower/followingmanagement,andreal‑timeupdates.
+•Technologiesused: HTML,CSS,Javascript,ReactJS,Mysql,Context
+API,NodeJs,ExpressJS,JWT .
+SUPERMARKET BILLING SYSTEM
+February2022 PICT,Pune
+•Thec++billingsystemisastraightforwardconsoleprogram.
+• I learnt to use stream class and manage files in c++ programming
+withthisproject.
+• This project is intended to help supermarkets calculate and show
+invoicesaswellasprovidefasterandmoreellectivecustomerservice.
+Activities
+CORE TEAM MEMBER
+PIC T C SI Student Branch
+Jun2022–Aug2022 PICT,Pune
+•WeplannedbuildupandsideeventsfortheeventXeniaand
+managedaccordingly.
+•Iworkedasaleadmemberinorganisingaevent.
+STUDENT VOLUNTEER
+National Service Scheme
+April2022–Present PICT,Pune
+•Organizedtheinterviewsforrecruitmentoffreshersintheclub.
+•ContributedinvariousactivitieslikeTreePlantation,BloodDonation
+Campaign,etc.
+•Scheduledaneventontheoccasionofthe73rdRepublicDay.
+CORE TEAM MEMBER
+Addiction 2022
+April2022 PICT,Pune
+•WorkedintheCoreTeamtoarrangebuild‑upeventsintheDay
+Co‑OrdinationTeam.
+Achievements
+•Solvedmorethan900problemsacrossvariouscodingplatformssuch
+asLeetcode,Geeksforgeeks,Codestudio,Codechef,Codeforcesetc.
+•HighestRatingLeetcode: 1617,Inthetop19%ofLeetcode
+•ReachedGrandMasterleagueonCodestudioWeeklyLeaderboard.
+•Secured97.75%inMHT‑CET 

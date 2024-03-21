@@ -1,0 +1,37 @@
+Chinmay Borgaonkar
+COMPUTER ENGINEER
+7350180419 | cpborgaonkar@gmail.com |Borgaonkarchinmay |Borgaonkarchinmay
+Education
+PuneInstituteofComputerTechnology
+BACHELOR OF COMPUTER ENGINEERING | GPA: 9.0 (THIRD YEAR)
+HSC
+SCIENCE | PERCENTAGE: 89.70 2020
+SSC
+PERCENTAGE: 91.60 2018
+Skills
+Languages C++,JavaScript,EmbeddedC,C,HTML,CSS,MySQL,Python,Github
+Frameworks React.js,Node.js,Electron.js
+Achievements
+PaperPublication: ”ContextualFlowofInformationinTourismusingBLEProximity
+DetectiontoEnhancetheTourismExperience”
+PUBLISHER: IEEE 01-03 March 2023
+•Publishedin: 2023InternationalConferenceonEmergingSmartComputingandInformatics(ESCI)
+•Domain: InternetofThings
+•PaperLink: https://ieeexplore.ieee.org/document/10100063
+Projects
+CarTest-DriveManagementSystem
+•It’safullstackwebportaldevelopedtoenablesmoothcoordinationbetweencustomerswillingtotakeatestdriveanddealership’stestdrive
+manager.
+•Keypointsaddressed: Streamlinetestdrivescheduling|Designoftest-driveenquirylifecycle
+•Technologiesused: Node.js,React.js,MySQL
+•Githubrepository: https://github.com/Borgaonkarchinmay/Testdrive-Management-System
+Ride-Ezy
+•Itsabikepoolingwebsitewhichcatersspecificallytouniversitystudents,providingthemwithanefficientsolutionforsharedtransportation.
+•Keypointsaddressed: Ridelistingforfellowriders|Tripvisualizationonmapwithdistanceinsight
+•BuiltusingMERNstack,itprovidesfeaturessuchasrideinsightwithdetourmapsandempowersrideproviderstochoosepassengers.
+•Githubrepository: https://github.com/Borgaonkarchinmay/Ride-Ezy
+Bill-Manager
+•Electrondesktopapplicationforinvoicedigitizationandmanagement.
+•LeveragedOCRtechnologyforautomateddataextractionfrombillimages.
+•IntegratedreliableGSTverificationtoensureaccurateandcompliantvendorinformation.
+•Githubrepository: https://github.com/Borgaonkarchinmay/Bill-Manager

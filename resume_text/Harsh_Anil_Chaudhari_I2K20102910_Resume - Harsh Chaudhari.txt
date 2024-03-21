@@ -1,0 +1,89 @@
+                    HARSH  CHAUDHARI  
+               Pune,  India - 411038  | +91 7057043771  | harshchaudharik@gmail.com  | https://www.linkedin.com/in/harsh -chaudhari -/  
+                                                     GitHub  Link  -   https://github.com/HarshC -11 
+Profile Statement  
+A proactive and adaptable individual seeking an internship with a company that provides a positive environment to learn and implement 
+existing skills and new technologies for the organization's benefit, considering its vision, values, and mission.  
+Work history  
+Research Intern                                                                                                                                                               03/2023 – present  
+Pune Institute of Computer Technology - Pune  
+• Currently working on an Indian Sign Language Project under the guidance of a professor at PICT.  Carried out research in the field 
+of Face Emotion Detection and Recognition and various machine learning techniques - support vector machines, YOLO, line edge 
+map, and multiplier classifier systems.  
+• Pioneered the  research and development of an Indian Sign Language model, employing cutting -edge machine learning techniques to 
+bridge communication barriers for the hearing -impaired community.  
+Data Science Intern    02/2023 – 03/2023   
+YAN IT Solutions  - Pune, India  
+• Cond ucted research and literature reviews to identify best practices in data science  
+• Assisted senior data scientists in data analysis, modeling, and visualization tasks  
+• Collaborated with cross -functional teams to brainstorm and solve business problems with dat a-driven solutions  
+Artificial Intelligence Intern                                                                                                                                           02/2023 – 05/2023  
+Pune Institute of Computer Technology - Pune  
+• worked on an ML -based chatbot using LLM models and expert guidance from a professor. The project involves NLP and Seq2Seq 
+architecture, integrating OpenAI's technologies and enhancing the intranet's user experience.  
+• Collaborated closely with a prominent pr ofessor in the field, receiving expert guidance that enriched the project's conceptualization 
+and execution  
+Machine Learning Intern    09/2022 – 11/2022   
+IBM  - Pune, India  
+• Developed an ML mental fitness model during an eight -week IBM Skills Build  project.  
+• Produced clean, error -free code in line with internal quality standards.  
+• Achieved the objective within the specified timeframe and collaborated effectively with team members.  
+• Provided detailed progress reports and milestone updates to the allocated mentor.  
+Education  
+Bachelor of Engineering : Information Technology    2024   
+Pune Institute of Computer Technology  - Pune, India   
+• Board: Savitribai Phule Pune University  
+High School    2020   
+Maharashtra Technical Education Society  - Pune, India   
+• Board: Maharashtra Board  
+Secondary School    2018   
+Sanskriti School  - Pune, India   
+• Board: Central Board of Secondary Education  
+Certifications  
+• Internshala: Machine Learning  
+• Coursera: Machine Learning by Stanford University, Data Analytics by google  
+• Udemy: HTML and CSS  
+• Kaggle: Pandas, Numpy  
+Skills/ Languages  
+• Probability  
+• Management skills  
+• Planning and Coordination  
+• Math and logical reasoning  
+• Problem -solving  
+• Strong Communication Skills  • Programming Languages - Python, C, C++ , SQL, HTML, CSS  
+• Python Libraries – NumPy, Pandas, Scikit Learn, Keras, 
+TensorFlow, Matplotlib, OpenCV  
+• Object Oriented Programming  
+• Operating System  
+• Statistical Analysis  
+Projects  
+• Online platform for daily wage workers  — Front End Work  Developed a website where daily wage workers can search for work. Employers can post their requirements which can be viewed b y 
+job seekers, who can make applications for a job if interested.   
+ 
+ 
+• Handwritten Digit Recognition - Machine Learning  
+Developed a model combining machine learning methods such as hidden layers,  and flattening techniques and predicted the output with 
+maximum accuracy.  
+• ICC Cricket World Cup 2019 analysis - Machine Learning  
+Developed a probabilis tic model using the data analytics lifecycle to predict top -performing tournament teams. Conducted venue, 
+batsman, and bowler statistical analysis. Employed data transformation and engineering for dataset enhancement.  
+• Capstone  Projects  
+1. 911 capstone project  
+2. Finance Data Capstone  
+3. Machine Learning - Linear and Logistic regression, KNN,  Decision  Tree 
+Co-Curricular  
+• Marketing Team - PICT CSI Student Branch ( PCSB)  
+Worked as a marketing team member for various events.  
+• Sponsorship Team - PICT CSI Student Branch ( PCSB)  
+Played an essential role in the sponsorship team committee.  
+• The Content Team - PICT Newspaper and Brochure ( PNAB)  
+Wrote various articles for the official brochure and newspaper of PICT.   
+• The Publicity Team - Impetus and Conce pts (INC)  
+A member of the INC operations committee  
+• The volunteer Team - NIRMITEE FOUNCDATION  (NGO)  
+Enriched lived of people by volunteering in several social work activities around the city  
+Extra Co -Curricular  
+• Football                                                                                                      
+• Trekking  
+• Guitar  
+• Motivational Books  

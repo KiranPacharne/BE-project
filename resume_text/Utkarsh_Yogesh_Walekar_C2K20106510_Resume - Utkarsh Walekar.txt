@@ -1,0 +1,85 @@
+Last Upda ted on 2nd A ugust 2023Utkarsh Walekar
+w alek ar .u tk ar sh@gmail.c om | +91 -84850589 78 | GitHub
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+B.E IN C OMPUTER ENGINEERING
+2020- 2024 ( Pur suing ) | Pune, India
+Cum. GP A: 9.29/ 10
+MATOSHRI JUNIOR
+COLLEGE,NASHIK
+HSC(CLASS XII)
+2020 | Nashik , India
+Class XII Percen tage: 85.86%
+NA V JEEV AN DA Y SCHOOL
+2018 | NA SHIK , India
+Class X Percen tage: 94%
+LINKS
+Codeforces:// utk2431
+Leetcode:// Utkarsh2431
+HackerRank:// utkarsh
+LinkedIn:// UtkarshWalekar
+GitHub:// UtkarshYogesh
+SKILLS
+PROGRAMMING
+•Problem Solving •DSA
+LANGU AGE S:
+•C++
+WEB TECHNOL OGIE S:
+•HTML •CSS•JavaScript
+D A T AB A SE:
+•MySQL
+F AMILIAR:
+•Node.js •Express.js
+•React •MongoDB
+C ORE SUB JEC T S:
+•Data Structures andAlgorithms
+•Object Oriented Programming
+•Database Management Systems
+•Operating System
+CO-CURRICULAR
+ACTIVITIES
+•Volunteered atInCevent ofPICT
+•Member ofPICT ACM Student ChapterEXPERIENCE
+INTERVIEW MOCHA | Problem Setter - Intern
+December 2022- J anuary 2023 | Pune, India
+•Prepared problems based onData Structures andAlgorithms ofvarying
+difficulties along with testcases generation.
+•Providing them anoptimal solution totheproblems submitted ,analyzing time
+andspace complexities.
+PROJECTS
+E-COMMERCE WEB APPLICATION | See Project
+•Developed afeature-rich e-commerce webapplication using theMERN
+stack with anintuitive admin panel anduser dashboard.
+•Theapplication allows seamless management ofproducts, categories,
+anduser transactions while being integrated with asecure payment
+gateway.
+•Ensured data security andconfidentiality through authentication and
+authorization mechanisms.
+•Tech Stack: HTML |CSS|JavaScript |React |MongoDB |Express.Js |
+Node.Js |
+BLOOD BANK MANAGEMENT SYSTEM | See Project
+•Developed acomprehensive Blood Bank Management System utilizing
+theMERN stack.
+•It’sfeatures user-friendly admin panel forefficient management of
+organization, donor, andhospital lists.
+•Integrated analytics dashboard which offers information onthe
+available blood types andtheir quantities.
+•Ensured data security andconfidentiality through authentication and
+authorization mechanisms.
+•Tech Stack: HTML |CSS|JavaScript |React |MongoDB |Express.Js |
+Node.Js |
+QUIZ APP | See Project
+•Developed aninteractive anduser-friendly Quiz Appusing React,
+providing anengaging platform forusers toparticipate inquizzes and
+testtheir knowledge onvarious topics.
+•Theappisdesigned with responsive webdesign principles, ensuring a
+seamless experience across devices.
+•Tech Stack: HTML |CSS|JavaScript |React.
+ACHIEVEMENTS
+•Competitive Coding:
+Codeforces: Pupil Rated -1210
+•5StarBadge onHackerrank inC++ languages.
+•Solved more than400problems ondifferent platforms likecodechef,
+codeforces andLeetcode.
+•Cleared IITJEEAdvanced(2020) with top8percent inIndia.

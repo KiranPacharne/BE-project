@@ -1,0 +1,90 @@
+Chinmay Choudhary
+ 9860267312  c schinma y7 7 7@gmail.c om LinkedIn
+Education
+PUNE INSTITUTE OF COM-
+PUTER TECHNOLOGY
+B.E. Computer
+2020‑2024 Katraj,Pune
+•CGPA:9.32
+CAMBRIDGE JUNIOR COL -
+LEGE
+HSC 12 TH
+2018‑2020 Nanded,MH
+•CET:99.34
+•HSC:84%
+KENDRIY A VIDY ALA Y A
+CBSE 10 TH
+2018 Nanded,MH
+•CBSE:93%
+Skills
+PROGRAMMING
+LANGUAGES
+C/C++•Dart•Python
+DATABASE
+Firestore•MySQL
+TECHNOLOGIES WORKED
+WITH
+Flutter•Git•TensorFlow•CV•Flask•
+HTML•CSS•Firebase•Getx•bloc
+Highlights
+•FirstPrizeinTechMystIdeathon
+forDoctors’BookApp(Assistantfor
+Generalpractitioners)
+•Top30ContributorinWinterof
+Code2023 foropensourceproject
+underCluelessCommunity.
+•EasyCodeCoordinator EasyCode
+Classes.
+•CoreTeamMember Google
+DeveloperStudentClubPICT.
+•ContributoratDesignTeam for
+Collegeculturalfest(Addiction).
+•UdemyCertificate: Complete
+FlutterDevelopmentBootcampby
+AngelaYu,
+•AmazonMLSchoolCertificate.Experience
+APP DEVELOPER INTERN
+Rebert Technologies P VT L TD
+june2022–july2022 Pune,MH
+•UsingFlutterandFirebaseworkedonAuthentication.
+•FetchingandsendingdatatoFirebaserealtimedatabase.
+APP DOMAIN LEAD
+PIC T C SI Student Branch
+Apr2023 Pune,MH
+•LeadingmultipleprojectsfortheCollegeClubacrossvarious
+domains.
+•Guided&taughtjuniorstudentsintechnicaldomainslikeflutter.
+BUILD UP AND SIDE EVENTS HEAD
+PIC T C SI Student Branch
+Jul2022–Aug2022 Pune,MH
+•Duringclub’seventXenia,Successfullymanagedmanynontech
+eventsandleadtheteam.
+RecentProjects
+THE DOCTOR’S BOOK APP (ON GOING)
+Personal Project
+GitHub
+Flutter,Firebase,Getx.
+Apersonalprojectthatallowsgeneralpractitionerstomanagepatient
+data,statistics,appointmentscheduling,andadiscussionportal.
+TEXT SUMMARIZATION PROJECT
+Personal Project
+GitHub
+Python,NLP,pipeline,FastApi,AWS.
+Developedanend‑to‑endtextsummarizationprojectutilizing
+Transformers,NLPtechniques,FastAPIandAWS,offeringefficientand
+accuratecontentcondensationthroughadvancednaturallanguage
+processing.
+XENIA 22 APP & PCSB GENERAL APP
+PIC T C SI Student Branch
+GitHub
+Flutter,Firebase,Riverpod,Apiintegration
+Xeniaappallowsyoutoregisterforcompetitionsheldduringclubfest.
+Pcsbgeneralappdealwithpostingdailyclubactivitiesaswellasschedule
+forupcomingevents.
+THE ATTENDANCE BOOK APP
+Academic Project
+GitHub
+Flutter,Firebase.
+TheappdigitizestheattendanceprocedurebyenablingQRcapabilities,
+anditalsoallowsstudentstosubmitleaveapplicationsthroughtheapp
+directly.

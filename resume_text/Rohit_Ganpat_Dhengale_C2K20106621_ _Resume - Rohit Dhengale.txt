@@ -1,0 +1,38 @@
+ROHIT DHENGALE
+/githubrohitgd17 |/linkedinrohitdhengale |
+/envel⌢perohitdhengale315@gmail.com |♂¶obile+91 7499030143
+Objective
+Seeking a responsible position in an organization, which gives me chance to improve knowledge, enhance
+my skills and enable me to strive towards the overall development of the organization.
+Education
+July 2020-2024 Pursuing BE in Computer Engineering at PICT, Pune (CGPA:9.025)
+2020 Class 12th (HSC) VPASCC COLLEGE, Baramati (Percentage:85.37)
+2018 Class 10th (SSC) M.M. Shree Shahaji HighSchool, Akkalkot (Percentage:91.80)
+Skills
+Technical Skills: Procedural Language: C
+Object Oriented Language:C++
+Virtual Machine Based Language:Core Java.
+Framework:Spring
+Soft Skills: Teamwork and Co-operation,Time Management,Quick Learner.
+Projects
+Customized Virtual File System
+Technology C Programming and OOPS concept of CPP
+•This project provides all functionality to the user which is same as Linux File System
+•Skills It provides necessary commands, system calls implementations of file system and the necessary
+data structures of file system through customized shell.
+Smart Contact Manager
+Technology :Spring boot and tymeleaf
+•The ”Smart Contact Manager” is a web application that efficiently manages and organizes contact
+information. It was created using Spring Boot and is designed to be innovative and user-friendly.
+•By using CRUD operations, individuals can effortlessly manage their contact lists by adding, viewing,
+updating, and deleting contacts. This streamlines the process of maintaining their list of contacts.
+•We made prioritized data security and privacy by implementing user authentication mechanisms.
+This ensures that contact information is protected and can only be accessed by authorized users.
+Achievements
+I secured the second position in the District Level Chess Competition..
+I have solved over 500 problems on various coding platforms.
+Interests
+Programming
+Problem Solving
+Solving Rubik’s Cube
+Sports : Chess , Football

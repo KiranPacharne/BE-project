@@ -1,0 +1,42 @@
+Siddhesh Surve
+ćsysurve24@gmail.com ×+91 8390344586 ]Siddhesh Surve a@siddheshsurve
+Education
+Pune Institute of Computer Technology Pune, IN
+Bachelor in Computer Engineering GPA: 8.84 Jul 2021 - Jun 2024
+Dr. Babasaheb Ambedkar Technological University Raigad, IN
+Diploma in Computer Engineering GPA: 9.80 Jun 2018 - Jun 2021
+Sanskar Dham Vidyalaya Raigad, IN
+SSC Percentage: 89.60 June 2018
+Projects
+MovieVerse ça
+Tech Stack: React JS, Firebase, Tailwind CSS
+•Developed a Movie Rating application allows to rate and review a movie
+•For frontend I have used React JS andFirebase Firestore for backend.
+•I have provided otp based used authentication using Firebase Authentication
+ResumePro ça
+Tech Stack: React JS and CSS
+•Developed an application using React JS that help us to build resume in easy way.
+•Helps students to get their resume in hand just by ﬁlling up a single form form and app converts into
+aprofessional resume.
+•Also provides functionality to download resume in PDF Format .
+Recipe App a
+Tech Stack: React JS, Node, Express, MongoDB
+•Developed a Recipe App which has recipes along with their ingredients, instructions and other details.
+•Developed frontend using React JS and CSS and Backend in Node JS andExpress JS , & used
+MongoDB to manage the database.
+•Authenticated users can create recipes andsave them, while JWT is used for user authentication.
+Other small scale projects a
+Spotify Clone, Chat App using ﬁrebase, Record Keeper, etc.
+Skills
+Programming Languages: C++, Java, JavaScript
+Web Development: HTML5, CSS3, React.js, Node.js, Express.js
+Databases: MySQL, MongoDB, Firestore
+Version Control: Git and GitHub
+CS Fundamentals
+OOPS DBMS
+Operating Systems Computer Networks
+Achievements
+•Secured Maharashtra state rank 130th in Diploma batch 2021 among 130000+ students.
+Extra Curricular Activities
+•Badminton Singles Finalist at intra college badminton tournament organized in Dr. Babasaheb
+Ambedkar Technological University

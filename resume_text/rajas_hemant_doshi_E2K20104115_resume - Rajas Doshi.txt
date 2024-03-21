@@ -1,0 +1,81 @@
+RAJAS HEMANT DOSHI
+@rajasdoshi13@gmail.com /linkedinrajas-doshi-5721a0218 /githubRajasDoshi ♂phone+919309191901
+EDUCATION
+•BE In Electronics and Telecommunication From
+Pune Institute Of Computer Technology
+•Senior Secondary HSC-Class XII From Ramkrishna
+•Higer Secondary SSC-Class X From AES Akshok
+Bhau Friodiya
+PROJECTS
+My Connections
+•Lead a team of three developers to build full
+stack web application for connecting people
+•Aim - People of diﬀerent domains and skills will
+Connect and collaborate by working on same
+project Idea
+•Technologies used -
+1. Frontend -Html,Css,Javascript,Bootstrap
+2. Backend-Django
+•/githubRajasDoshi/MyConnections
+Bank Managment System
+•The Bank Manager Website is a Java-based web
+application designed to facilitate eﬃcient man-
+agement of banking operations. perform various
+administrative tasks, such as managing customer
+accounts, handling transactions, and generating
+ﬁnancial reports.
+•Technologies used - Java, Jdbc API, Mysql
+Database
+•/githubRajasDoshi/ATM-Simulator
+Shopping Applications
+•Fronted Web Application using React.js
+•Aim- To create online Platform for service providers
+and Consumers to connect locally.
+•Key Features - SignIn, Login, Product Catalog,
+Shopping Cart,Account,Order Details,Responsive
+Design.
+•Technologies used-Html,Css,Javascript,React,React-
+Bootstrap
+•/githubRajasDoshi/E-Commerce
+CODING PROFILE
+Coding Ninjas-[RajasDoshi]
+LeetCode-[RajasDoshi]
+Codechef-[RajasDoshi09]TECHNICAL SKILLS
+•Programming Languages : C,C++
+•Data Structures & Algorithm
+•Object Oriented Programming & MySql
+•DataBase Managment System & Operating
+Systems
+ACHIEVEMENTS
+•Certiﬁcate of Excellence in C++ from Coding
+Ninjas
+•Certiﬁcate of Excellence in DSA from Coding
+Ninjas
+•Solved 700+ DSA problems on multiple platforms
+•Winner In Intra-College BasketBall Competiton
+•Developed website for PISB-IEEE club of
+Wallstreet Event in 2022
+POSITION OF RESPONSIBILITY
+Head of Addiction 2023
+•Addiction is one of the cultural Event of PICT which
+was held on May 2023
+Head of WallStreet 2022
+•WallStreet is the sub event comes under the
+Credenze Event of PISB(IEEE) Organization
+Represented PICT in Edureka
+•Edureka is an Event comes under the IEEE
+Organization for primary and secondary Education
+of rural girls
+EXTRA CURRICULARS
+Hour of Code
+•Session Conducted under the PASC club for
+primary class student of Web Development with
+500+ live viewers
+Blood Donation Camp
+•Oraganized a Blood Donation camp for pict
+students
+•Under the NSS in which we got 456 donors
+including 250+ female donors
+Debate Competition
+•Participated in intra college Debate competitition
+organized by debsoc club

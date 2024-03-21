@@ -1,0 +1,55 @@
+AKANKSHA  AGARKAR  
+ 
+Education  7083996110    agarkarakanksha@gmail.com  
+ 
+Pune  Institute  of Computer  Technology(PICT)  July  2020  - 2024  
+B.E - Electronics  and Telecommunication  Pune,Maharashtra  
+CGPA:  8.92/10.00  
+Z.P Agarkar  Junior  College  July  2019  - June  2020  
+HSC,  Class  XII Akola,Maharashtra  
+Percentage:  90.00  
+Emerald  Heights  School  July  2017  - June  2018  
+CBSE,  Class  X Akola,Maharashtra  
+Percentage:  91.80  
+ 
+Technical  Skills  
+ 
+Core  Subjects : DSA,  Database  Management  System,  Object  oriented  Programming  
+Programming  Languages : C++,  Java  
+ 
+Links  
+ 
+Linkedin : Akanksha  Agarkar  
+ 
+Github : akankshaagarkar10  
+ 
+Projects  
+ 
+Smart  Canteen  App  | Dart,  Android  Studio  Second  Year  
+• Created  an Android  application  using  Dart  language  and Android  Studio  . 
+• An intelligent  system  dedicated  to improve  service  quality  of any canteen.  
+• The smart  canteen  app is built  using  flutter  and google  firebase,  the google  firebase  was used  to store  the data  of user.  
+ 
+Employee  Management  System  | Java  Swing,  Netbeans  
+• The Employee Management System is a Java Swing -based desktop application designed to streamline employee data management 
+for an organization.  
+• The application allows administrators to perform CRUD (Create, Read, Update, Delete) operations on employee records efficiently.  
+• Tech stack: Java, Java Swing, MySQL.  
+ 
+Extracurricular  
+ 
+PICT  CSI Student  Branch  (PCSB)  August  2021  - Present  
+• An active  member  of the  Club  in managing various  activities  in club  
+ 
+PICT  ART  CIRCLE  August  2021  - Present  
+• Participate  in various  activities  of the club  especially  related  to Dance  
+ 
+Achievements  
+ 
+• Representative  for the club  named  Sapphire  that  won  best  Club  trophy  in School.  
+• Won  various  certificates  in sports  and extracurricular  activities.  
+ 
+Hobbies  
+ 
+• Dance.  
+• Mandala  Art. 

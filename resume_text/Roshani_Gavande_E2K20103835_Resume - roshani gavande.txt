@@ -1,0 +1,87 @@
+ROSHANIGAVANDE
+roshanisg101@gmail.com
+ 7058222145
+ https://www.linkedin.com/in/roshani-gavande-6132131b8/
+EDUCATION
+PUNEINSTITUTEOF
+COMPUTERTECHNOLOGY
+BE INELECTRONICSAND
+TELECOMMUNICATION
+HONOURS INARTIFICIAL
+INTELLIGENCE
+2020-2024|Pune,India
+Cum.GPA:8.89/10
+KENDRIYAVIDYALAYANO-1
+PATHANKOT
+2012-2020|Punjab,India
+ClassXPercentage:97.00%
+(CBSE)
+ClassXIIPercentage:95.00%
+(CBSE)
+MHTCETPercentile:97.68
+LINKS
+CodingNinjas:http://rb.gy/4qsrp
+GitHub:
+https://github.com/sgroshani2912
+CodeChef:
+https://www.codechef.com/users/s
+groshani2912
+Certifications:http://rb.gy/4r2imTECHNICALSKILLS
+•CSFUNDAMENTALS:
+DSA|OOP|OS|CN|
+DBMS|SystemDesign
+•LANGUAGES:
+C++|Python|JavaScript|SQL
+•WEBDEVELOPMENT:
+HTML5|CSS|Tailwind|
+Node.js|React|
+Express.js|APIdesign
+•DATABASES:
+MySQL|MongoDB
+•MISCELLANEOUS:
+GIT|GITHUB|OPENCV
+•DATASCIENCE:
+BigData|Hadoop|Data
+Mining|EDA|Web
+scrapping(beautifulsoup).EXPERIENCE
+MLINTERNATJYOSHAISOLUTIONSPVTLTD
+(DEC2022-APR2023)
+ DeployedaFaceRecognitionmodelusingOpenCVand
+MachineLearning.
+ IntegratedthemodelwithaRaspberryPiandconnected
+arelayfordoorlocksystem.
+ PrivacyandSecurityconsiderationsweremet.
+MAJORPROJECTS
+STUDYNOTION-ANEDTECHPLATFORM
+• Afullyfunctionaled-techplatform thatenablesStudents
+andInstructorstocreate,consume,andrateeducational
+content.
+• Itincludeshighlevelsystemarchitecture,front-end,
+back-end,APIdesign,Deploymentandtesting.
+• TechStack:MERNStack|Render|Vercel
+DOORLOCKSYSTEMUSINGFACERECOGNITION
+• Internship-basedend-to-endprojectusingraspberrypi
+andGoogleFirebaseforrealtimedatabase.
+• Theresearchwasprimarilyconcernedwithusing
+cutting-edgevisualrecognitionalgorithmsusingOpenCV
+todetectfacesandidentifyandvalidatefacesbymapping
+facialfeaturestotrackauthorizedindividuals.
+• TechStack:Python,OpenCV,Firebase
+• Hardware:Raspberrypi-4(8GBRAM),
+ACHIEVEMENTS
+• SelectedintoAmazonMLSummerSchool(August2022)
+• Rated1371onCodeChefand2010(Expert)onCoding
+Ninjas.
+• AIR34inAlexaCodingConquest2.0
+• Solvedover500+DSAquestionsonvariouscodingplatforms.
+• NationalChildrenScienceCongress-2ndpositioninprojecton
+“Agricultureandfoodindustry”)(2017)
+• Sports-Badminton (ParticipatedatNationallevel)
+Bronzemedal(Regionallevel),Silvermedal(Clusterlevel)
+ACTIVITIES&HOBBIES
+•PASC(PICTACM StudentChapter)ActiveMember.
+•ParticipatedinImpetus&Concept,Shaastra(IITMadras)
+•Juniordiplomainclassicalodysseydance.
+•Contentandpoemwriting.
+•BravoSquadLeaderatSummerAdventureCampAir
+ForceDalhousie.

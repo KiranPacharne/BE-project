@@ -1,0 +1,55 @@
+Titiksha Shahare Email: titikshashahare88@gmail.com
+LinkedIn: https://www.linkedin.com/in/titiksha-shahare Mobile: +91-9637963515
+Github: https://github.com/titikshaaa
+Education
+•Pune Institute of Computer Technology Pune,India
+Bachelor of Engineering- Information Technology: (CGPA- 9.34) Grad. 2024
+•Dharampeth MP Deo Memorial Science College Nagpur,India
+HSC Percentage: 89.38 Grad. 2020
+•Prerna Public School Nagpur,India
+CBSE Percentage: 94.8 Grad. 2018
+Experience
+•Bajaj Finserv Remote
+Frontend Developer March 2023 - May 2023
+◦Web Developer Intern: Developed an adaptable bug-handling system compatible with various company
+modules, showcasing proficiency in Angular for frontend development within a MEAN stack project.
+◦User Management Enhancement: Strengthened user management and access control by implementing
+distinct user roles.
+◦Comprehensive Bug-Handling System: Successfully integrated critical functionalities for bug reporting,
+opening, and closing, culminating in the delivery of a comprehensive bug-handling system.
+Projects
+•Travel booking and management website :
+◦Designed and developed a travel management website, providing users with a seamless booking and guiding experience.
+◦Implemented innovative features for personalized stay selection, enabling users to compare prices of different
+accommodations.
+◦Ensured a seamless user experience, enhancing the overall efficiency of the booking process and trip planning.
+•Sorting Algorithm Visualizer :
+◦Created an intuitive user interface enabling user interaction and customization of sorting algorithm visualization.
+◦Implemented powerful sorting algorithms for an engaging and efficient learning experience.
+◦Designed immersive features to enhance the sorting algorithm visualization process.
+•Shopping website :
+◦Designed and developed an e-commerce fashion website, ensuring a seamless online shopping experience.
+◦Successfully integrated essential functionalities, including cart management and a secure payment gateway.
+◦Created a user-friendly interface, enhancing customer satisfaction and facilitating smooth transactions.
+•Markdown Editor :
+◦Created a user-friendly markdown editor, enabling seamless text-to-HTML conversion.
+◦Developed a web content generator that ensures readability like plain text.
+Skills Summary
+•Languages : C++, HTML, CSS, JavaScript, SQL
+•Technical Skills : Data Structures & Algorithms, OOP, DBMS, Operating Systems
+•Frameworks : ReactJs, Bootstrap, Angular(Basic)
+•Operating Systems : Windows, Linux(Beginner)
+•Soft Skills : Event Management, Time Management, Public Speaking
+Achievements
+•Successfully solved and conquered more than 400 coding problems on platforms such as Codeforces, Leetcode.
+•Certifications: Object Oriented Programming in C++, Ordered Data Structures, Unordered Data Structures
+•Was awarded for outstanding performance in HSC examination.
+•Attained certification from the CBSE board for achieving a perfect score in Social Studies in the SSC examination.
+Extracurricular Activities
+•Impetus and Concepts’22 volunteer :
+Volunteered as CNSS domain lab head, efficiently managing schedules and coordinating with judges for seamless event
+execution.
+Ensured smooth functioning of the CNSS domain, contributing to the event’s overall success through effective communication
+and coordination.
+•Pulzion’22 volunteer : Engaged in diverse roles within ACM Student Chapter, contributing technically and non-technically
+to the club’s activities.

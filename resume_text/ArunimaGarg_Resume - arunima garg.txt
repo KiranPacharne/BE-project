@@ -1,0 +1,116 @@
+ 
+Arunima Garg  
+ 
+Arudidy02@gmail.com  
+ 
+ 
+Pursuing 7th Semester  BTech,  Computer Science, PICT, Pune  
+ 
+ 
+ 
+In pursuit of challenging assignments that would help me use my skills and passion for the organization’s success  
+ 
+ 
+I am a passionate developer who wants to learn new things. I have a knack for coding and communication. I love 
+working as a volunteer and love cooking in my free time .  
+ 
+In my pursuit of learning , I have done the following  
+ 
+1. Used Flask and MongoDB for my int ernship project at UIAI Technologies  
+2. Used Python and Flask for creating a Dashboard at Northern Trust Hackathon  
+3. Used Tableau and SQL for analyzing Attrition data for an IT Services Organization  
+4. Used Tableau for analyzing sales data for an AI and Analytics organization.  
+5. Volunteered for a very large global testing conference #ATAGTR2022  
+6. Currently I am participating in “Technology for Good” an All-India Hackathon  where our idea is selected in 
+the Top 30 0 
+7. Used Flutter for creating app-based  projects .  
+8. Used CSS, HTML, and JavaScript  for front -end projects.  
+9. Completed college projects in Cryptocurrency  and Data Science projects  on Covid Data  
+10. Prepared research presentation on blockchain  
+ 
+TECHNICAL PROFICIENCY  
+ 
+• web development : JavaScript, CSS, HTML  
+• App Development: Flutter and DA RT 
+• Data Analytics: Python, SQL, Tableau  
+• Programming Languages: Python, Java, C++   
+• AI / ML : Python libraries : NumPy, Pandas, MatplotLib, Sklearn  
+ 
+ 
+INTERNSHIPS  AND VOLUNTEERING ACTIVITIES  
+ 
+1. UIAI Technologies (August 2022 to January 2023)  
+ 
+The application  was Python Flask based and was used for Accessibility Testing of web apps. The application 
+won second prize in the hackathon conducted by the Government of India. Th e UAIAI team is trying to 
+commercialize this application. I was working as an intern/Trainee there and helped  them in their coding 
+initiatives. I work ed on Py thon, Flask, and MongoDB.  
+ 
+2. QAAgility Technologies ( March 2023 to August 2023 ) 
+https://qaagility.com/   
+ 
+Worked as a Data Analyst intern and helped create an HR Analytics dashboard using Tableau. This was intended 
+to analyze the attrition rate within a firm. The dashboard provided an interactive and user -friendly platform  
+that enabled HR professionals to quickly identify the factors contributing to employee turnover and proactively  
+retain valuable employees.  
+ 
+3. Agile Testing Alliance Global Testing Retreat 2022   
+ATAGTR2022 was the 7th edition of the Global Testing retreat organized by Agile Testing alliance. I was part of 
+the track management and hosting committee. https://gtr2022.agiletestingalliance.org/organizing -team   
+ 
+ 
+ 
+ 
+COLLEGE PROJECTS  
+ 
+1. College project:  Exploratory Data Analysis of Covid Vaccination data of India  in 6th Semester  
+Used Python libraries – NumPy, Pandas, MatplotLib, Sklearn to analyse covid data analysis  
+ 
+2. Prepared research paper on Blockchain  in the 5th Semester  
+ 
+3. College Project: Prepared cryptocurrency  for a college campus – I worked on the algorithm (proof of work) in 
+this group project.  
+ 
+4. College Project: created a website – Sociapedia. I worked on MongoDB in this group project  
+ 
+5. Training Project : Used Tableau for analyzing sales data for an AI and Analytics organization  
+ 
+6. College Project: Created a mobile app using flutter and DART  
+ 
+ 
+ 
+ 
+TRAININGS  
+ 
+• Underg oing the following training  
+ 
+❖ Data Science and Analytics program by Scaler Academy  
+ 
+ 
+ACADEMIC CREDENTIALS  
+ 
+Pursuing B -Tech in Computer Science from PICT, Pune  
+Semester  GPA 
+I 9.95 
+II 10 
+III 9.36 
+IV 8.41 
+V 9.19 
+VI Results Awaited  
+ 
+12th Standard : 89.23 %  
+10th Standard: 97.5 %  
+ 
+I was the school prefect in 9th and 10th grade.  
+I won an inter-school  debate competition.  
+I won the best goalkeeper award in Hand Ball competition in 9th grade.  
+I came third in a photography competition in 9th and 10th grade.  
+ 
+PERSONAL DETAILS  
+ 
+Languages Known:   English and Hindi  
+Mailing Address:            55 Bhagat ki kothi, Extension Scheme, Jodhpur (Rajasthan)  
+ 
+ 
+ 
+(Arunima Garg ) 

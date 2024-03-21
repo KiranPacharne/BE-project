@@ -1,0 +1,61 @@
+                                                                  
+  EDUCATION:   
+Savitribai  Phule  Pune  University - SCTR’s  Pune  Institute  of Computer  Technology  (PICT),  Pune  
+(Bachelor  of Engineering)  
+ 
+ 
+ 
+(12th Standard  Board  Examination)  
+STNMS,  Latur  (CBSE  Board)  Year  of joining  2020 -present  
+(2023)  
+            Average SGPA – 9.49  
+ 
+Year  of passing  - 2020  
+Percentage  - 92.80  
+ 
+(10th Standard  Board  Examination)  
+Shri Deshikendra  Vidyalaya,  Latur  (State  Board)  
+      Year  of passing - 2018  
+Percentage  - 98.60  
+         SKILLS:  
+  Programming  Languages : C, C++, Java, Python, Embedded C programming   
+         Software : Data Structures & Algorithms, Database Management System, Machine Learning, Object Oriented Programming  
+  Hardware : Microcontr oller s 
+  Soft Skills : Teamwork,  Time  Management,  Active  Listening,   Attention  to detail,  Flexibility  
+ 
+         PROJECTS:  
+1) Java Project: Hospital Management System – Implemented the Hospital management system using Java 
+as front -end language and used MySQL to as database to store the data. Applied the concept of Java 
+swings for Front -end. By this  application,  we can manage  all the activities  happening  at the hospital  like 
+deletion  of records  of patients,  addition of  new  records,  transactions,  patient  data,  hospital  staff  data.  
+2) Machine  Learning Project: Movie Recommendation System – It is machine learning model which 
+recommends  similar  type of  movies  to the  user  basing  on his watched  movie  history.  
+3) Hardware Project: Floor Cleaning Bot – It is a moving bot which performs the task of floor  cleaning . It follows the 
+zigzag path while moving in the room. Sensors are used as inputs to the microcontroller and output of the 
+microcontroller is the cleaning ac tion and motion of the bot.  
+ 
+          ACHIEVEMENTS  AND  AWARDS  
+1) NPTEL  Certificate  in Programming  in Java  (Among  2 percent  toppers,  Elite  + Gold  rank)  
+2) NPTEL  Certificate  in Programming  in Modern  C++ (Elite  + Silver  rank).  
+3) NPTEL  Certificate  in Database  Management  System  (Elite  rank)  
+4) University  Rank  1 with  10 pointers in  second  year  1st semester.  
+5) Certificate  of Partition  in “Zero  to Hero  in Python  Programming”  department  course.  
+6) Certificate  of completion  of “Fundamentals  of Artificial  Intelligence  and Machine  Learning”  course  from  
+Vodafone  India  Foundation.  
+7) Certificate  of completion  of “MERN  Stack  Web  Development  Industrial  Training”  course  from  Kode  It Solutions.  
+8) 100 out of 100 marks  in 10th in Mathematics  subject.  
+ 
+ 
+          EXTRACURRICULAR ACTIVITIES:  
+1) Member of PICT CSI Student Branch  
+   Volunteer for Xenia Event 2021 - Worked in the ‘Gift of Gab event’ . 
+  Volunteer for Xenia Event 2022 - Worked in the ‘XENATUS event’ . 
+2)     Participated in MIT college state level o nline chess competition.  
+3)     2 times district level chess winner during school time.  
+4)     Member of NSS team.  
+5)     Certificate of Membership of PICT CSI Student Branch.  
+Name: Pratik Mahadev Bolegave               
+Contact: 7498628747                       
+Email: bolegavepratik@gmail.com  
+LinkedIn: https://www.linkedin.com/in/pratik -bolegave -297279218    
+ 

@@ -1,0 +1,43 @@
+Shravani Kulkarni
+♂phone+91 9422036412 /envel⌢peShravani Kulkarni /linkedinLinkedIn /githubshravanik03
+Objective
+Passionate final year student aspiring to become a software developer, seeking opportunities to contribute my skills
+and collaborate on projects.
+Education
+Pune Institute Of Computer Technology, Pune July 2020 – June 2024
+Bachelor of Engineering in Electronics and Telecommunication GPA: 9.144/10
+Vivekanand College, Kolhapur June 2019 – June 2020
+HSC Percentage: 91.69/100
+Vasantrao Chougule English Medium School, Kolhapur June 2017 – June 2018
+SSC Percentage: 95.60/100
+Technical Skills
+Languages/Database : C, C++(Proficient), Java, MySQL, MongoDB(basics)
+Web Technologies : HTML, CSS, Tailwind CSS, React, Node , Express
+Software & Tools : Git, VS Code, Eclipse, Postman API
+Technical : Database Management Systems, Object Oriented Programming Concepts, DSA
+Projects
+ChatOut - A real-time chat application |React, Node, Express, MongoDB Github
+•Designed and developed ’ChatOut’, a real-time chat application using MERN stack and Socket.io
+•Impemented features such as instant messaging, one on one chatting, searching using usernames.
+•Provides functionalities to add an avatar image, which is stored in databse using Multer.
+•Developed backend APIs to search users, create chats, send messages, fetch messages.
+RoamBook - A Travel Booking App |React, Node, Express, MongoDB Github
+•Developed a travel booking application (backend) , ’RoamBook’ using MERN stack.
+•Consist of user authentication, role based authorization verification using JWT with cookies.
+•Selection of custom date ranges and number of rooms, based on which available hotels are displayed.
+•Filters the hotels based on a minimum and a maximum price.
+History Book |JSP, Servlet, MySQL, Github
+•Created a history book application, providing information about Maharashtra’s history, using Java Servlet
+and JSP.
+•User can access the results based on their search.
+•Search results are fetched from the MySQL database using JDBC .
+•Consists of an admin panel to add, update or delete a record.
+Achievements
+1: Solved 150+ DSA problems on Leetcode, Codestudio and Geeks for Geeks.
+2: Received first prize in a technical quiz electroquest organized by PICT ACM Student Chapter (PASC)
+3: Secured 100/100 in Mathematics in HSC board exam.(2020)
+4: Stood first in school in class 10 SSC board. (2018)
+Languages
+1: English
+2: Marathi
+3: Hindi

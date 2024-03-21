@@ -1,0 +1,37 @@
+OM KOGDE
+⋄omkogde121@gmail.com ⋄linkedin-OM ⋄+91-8329117994
+EDUCATION
+SCTR’s Pune Institute of Computer Technology Expected 2024
+BE in Electronics and Telecommunications; GPA: 8.33/10
+Sundarabai Gopalswami Boys High School and Mahila Junior College March 2020
+12th; Percentage: 77.85
+SKILLS
+C++, HTML, CSS, Javascript,JAVA, MongoDB, SQL,DSA, AWS(novice),Data Analytics
+EXPERIENCE
+Project Intern MAY 2023 - JUNE 2023
+PICT PUNE,MAHARASHTRA
+•Created E-commerce Website and deployed it on cloud.
+•Created virtual machine using EC2 instance
+PROJECTS
+RESUME PARSER. (ML,PYTHON,HTML,CSS)
+Developed and implemented a Resume Parser using natural language processing (NLP) and machine learning tech-
+niques. The parser efficiently extracts key information from resumes, such as contact details, work experience, skills,
+and education, and converts them into structured data.
+YOUTUBE PLAYLIST LENGTH CALCULATOR (JAVASCRIPT, HTML, CSS, NODEJS, EXPRESSJS)
+YouTube Playlist Length Calculator utilizes the YouTube Data API to fetch details of each video within a playlist. It
+employs the axios library to make asynchronous API requests and the express module to set up a simple web server
+TOURISM MANAGEMENT APP (JAVA,SQL)
+Contributed to the development of a dynamic Tourism Management App using Java. Implemented features like
+user registration, destination search, itinerary planning, booking and reservations, budget tracking, reviews and rec-
+ommendations, and social sharing. Enhanced skills in Java programming, database management and user interface
+design.
+CODING PROFILES
+LeetCode: OMK GeeksForGeeks: OMK
+EXTRACURRICULAR-ACTIVITIES
+•Pict Cricket team player with achievements and leadership roles.Participated in Inter-collegiate matches.
+•Pict Volleyball player with awards and team involvement.
+•Volunteer in Annual Event of Pict.
+HOBBIES
+•Singing
+•Playing Sports
+•Trekking

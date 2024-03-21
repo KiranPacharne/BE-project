@@ -1,0 +1,86 @@
+YashPatil
+× 9145135230 |ć yashp9145@gmail.com |a Yashp2 |î Portfolio |] Yash
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+Bachelor in Electronics and
+Telecommunications
+2024 ba tch | Pune, India
+•CGPA: 8.87
+KAMALNAYAN BAJAJ JUNIOR
+COLLEGE
+Higher Secondary Education
+2020 ba tch | Pune, India
+HSC: 82.6% | JEE: 88.29% | CET: 9 7 .36%
+SKILLS
+PROGRAMMING LANGUAGES
+C•C++ •JavaScript
+DEVELOPMENT
+ReactJs •Redux •NodeJs •ExpressJs •
+Bootstrap •HTML+CSS
+DATABASE
+MySql
+PLATFORMS
+Windows •Linux
+CORE CONCEPTS
+Data Structures andAlgorithms •Object
+Oriented Programming •Github •
+Database Management System
+SOFT SKILLS
+Leadership •Event Management •Time
+Management •Problem Solving
+LINKS
+•LinkedIn:// yash-patil
+•Github:// yashp2
+•CodeChef:// yashp05 (1882 MAX.)
+•CodeForces:// yashp05 (1465 MAX.)
+•Leetcode:// yashp05
+ACHIEVEMENTS
+•First-place Winner inPraxis Digital
+Defenders, ITSA PCCOE Pune.
+•Non-CS category Winner in
+Coderush PICT, PICT Pune.
+•Webmaster atPICT IEEE Student
+Branch.EXPERIENCE
+MWIN FINTECH PRIVATE LIMITED |Web Application
+Developer Intern
+Oct 2022 - Dec 2022 | Mumbai, India
+•Project -Built aBestOffer Provider System: Created aWeb-app for
+consumers togetbestoffers ontheir credit/debit cards including
+restaurants/grocery shops present nearthem.
+•Tech Stack: Working withHTML, CSS,Javascript ,Ajax, bootstrap,
+Material-UI,AWS.
+PROJECTS
+NATIONAL COMPUTING CONTEST
+Sept 2022 | Pune, India
+•National Computing Contest, hosted byPICT IEEE Student Branch, isa
+dynamic andengaging coding competition withcode editors andlive
+servers played by600+ users. Itchallenges participants todemonstrate
+their coding prowess, problem-solving skills, andfosters acollaborative
+atmosphere forarewarding andeducational experience.
+•Tech Stack: ReactJs, Redux, React-Bootstrap, React Router DOM, Django
+REST,AWS.
+•[Code ]
+REVERSE CODING
+Feb 2022 | Pune, India
+•Reverse Coding isacaptivating coding event based onaseries of
+MCQ-based challenges ,contestants unravel coding puzzles inafunand
+engaging environment. With theaidoftwolifelines, ”Zones ofDestiny” and
+”Quiz,” participants receive valuable hints tonavigate through the
+complexities,which wasplayed by500+ participants.
+•Tech Stack: HTML,CSS,Javascript,Django,SQLite,AWS.
+•[Code ]
+HISAVE
+J an 2023 | Pune, India
+•AWeb appthethelps youfindthebestoffers onyour credit cards anddebit
+cards ,alsoproviding aconvenient ’search nearby’ feature toexplore nearby
+promotions, enhancing theapp’s userexperience anddriving increased
+savings forusers.
+•Tech Stack: ReactJs,PHP, Bootstrap, MySQL.
+ACTIVITIES
+CONDUCTED C++ SIG'S :
+J an 2022 | Pune, India
+•Event Management andplanning :Conducted online SIG’s (C++ bootcamp)
+under PICT IEEE Student Branch impacting 200+ students.
+•Communication Skills :Delivered sessions onCompetitive Programming
+andWeb Development forjuniors under PICT IEEE Student Branch.

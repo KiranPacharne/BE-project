@@ -1,0 +1,85 @@
+Pradnya Waghmare 
+iampradnyawaghmare@gmail.com  | 9021355617 |   //pradnya-waghmare   
+ 
+ 
+EXPERIENCE: 
+BMC SOFTWARE 
+SDE INTERN  
+Jan 2023- Jun 2023 | Pune, India 
+TECHSTACK- JAVA, MAVEN, HTTP, 
+POSTMAN 
+● Explored BMC’s codeless application platform BMC 
+Helix Innovation Studio, learnt creating new applications 
+and adding processes.  
+● Worked on building and implementing algorithm for 3-
+way reconciliation of processes from the Helix platform. 
+ 
+EDUCATION:                                              
+PUNE INSTITUTE OF COMPUTER 
+TECHNOLOGY 
+B.E. in Electronics and telecommunication 
+2020-2024 | Pune, India 
+CGPA: 8.03 
+ 
+SIR PARASHURAMBHAU COLLEGE 
+HSC 
+2020 | Pune, India 
+Class XII Percentage: 74.62% 
+ 
+RENUKA SWAROOP MEMORIAL GIRLS 
+HIGHSCHOOL 
+SSC  
+2018 | Pune, India 
+Class X Percentage: 85% 
+ 
+LINKS: 
+Leetcode:  //pradnya_w_123/  
+LinkedIn: //pradnya-waghmare   
+ 
+ACTIVITIES: 
+• Team Member of India’s 5 times best ACM Student 
+Chapter. 
+• Volunteered at various college events like Pulzion, 
+Radiance. 
+•Volunteer at PICT NSS. 
+•Vimalabai Lunkad School computer teaching activity 
+lead.  
+ABOUT ME: 
+I have strong passion about coding with a strong desire to 
+learn, experiment, and explore technical, analytical, and 
+problem-solving skills.  Highly stimulated to learn and 
+stay updated. Seeking opportunities to apply my skills. 
+ 
+SKILLS: 
+PROGRAMMING LANGUAGES: 
+C, C++, Java, HTML, CSS 
+DATABASES: 
+SQL 
+CS FUNDAMENTALS: 
+OOP, DSA, DBMS 
+TOOLS: 
+VS code, Eclipse, Maven, Postman 
+ 
+LEADERSHIP: 
+• Representative - PICT NSS Team 
+• Marketing team leader of PICT NSS 
+• Electroquest Pulzion’23 Event lead 
+ 
+ACHIEVEMENT: 
+•3rd prize- District level interschool chess competition 
+ 
+HOBBIES:  
+• Playing Badminton, Chess 
+• Drawing 
+ 
+PROJECTS:  
+DIGITAL LIBRARY  | TECH STACK: 
+HTML, CSS, JAVASCRIPT, DJANGO  
+● A platform (made for Enthusiastic reader) where 
+readers can read book in digital format. 
+ 
+THEATRE BOOKING SYSTEM  | 
+TECHSTACK: DSA  
+● Various options available to user to perform the 
+following actions: Display Available Seats, Book Tickets, 
+Cancel Tickets. 

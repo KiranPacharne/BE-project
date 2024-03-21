@@ -1,0 +1,70 @@
+ABHIJIT SURYAWANSHI
+abhijitsury a w anshi09@gmail.c om | 9021548984
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+B.E IN C OMPUTER SCIENCE
+2020- 2024(Pur suing) | Pune,India
+Cum GPA:9.43/10
+AMRITA JUNIOR COLLEGE
+Class XIIPercentage :91.08%
+SHRIRAM VIDYALAYA
+KHERADE WANGI
+Class XPercentage :93.80%
+LINKS
+Leetcode: abhi_0907
+Hackerrank: abhi_0907
+Geeksforgeeks: abhi_0907
+Codechef: abhi_0907
+Codeforces: abhi_0907
+LinkedIn: Abhijit Suryawanshi
+SKILLS
+PROGRAMMING
+•Competitive Programming
+•Problem Solving •DSA
+Languages :
+•C++
+Web De vel opmen t :
+•HTML
+•CSS
+•Bootstrap
+•JavaScript
+•PHP
+D a tabase :
+•MySQL
+C ore S ubjects :
+•Data Structures andAlgorithms
+•Object Oriented Programming
+•Database Management Systems
+•Operating SystemPROJECTS
+SORTSPECTRA : SORTING VISUALIZER
+•Website which contains visualizations ofvarious sorting
+algorithms.
+•Website allows users toChange Speed andInput Array
+elements.
+•Algorithms -Bubble Sort, Selection Sort, Insertion Sort,
+Quick SortandMerge Sort.
+BLOODHUB : BLOOD DONATION MANAGEMENT SYSTEM
+•Donors andAdmin canSignUp andLogin tothewebsite
+using their UserName andPassword.
+•Thedonor canaccess andviewtheinformation related to
+available blood Inventory, Announcements, andongoing
+Campaigns.
+•TheAdministrator hastheprivilege toeditdetails ofdonors
+andcancreate announcements forcampaigns.
+ACHIEVEMENTS
+•Knight Max(1822) onLeetcode.
+•3*Max(1679) Coder onCodechef.
+•5*Badges onHackerRank (C++,Problem Solving).
+•Pupil Max(1329) onCodeForces.
+•Secured Global Rank 81among 7000+ participants inthe
+Codechef June Long 2022.
+•Secured Global Rank 506among 23000+ participants inthe
+LeetCode Biweekly Contest 106.
+•Secured Global Rank 382among 12000+ participants inthe
+June Cook-Off 2022.
+•Solved over1500+ problems onvarious Coding platforms.
+•Scored 99.603 %ileinMHT-CET 2020.
+CO-CURRICULAR ACTIVITIES
+•Actively participated invarious Coding Competition .
+•Problem Setter forvarious Coding Events.

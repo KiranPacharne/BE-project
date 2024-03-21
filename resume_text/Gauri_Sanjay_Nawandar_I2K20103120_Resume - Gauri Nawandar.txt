@@ -1,0 +1,82 @@
+GAURI NAWANDAR
+Pune Institute of Computer Technology
+gaurinawandar08@gmail.com /ne+91-9370055935 /♀nedngauri-nawandar
+SKILLS
+Languages & Web Technologies
+•C++•HTML •CSS•Bootstrap
+•JavaScript •ReactJS
+Familiar
+•Java•Spring Boot •NodeJS
+Technologies
+•MySQL •Github •Postman
+•Github Insomnia •LaTeX
+Relevant Coursework
+•Object Oriented Programming
+•Database Management System
+•Data Strucures & Algorithms
+Other
+•Problem-solving •Content Writing
+•Teamwork •Leadership
+EDUCATION
+B.E. (IT) - 9.47 CGPA
+Pune Institute of Computer
+Technology
+Ὄ2020-2024
+Higher Secondary - 91.54%
+Rajarshi Shahu Mahavidyalaya,
+Latur
+Ὄ2018-2020
+CO-CURRICULAR
+•Event lead for Dextrous in Pulzion.
+•Core team member of PICT ACM
+Student Chapter.
+•Question setting for coding
+contests in Pulzion and Radiance.
+•Wrote engaging content for
+sessions, websites and events.
+ACHIEVEMENTS
+•Campus2Corporate event winner
+in Xenia’21.
+•Highest Rating on Codechef 1699.
+•Secured Rank in top 3.6% of the
+candidates in the country in JEE
+MAINS-2020.ABOUT ME
+Avid learner and passionate coder with profound
+interest in problem-solving. Looking for
+opportunities to work in a team where I can use
+my knowledge to create a meaningful impact on
+the organization as well as enhance my skills.
+EXPERIENCE
+BA3 Intern
+Barclays
+ὌJune 2023 – August 2023
+•Tech Stack: Springboot, ReactJS
+•Worked on a project to revamp its UI and
+developed distinct backend servers tailored to
+individual data sources from pre-existing single
+server facilitating seamless data exchange.
+•Strategically employed Spring Boot framework
+to implement a proxy server that eﬀectively
+managed requests for multiple backend APIs
+based on user input contributing to overall
+operational eﬃciency.
+Project Intern
+HUF India
+ὌFebruary 2023 – April 2023
+•Tech Stack: MERN Stack
+•Worked on a SaaS application which aimed to
+automate the process of analysis of machine
+statistics and ﬁxed issues in the tool
+management section of the web portal.
+PROJECTS
+Blogzzy
+•Tech Stack: ReactJS
+•Developed a website which allows users to
+conveniently create and delete blogs which can
+be used to save our collection of blogs in a
+convenient way.
+Weather-App
+•Tech Stack: NodeJS
+•Created a website using open source APIs which
+allow users to smoothly get weather updates
+using location name.

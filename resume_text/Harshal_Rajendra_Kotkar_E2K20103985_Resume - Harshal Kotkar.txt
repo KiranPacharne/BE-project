@@ -1,0 +1,52 @@
+Hars hal Kotkar  
+Pune,  Maharashtra,  India  
+ +91-73856 28965       harshalkotkar2001@gmail.com    Harshal Kotkar   
+ 
+EDUCATION  
+Pune Institute  Of Computer  Technology  2020 – 2024 
+Electronics  and Telecommunication  - CGPA  – 8.96 Pune,  India  
+Matoshri Junior College of Science                                                         2017 – 2019  
+Higher Secondary School  Certifi cate  - 73.92 %                                                                                    Nashik,Maharash tra 
+Ratilal V irchand Shah High School   2007 -2017  
+Secondary School Certificate  - 94.60%                                                                                                 Nashik ,Maharashtra  
+ TECH NICAL S KILL
+    Languages : = C, C++,  Dart,  SQL.  
+Developer  Tools : VS Code,  Android  Studio,  Git Version  Control , My SQL. 
+Mobile  App  Development : Flutter (Intermediate) ,Dart . 
+Backend  Services : Cloud  Firestore,  Firebase  Authentication,  Cloud  Functions,  Firebase  Storage . 
+Libraries/Frameworks :  Node JS (Basic) , Express JS(Ba sic),MongoDB,Mongoose(Basic).  
+PROJEC TS 
+ 
+Ecommerce App      | Tech  Stack  - Dart, Node.js,  Express.js,  Mongoose , Mongo DB 
+• Full Stack Ecommerce App with Admin Panel using Flutter, Node, MongoDB . 
+• User can browse product catalogs, create wish lists, add items to a cart . It also provides payment   
+Processing , shipping and order management.  
+• Supplier can view product ,add produc t,delete product ,view order ,change o rder s tatus,view total 
+earning s with help of Admin Panel.  
+• Server:  Node.js, Express, Mongoose, MongoDB, Cloudinar y.  
+• Client: Flutter, Provider . 
+Weatheriod  App  | Tech  Stack  - Dart,  Openweather  API,  Flutter  
+• An App that  provides  accurate  weather  information  of more  than  20000  cities  across  the globe.  
+App also displays  5 days  forecast  along  with  a graph  showcasing  recent  temperature  variance.  
+• Users  can use city name  or use device’s  current  location  to fetch  weather  data.  
+• Uses  BLoC  State  Management  Library  in Flutter  providing  clean  and scalable  architecture . 
+Android  Patient  Tracker  App  | Tech  Stack  - Flutter,  Firebase  Backend  
+• Mobile  App for storing  and viewing  patient  information,  which  uses  Firebase  Authentication  
+for User  Registration  and Login.  
+• App also tracks  patient’s  current  location  in hospital  via barcode  scanners  installed  in area  to 
+ensure  Social  Distancing  Protocols  are followed.  
+CODING PROFILES  
+ 
+ 
+• GFG  – harshal1409                                 
+• Leetcode  – Harsh _1409   
+• Codechef  – gre_ninja   
+ACHIEVEMENTS  
+ 
+ 
+ 
+• 3 STAR at Codechef :  High est Rating 1656.  
+• Solved  500+ problems  across  several  coding  platforms.  
+• Top 1. 5 percentile of MHTCET – 2020  
+    
+ 

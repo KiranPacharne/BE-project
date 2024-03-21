@@ -1,0 +1,87 @@
+Shrey Shah
+shre y shah19 7@gmail.c om | +91 9359 589 94 8
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+B.E. in Computer Science
+2024 bach | Pune,India
+C urren t GP A: 9.02
+RAJIV GANDHI ACADEMY
+OF E-LEARNING
+HIGHER SEC OND AR Y EDUC A TION
+2020 bach | Pune,India
+HSC: 89.08%|JEE:96.3%|CET :99. 72%
+LINKS
+Leetcode:// shrey197
+Github:// ShreyShah197
+LinkedIn:// shreyshah
+SKILLS
+PROGRAMMING AND TOOLS
+Pr ogr amming Languages:
+C++•Python •Javascript
+•Problem Solving •DSA
+De vel opmen t:
+NLP|MySQL|MongoDB |
+Pandas|NumPy|Tensorflow
+2.0|Matplotlib| Scikit
+Learn|Keras|HTML|CSS
+COURSEWORK
+UNDERGRADUATE
+Data Stuctures
+Operating Systems
+Computer Networks
+Database Management System
+Object Oriented Programming
+Software Engineering
+EXTRA CURRICULAR
+PICT CSI STUDENT CHAPTER
+Member|FEB 2021 - PRE SENT
+ADDICTION
+CULTURAL FEST
+Design Team HeadEXPERIENCE
+INTERN CROWD | Web Development
+March 2023 – April 2023|Pune,India
+•Collaborated inthecreation ofwebpages using HTML, CSS,Javascript,
+adhering toindustry bestpractices andstandards.
+•Demonstrated strong problem-solving skills inidentifying andresolving
+technical issues, readabunch ofresearch papers onstable diffusion models and
+ensured thetimely delivery ofprojects within specified deadlines.
+•Build afullyfunctional website forITservices providing company. Website is
+component-based which helps thecompany toprovide andreach more clients.
+PICT | Research Internship
+A ugus t 2022 – No v 20222|Pune,India
+•Collaborated withother members ofresearch team toevaluate thesolution for
+reducing traffic congestion bymaking dynamic traffic signal management.
+•Analyzed thetotalvehicles datarunning onaparticular roadusing computer
+vision andYOLO model andcalculated average timerequired fortraffic signal
+tobegreen.
+•Prepared theteam’s Finding ina8-page research paper anspresented them to
+theheads ofthedepartment
+PROJECTS
+TRAFFIC SIGNS IMAGE CLASSIFICATION
+Deep learning
+•Optimized andPre-processed 50,000 images before building classification
+model
+•Converted allimages intoarray ofbinary’s andapplied MaxPooling
+•Build theTrained CNN classification model with43classes
+•Analyzed Model Prediction accuracy using accuracyscore ofmetrics module
+•ItCanbeused bySelf-Driving Cars
+MOVIE RECOMMENDATION SYSTEM
+NLP and ML
+•Analyzed movies datasetusing python libraries likePandas andNumpy
+•Optimized andPre-processed databefore building model
+•Performed Feature Engineering ondatahaving 23columns
+•Used Bag-of-words Algorithm tobuild andtrain model andapplied steming on
+feature words
+•Made simple apponmovie recommendation andexported model onappusing
+Streamlit framework
+ACHIEVEMENTS
+•Solved 700+ problems across various platforms likeLeetcode,Codeforces,GFG.
+•Codeforces :Rated -1263
+•Codechef :Rated -1500
+•Secured 1stposition inCode Hunter andBugFixer competition in
+Vishwa-Carnival organized byVIT.
+•Secured 2ndposition inPredict −Xdatascience competition organized by
+COEP college.
+•InTop10teams ofVizathon’22 across pune.
+•InTOP25amoung 100teams allovertheworld forPickl.Ai hackathon

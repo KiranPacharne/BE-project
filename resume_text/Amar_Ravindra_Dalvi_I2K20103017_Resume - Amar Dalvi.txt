@@ -1,0 +1,46 @@
+Amar Dalvi
+♂phone9284503087 |/envel⌢peamardalvi15@gmail.com |/linkedinamar-dalvi |/githubAmar1510
+Education
+Pune Institute of Computer Technology(PICT) July 2020 - Present
+B.E - Information Technology Pune,Maharashtra
+CGPA: 9.04/10.00
+Babasaheb Utangle JR. College of Science July 2019 - June 2020
+HSC, Class XII Akola,Maharashtra
+Percentage: 89.84
+Sahakar Vidya Mandir July 2017 - June 2018
+SSC, Class X Dhamangaon Badhe,Maharashtra
+Percentage: 92.40
+Technical Skills
+CS Fundamentals : DSA, Database Management System, Operating Systems, Object oriented Programming
+Programming Languages : C++, JavaScript(Basics), SQL
+Web Development : NodeJs, ExpressJs, HTML/CSS
+Other Technologies : Figma, Photoshop
+Experience
+HUF India Pvt. Ltd Feb 2023 - Apr 2023
+Web Development Intern
+•Worked on the backend using Nodejs, Expressjs for creating dashboards for maintenance system.
+•Inhouse project under college faculty for HUF India.
+Projects
+Pulzion’23 Event Website |NodeJs, ExpressJs, PostgreSQL,NextJs Visit
+•The primary goal of the PULZION’23 website was to host the annual flagship event of PASC which received around
+3400+ registrations and 40000+ requests.
+•Worked on backend development for server side code.
+CTiS Event Website |HTML,CSS, JavaScript Visit
+•This was the official website of CTiS event (Annual event of ACM India and CS Pathshala).
+•A platform where all details of conference schedule, speakers were updated.
+•Over 1.5k users used the website.
+Extracurricular
+•Public Relations Officer (PRO) at PICT ACM Student Chapter.
+•Leading team of 150+ volunteers.
+•Conducted SIGs on Web development, Digital designing for college students through student chapter.
+•Social Media Manager - Handled the official Instagram and LinkedIn handle of PICT ACM Student Chapter.
+•Organized and Lead various Tech and Non-Tech events as part of the national-level annual flagship event, PULZION’23
+and PULZION’22.
+Profiles
+•Leetcode : Amarrd0044
+•Codechef : Amarrd0044
+•GeeksforGeeks : Amarrd0044
+Achievements
+•3 Star on Codechef with Max. rating (1652).
+•Solved over 600 problems on various coding platforms (over 200 on CodeForces).
+•Secured 775th rank in MHT-CET exam

@@ -1,0 +1,32 @@
+C + + ( O O P S )  ,  B a s i c  P y t h o n ,  R e a c t ,  H T M L ,  C S S ,  B o o t s t r a p ,  P r o b l e m  S o l v i n g ,  D S A ,  D B M S ,  O p e r a t i n g
+S y s t e m ,  S Q LS K I L L
+P R O J E C T
+A C H I E V E M E N T S
+L A N G U A G E S2  S t a r  a t  C o d e  c h e f                         5  S t a r  a t  H a c k e r  r a n k                    2 5 0 +  Q u e s t i o n s  S o l v e d  o n  L e e t c o d e
+E n g l i s h                               H i n d i                             M a r a t h i                            I N F O R M A T I O N  T E C H N O L O G Y  S T U D E N T
+G o r e g a o n ,  G o n d i a  ( 4 4 1 8 0 1 )            9 1 3 0 5 7 2 8 7 7          m s r a u t 0 7 @ g m a i l . c o mR A U T M A N I S H
+E D U C A T I O N
+P u n e  I n s t i t u t e  o f  C o m p u t e r  T e c h n o l o g y   B a c h e l o r ' s  o f  E n g i n e e r i n g  i n  I T ( 8 . 4  C G P A )          2 0 2 0  –  2 0 2 4
+K i r s a n ' s  M i s s i o n  S c h o o l  &  J r .  C o l l e g e  ,  G o r e g a o n  H S C  ( 6 2 . 2 0  % )                                          2 0 1 8  –  2 0 1 9
+K i r s a n ' s  M i s s i o n  S c h o o l  &  J r .  C o l l e g e  ,  G o r e g a o n  S S C  ( 8 2 . 2 0  % )                                           2 0 1 6  –  2 0 1 7
+K a r w a a n  ( C a r  R e n t a l )S u c c e s s f u l l y  d e v e l o p e d  a  t r a c k i n g  a p p  f o r  s p e n d i n g  u s i n g  M E R N  s t a c k .
+T h e  s p e c i f i c  f e a t u r e s  o f  t h e  a p p ,  s u c h  a s  t h e  a b i l i t y  t o  t r a c k  d i f f e r e n t  c a t e g o r i e s  o f  s p e n d i n g .
+a n d  t r a c k  t h e i r  s p e n d i n g  h a b i t s .
+T h e  a p p  w a s  d e v e l o p e d  u s i n g  a  m o d u l a r  a p p r o a c h ,  m a k i n g  i t  e a s y  t o  m a i n t a i n  a n d  u p d a t e .  
+T h i s  p r o j e c t  d e m o n s t r a t e s  m y  s k i l l s  i n  w e b  d e v e l o p m e n t ,  u s e r  e x p e r i e n c e ,  a n d  p r o b l e m - s o l v i n g .
+D e v e l o p e d  a  f u l l - s t a c k  M E R N  a p p  f o r  c a r  r e n t a l  t h a t  a l l o w s  u s e r s  t o  s e a r c h  f o r  c a r s ,  b o o k
+r e s e r v a t i o n s ,  a n d  p a y  f o r  r e n t a l s .
+U s e d  R e a c t J S  t o  c r e a t e  a  u s e r - f r i e n d l y  f r o n t e n d  t h a t  i s  r e s p o n s i v e  a n d  e a s y  t o  u s e .
+U t i l i z e d  N o d e . j s  a n d  E x p r e s s  t o  b u i l d  a  s c a l a b l e  a n d  r e l i a b l e  b a c k e n d .
+I m p l e m e n t e d  M o n g o D B  t o  s t o r e  u s e r  d a t a  a n d  c a r  r e n t a l  i n f o r m a t i o n .
+I n t e g r a t e d  S t r i p e  t o  p r o c e s s  p a y m e n t s  s e c u r e l y .S p e n d S e n s i b l y
+W O R K  E X P I R I E N C E
+D e v e l o p e d  F u l l  s t a c k  M E R N  w e b  a p p  f o r  A p p o i n t m e n t  b o o k i n g .
+W e a t h e r  F o r c a s t i n g  a p p  a n d  D e s i g n  v a r i o u s  s t a t i c  w e b p a g e s .
+T e c h  S t a c k  :  M o n g o D B ,  R e a c t ,  E x p r e s s ,  N o d e . J S ,  B o o t s t r a p ,  H T M L ,  C S S .W e b  D e v e l o p m e n t  I n t e r n  ( I n t e r n p e )
+C E R I F I C A T E S
+T h e  C o m p l e t e  F r o n t - E n d  W e b  D e v e l o p m e n t  C o u r s e  ( U d e m y )
+T h e  c o m p l e t e  p y t h o n   p r o g r a m m i n g  c o u r s e  :  B e g i n n e r  ( U d e m y )
+D S A  ( U d e m y )
+I N T E R E S T  &  H O B B I E S
+L i s t e n i n g  M u s i c ,  B a d m i n t o n ,  G a m i n g ,  P h o t o g r a p h y  &  E d i t i n g

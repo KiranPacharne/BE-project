@@ -1,0 +1,75 @@
+PARESH BARGE
+Pune Institute of Computer Technology
+pareshbarge6@gmail.com Pune Maharashtra - India /♀nednhttps:/ /www.linkedin.com/in/pareshbarge/
+EDUCATION
+B.E. (IT) - 9.28 CGPA
+Pune Institute of Computer Technology
+ὌJuly 2020 – Currently
+Higher Secondary - 76.31%
+State Board of Secondary Education
+Ὄ2020
+Secondary - 92.6%
+State Board of Secondary Education
+Ὄ2018
+PROJECTS
+MarkMyViews - Platform for Reviewing
+Engineering Books
+•Tech Stack - HTML, CSS, Javascript,
+BootStrap, Node.js, MongoDB.
+•Created a platform for engineering students
+to review books and ﬁnd appropriate book for
+the curriculum.
+•Project will help engineering students to
+interact with each other.
+NewsRadar - News App
+•Tech Stack - React, BootStrap.
+•Developed a News Application using React,
+oﬀering a dynamic user interface.
+•Utilized a NEWS API to fetch the latest news
+articles and headlines from reliable sources.
+•Various categories for users to focus on
+preferred topics of interest.
+NodeChat - Chat Application
+•Tech Stack - React, Node.js, Socket.IO.
+•Developed a real-time chat application
+using Node.js and Socket.IO to facilitate
+instant messaging between users.
+•Implemented Socket.IO library to enable
+bi-directional communication between the
+server and connected clients, ensuring real
+time data exchange.
+HOBBIES
+•Playing cricket, football.
+•Playing video games.ACHIEVEMENTS
+•Knight onLeetCode Max. Rating(1917).
+•4 Star onCodechef Max. Rating(1906).
+•Pupil onCodeforces Max. Rating(1317).
+•Secured rank 102in Codechef Starter-49 among 2700+
+participants.
+•Secured 792rank among 5000 participating teams in ICPC
+Kanpur preliminary Round .
+•Among Top 1 percentile in MHT-CET (2020).
+•Among Top 6 percentile in JEE Mains (2020).
+•Solved more than 1500+ problems on various coding
+platforms.
+EXPERIENCE
+Problem Setter
+iMocha
+ὌJan 2023 - Currently
+•Framing of questions on various DSA topics.
+•Monthly tasks included problem setting, test cases generation
+for easy to diﬃcult problems.
+TECHNICAL SKILLS
+•LANGUAGES: C++, Python (Basic)
+•DATABASE: MySQL, MongoDB
+•WEB: HTML, CSS, Javascript
+•WEB-FRAMEWORKS: React, BootStrap
+•OTHER: OOP, DSA, Problem Solving
+LINKS
+•LinkedIn: Paresh Barge
+•LeetCode: Paresh15
+•Codeforces: Paresh15
+•Codechef: paresh_15
+•GFG: paresh_15
+EXTRA CURRICULAR
+•Volunteered for Credenz Event of PISB.

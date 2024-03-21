@@ -1,0 +1,73 @@
+SAVANI PRAVIN KALEKAR
+@savanikalekar@gmail.com ♂phone+91-7058444221
+♂¶ap-¶arkerKatraj, Pune, India /githubSavaniKalekar /linkedinsavani-kalekar
+EXPERIENCE
+NodeJS Developer
+Bajaj Finserv
+Ὄ513th March 2023-12th May 2023 ♂¶ap-¶arkerPune
+•Experienced chat app developer proﬁcient in the MERN stack,
+specializing in real-time communication and sockets.
+•Skilled in designing and developing secure chat applications.
+•Implementing socket-based solutions for real-time chat and seam-
+less user experiences.
+PROJECTS
+Project 1
+Food Ordering App
+•Food Ordering App developed using the MERN (MongoDB, Ex-
+press.js, React.js, Node.js) stack.
+•The app includes features such as user management, a menu and
+ordering system, an admin panel with role-based access control
+for updating the stock.
+•It provides a seamless and user-friendly experience for customers
+while empowering administrators to eﬃciently manage the appli-
+cation.
+•Link: https:/ /food-ordering-app-0jfx.onrender.com/login
+Project 2
+Inventory Management System
+•Proﬁcient in PHP, HTML, and CSS, developed and maintained
+eﬃcient inventory management system.
+•Specialize in creating user-friendly interfaces, implementing back-
+end functionalities, and integrating databases for accurate inven-
+tory tracking and optimization.
+Project 3
+Help Desk GPA Portal
+•The HelpDeskGPA Portal is a web application designed for the
+students of Government Polytechnic Awasari (GPA) college and
+the residents of Manchar city.
+•Using the Django Framework and a SQLite3 database, the portal
+oﬀers students access to the contact details of GPA staﬀ mem-
+bers. Additionally, both citizens and students can ﬁnd contact
+information for local businesses such as shopkeepers, hotels,
+hospitals, and more.
+•The portal also features state-wise COVID-19 information, pro-
+viding users with updates and statistics related to the pandemic.
+•Link: https:/ /helpdeskgpa.pythonanywhere.com/SKILLS
+•Programming Languages
+C, C++, Java Core, Python Core, JavaScript
+•Development
+HTML, CSS, NodeJS, Django
+•Database
+Oracle, MySQL, MongoDB
+MOST PROUD OF
+Ἴ6Salesforce Virtual Internship
+/heartbeatPersistent Foundation’s Kiran Scholar
+/fileParticipated in Smart India Hackathon
+STRENGTHS
+Adaptable Communication
+Motivator & Leader
+EDUCATION
+B.E. in Information Technology
+Pune Institute of Computer Technology,
+(PICT)
+Ὄ52021 – 2024 | Pune, India
+Cum. GPA: 8.38 / 10.0
+Post SSC Diploma in Computer Engi-
+neering
+Government Polytechnic Awasari, (GPA)
+Ὄ52018 – 2021 | Pune, India
+Final Year Percentage: 97.31%
+Secondary School in SSC Board
+Shree Anantrao Kulkarni English Medium
+School (SAKEMS)
+Ὄ52017 - 2018 | Pune, India
+Class X Percentage: 91.00 %

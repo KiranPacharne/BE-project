@@ -1,0 +1,41 @@
+Mrunmay Dixit
+9422641086 |m9dixit@gmail.com |https://www.linkedin.com/in/mrunmay-dixit-198608206/ |
+https://github.com/Mrunmay05
+Education
+Pune Institute of Computer Technology Pune,India
+Bachelor of Engineering(Computer Engineering) CGPA: 8.852 Jun 2020 – Present
+Experience
+Flutter Developer Intern March 2023 – April 2023
+ScratchPAD Labs Pvt Ltd Pune, India
+•Developed the SEL Website, a Social and Emotional Learning platform, using Flutter, Firebase, and Flutter Flow
+technologies.
+•Implemented a search feature to enhance user navigation and improve content accessibility.
+•Designed and developed an intuitive dashboard UI for users to track progress and access resources.
+•Created a teacher workspace with tools to manage student accounts and monitor progress.
+•Integrated the backend with Firebase for efficient data storage, retrieval, and synchronization.
+Insight-Event Lead 27 March 2022 – 29March 2022
+PICT ACM Student Chapter Pune , India
+•A writing event held during the annual flagship event Pulzion of PICT ACM Student Chapter.
+•Lead insight successfully which saw participation of 30 students.
+Pulzion Budget and Content Lead September 2022 – May 2023
+PICT ACM Student Chapter Pune, India
+•Content Lead: Managing all the content that goes into the event brochure and website.
+•Budget Lead: Mapping out an appropriate monetary budget for the well functioning of the event.
+Projects
+Placement Tracker January 2023 – March 2023
+•Designed and developed a full-stack application called Placement Tracker that enables real-time tracking of student
+placements and provides CRUD operations for managing student data.
+•Front-end: Flutter framework
+•Back-end: NodeJS(REST API)
+Chatify November 2022 – December 2022
+•A basic application which serves as an interface for a group chat
+•Front-end: Flutter framework
+•Back-end: Firebase
+Technical Skills
+Languages : C++, SQL(MySQL), Dart
+Developer Tools : Git, Github, VS Code, Firebase, Android Studio, Flutter Flow
+Framework: Flutter(Front-end), Firebase(Backend)
+Expertise Area: OS, DBMS, OOP, Algorithms and Data Structures, Flutter App Development
+Volunteering
+PICT ACM Student Chapter July 2020 – Present
+•Active member of core group for PICT ACM Student Chapter

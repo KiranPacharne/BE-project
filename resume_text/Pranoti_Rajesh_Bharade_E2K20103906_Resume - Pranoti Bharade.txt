@@ -1,0 +1,68 @@
+PRANOTI BHARADE
+SENIOR YEAR E&TC
+ContactAbout Me
+Projects
+EducationSkills:Phone
+Email9175934732A student, currently pursuing Bachelor's Degree in Electronics and
+Telecommunication. Interested in working and exploring more about
+embedded systems and other fields of electronics. A creative
+personality, and a quick learner who also embraces team work with a
+positive mindset. 
+Automatic Motion Detection Using PIR sensor: 
+Reduction of power consumption by automatically controlling the
+Bulbs/lights/fans, with respect to detection of human motion; rather
+than use of manual switching system. 
+Maze Solving Robot:
+This robot is equipped with three infrared sensors to check the path for
+right, left, and straight direction. The robot is able to move
+automatically in many mazes, and reach the final destination. It uses
+the LSRU algorithm to solve the entire path.
+Fire Fighting Robot:
+The robot is equipped with flame sensors that help us detect fire. The
+proposed vehicle has a water pump, and servo motor and a spray which
+is able to extinguish fire at a faster rate.
+Cotton De-seeder:
+Engineered a high-precision cotton deseeder achieving 68% accuracy,
+tactfully adjusted speed (60 RPM) to prevent seed damage, enhancing
+overall deseeding efficiency
+Savitribai Phule Pune University- SCTR’s Pune Institute
+ of Computer Technology (PICT), Pune.
+GPA:   9.34
+Sanjay Ghodawat Junior College, Attigre, Kolhapur.
+Percentage:  80.62%  
+St. Helena's School, Pune. [ICSE]
+Percentage: 93.33%2020-2024
+2018-2020
+2007-2018Bachelor's Degree
+Pre-University CollegeC 
+C++
+Proficient in microcontroller
+programming using C and
+assembly language
+Experienced in programming
+microcontrollers including
+8051 and PIC18F4550
+Arduino interfacing
+Team player
+Adaptibilty
+Work Ethic
+English
+Hindi
+MarathiProgramming Languages:
+Hardware:
+Soft skills:
+Languages:pranoti.bharade@gmail.com
+linkdIn ID
+https://www.linkedin.com/in/pran
+oti-bharade-b400b2231
+School
+Intership:
+Worked as a intern at Smart logic Technologies, in the field of
+robotics.Address
+A1/A-106, Kumar Paradise, 
+Near Magarpatta City, Hadapsar 
+Pune411036 
+Finding out Resistor value Program:
+This program takes input as colors for 4 respective bands and hence
+provides the output as the resistance value of the respective entered
+color bands.

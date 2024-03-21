@@ -1,0 +1,80 @@
+Renuka Vispute
+ 90 7 520434 7  renuk a vispu te9@gmail.c om LinkedIn
+Education
+PUNE INSTITUTE OF COM-
+PUTER TECHNOLOGY
+B.E. EnTC
+2020‑2024 Katraj,Pune
+•CGPA:8.65
+RYK SCIENCE COLLEGE,
+NASHIK
+HSC 12 TH
+2018‑2020 Nashik,MH
+•CET:96.37percentile
+•HSC:82.92%
+ADARSH ENGLISH MEDIUM
+SCHOOL
+SSC 10 TH
+2018 Nashik,MH
+•SSC:95.20%
+TechnicalSkills
+PROGRAMMING
+LANGUAGES
+•C++•JavaScript
+DATABASE
+•MySQL
+TECHNOLOGIES
+•Front‑end: HTML,CSS,React.
+•Back‑end: PHP.
+Highlights
+•CoreTeamMember: PISB,PCSB.
+•LanguageProficency: English,
+Hindi,Marathi.
+•Hobbies: BadmintonTravelling.
+•Certificates:
+–FullStackWebDevelopment
+DemestifiedByMagicFlare.
+–MasteringDataStructures&
+AlgorithmsusingCandC++.
+–UdemyUI/UXcoursebyPierluigi
+Giglio.Experience
+WEB DEVELOPMENT INTERN
+BizzFlyServices
+March2023–May2023 Pune,MH
+•Spearheaded Frontend development, creating dynamic and
+user‑friendlywebpages.
+•UtilizedPHPasthebackendtechnology,seamlesslyintegrating
+andexecutingqueriesforenhancedfunctionality.
+RecentProjects
+VIBESPRESS
+Tech Stack: HTML, C SS, JavaScript, React
+VNEWSisadynamicwebplatformdesignedtokeepusersinformedabout
+recentaffairs,innovations,andchanges.
+•Awebsitethatdeliversnewsandinformationwithavibrantandlively
+touch. Itconveysasenseofenergyandexcitement,whichcanbe
+appealingtopotentialemployersandreaders.
+•NewsfiltrationbasedonEntertainment,Sports,andHealthcategories.
+IDISCUSS
+Tech Stack: HTML, C SS, JavaScript, PHP
+DISCUSSisaninteractivediscussionforumdesignedtofacilitate
+communicationandcollaborationamongprofessionalsandnewcomersin
+thetechworld.
+•Real‑timecommunicationtofosterquickresponsesandactive
+engagement.
+•User‑friendlyinterfaceforseamlessnavigationandbrowsing.
+CLONE WEBSITES OF FLIPKART AND SPOTIFY
+Tech Stack: HTML, C SS, JavaScript
+DevelopedclonewebsitesofFlipkartandSpotify,showcasingproficiency
+inwebdevelopment,UI/UXdesign,andfront‑endtechnologies.
+•Demonstratedcreativityandproblem‑solvingskillsbyreplicating
+complexfeaturesandfunctionalitiesofpopulare‑commerceandmusic
+streamingplatforms.
+Responsibilities
+ROBOLIGA HEAD
+PIC T IEEE Student Branch
+March2022–April2022 Pune,MH
+•CoordinatedandmanagedacollegeRoboLigacompetitionsduring
+”CREDENZ”anIEEEevent,overseeinglogistics,teamcollaboration,
+andbudgetallocation.
+•Demonstratedleadershipandorganizationalabilitiesindeliveringa
+successfulroboticscompetition.

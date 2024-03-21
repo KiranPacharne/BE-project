@@ -1,0 +1,45 @@
+Raj Mavani
+9156915656 |rajmavani100@gmail.com |LinkedIn: Raj Mavani |
+Education
+Pune Institute of Computer Technology Pune
+Bachelor of Engineering in Information Technology : 9.58/10 Sep 2020 – Aug 2024
+RNC Arts, JDB Commerce and NSC Science College Nashik
+XII Science HSC : 85.69% May. 2018 – Feb 2020
+J. D. C. Bytco English Medium High School Nashik
+X General Studies SSC : 91.4% May. 2012 – Feb 2018
+Projects
+Exepense Tracker |Flutter, Hive,
+•Developed a mobile app with Flutter and used Hive as a database.
+•The user can add the expense item and its cost. which is shown along with the day the transaction was done.
+•The user also has the option of deleting the item. The sum of all transactions for a week is shown at the top.
+•Added a bar graph that shows the expenses graphically throughout the week.
+Skribble Io |Flutter ,WebSocket, Nodejs,MongoDB
+•Created a Skribble io game for friends to play.It is a guessing game where a player draws and others have to guess.
+•To play, the user can either create or join a room.The user who has created the game can choose the room name,
+number of rounds to play, and number of players who can join.
+•Added a timer so that each user has a set amount of time to draw and guess.The user who guesses correctly first
+receives more points.
+•Each user has access to other users’ guesses. If the guess is correct, it is masked.
+Text App |Python, Kivy,
+•Created a App using Python and Kivy, in which the user can find synonyms and antonyms of different words.
+•The user can also check if there is any grammatical errors in a sentence or not. User can also check if the word is
+written correctly or not.
+•User can also translate a sentence between the languages of English, Hindi and Marathi.
+Technical Skills
+Java, Python, Cpp , Flutter,Google Cloud Platform (GCP)
+Extra-Curricular Activities
+Cadet
+•Cadet at National Cadet Corps (Air Wing), Nashik
+Volunteer
+•Volunteer at Akhil Bhartiya Vidyarthi Parishad (ABYP), Nashik surveying and identifying issues in rural
+communities and villages.
+Certficates
+Google Cloud Fundamentals: Core Infrastructure
+Essential Google Cloud Infrastructure: Foundation
+Problem Solving (Basic)
+Python Basic
+Links
+Leetcode : rajmavani100
+Codechef : raj9788
+Codeforce : Raj mavani1
+Hackerrank : Raj M07

@@ -1,0 +1,72 @@
+Mandar Kulkarni
+B.E | PICT Pune
+Final Year, Computer Engineering
+Contact: +919822692625
+Email: mandarkulkarni074@gmail.com
+About Me
+Iamfinal year computer engin‐
+eerwith astrong foundation in
+programming andproblem
+solving. Passionate about
+innovative solutions, teamwork,
+andeffective communication.
+Eager tokick‐start acareer in
+software development.
+Education
+2020‐2024
+B.E IN COMPUTER ENGINEERING
+PICT PUNE
+CGPA: 8.12/10 (Upto 5thsem)
+2017‐2019
+HSC
+ShriDawale Jrcollege, Akola
+Percentage: 82.77%
+Jee–97.94 percentile
+2016‐2017
+SSC
+BalShivaji High School, Akola
+Percentage: 96.00%
+Profiles
+Codeforces: mandarkulkarni07
+Codechef: mandarkulkarni07
+GitHub: mandarkulkarni07
+LinkedIn: mandarkulkarni07
+Skills
+Technical
+C++, OOP, DSA,
+DBMS, SQL,
+OS,Web Development
+Non Technical
+Problem solving, Aptitude,
+Presentation skills
+LANGUAGES
+English, Hindi, Marathi.Achievements
+•Codechef Highest Rating: 1747 (3star) .
+•HakerRank Highest Rating: (5Star) inC++
+•Codeforces Highest Rating: 1270 (Pupil) .
+•Secured global rank 485 in starters 82B oncodechef.
+•2nd Runner Up atB‐Plan event organised byPISB (outof75+intercollegiate teams)
+Projects
+Care Connect Website Web Site
+•Developed aDoctor‐Patient interactive Web site where patients may
+select adoctor andschedule anappointment.
+•Aseparate dashboard wascreated fordoctors toprescribe medications to
+enrolled patients.
+•Github: CareConnect Tech Stack:HTML,CSS,JS,sqlite
+Netflix Frontend Clone Web Site
+•Built afullfledged working clone ofnetflix using concepts ofHTML,CSS,JS.
+•Integrated TMDB API,YouTube search APIintothefrontend system using
+JS
+•Github: Netflix‐Clone Tech Stack: HTML, CSS
+Courses
+Data structures and algorithms ‐ Abdul bari| Udemy
+Web Designing ‐ Angela Yu| Udemy
+C++ STL‐ self paced ‐ Geeks for Geeks
+Activities
+2021 PICT CSI Student Branch Student Volunteer
+2022 PICT CSI Xenia event Xenatus Team Lead
+2023 PICT INC Student Volunteer
+Hobbies
+Singing
+Cricket
+1

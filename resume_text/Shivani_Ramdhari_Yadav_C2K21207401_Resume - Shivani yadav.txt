@@ -1,0 +1,72 @@
+SHIVANI YADAV
+BE, Computer Engineering
+♂phone+91-8329945512 /linkedinshivaniyadav /githubshivaniyadav
+@yadavshivanir5@gmail.com ♂¶ap-¶arkerMathoshri Apt. Dhariya Corner Prabhat Colony, Mahad Raigad
+EDUCATION
+BE in Computer Engineering
+PUNE INSTITUTE OF COMPUTER TECHNOLOGY
+Ὄ5Aug 2021 – Aug 2024 | Pune, Maharshtra
+CGPA: 9.43/10.0
+Diploma in IT
+IOPE DBATU UNIVERSITY
+Ὄ5Aug 2018 – Aug 2021 | Lonere,Maharashtra
+CGPA: 9.78/10.0
+SSC
+K.E.S ENGLISH MEDIUM SCHOOL
+Ὄ5June 2009 – June 2018 | Mahad, Maharashtra
+PERCENTAGE: 78.80%
+PROJECTS
+Food Ingredient API
+View Project
+Ὄ5Tech Stack: HTML, CSS, JavaScript
+•An API-based web app used to fetch and display a wide range of
+Meal recipes
+•This project aims to provide users with a convenient platform to
+explore and discover new culinary creations
+File Sharing
+View Project
+Ὄ5Tech Stack: HTML, CSS, MongoDB, Express, Node JS
+•File sharing through a dedicated link
+•Provides a shareable link for every ﬁle which is uploaded and can
+be shared with multiple users for single-click download function-
+ality
+Expense Tracker
+View Project
+Ὄ5Tech Stack: HTML, CSS, MongoDB, Express, React, Node JS
+•The web app which keeps track of user’s everyday expenses
+•Give advice on how to save money
+WORK EXPERIENCE
+Web Development intern at Vibrancy
+•Developed and maintained web pages using front-end technolo-
+gies such as HTML, CSS, and JavaScriptACHIEVEMENTS
+•Solved over 400+ questions on various
+coding platforms
+•3star at CodeChef
+•Global Rank 60/4000 in CodeChef August
+Long 2022
+•Global Rank 135/4100 in CodeChef Septem-
+ber Long 2022
+•5star in SQL on Hackerrank
+SKILLS
+Data Structure & Algorithm
+Object Oriented Programming C++
+HTML CSS SQL Mongo
+ACTIVITIES
+PICT ACM Student Chapter
+Member | JULY 2023-PRESENT
+•Contributed towards developing web apps
+for project submission organized by PICT
+ACM Student Chapter which is 4 times
+winner of the ACM India
+Ignite Committee
+Event Manager | August 2019
+•Led and Organized events such as debate
+competitions, Speech Competiton, Quiz
+competitions, and many more.
+•Took Workshop on C++ for juniors
+•Actively Participated and won in various
+college events
+CODING HANDLES
+•Hackkerank: sryadav
+•CodeChef: shivani09
+•Leetcode: shivani

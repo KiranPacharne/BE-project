@@ -1,0 +1,45 @@
+Chaitanya Lokhande
+♂phone7231955848 /envel⌢pechaitanyalokhande87@gmail.com /linkedinlinkedin.com/in/chaitanya /githubgithub.com/Charlie0560
+Education
+SPPU University - PICT,Pune (8.77 CGPA) 2020 – 2024
+Bachelor of Engineering in Electronics and Telecommunication Pune, Maharashtra
+HSC 12th - Pemraj Sarda Mahavidyalaya, Ahmednagar 2018 – 2020
+Higher Secondary Education in Science Ahmednagar, Maharashtra
+Experience
+Inhouse Internship September 2022 - March 2023
+Full Stack Developer PICT Pune, Maharashtra
+•In-house college internship involvement in the ”Digital Academic Passport” project, employing MERN stack technology.
+•Contributed to creating a platform allowing students to securely manage academic records, with verification by an
+assigned guardian teacher overseeing their progress.
+•Played a key role in enhancing the academic record-keeping process and fostering efficient communication between
+students and guardian teachers.
+Kode IT Solutions Jan 2022 – March 2022
+Front End Developer Intern Pune, Maharashtra
+•Interned at Kode IT Solutions, focusing on creating user interfaces for platforms like LMS, featuring separate dashboards
+for admins, teachers, and users
+•Collaborated with a team to deliver client projects, employing React and Node.js technologies.
+•Employed Visual Studio Code to ensure cross-device compatibility and efficient web application development.
+Projects
+Digital Academic Passport |MERN stack Sep 2022
+•Engineered an extensive MERN stack project featuring a student dashboard displaying multi-year academic data,
+achievements, internships; complemented by a teacher dashboard for streamlined data verification.
+•Demonstrated prowess in full-stack development, data presentation, and collaborative functionality.
+Attendance Taker |MERN stack August 2022
+•Created an advanced MERN stack attendance application with distinct teacher and student dashboards. Implemented a
+secure OTP-based attendance system, enhancing efficiency by generating time-limited OTPs for students to mark their
+attendance.
+•Unique feature includes an electronic attendance register mimicking a traditional booklet format.
+PICITY(LinkedIn Platform) |MERN stack April 2021
+•PICT-The City of Talented Peoples.
+•Developed a LinkedIn-like application for our college employing the MERN stack. Enabled users to share achievements,
+facilitated admin-driven job postings and college event updates.
+•Empowered students to curate LinkedIn-style profiles featuring certificates, experiences, and projects.
+Technical Skills
+Languages : C++, HTML/CSS, JavaScript, DSA(CPP)
+Developer Tools : VS Code, Eclipse
+Technologies/Frameworks : MERN Stack, ReactJS, Bootstrap , NodeJS, GitHub
+Extracurricular
+PISB IEEE 2020 – Present
+Member
+•Managed Web Weaver Frontend which is a part of Credenze event organized by PISB.
+•Collaborated with team members in the part of designing frontend of credenz web application

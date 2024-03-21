@@ -1,0 +1,39 @@
+Dhananjay Salunke Email : dhananjaysalunke2002@gmail.com
+LinkedIn: https://www.linkedin.com/in/dhananjay-salunke/ Mobile : +91 9011737985
+Education
+•Pune Institute of Computer Technology, Pune
+BE in Information Technology; CGPA: 8.82 (Till 5th sem ) 2020 - 2024
+•D.A Satav jr Colledge, Baramati
+HSC(12th); Percentage: 83.15% 2019 - 2020
+•Mary Memorial School, Kasti
+SSC(10th); Percentage: 82.10% 2017 - 2018
+Projects
+•Online Disease Prediction :
+◦Tech stack : html,CSS,JS, NodeJs, MongoDB
+◦Details : Under PBL Subject Teacher, our team developed Online Disease Prediction Webapp. In this project we used
+html,css,js for frontend and NodeJs ,MongoDB for backend. This project will help the people to get idea about Disease
+they may have on the bases of the symptomes they enter.
+◦Link : https://github.com/Dhananjay2002/online-disease-prediction
+•Blog App :
+◦Tech stack : html,CSS,Bootstrap,JS,React,NodeJs,MongoDB.
+◦Details : This Project will help People to uplod their Blogs and view Blogs Uploded by other Peoples.
+◦Link : https://BlogApp.com
+Achievements
+•3 star (1757) @codechef
+•Pupil [MaxRating(1234)] @codeforces
+•Secured Global Rank 163/2000+ in Starters 36 Division 3
+•Secured Global Rank 22/3000+ in April Long One 2022, Division 3
+•Secured Global Rank 26/3000+ in April Long Two 2022 Division 3
+Skills
+•Language : C++,Java, HTML, CSS, JS ,Node Js
+•Database : MySQL, MongoDB
+Profile Links
+LinkedIn: https://www.linkedin.com/in/dhananjay-salunke/
+Codechef: https://www.codechef.com/users/dhananjay 2002
+Codeforces: https://codeforces.com/profile/DhananjaySalunke
+HackerRank: https://www.hackerrank.com/dhananjaysalunk1
+LeetCo: https://leetcode.com/Shashi bot/
+GitHub: https://github.com/Dhananjay2002
+Hobbies
+•Competitive Coding
+•Playing video games

@@ -1,0 +1,52 @@
+PIYUSHA  KHANDAR E 
+Pune,  Maharashtra,  India  
+                                  8308857317   khandarepiyusha01@gmail.com    Piyusha Khandare  
+ 
+ 
+ Education  
+ 
+Pune Institute of Computer Technology, Pune           June  2020  -July  2024  
+  Bachelor  of Engineering  in Computer  Technology                                                                                  CGPA  till SEM:   9.08 
+Jyoti Junior College,  Akola    2018–2020  
+Higher  Secondary  Certificate  Percentage:  85.80  
+Noel  School,  Akola  2008  – 2018  
+CBSE  Percentage:  83 
+ 
+Projects  
+  
+     Hospital Reception Management System  (HRMS)  
+• Developed a comprehensive Hospital Reception Management System using Django to streamline patient registration , 
+records , and a ppointment scheduling processes within a healthcare setting.  
+• Key Accomplishments:  Patient Registration and Records, Appointment Scheduling, Patient Check -in and Queue                                      
+Management  
+• Technologies Used: Python, Django, HTML,  CSS, JS, Bootstrap,  SQLite  
+ 
+Practical Assignment System (PAS)    
+•   Developed a dynamic and user -friendly Practical Assignment System using Django to facilitate efficient assignment 
+grading for students and instructors.  
+•   Technologies Used: Python, Django, HTML, CSS, JS, Bootstrap,  SQLite  
+ 
+Technical  Skills  
+ 
+Languages : C++ , Python  
+Developers Tool : VS Code,  Eclipse  
+Technologies/Frameworks : GitHub,  ReactJS , Django  
+Database : MySQL, MongoDB  
+ 
+Relevant  Coursework  
+• Object Oriented 
+Programming   
+ 
+• Data Structures 
+and Algorithms   
+• Database  Management  
+• Operating  Systems  
+ 
+ 
+Achievements /Extracurricular  
+ 
+• 1st Rank in Python Course  
+• Solved  200+  DSA  Question  
+• Secured a position in a top 10 CodeRush Coding Competition  
+• Football - Division -Level   
+• Shotput - State Level  

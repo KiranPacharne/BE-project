@@ -1,0 +1,40 @@
+SHUBHAM KULKARNI
+/gtbgithub.com/Shubham-Kulkarni-1736 /ne8180856029 kulkarnishubham200@gmail.com
+A curious and optimistic candidate who is successful at managing multiple responsibilities calmly to meet team goals
+EDUCATION
+Pune Institute of Computer Technology 01/2020 - Present
+B.E. in Computer Engineering 8.67
+Bluebells Junior College, Nanded 2018 - 2020
+Junior College 91%
+Gyan Mata Vidya Vihar, Nanded 2018
+School (CBSE) 86%
+SKILLS
+Technical: C++, Data Structures & Algorithms, Python, Javascript, OOP, OS, MySQL
+Non-Technical: Communication, Leadership, Adaptability, Problem Solving
+PROJECTS
+News web app
+- Designed and coded the user interface of the news website using HTML and CSS to ensure a visually appealing
+and user-friendly layout. Implemented JavaScript to interact with a news API, fetching and displaying news
+articles in real-time. .
+Sorting Visualizer
+- Designed and implemented a dynamic sorting visualizer web application using HTML, CSS, and JavaScript
+to showcase advanced algorithmic concepts in an interactive and engaging manner.
+EXTRA- CURRICULAR ACTIVITIES
+PCSB Annual Flagship Event (XENIA) Event Head
+- PCSB annual flagship event XENIA conducts numerous events and games for students in the college campus
+in which I took the responsibilty of managing and conducting fandom events fairly.
+PICT’s Technical Flagship Event (InC) Volunteer
+- Impetus n Concepts event managed at ground level by keeping tally of projects displayed and judged in the
+event.
+ACHIEVEMENTS
+- Class Representative FE
+- MHT-CET (2020) 99.66 %ile
+- JEE Mains (2020) 96.04 %ile
+OTHER INTERESTS
+- Motorcycling
+- Bodybuilding
+- Cricket
+LANGUAGES PROFICIENCY
+- English
+- Hindi
+- Marathi

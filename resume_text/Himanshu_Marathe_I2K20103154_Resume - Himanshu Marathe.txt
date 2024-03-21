@@ -1,0 +1,63 @@
+7558331404
+himanshumarathe09@gmail.com
+https://www.linkedin.com/in/himanshu-
+marathe-0456a2206/
+Pune, MaharashtraC O N T A C TP R O F I L E
+S K I L L S
+E D U C A T I O NW O R K  E X P E R I E N C E
+Software Development
+Python Programming
+C++ Programming
+MERN Stack
+B.E Information Technology
+Pune Institute of Computer
+Technology
+2020-2024
+CGPA : 9.12
+Secured 2nd rank in Engineering
+Mathermatics-III : 98/100
+Higher Secondary Examination
+The Vatsalya School
+2019-2020
+Secured 88.6% in HSC (12th) examination
+conducted by CBSE.Tagrem India Pvt Ltd
+Worked on the Customer relationship Automation.
+Developed webpages for assistance and improvement of customer relationship,
+by developing feedback forms.
+Technologies used : HTML,CSS,PHPJuly 2023 - presentI am a highly skilled software developer with expertise in a wide range of
+technologies, including Python, Pandas, MERN stack (MongoDB, Express.js,
+React.js, Node.js), C++, operating systems, machine learning, and database
+management systems. With a passion for creating efficient and scalable software
+solutions. My strong foundation in computer science concepts and practical
+experience in various domains allow me to tackle complex problems and contribute
+to the success of project.H I M A N S H U  M A R A T H E
+SOFTWARE DEVELOPER
+Senior Secondary Examination
+2017-2018
+Secured 92.2% in SSC (10th) examination
+conducted by CBSE.City International SchoolC E R T I F I C A T I O N S
+MERN Stack Web development Industrial
+training - KODE IT Solutions
+Credential ID KSMERN001882022
+2021 Beginer's guide to Cybersecurity - UDEMY 2021
+https://www.udemy.com/certificate/UC-46836db5-d50e-4f37-
+b16d-d77b8adb24c8/
+P R O J E C T S
+Developed a Quiz Application using Python for desktop applications using
+technologies like pandas, turtle.
+Implemented an IoT project to efficiently manage Emergency vehicles to deliver
+services as soon as possible by, creating a smart traffic control system based
+on Arduino Programming
+Developed a Weather Forecasting application using frontend API by
+OpenWeather.
+R E L E V A N T  C O U R S E W O R K
+Operating Systems
+Database Management Systems
+Machine Learning
+Artificial Intelligence
+Object Oriented Programming
+Data Structures and AlgorithmsWeb Developement InternDjango Developer
+Paptronics Pvt.Ltd
+Working on Backend technologies for Management Systems.
+Skills used : Python,django.
+2023

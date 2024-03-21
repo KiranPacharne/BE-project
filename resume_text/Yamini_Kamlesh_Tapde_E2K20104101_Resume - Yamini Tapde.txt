@@ -1,0 +1,36 @@
+Yamini Tapde
+Email: yaminitapde123@gmail.com |Phone: 7385190784
+EDUCATION
+Pune Institute of Computer Technology 8.60 SGPA
+B.E. in Electronics and Telecommunications Engineer Feb 2020 onwards
+SREF’s Mandhana Junior College, Ahmednagar 72.92%
+Junior College (HSC) 2020
+AES Ashokbhau Firodiya English Medium School, Ahmednagar 88%
+Highschool (SSC) 2018
+SKILLS
+Technical Skills : C++, Data Structures & Algorithms, Java (Beginner), ReactJS, MySQL, OOP , OS
+Non-Technical Skills : Problem Solving, Adaptability, Leadership
+PROJECTS
+Cryptoverse
+•Tech Stack used: ReactJS, Redux, AntDesign (For UI), Chart.js, RapidAPI
+•Optimized Website for understanding crypto-currencies and their value flow.
+•The charts displayed show prices of 10 crypto-currencies and latest news related to crypto-currency.
+History Navigator
+•Tech Stack used: Java Servlet, JDBC, JSP , Frontend Technologies.
+•AWeb-based Platform made using Java technologies that provides users with Histotical information about Events,
+People, and Places related to Maharashtra.
+EXTRA-CURRICULAR ACTIVITIES
+PICT’s Technical Flagship Event (InC’23) Event Head
+Worked as Concepts Head
+PICT DebSoc Moderator
+Worked as moderator in DebSoc’s Flagship Event, Paricharcha’22
+PICT IEEE (PISB) Frontend Web Developer
+Worked as Frontend Web Developer in Ideathon-21 official website
+PROGRAMMING PROfiLES
+•GeeksForGeeks: yamini108
+•Leetcode: yamini108
+•Codechef: yamini108
+ACHIEVEMENTS
+•Shortlisted for Smart India Hackathon (SIH) at Institute Level
+•Solved 400+ coding questions on multiple platforms
+•Got A grade in intermediate exam (Drawing)

@@ -1,0 +1,68 @@
+AtharvC Kulkarni
+atharvk.2019@gmail.com|9423214970|Pune
+ABOUTME
+AThirdYearcomputerengineeringstudent,
+passionateaboutproblemsolving. Successfully
+workingasanindividualaswellasteamplayer.
+Nopriorworkingexperiencesofar,lookingforward
+tolearningalotofnewthings.
+EDUCATION
+B.E.ComputerEngineering
+PuneInstituteofComputerTechnology(PICT),Pune
+July2020-present
+CGPA:8.38
+ClassXII,HSCboard
+LateP.B.JogJr. College,Pune
+June2018-March2020
+Percentage: 81.80
+ClassX,SSCboard
+C.D.O.MERIHighSchool,Nashik
+March2018
+Percentage: 95.20
+SKILLS
+Programming: C/C++,HTML,CSS,JS(limitedto
+basicwebdev),MySQL.
+Miscellaneous: Linux,CommandLine,Gitand
+GitHub.
+CoreConcepts: DataStructuresandAlgorithms,
+ComputerNetworking,DatabaseManagement.
+HOBBIES&INTERESTS
+Badminton -Iloveplayingbadminton. It’sawayto
+relaxformeafterahecticroutine.
+Linux-I’mprimarilyaWindowsuserbutIlove
+usingLinuxOSverymuchandIalsoliketolearn
+moreandmorecommandswhichIcanusein
+future.
+Football -Ienjoywatchingfootballmatches. Ilike
+tospendmySundaynightswatchingexciting
+footballmatchesandanalysingthem.EXPERIENCE
+BusinessWebSolutions(BWS) -Intern
+(Feb2023-present)
+•FullStackWebDevelopment
+•InternshipinFullStackWebDevelopment
+•Skills: HTML5,CSS3,Bootstrap5,JavascriptES6
+PERSONALPROJECTS
+PanditMitra
+•Awebsiteforbookingpanditonlinetoperform
+anykindsofpoojaorhavanathomeoroffice.
+•BuiltfrontendusingHTML,CSS,JSandBootstrap.
+•Backendusingpython,djangoframework.
+•databaseusedPostgreSQL
+•features-poojabookingtimeslot
+VOLUNTEERING
+Credenz’22 -Volunteer
+•Workedasvolunteerinnontechnicalpartof
+eventlikeeventdecoration,crowdmanagement,
+helpdeskintheannualeventCREDENZofcollege
+club(PISB).
+PISB-Volunteeer
+•VolunteeratPICT IEEEStudentBranch(PISB).
+PCSB-Volunteer
+•VolunteeratPICT CSIStudentBranch(PCSB).
+ACHIEVEMENTS
+HackerRank -GoldBadgeinC++
+HackerRank -GoldBadgeinSQL
+PROFILELINKS
+LINKEDIN-INlinkedin
+LINKLeetCode
+LINKHackerRank

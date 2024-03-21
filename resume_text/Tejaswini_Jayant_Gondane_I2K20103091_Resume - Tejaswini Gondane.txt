@@ -1,0 +1,46 @@
+PRJECTS EDUCATION
+SKILLS
+HOBBIESPune,Indiatejaswinigondane09@gmail.com7709315109
+TEJASWINI GONDANE
+A motivated and adaptable individual with a strong foundation in data structures, possessing strong
+analytical and problem-solving skills, with a passion for developing innovative solutions. Committed to
+continuous learning and delivering high-quality results.
+Web Development - Backend Development with Node.js,
+Express.js, and MongoDB
+Collaborated on a web development project to create a
+backend server for a dynamic web application. 
+ Implemented server-side logic using Node.js and
+Express.js, enabling seamless communication with the
+front-end. 
+ Utilized MongoDB to design and manage the database,
+optimizing data retrieval and storage. Bachelor's Degree in Information Technology
+2020 – 2024
+CGPA: 8.34
+HSC Maharashtra State Board 
+2018 – 2020
+Percentage: 87.5%
+JAVA
+Problem Solving
+Data Structures & Algorithms
+MySQL
+MongoDB
+Object oriented programming
+Machine Learning
+Drawing
+Playing Piano
+Chess
+Writing
+SingingData Science Mini Project - Forest Fire Prediction
+Tour and Travel websitePune Institute of Computer Technology
+MPL. Nehru Jr.College ,Tumsarin/tejaswini-gondane-693271210/
+tejaswini_gondane
+USA Vidya Niketan ,Tumsar
+SSE ,CBSE 
+2018 
+Percentage: 87%github_repo
+Predicted the chances of forest fire spreading and its intensity using
+machine learning algorithms. 
+ Pre-processed the dataset and utilized Python’s Scikit-learn library to
+build a predictive model and evaluate its performance.
+github_repo
+ 

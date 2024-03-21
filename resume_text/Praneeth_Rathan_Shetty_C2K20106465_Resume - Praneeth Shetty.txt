@@ -1,0 +1,51 @@
+Praneeth Shetty Email: praneethshetty09@gmail.com
+LinkedIn: praneeth-shetty-415808218 Mobile: +91-8010269663
+Github: github.com/praneethshetty9999
+Education
+•Pune Institute Of Computer Technology Pune, India
+Bachelor of Technology - Computer Engineering; GPA: 8.93 Grad. 2024
+•H.P.T. ARTS and R.Y.K. SCIENCE COLLEGE Nashik, India
+HSC Percentage: 88.15 Grad. 2020
+•Kilbil St Josephs High School Nashik, India
+SSC Percentage: 93.60 Grad. 2018
+Projects
+•RentOut :
+◦Developed a dynamic accommodation booking platform using React for frontend, and Node.js with Express for backend.
+Leveraged MongoDB for the database to enable users to seamlessly book accommodations and hosts to effortlessly list
+their properties.
+◦The user-friendly interface, and seamless communication between hosts and guests. Simplifying travel and hospitality
+with modern solutions.
+•BudgetPal (Work in progress) :
+◦Built a responsive web app using MongoDB, Express, React, and NodeJS to track and manage expenses. Users can record
+their expenditures and view detailed reports, including a comparison between the actual expenses and the ideal budget.
+◦Implemented user authentication for secure access and utilized a robust backend to handle data storage and
+retrieval efficiently.
+•WordIt :
+◦Developed a personal diary application using EJS for the frontend and Node.js with Express for the backend. Employed
+MongoDB as the database to ensure the scalability and smooth functioning of the platform, allowing users to capture
+their thoughts and emotions.
+◦The user-friendly interface and effective data handling provide a reliable and intimate space to cherish and preserve
+precious memories and reflections.
+Skills Summary
+•Languages : C++, HTML, CSS, JavaScript, SQL
+•Technical Skills : Data Structures & Algorithms, OOP, DBMS, Operating Systems
+•Frameworks : Express, NodeJs, ReactJs, Bootstrap, NextJs
+•Tools : MongoDB, GIT, MySQL, SQLite
+•Operating Systems : Windows, Linux
+•Soft Skills : Leadership, Event Management, Time Management, Public Speaking, Writing
+Achievements
+•Successfully solved and conquered more than 500 coding problems on platforms such as Codeforces, Leetcode.
+•Was awarded for outstanding performance in HSC examination.
+•Secured a Global rank of 369 out of 11K+ participants in Codechef Starters 41.
+•Secured 99.53 percentile in MHT-CET 2020 with a rank of 656.
+•Secured runner up in ELEVATE’23 and SPORTSAGA’23 Volleyball Tournament.
+Extracurricular Activities
+•Event Planning Head of ELEVATE :
+Efficiently managed an inter collegiate flagship event ELEVATE (volleyball tournament), overseeing logistics, team
+registrations, scheduling, and referee coordination. Ensured a seamless and fair competition, fostering sportsmanship and
+camaraderie among participating teams.
+•Pulzion’22 volunteer :
+Engaged in diverse roles within ACM Student Chapter, contributing technically and non-technically to the club’s activities.
+•Captain of PICT volleyball team :
+Committed Volleyball team captain, adept at motivating and guiding teammates to excel both during practices and
+competitive matches.

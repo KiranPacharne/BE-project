@@ -1,0 +1,81 @@
+ 
+ARNAV  D. WAGHULADE  
+ 
+SUMMARY  
+Pursuing  undergraduate  program  in Computer  engineering  at Pune  Institute  of 
+Computer  technology.  Having  skill in C++ and Python  programming.  
+10th CBSE: 95.6%    12th HSC: 90.46%     CGPA : 9.43  
+ 
+ 
+PROJECTS  
+Virtual Calculator  
+- Created a virtual calculator based on the computer vision  library  that 
+simulates functions and operations of a physical calculator  
+- Tech: OpenCV CvZone Mediapipe (Python Libraries)  
+ 
+Movie Recommender System  
+-  Created a movie recommendation system based on content filtering  
+-  Tech: Python (Streamlit) API’s Heroku  
+ 
+Workout Club(gym) Exercise Website  
+- Created a website for my gym in order to guide people in online mode  
+- Tech: React JS API’s  
+ 
+Engineering Chemistry Assist App  
+- Created an application for first year engineering students for education  
+regarding chemistry subject  
+- Tech: Flutter Link:  
+https://play.google.com/store/apps/details?id=com.pbl2b12021.engg_Chemi
+stry_assist  
+ 
+ 
+TRAINING  & CERTIFICATIONS   
+Trainings  Imparted:  
+Basic Python and C++ training imparted to more than 300 aspirants (online  and 
+offline mode)   
+Certifications : 
+Python  (MTA):  13 August 2021 (Institute:  Microsoft ) 
+Certification  Link:  https://www.credly.com/badges/bd5c4464 -c637-4483-9917-
+2bd8f543fa1f?source=linked_in_profile  
+  Java Programming: 28 June 2022 ( Institute : Microsoft)  
+Certification  Link: https://www.credly.com/badges/4d088de6 -c719 -4928 -936b -
+d8c1133b851c?source=linked_in_profile  
+Problem Solving : 23 Sept ember  2022  (Institute:  Hacker  Rank ) 
+Certification  Link: https://www.hackerrank.com/certificates/14315b927a45  
+ 
+ 
+  
+ 
+ 
+CONTACT   
+Phone:  +91 9975014058  
+Email : arnav.waghulade@gmail.com  
+Address : Pune,  India  411044  
+Linked in:  linkedin.com/in/arnav -
+waghulade -473788206  
+ 
+ 
+SKILLS  
+• C++ 
+• Python  
+• Java  
+• Basics  of AI and ML 
+• Data  Science using Python  
+• Data  Structures  and Algorithms  
+• React JS  
+ 
+ 
+STRENTHGS   
+• Quick  learner  
+• Good  communication skills  
+• Good  listener  
+• Team  player  
+ 
+ 
+Date of Birth: 05-Aug-2002  
+Passport Number: U9131273  
+Nationality:  Indian  
+Hobbies:  Playing  football,  swimming  
+Languages:  English, Hindi,  Marath i
+ 
+OTHER  INFO  

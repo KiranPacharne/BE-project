@@ -1,0 +1,91 @@
+Mandar Shinde                                              
++91 7499825833 | mandarshinde131121@gmail.com  | LinkedIn  | GitHub  
+ 
+EDUCATION   
+B. E in Computer Engineering  | Pune Institute of Computer Technology  Expected 2024  
+● GPA:  9.03 
+Higher Secondary Certificate  | Maharashtra State Board  2020  
+● Percentage : 82% 
+Senior Secondary Certificate  | CBSE  2018  
+● Percentage:  91.6% 
+ 
+WORK & LEADERSHIP EXPERIENCE  
+KINESIIS SYSTEMS  Pune, Maharashtra  
+Frontend Developer                                                                    December ’22 – May ‘23 
+● Developed a highly functional mobile application using Flutter framework that streamlined the 
+customer onboarding process, resulting in a 50% reduction in customer onboarding time.  
+● Created a user -friendly interface that allows sales personnel to easily create purchase orders for 
+customers, resulting in a reduc ed order processing time . 
+● Integrated GPS functionality into the app to accurately track driver routes and distances driven, 
+resulting in a 99% accuracy rate  and overall  reduction in payment errors . 
+● Conducted thorough testing and debugging to ensure the app was fully functional and user-friendly, 
+resulting in a 95% decrease in app crashes and glitches.  
+● Received positive feedback  from customers and stakeholders for the app's effectiveness in 
+simplifying and enhancing the purchasing experience, resulting in a 90% customer satisfaction rating  
+● Collaborated  with cross -functional teams to ensure seamless integration with existing systems and 
+processes, resulting in seamless and efficient integration time.  
+● Designed and developed a web scraping application in Python , using selenium drivers an d beautiful 
+soup  to extract data from Clutch.co . 
+● Implemented a custom algorithm to efficiently extract and organize data from Clutch.co, resulting in 
+accurate  collect ion of  data.  
+● Implemented a user -friendly interface for the analysis team to interact with the application and adjust 
+search parameters as needed, resulting in increase d team productivity.  
+● Conducted extensive testing and debugging to ensure the application was fully fun ctional and free of 
+errors, resulting in a 99% error -free rate.  
+● Collaborated with the analysis team to understand their needs and specifications, resulting in a 
+highly tailored and effective solution.  
+● Received positive feedback from the analysis team for t he application's effectiveness in streamlining 
+the data collection process and improving overall efficiency.  
+ 
+ 
+COSMICA GPS  Pune , Maharashtra  
+Full Stack Android  application                                                                August ’22 – September ‘22  
+● Created a comprehensive Android application and website using the Flutter framework.  
+● Developed the backend application using Node.js, the Express package, and JWT for authentication 
+and authorization.  
+ 
+ 
+ SKILLS  & ABILITIES  
+Languages:  Fluent in English, Hindi and Marathi  
+Technical Skills:  C++, Java, Python, JavaScript, Dart , tailwind css  
+Frameworks:  NodeJS, ExpressJS, Flutter  
+Database:  MongoDB, MySQL  
+Tools: Git, GitHub  
+ 
+PROJECTS  
+Notice IT  (flutter and Firebase)   (see project)  
+• College Communication application  
+• Delivers each student customized notifications and announcements depending on their 
+departments, classes, and clubs.  
+ 
+Cosmica GPS (Flutter, NodeJs, ExpressJS, MongoDB)  
+• Developed application and website using Flutter  
+• The project aimed to enhance the efficiency of product delivery and enable the management and 
+documentation of all related activities.  
+• The application can track product status and ensure the accurate deliver y 
+ 
+Web scrapping  (Python, Beautiful soup)  
+• Successfully scraped 1MG website using python  
+• Scoped all medicines and their listed content and assembled the retrieved into mongoDB and 
+visualized the data in excel.  
+ 
+COMPETITIONS  
+ TIAA hackathon  (Winners)                                                                                             May’23  
+• Our team tackled the important issue of ration distribution system and developed a 
+comprehensive solution that addressed the needs of both users and  organizations.  
+• We created an intuitive and user -friendly app for individuals to easily access and manage their 
+ration needs, and a website for organizations to effectively manage and distribute rations.  
+• Our app and website were designed to seamlessly integrate with existing systems, making it 
+easier for organizations to monitor and track ration inventory and distribution.  
+• We implemented robust security measures to ensure the safety and privacy of user data, 
+including a secure login system an d encryption of sensitive information.  
+• Our team utilized cutting -edge technology such as Flutter, Node.js, and Express  to develop a 
+fast and efficient solution that could scale with growing demand.  
+• Throughout the hackathon, we maintained clear communicatio n and collaboration within our 
+team, allowing us to efficiently manage tasks and overcome any obstacles that arose.  
+• Ultimately, our solution was recognized as the winning project due to its innovative approach, 
+user-focused design, and ability to address a  pressing societal need.  
+Machine Knight  (Secured All India Rank 7)  September ‘22  
+• Developed Property Rent Prediction Website  
+• Flutter -web was used to build the website, while Django was used to deploy the ML model at the 
+back end.  

@@ -1,0 +1,54 @@
+KUNAL KACHARE
+Pune Institute of Computer Technology
+kunalkachare2006@gmail.com Pune Maharashtra - India /♀nednhttps:/ /www.linkedin.com/in/kunal-kachare-71b013247/
+EDUCATION
+B.E. (IT) - 8.2 CGPA
+Pune Institute of Computer Technology
+ὌJuly 2020 – Currently
+Higher Secondary - 80.31%
+State Board of Secondary Education
+Ὄ2020
+Secondary - 94.2%
+State Board of Secondary Education
+Ὄ2018
+PROJECTS
+Employee Management System
+•Built an Django application to manage the
+employee data.
+•Provides CRUD operations on employee data
+and fetching the required data based on vari-
+ous parameters.
+•Tech Stack - HTML, CSS, BootStrap,
+Python(Django), Sqlite3
+CountryPedia
+•React-based web application showcasing
+country information in a user-friendly inter-
+face.
+•Utilizes an API to fetch data dynamically, en-
+suring up-to-date information on countries.
+•Displays a list of countries with their names,
+ﬂags, and basic details.
+•Includes a search bar for users to quickly ﬁnd
+speciﬁc countries by name.
+•Tech Stack - React, BootStrapACHIEVEMENTS
+•3 Star onCodechef Max. Rating(1623).
+•Codeforces Max. Rating(1289).
+•Among Top 1 percentile in MHT-CET (2020).
+•Secured rank 20in Codechef Starter-57 among 2700+
+participants.
+•Solved more than 500+ problems on various platforms.
+LINKS
+•LinkedIn: Kunal Kachare
+•LeetCode: stado
+•Codeforces: minato7
+•Codechef: stado
+•GFG: Kunal Kachare
+TECHNICAL SKILLS
+•Languages : C++,Python,SQL
+•Database : MySQL
+•Web : HTML,CSS,Javascript
+•Web-Frameworks : BootStrap, React
+•Other : OOP, Problem Solving, DSA
+HOBBIES
+•Playing kabaddi, calisthanics.
+•Listening to Music.

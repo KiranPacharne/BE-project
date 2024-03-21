@@ -1,0 +1,41 @@
+Pratiksha Magadum
+Pune Maharashatra
+Ħ7499018538 |ćpratikshamagadum1702@gmail.com |]linkedin.com/in/pratiksha1702/
+Education
+PUNEINSTITUTEOFCOMPUTERTECHNOLOGY Pune,MH
+B.E.ComputerEngineering July2020‑Current
+•GPA8.92
+•Courses: OOPS,DBMS,DataStructureandAlgorithms,Computernetworks,OperatingSystem
+LaxmanRaoApteJuniorCollege Pune,MH
+HigherSecondaryCertificate June2019‑March2020
+•83.23%
+AbhinavaVidyalayaHighSchool Pune,MH
+SecondarySchoolCertificate June2017‑March2018
+•92.60%
+Skills
+Programming C/C++,SQL,Javascript.
+Developement HTML/CSS,ReactJS,NodeJS.
+Miscellaneous DataStrutureandAlgorithms,OOPs.
+SoftSkills TimeManagement,Teamwork,Problem‑solving.
+Achievements
+•Achieved 94.55Percentile MHTCET2020 .
+•Solvedover 600+problems acrossseveralcodingplatforms.
+•5StaronHackerrankinC++.
+•4StaronHackerrankinSQL.
+•2StaronCodechef
+•GlobalRank: 345inCodechefAugustLong2022
+Projects
+MusicPlayer
+•ItisabasicmusicplayerwebapplicationbuiltwithHTML,CSS,andJavaScript. Userscanlistentotheirfavouritesongshere.
+•Ausercanalsouseotherfeaturessuchasshiftingtothenextsongorgoingbacktotheprevioussong.
+•Technologiesused:HTML,CSS,Javascript.
+DoctorAppointmentSystem
+•Itisawebapplicationwhichprovidesuser‑friendlyinterfacesforadministrators,doctors,andusers.
+•Itprovidesfeaturessuchasappointmentbooking,managingpatient’sinformation. Adminwillbeabletomanagebothuser
+andthedoctor. Userwillbeabletobookappointmentsaccordingtotheavailabletime‑slots.
+•Technologiesused:HTML,CSS,Javascript,ReactJs,ExpressJs,MongoDB,NodeJs.
+Links
+•Codechef pratiksham123
+•HackerRank pratiksham123
+•Leetcode pratikshamagadum1702
+1

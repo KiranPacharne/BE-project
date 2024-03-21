@@ -1,0 +1,69 @@
+A Batchelor's student at Pune
+Institute Of Computer
+Technology, undertaking BE in
+Computer Engineering. Keen to
+learn all diiferent types of skills
+and technologies and gain
+experience through practical
+applicationsAbout Me
+PCSB
+Volunteered in content
+team of Xenia 21 for
+social meadia content  C++
+Python
+Flutter and Dart(learning)
+JAVA(Familiar)
+MySQL,MongodbSkills
+ActitvitiesBavdhan,Punenikitakulkarni0108@gmail.com9527067440NIKITA
+KULKARNI
+Projects
+Created a website for Daily And monthly budgeting and analytics for individual
+ExpendituresCredBud Using machine learning trying to detect drowsiness of operating pilots in an
+ongoing flight .
+with the help of CNN and OpenCV we are trying to detect eyes and predicting
+whether the eyes are open or closed
+To view Research Paper (http://www.gisscience.net/VOLUME-10-ISSUE-2-2023/)Pilot Drowsiness Detection System 
+Development of a soil moisture detecting system for detection of water moisture
+in agricultural fields.
+Basic knowledge of arduino systems were understood .
+I worked mostly for the software part to create a interface from where
+communication between provider and user can be handled AgriSenseBE Degree
+CGPA Aggregate : 9.257 PUNE INSTITUTE OF COMPUTER TECHNOLOGY 2020-2024
+4 years
+High School Certificate
+Percentage : 82.38KALMADI SHAMRAO JUNIOR COLLEGE 2018-2020
+2 yearsEducation
+CertificationsPASC
+Worked in the website
+team of PASC Pulzion
+2022  and the
+volunteered in
+Organization team of
+the opening ceremony
+and closing ceremony
+of the event which was
+attended by 100+
+peopleAchievements Links
+Nikita Kulkarni
+niki2002
+nico2002
+micky0271Recepient of Lokshahir Annabhau sathe
+scholarship in 12th Standard
+Academic Project been mentioned in top 3
+projects of the department
+Winner of TIAA Hackathon 2023
+Developed a web-based application in which by comparing different courses on
+different learning websites regarding particular domain it recommends the top 5
+results.This project was done by using MySQL and PythonCoAnalyzer 
+Mathematics for Machine
+Learning: Multivariate Calculus
+Mathematics for Machine
+Learning: Linear Algebra
+Mathematics for Machine
+Learning: PCA
+Unordered Data Structures
+Ordered Data Structures
+Object-Oriented Data
+Structures in C++AIR 417 in All India Women Coding Championship
+conducted by Coding NinjasEntered the finals of Techgig Code Gladiators
+with over 3 Lakh participants

@@ -1,0 +1,36 @@
+Varad Kalambarkar
+♂phone+91 7350567519 /envel⌢pevaradskalambarkar@gmail.com /linkedinlinkedin
+Education
+Pune Institute of Computer Technology June 2020 - June 2024
+Bachelor of Engineering in Computer Engineering (CGPA of 8.66) Pune, India
+Shivaji Vidyalaya 2019
+Class XII (Percentage 88.0%) Nanded, Maharashtra, India
+Kusumtai Highschool 2017
+Class X (Percentage 97.0%) Nanded, Maharashtra, India
+Technical Skills
+Languages : C++, HTML/CSS, JavaScript
+Frameworks/Libraries : ReactJS
+Database : MySQL
+CourseWork : Object Oriented Programming, Data Structure And Algorithm, Database Management System, Operating System.
+Projects
+Portfolio |HTML , CSS , JavaScript , ReactJS
+•A Dynamic portfolio created using HTML , CSS , JavaScript , ReactJS .
+•Implemented attractive frontend website for complete description of user .
+EASYTRONICS – Electronics Made Easy HTML , CSS , JavaScript
+•It is a website which is developed to simulate truth tables of logical statements. Also addition and subtraction of two or
+more binary numbers can be obtained .
+•This project helps to student for faster calculation of logic and accurate truth table will give the overall idea of logical gates .
+E-WASTE MANAGEMENT HTML , CSS , JavaScript
+•A Web App which is useful for e waste management i.e collection of ewaste from customer and recycling it.
+Achievements
+•Rating @CodeChef - 1422
+•More than 100 problems solved on CODEFORCES .
+•Secured 98.01 Percentile In Jee Main .
+Profile Links
+•CodeChef •Codeforces
+Hobbies
+•Playing Badminton
+•Playing Cricket
+•Solving problems on Greedy and Maths.
+•Competetive Programming
+•Solving puzzels

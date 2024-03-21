@@ -1,0 +1,48 @@
+Kaushik Naik Email: kaushik.naik1602@gmail.com
+LinkedIn: naik-kaushik Mobile: +91-9325899413
+Github: naik-kaushik
+Education
+•Pune Institute of Computer Technology Pune, India
+Bachelor of Engineering - Information Technology; GPA: 9.53 2020-2024
+•Matoshri Junior College Nashik, India
+HSC Percentage: 87.54 2018-2020
+•RainBow International School Kopargaon, India
+CBSE Percentage: 89.00
+Projects
+•Codechef Buddy :
+◦Built a powerful web application using Express.js andNode.js on the backend, leveraging Cheerio.js for efficient data
+scraping. The frontend comes to life with Next.js orReact.js , providing a seamless and dynamic user experience. Can
+be used to seamlessly compare CodeChef statistics of friends, showcasing rankings, ratings, and more.
+•Teacher Portal :
+◦Created a dynamic web app utilizing Node.js ,Express ,EJS, and Passport.js for authentication, along with
+MongoDB for data storage. Designed an interactive platform to curate and manage quiz content for competitive exams.
+Implemented user authentication and secure data storage to ensure a seamless and reliable user experience.
+•Sympto Check :
+◦Created a web app leveraging Node.js ,Express ,EJS, and Passport JS for user authentication, with MongoDB for
+data storage. Developed a disease probability calculator using medical data and algorithms. Ensured data security with
+authentication and implemented seamless user experience. Utilized MongoDB to store user inputs and results for future
+reference.
+•Budget Pal (Work In Progress) :
+◦Built a responsive web app using MongoDB ,Express ,React , and NodeJS to track and manage expenses. Users can
+record their expenditures and view detailed reports, including a comparison between the actual expenses and the ideal
+budget. Implemented user authentication for secure access and utilized a robust backend to handle data storage and
+retrieval efficiently..
+Skills Summary
+•Languages : C++, JavaScript, Python, SQL, Bash, JAVA
+•Technical Skills : Operating Systems, Data Structures, Analysis Of Algorithms, Databases.
+•Frameworks : ReactJS, Express, NodeJS, NextJS, Bootstrap.
+•Tools : GIT, MySQL, SQLite, MongoDB
+•Operating Systems : Linux, Windows
+•Soft Skills : Event Management, Writing, Time Management
+Achievements
+•Successfully solved and conquered more than 500 coding problems on platforms such as Codeforces, Leetcode.
+•Was awarded for outstanding performance in HSC examination
+•Secured a Rank of 402 in Codechef Starters 36 out of 20k+ participants.
+•Secured 99.09 percentile in MHT-CET 2020 with a rank of 1234.
+Extracurricular Activities
+•Impetus and Concepts’23 volunteer :
+Served as an organizing committee volunteer for Impetus and Concepts’23, contributing to the successful execution of the
+event. Assisted in event planning, logistics coordination, and on-site support, ensuring a seamless and memorable experience
+for participants and attendees.
+•Pulzion’22 volunteer : Engaged in diverse roles within ACM Student Chapter, contributing technically and non-technically
+to the club’s activities.

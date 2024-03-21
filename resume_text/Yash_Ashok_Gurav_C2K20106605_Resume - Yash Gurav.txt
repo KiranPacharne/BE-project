@@ -1,0 +1,78 @@
+YASH GURAV
+C ompe titive Pr ogr a mmer |In teres ted in A lgorithms and D a ta S tructures
+y ashashokgur a v @gmail.c om | +91 -9850565798
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+B.E IN C OMPUTER ENGINEERING
+2020- 2024 ( Pur suing ) | PUNE, INDIA
+Cum. GP A: 9.1/ 10
+ATMA MALIK JR COLLEGE
+PCM IN CBSE BOARD
+2020
+Class XII Percen tage: 90.60%
+ST. JOHN'S SCHOOL
+2018 | R AHA T A , India
+Class X Percen tage: 90.40%
+LINKS
+Codeforces:// YashGurav
+Github:// yAsH-gUrAv
+LinkedIn:// Yash Gurav
+Codechef:// googler1
+HackerRank:// @yashashokgurav
+SKILLS
+PROGRAMMING
+•Problem Solving
+•DSA
+Languages :
+•C
+•C++
+Web De vel opmen t :
+•HTML
+•CSS
+•Javascript
+•ReactJS(basic)
+D a tabase :
+•MySQL
+CORE SUBJECTS
+•Data Structures andAlgorithms
+•Object Oriented Programming
+•Database Management Systems
+•Operating SystemPROJECTS
+E-COMMERCE WEBSITE
+•Developed acomplete e-commerce platform using theMERN
+stack, providing aseamless shopping experience forusers.
+•Integrated thePayPal payment gateway intothewebsite, enabling
+secure andefficient payment processing forcustomer orders.
+•Implemented features such asuser authentication, admin view,
+userview, product catalog, shopping cart,filtering options tohelp
+users findproducts more efficiently andorder management.
+MUSIC PLAYER
+•Built Music Player using Linked List.
+•Facility toplay,seekandpause audio.
+PERSONAL BLOG SITE
+•Developed afullyfunctional blogwebsite thatincludes essential
+features suchasreading, writing, anddeleting blogposts.
+•Users canbrowse andread existing blogposts, write andpublish
+their ownarticles, andalsohave theability todelete their previ-
+ously published blogposts asneeded.
+ACHIEVEMENTS
+•Participated inSmart India Hackathon 2022, among thetop15
+teams selected atCollege level forthenextRound.
+Idea: Competitive Web Development Platform
+•Pupil onCodeforces withhighest rating 1201
+•3Starcoder onCodechef withhighest rating 1652
+•Secured Global Rank 343 among 5000+ participants inthe
+Codechef September LunchTime 2022 (Div.3).
+•Secured Global Rank 349 among 5000+ participants inthe
+Codechef Starters 542022 (Div.3).
+•5StarBadges onHackerrank (C++).
+•Solved over800problems ondifferent platforms.
+•Secured 711Rank inMHT CET(99.46 Percentile).
+EXTRA-CURRICULAR ACTIVITIES
+•Secured First Position InPurushottam Karandak 2022
+•Runner UpinMITArohan Group Dancing Competition
+•Actively participated invarious Coding Competitions
+HOBBIES
+•Competitive Programming.
+•Dancing‘

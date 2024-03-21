@@ -1,0 +1,50 @@
+ANIKET BHAGWAT
+Pune Institute of Computer Technology
+baniket5050@gmail.com Pune Maharashtra - India /♀nednhttps:/ /www.linkedin.com/in/aniketab5050/
+EDUCATION
+B.E. (CE) - 8.4 CGPA
+Pune Institute of Computer & Technology
+ὌJuly 2020 – Currently
+Higher Secondary - 86.15%
+State Board of Secondary Education
+ὌFeb 2020
+Secondary - 87.40%
+State Board of Secondary Education
+ὌMarch 2018
+PROJECTS
+Employee Management System
+•Tech Stack - HTML, CSS, Bootstrap,
+Python(Djnago), Sqlite3
+•Built an Django application to manage the
+employee data
+•Provides CRUD operations on employee data
+Recipe Book Application using API
+•Tech Stack - React
+•Used Edamam Recipe search API
+•Provides recipe information like ingredients,
+measurements etcACHIEVEMENTS
+•Codechef Max. Rating(1487).
+•Secured 484rank in MHT-CET (2020).
+•Among Top 1 percentile in MHT-CET (2020).
+•5 Star in CPP HackerRank.
+•4 Star in SQL HackerRank.
+•Solved more than 500+ problems on various coding
+platforms.
+TECHNICAL SKILLS
+•LANGUAGES: C++, Python
+•DATABASE: MySQL
+•WEB: HTML, CSS
+•WEB-FRAMEWORKS: React, BootStrap
+•OTHER: OOP, DSA
+LINKS
+•LinkedIn: Aniket Bhagwat
+•LeetCode: anib123
+•Codechef: bunny71
+•GFG: baniket5050
+•HackerRank: bhagwataniket501
+HOBBIES
+•Playing and watching Cricket
+•Listening Music
+EXTRA CURRICULAR
+•Volunteer at Apulki Social Foundation - A foundation based on
+Social Work with motive to help needy people.

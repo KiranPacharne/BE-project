@@ -1,0 +1,37 @@
+Sameer Somkuwar  
+ 
+Email: sameer.som.2002@gmail.com   
+LinkedIn :  https://www.linkedin.com/in/sameer -somkuwar -8a9003230/  
+GitHub: https://github.com/Sms246  
+Mob ile No.: +91 9130193523  
+ 
+EDUCATION   
+ 
+Pune  Institute  of Computer  Technology  Pune,  MH 
+B.E. Electronics  & Telecommunication  Engineering  (2020 -2024)                                                                                 8.3 CGPA  
+Taywade College, Mahadula, Koradi, Nagpur  Nagpur,  MH 
+12th  HSC 2020                                                                                                                                                                      78.15 % 
+St. Joseph’s Convent Sr. Sec. School, Fetri, Nagpur  Nagpur,  MH 
+10th  SSC 2018                                                                                                                                                                      71.8 % 
+ACHIEVEMENTS   
+Science Olympiad Bronze Medal  2016  
+Bronze Medal  in school in 8th class.  
+PROJECTS   
+      Library Management System  | Python and MySQL   
+• Implemented functionalities like taking information about user, storing the information in database, updating the information  
+in database and deleting the data from datab ase.  
+• Technologies  used:  Python ( tkinter.ttk module), MySQL database management system.  
+ 
+Online Calculator  | HTML,  CSS,  JAVASCRIPT   
+• Implemented  functionalities  like addition, subtraction, multiplication, division, modulo, results and clear.   
+• Technologies  used:  HTML, CSS, JavaScript.   
+ACCOMPLISHMENTS   
+Code chef : 50+ problems solved  max -rating  (1373) 
+Code forces : 50+ problems solved  
+Geeks  for Geeks : 80+ problems  solved, 40 days streak  
+TECHNICAL  SKILLS  AND  OTHER  ACTIVTIES   
+Languages : C++, Python, SQL, HTML, CSS, JAVASCRIPT   
+Frameworks : Bootstrap   
+Concepts : Data  Structures and Algorithms, Object Oriented Programming, Database Management Systems  
+Developer Tools: VS Code, PyCharm , MySQL, DEV -C++, ATOM, Blender  
+Other  activities : Listening music, watching anime, reading manga . 

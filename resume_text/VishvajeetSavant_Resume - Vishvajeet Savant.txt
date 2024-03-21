@@ -1,0 +1,66 @@
+Vishvajeet Savant
+vmsa v an t28@gmail.c om | +919322659802
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+B.E -Computer Engineering
+2020- 2024(pur suing) | Pune,India
+cum.GPA 9.24/10
+SAI INTERNATIONAL
+JUNIOR COLLEGE
+MAHAR A SHTR A S T A TE BO ARD
+2018- 2020 | Gadhinglaj,India
+Class XIIpercentage: 87.85
+VENKATRAO HIGH
+SCHOOL
+MAHAR A SHTR A S T A TE BO ARD
+2012- 2018 | Ajar a,India
+Class Xpercentage: 96.60
+SKILLS
+PROGRAMMING
+•C++
+•PROBLEM SOLVING
+•DSA
+DATABASE
+•MySQL
+WEB DEVELOPMENT
+•HTML •CSS
+•JAVASCRIPT
+•PHP
+CORE SUBJECTS
+•Data Structures andAlgorithms
+•Object Oriented Programming
+•Database Management Systems
+•Operating System
+LINKS
+Codeforces:// vishvajeet_1610
+Leetcode:// vishvajeet_28
+LinkedIn:// vishvajeet-savantPROJECTS
+SORTING VISUALIZER
+•Website which contains visualizations ofvarious sorting
+algorithms.
+•Application allows theusertochange speed andinput
+Array elements.
+•Algorithms -Bubble Sort, Selection Sort, Insertion Sort,
+Quick SortandMerge Sort.
+HOSPITAL MANAGEMENT SYSTEM
+•Patients canregister toanaccount andauthenticate them-
+selves toschedule their doctor’s appointments.
+•Thedoctor possesses theauthorization toaccess appoint-
+ment details andsubsequently provide prescriptions based
+ontheinformation.
+•Theadministrator hasthecapability toaccess andmodify
+theinformation pertaining todoctors.
+ACHIEVEMENTS
+•Pupil oncodeforces (max rating 1238)
+•Secured Global Rank 242among 7000+ participants inthe
+Codechef JulyLong Two2022 Division 3.
+•Solved over500+ problems ondifferent platforms.
+•Secured 586Rank inMHT-CET (99.56 Percentile).
+EXTRA-CURRICULAR ACTIVITIES
+•Actively participated invarious Coding Competetion.
+•Volunteered inCultural andTechnical FestofCSI(Xenia).
+•Member ofPICT CSIStudent Branch.
+HOBBIES
+•Playing Badminton,Cricket.
+•Reading books anddrawing.

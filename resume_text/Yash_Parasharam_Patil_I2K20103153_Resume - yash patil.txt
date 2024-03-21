@@ -1,0 +1,34 @@
+YASH PATIL
+Mail: yashvaibhavps3128@gmail.com | Github: https://github.com/yashpatil31/ 
+Contact: +91 8888685939
+EDUCATION
+Pune Institute Of Computer Technology
+PROJECTS
+Notify | 
+An Android Application which helps you create notes for better time management.
+The App is developed in Kotlin language using MVVM Android Architecture
+getNews |
+An Android Application used to display Top 10 news headlines using RecyclerView and
+gnews API
+Api calls are made through Volley library and Glide library is used to handle images
+TRAINING AND CERTIFICATIONS
+TECHNICAL SKILLS
+Languages: C++, Java, HTML, CSS, Javascript, Kotlin, C#
+Frameworks: Bootstrap, .NET
+Databases: MySql, sqlite, MongoDB
+Also fimiliar with: PythonAcmegrade - Cyber Security Training
+Learned various supervised and unsupervised machine learning algorithm.
+Implemented a variety of classification models like logistic Regression, Naive Bayers and
+regression models.Aug 2020 - Present
+Bachelor of Technology in Information Technology       CGPA: 9.55/10Pune, Maharashtra, India
+Chhatrapati Shahu Vidyalaya and Jr College June 2017 - June 2019
+Intermediate (Science)       Percentage: 88.12/100 Kolhapur, Maharashtra, India
+github
+Learn different ways to analyse a network and check for vulnerabilities
+Successfully completed project to perform Sql Injection and Cross site scripting attack on
+Metasploitable DVWA using SqlMap, XSSER and WireShark
+VOIS- Fundamentals of Machine Learning and AIgithubData Science Salary Prediction using Web Scrapping |
+Created dataset based on data scrapped from glassdoor website using selenium
+webscrapper
+Preformed data Preproccessing and EDA , Trained different models such as RandomForest,
+Lasso Regression etcgithub

@@ -1,0 +1,132 @@
+Venkatesh Joshi 
+An inquisitive tech enthusiast with an eye for aesthetic perspective. 
+venkateshjoshi141@gmail.com 
+9373214311 
+linkedin.com/in/venkatesh-joshi-01244821b 
+github.com/venkijoshi14 
+EDUCATION 
+Bachelor of Engineering 
+SCTR’s Pune Institute of Computer Technology 
+01/2020 - Present
+, 
+ 
+9.03 GPA 
+Electronics and
+Telecommunication
+Engineering 
+12th Standard Board Examination (HSC) 
+Arts,Commerce and Science Junior College, Ashti,
+Beed 
+08/2017 - 06/2019
+, 
+ 
+74.15 Percentage 
+10th Standard Board Examination (CBSE) 
+PRES’s Pravara Central Public School(PCPS),
+Pravaranagar, Ahmednagar 
+06/2017
+, 
+ 
+87.6 Percentage 
+PERSONAL PROJECTS 
+Communication Translator for Speech Impaired(In progress)
+ 
+ 
+A Sign Language Detection Model to detect signs such as Hello, Thank You,
+Yes, No, I Love You. 
+Python Libraries: TensorFlow, OpenCV 
+Sign Recognition Model (Finger Counter) 
+Developed a system capable of classifying dynamic gestures without pre-
+saved data using contour defects. 
+Python Libraries: 
+NumPy, Pandas, OpenCV. 
+Product Sale Data Analysis 
+Created a dynamic Product Sales Analysis Dashboard using Power BI, by
+meticulously analyzing dataset tables and building strong data associations to
+reveal insightful information. 
+Hospital Management System
+ 
+ 
+Website which allows the admin to login and see the bookings and create a
+booking for the appointments. 
+Tech stack - Django, HTML, CSS. 
+WORK EXPERIENCE 
+Summer Intern 
+BNY MELLON 
+06/2023 - 08/2023
+, 
+ 
+Led technical business transformation by implementing automation
+solutions using Power Automate & Oﬃce Scripts for AIS team India. 
+Crafted a dynamic business dashboard with a user-friendly hierarchy
+to eﬀortlessly dissect monthly trends using Power BI. 
+SKILLS 
+C++ 
+JAVA 
+PYTHON 
+HTML 
+CSS 
+MYSQL 
+Data Structures 
+Power BI 
+Power Automate 
+Figma 
+Adobe Photoshop 
+Premiere Pro 
+Leadership 
+Management 
+ACHIEVEMENTS 
+Finalist for Dextrous
+ (07/2022)
+ 
+Dummy Interview process Organized by PICT ACM Student Chapter 
+Photoshop Royale’ 22 Winner
+ (07/2022)
+ 
+Organized by PICT ACM Student Chapter 
+Best Designer Award for Pictoreal Volume 24
+ (07/2021 - 08/2022)
+ 
+Designed College Magazine PICTOREAL Volume 24 
+Managed a event in PCSB Xenia
+ (08/2022)
+ 
+Volunteered an Annual event of PCSB. 
+POSITIONS OF RESPONSIBILITY 
+Magazine Secretary - PICTOREAL
+ (06/2023 - Present)
+ 
+Led a team of 120 volunteers which curates, edits, designs, and proofreads the
+content for the oﬃcial Magazine of PICT. 
+Public Relations Oﬃcer - PICT CSI Student Branch
+ (03/2023 - Present)
+ 
+A tech enthusiast & communicator with novel strategies to increase lasting
+relationships with the community. 
+Design Head - PICTOREAL
+ (09/2022 - 06/2023)
+ 
+Spearheading the design team which handles annual college magazine design. 
+CERTIFICATES 
+Object Oriented Programming using C++
+ 
+ 
+Python Programming
+ 
+ 
+LANGUAGES 
+English 
+Full Professional Proﬁciency 
+Hindi 
+Full Professional Proﬁciency 
+Marathi 
+Full Professional Proﬁciency 
+INTERESTS 
+Designing 
+Editing 
+Badminton 
+Photography 
+Travelling 
+Dance 
+Course 
+Tasks 

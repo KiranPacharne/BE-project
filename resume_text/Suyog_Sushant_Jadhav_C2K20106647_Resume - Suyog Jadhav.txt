@@ -1,0 +1,43 @@
+SUYOG JADHAV
+8483976657 •suyogjadhavss2002@gmail.com •linkedin.com/in/suyog-jadhav •github.com/suyogjadhav45
+SUMMARY
+A passionate and goal driven Computer Engineering student pursuing Bachelors of Engineering having keen interest
+in Problem Solving and Web Development.
+EDUCATION
+B.E. (Computer Engineering) June 2024
+Pune Institute of Computer Technology
+Savitribai Phule University, Pune 9.34 GPA
+Higher Secondary (HSC) March 2020
+Sanjay Ghodawat Junior College
+Shivaji University, Kolhapur 82.31 percent
+Secondary (SSC) March 2018
+Chh. Shivaji Highschool
+Shivaji University, Kolhapur 98.20 percent
+EXPERIENCE
+VirtueByte Pvt.Ltd, Pune: Web Development Intern April 2023 – June 2023
+• Worked on ReactJs andIntegration of frontend-backend for Django and NodeJs
+• Developed and worked on many different static, responsive websites for clients
+•Led the team of five while developing Grocery Delivery WebApp.
+• Worked on Grocery Delivery WebApp Project and successfully deployed the admin webapp on onrender platform.
+ACADEMIC PROJECTS
+Library Management System (MERN STACK) Dec 2022
+• Developed this project to improve the efficiency and organization of library operations.
+• Built responsive front-end interface using ReactJs and used Tailwind CSS for styling the Components.
+•Integrated Front-end and Back-end APIs using modern web technologies for seamless data transfer and effi-
+cient functionality.
+Expense Tracker (MERN STACK) Jan 2023
+• Collaborated in the team of three to develop this project to facilitate easy and efficient tracking of personal finances
+• Designed and developed various reusable and responsive UI components for the application using ReactJs .
+• Implemented Charts and graphs for enhanced User experience using chartJS
+TECHNICAL SKILLS
+Programming Languages: C++, JavaScript, Python(Basic)
+Technology: ReactJs, MySQL, MongoDB, NodeJs, ExpressJs, Tailwind CSS
+Utilities: GitHub, ThunderClient, Postman
+Coursework: Object Oriented Programming, DBMS, Data Structures and Algorithms, OS, CNS
+Certifications: The Complete 2023 Web Development Bootcamp
+ACHIEVEMENTS
+• Global Rank 215 in Starters 79 Division 3
+• Solved over 600 problems across various coding platforms like Codechef, Leetcode , GfG, Codeforces
+• Runner up in Intra-college cricket championship
+INTERESTS
+• Travelling, Cricket, Movies, Swimming

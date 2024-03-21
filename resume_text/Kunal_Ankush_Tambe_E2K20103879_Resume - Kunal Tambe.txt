@@ -1,0 +1,88 @@
+Last Upda ted on 3r d A ugust 2023Kunal T ambe
+ +91 9923889642  tambekunal11@gmail.c om
+Education
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+Electronics and
+Telecommunication Engg.
+July2020‑Present Dhankawadi,Pune
+•CGPA:9.33
+MATOSHRI JUNIOR COLLEGE
+Higher Seconda ry School
+Certificate
+July2018‑June2020 Eklahare,Nashik
+•Courses: Science[PCM]
+•Percentage: 86.3
+SYMBIOSIS SCHOOL
+Central Board o f Secondary
+Education
+July2018 Nashik
+•Percentage: 90.6
+Links
+GitHubkt0415
+Linkedin KunalTambe
+Leetcode kt17
+GeeksforGeeks kt17
+CodeStudio kt17
+Coursework
+•DataStructuresandAlgorithms
+•ObjectOrientedProgramming
+•DatabaseManagementSystems
+•ComputerNetworks
+•OperatingSystems
+•NetworkSecurity
+Skills
+PROGRAMMING
+•C/C++•Python•SQL•HTML
+•JavaScript
+FRAMEWORKS
+•C++StandardTemplateLibrary(STL)
+•Bootstrap•CSS•ReactJS(Basics)
+•Flask
+TOOLS
+VS‑Code•MSOffice•Git
+Interests
+•ReadingNews
+•Football
+•MusicProjects
+ADVANCED KEYLOGGER
+July2023 Pune
+•CreatedaKeyLoggerusinglibrariesofPython.
+•Librariesused:‑email,socket,OS,Request,Sys,SoundDevice,Pwn‑
+tools.
+•Implementedanadvancedkeyloggerinpythonthathastheability
+to send emails, getting screenshots, recording the microphone, get‑
+tingcomputerinformationandtheclipboard.
+SHARESPACE
+April2023 PICT,Pune
+•CreatedasocialmediasiteusingHTML5,CSS3,Javascript,React.js
+andMySQL.
+•UsedHTML5,CSS3,JavascriptandReact.jsforFrontend.
+•UsedNode.js,Express.jsforBackendandMySQLasdatabase.
+GET HIRED GET RICH
+Feb2023 PICT,Pune
+•DevelopedajobprovidingwebsiteusingHTML,CSS,Bootstrap,and
+Flask.
+• The website is powered by a MySQL database and allows users to
+apply for jobs that are currently available and also allows recruiters
+topostnewopportunities.
+Activities
+CORE TEAM MEMBER
+Addiction 2022
+April2022 PICT,Pune
+•WorkedasacoreteammemberinADDICTION2022,whichisthe
+annualeventofthecollege. IwastheheadoftheGamesand
+Activitiesteamandorganizedvariousgamesintheevent.
+Achievements
+•Solvedmorethan1000problemsacrossvariouscodingplatforms
+suchasGeeksforGeeks,LeetCode,CodeStudio,Codeforcesetc.
+•HighestRatingLeetCode: 1696,Inthetop13%ofLeetCode.
+•ReachedNinjaDominatorleagueonCodestudioWeeklyLeaderboard.
+•Inthetop1%onTryHackMe.
+•GotthefirstprizeinElectroQuestcompetitionconductedbyPulzion,
+PICT.
+•CrackedJEEADVANCED2020withacategoryrankof9102.
+Certifications
+•CybersecurityVirtualExperienceProgrambyMasterCardonForage.
+•SoftwareEngineeringVirtualExperienceProgrambyGoldmanSachs
+onForage. 

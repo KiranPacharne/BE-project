@@ -1,0 +1,92 @@
+Kareena Manghani 
+3rd Year Undergraduate 
+An enthusiastic learner, with passion for coding and keen interest in
+problem solving, data structures and algorithms. 
+kareenamanghani@gmail.com 
+9146102332 
+Pune, India 
+linkedin.com/in/kareena-manghani-006242207 
+EDUCATION 
+B.E(Computer Engineering) 
+Pune Institute of Computer Technology 
+07/2020 - Present
+, 
+ 
+Pune, India 
+HSC 
+St. Vincent's Junior College 
+06/2019 - 05/2020
+, 
+ 
+Pune, India 
+SSC 
+St. Anne's High School 
+06/2017 - 05/2018
+, 
+ 
+Pune, India 
+WORK EXPERIENCE 
+Summer Intern 
+SIEMENS Digital Industries Software 
+06/2023 - 08/2023
+, 
+ 
+Worked on the Supplier Connect of Teamcenter and
+added some functionality to view information on the
+Supplier Exchange. 
+ORGANIZATIONS 
+PASC
+ (02/2021 - 12/2022)
+ 
+Content Team-Worked 
+in the content team during RADIANCE'21 &
+PASCKATHON'21 
+PICT MUN
+ (07/2021 - 07/2022)
+ 
+Content Team- Written articles for the newsletter- Inquisitor 
+SKILLS 
+C++ 
+SQL(Basic) 
+Python 
+Problem Solving 
+Java(basic) 
+PROJECTS 
+Alarm clock by Playing random audio ﬁle
+ (04/2021 - 06/2021)
+ 
+Play random audio ﬁle from the folder provided when the alarm
+breaks using python tkinter and datetime libraries. 
+Brain Tumor Detection using predeﬁned CNN model
+ (08/2022 - 12/2022)
+ 
+Brain tumor detection and classiﬁcation from T1 weighted MRI
+scans using CNN model. 
+CoAnalyzer
+ (08/2022 - 11/2022)
+ 
+It is a database management system, which suggests the most
+suitable course by displaying courses from top course websites for
+the desirable domain. 
+Breast Cancer on Histopathological Images
+ (02/2023 - Present)
+ 
+A Research Project. 
+Breast Cancer classiﬁcation from Histopathological images. 
+Face Detection from Blur Images
+ (02/2023 - Present)
+ 
+A Research Project 
+LANGUAGES 
+English 
+Full Professional Proﬁciency 
+Hindi 
+Full Professional Proﬁciency 
+Marathi 
+Elementary Proﬁciency 
+INTERESTS 
+Problem Solving 
+Content Writing 
+Playing Electronic Keyboard 
+Singing 
+Tasks 

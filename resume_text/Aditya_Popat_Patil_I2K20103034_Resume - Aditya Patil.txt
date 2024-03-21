@@ -1,0 +1,45 @@
+Aditya Patil
+9552845282 |adityapatil24102001@gmail.com |linkedin.com/in/aditya-patil-50a613240 |github.com/AadityaPatil2410
+Education
+SCTR’s Pune institute of computer technology Jan-2020, Ongoing CGPA 8.82
+Bachelor in Engineering in Information Technology
+Sanjay Ghodawat Junior College May 2020, percentage-86
+Higher Secondary School Certificate
+Relevant Coursework
+•Operating System
+•Data Structures and Algorithms
+•Database Management System
+•Advanced Database Management System
+•Computer Organization and Architecture
+•Discrete Mathematics
+Projects
+GroceriGo Website |HTML,CSS,Javascript March-2022
+•Developed a static website to buy groceries.
+•Features such as adding to cart,total cart value, searching of products, filtering of products and various other con-
+straints were handled using javascript.
+GeoJson App |Node.js, ExpressJs, MongoDB, Mongoose, Mapbox Oct-2022
+•GeosJson is a format for storing geographic points and polygons. MongoDB has been used which provides excellent
+support for geospatial queries on GeoJson objects.
+•Used Mapbox to build a simple frontend to plot the points.
+•Used GeosJson API to point the location of address on map
+Natours Website |HTML,CSS,Javascript,NodeJs,ExpressJs,MongoDB Jan-2023
+•Developed a natours website for booking tours.
+•Visitors will be able to observe all of the specifics of a tour.
+•map is included to show the precise location of the tour.
+•Testimonials from persons who have already taken the tour are also included.
+Cryptex Price Notifier |Javascript,NodeJs,API Feb-2023
+•Developed a real-time Cryptocurrency price tracker application that aggregates and displays up-to-the-minute
+prices from various exchanges.
+•It is CLI developed using Node.js,Javascript,Nomics API.
+•Used Nomics API to fetch real time Cryptoprices,Market Cap etc of Cryptocurriences.
+•Commander.js,Inquirer,ConfigStore,link,Axios modules were used to develop a CLI.
+Technical Skills
+Languages : Java, Python, C/C++, SQL , JavaScript, HTML/CSS,
+Frameworks/Technologies : Nodejs,Expressjs,MongoDB
+Developer Tools : Git, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse
+Data Analytics Tool : Excel
+CERTIFICATIONS
+1)Online Certification Course on ”Full Stack Web Application Development:Demystified” by PICT.
+2) Business Analytics with Excel by SkillUp.
+3) Fundamentals of Artificial Intelligence and Machine Learning by Vodafone India foundation.
+4) Google Digital Marketing Certification Course.

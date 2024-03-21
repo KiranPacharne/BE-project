@@ -1,0 +1,35 @@
+Profile
+I am an ambitious and hard-working person, looking to kickstart my career in an esteemed organization and
+incorporate my skills and experiencing a high-level professional environment.
+Education
+2020 – present Bachelor of Engineering  in Electronics and Telecommunication.
+SCTR'S Pune Institute of Computer Technology,Pune.
+2020 12th(HSC)
+Matoshree Junior College,Nashik.
+Percentage : 84.92
+2018 10th(CBSE)
+Jawahar Navodaya Vidyalaya, Bhusawal, Jalgaon.
+Percentage : 92.6
+Skills
+Languages(C++, Java, Python, HTML/CSS,  JavaScript)
+Developer Tools(VS code, Eclipse, Anaconda, Git)
+SoftSkills(Leadership, Communicaton, Problem Solving)
+Data Structures and Algorithms
+Object Oriented Programming
+DBMS & SQL
+Operating System
+Projects
+Pre-Testing Registration System Through Speech Recognition:
+In this project, we strived to create a pre testing registration system with automatic speech processing to create an  
+intelligent interface and seek the voice input of users so that these interfaces allow intelligent interaction with users 
+and  establish a natural and easy communication between the system and public using basic Libraries of Python.
+Weather App
+WeatherApp is a responsive web application that provides real-time weather information to users based on their 
+location or a specified location using . The project showcased my ability to integrate external APIs effectively.
+Technologies Used:
+•HTML5, CSS3, and JavaScript for frontend development.
+•APIs for weather data retrieval and handling asynchronous operations.Kanchan Kadam
+kanchankadam2002@gmail.com
+https://www.linkedin.com/in/kanchan-kadam-
+3161752479156540703
+Indian

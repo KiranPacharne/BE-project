@@ -1,0 +1,61 @@
+ 
+ 
+Aditi Daberao  
+Pune,  India | Phone: 91 -8605343369 | aditidaberao860@gmail.com  | https://www.linkedin.com/in/ad  
+EDUCATION  
+SCTR's PUNE INSTITUTE OF COMPUTER 
+TECHNOLOGY  Pune,  Maharashtra  
+B.E.- Electronics and Telecomm unications | CGPA: 
+8.40/10.00  2020 -2024  
+H.P.T. ARTS & R.Y. K. SCIENCE COLLEGE  Nasik, Maharashtra  
+12th | HSC | Percentage: 74.15/100.00  2020  
+St. Francis High School  Nasik, Maharashtra  
+10th | SSC | Percentage: 91.20/100.00  2018  
+PROJECT EXPERIENCE  
+Blood Bank Management  Aug 2022 -Oct 2022  
+Link: https://github.com/Aditii310/Blood -Bank -Management   
+• The Blood Management System integrates various modules and functionalities to digitize and centralize the entire 
+workflow, from blood donation and inventory management to patient transfusion records and regulatory compliance.  
+• Technologies/Frameworks used:  Html,  Css, Django,  Python,  SQL  
+• Developed a web -responsive e -commerce website using HTML, CSS, JavaScript, and API's, resulting in improved 
+user experience and increased customer engagement.  
+• An online book community website that enables users to explo re book s by Topic, Author and genre. Users can 
+engage in book discussions and reviews, create personalized rea ding lists and receive book suggestions.  Also book  
+trading  among community memb ers 
+• Technologies/Frameworks used:  Django, Google AP I, Wikipedia Library, Python, HTML , CSS.  
+VOLUNTEER EXPERIENCE  
+Member of PCSB (PICT CSI STUDENT BRANCH)  PICT,  Pune  
+Technical and Non -Technical member of PCSB  Aug 2021 - Mar 2024  
+• Anchoring  at Xenia Event  
+• Coordinated logistics for the successful execution of Xenia Event, ensuring seamless integration of technical and 
+non-technical components, resulting in a 100% attendee satisfaction rating.  
+• Developed and executed scripting strategies fo r Xenia Event, resulting in a 20% increase in attendee engagement and 
+satisfaction ratings  
+• Collaborated with cross -functional teams to contribute to the development of Xenia feature in the PCSB app, 
+resulting in a 15% increase in customer satisfaction.  
+WORK EXPERIENCE  
+Vodafone Intelligent Solutions (VOIS)  Pune,  India  
+Internship  Aug 2022 - Oct 2022  
+• Developed a project on Blood Bank Management conducted by Virtual Micro -Internship under _VOIS for Tech 
+University Engagement Program's Innovation Marathon  2022.  
+SKILLS & INTERESTS  
+Skills : C++, Html, Css, Java (basics), SQL, OOP  
+Personal Interests/Hobbies:  Sports, Reading, Debating, Dancing, Painting.  E-Commerce Website  Mar 2023 - Apr 2023  
+Link:  https://github.com/Aditii310/E -Commerce -Website   
+PickBook (Online Book Community Website)  Dec 2022 - Jan 2023  
+Link:  https:/ /github.com/Aditii310/Book_website    
+ 
+ACHIEVEMENTS  
+  Secured second place at the prestigious Interschool Debate Competition, showcasing exceptional public 
+speaking skills and critical thinking abilities . 
+ Recognized as the winner of the Elocution Competition  
+ Achieved victory in the One Act Play competition.  
+CERTIFICATIONS  
+  Object Oriented Programming using C++  
+Link:  
+https://drive.google.com/file/d/1rIBsipxR6vB352jy -6_Sf3LgcADjQ9mJ/view?usp=drive_link ). 
+ Python and deep learning  
+Link: https://drive.google.com/file/d/1hhkWUY9HKzYqOYykR4LCTZEbCJ18xmo/view?usp=drive_link  
+ Amcat  Certificate   
+Link: https://drive .google.com/file/d/1AYfc97LsjUtwkzJQSCuuR4HBKl5lJhmy/view?usp=drive_link)  
+ 

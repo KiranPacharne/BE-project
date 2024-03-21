@@ -1,0 +1,36 @@
+Apoorvaraj Londhe Location: Pune, India
+LinkedIn |GitHub |Leetcode Email: apoorvaraj.londhe@gmail.com |Mobile: 8530191073
+EDUCATION
+Pune Institute of Computer Technology Pune
+Bachelor of Engineering in Information Technology | CGPA: 8.55 July 2020 – June 2024
+Kolhapur Public School Kolhapur
+HSC | Percentage: 84 March 2018 – May 2019
+Kolhapur Public School Kolhapur
+SSC | Percentage: 93.6 March 2016 – June 2017
+PROJECTS
+Unicorn Fodder HTML, CSS, JavaScript, MySQL, MongoDB, Express, Node.js Source Code
+•Unicorn Fodder is a website designed to connect investors and startups across various domains
+•Investors & Startups can view others’ profiles and get the details about domain of work, contact details, etc.
+•One of the key features of the website is to keep track of the number of followers of a startup
+PiratesoftheWeb HTML, CSS, JavaScript, Node.js, Express, MySQL Source Code
+•An online treasure hunt game based on the theme of cars
+•Users can look for the clues on individual riddle pages, like hover effect
+•Admin can track the progress of each user and an image highlights the position of the user in the game
+SKILLS
+Languages : C/C++
+Frameworks : Express, Node.js
+Databases : MongoDB, MySQL
+Dev Tools : Visual Studio Code, GitHub
+Soft Skills : Leadership, Team Management, Communication
+POSITIONS OF RESPONSIBILITY
+Training & Placement Coordinator July 2023 – Present
+Training & Placement Cell
+•Conducting and managing the Placement and Internship Drives in the college
+Event Head February 2023 – April 2023
+PICT Impetus & Concepts’23
+•Led PICT’s Flagship Technical Event that hosted over 2000 participants from all over the country
+•Worked closely with the different teams and college administration for the successful conduction of the event
+Head of Design Aug 2021 – Nov 2022
+PICT Model United Nations Club
+•Lead the Design Team responsible for the designs of the monthly newsletter on Geopolitics and social media posts
+for the PR of the club

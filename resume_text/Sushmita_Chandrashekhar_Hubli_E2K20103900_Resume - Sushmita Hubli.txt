@@ -1,0 +1,47 @@
+SUSHMITA HUBLI
+♂phone+91 9561702717 /envel⌢peSushmita Hubli /linkedinLinkedIn /githubSushmita-Hubli
+About Me
+Final-year Engineering student passionate about software engineering and software development. Excited to apply
+my knowledge to real-world projects and contribute as a Software Engineer.
+Education
+SCTR’S PUNE INSTITUTE OF COMPUTER TECHNOLOGY, Pune July 2020 – June 2024
+Bachelor of Engineering in Electronics and Telecommunication CGPA: 8.75/10
+AD JOSHI JUNIOR COLLEGE,Solapur June 2019 – June 2020
+HSC Percentage: 83.85/100
+INDIAN MODEL SCHOOL (C.B.S.E),Solapur June 2017 – June 2018
+SSC Percentage: 92.2/100
+Relevant Coursework
+•Data Structures and Algorithms
+•Object Oriented Programming
+•Embedded C Programming•Database Management System
+•Fundamentals of Java
+Programming•Advanced Java Programming
+•Project Management
+Projects
+Placement Monitoring Interface |Java, NetBeans, JavaFX, MySQL
+•Developed a Java-based Placement Monitoring Interface for tracking student job placements. Featured record
+management and status updates.
+SpringBlogCore |Spring Boot, Hibernate,MySQL
+•Developed a central backend part of a blogging app using Spring Boot. It manages posts, user accounts, and
+communication between the frontend and database, forming the core functions of the application.
+•Orchestrated vital functions including post management, secure user authentication, and efficient data communication.
+•Implemented security protocols to safeguard user data and enable reliable authentication and authorization.
+SocialLink: A Social Media Database Clone |MySQL
+•Designed and implemented a social media database clone using SQL. Leveraging my expertise in SQL and database
+design, I created a robust database schema to replicate the structure and functionalities of a popular social media
+platform. I incorporated tables for users, posts, comments, likes, and other relevant entities and established relationships
+between them.
+Technical Skills
+CS Fundamentals : Object Oriented Programming, Data Structures and Algorithms, Database Management System,
+Operating System
+Languages : Java, C, C++, HTML, CSS, SQL
+Frameworks : Spring-boot , Thymeleaf , Hibernate
+Developer Tools : VS Code, Eclipse IDE, Git, Github, IntelliJ IDEA, MySQL, Postman
+Languages
+•English •Hindi •Marathi •Kannada
+CERTIFICATION AND ACCOMPLISHMENTS
+•Certificate from GOOGLE DEVELOPER GROUP for completing boot camp with DevTown on Arrays and Linked list.
+•Certificate from Udemy for Completion of JAVA PROGRAMMING BEGINNER TO MASTER.
+•Certificate from Udemy for Completion of THE ULTIMATE MySQL BOOTCAMP BEGINNER TO EXPERT.
+•Certificate from Udemy for Mastering Data Structures Algorithms using JAVA
+•Certificate from Udemy for Completion of Spring Boot 3, Spring 6 and Hibernate for Beginners

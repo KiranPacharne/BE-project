@@ -1,0 +1,79 @@
+ANKIT WAGH
+Pune Institute of Computer Technology
+ankitwagh617@gmail.com Pune, Maharashtra - India /♀nednhttps:/ /www.linkedin.com/in/ankit-wagh-13a470223/
+EDUCATION
+B.E. - 9.33 CGPA (till 5th sem)
+Pune Institute of Computer Technology
+Ὄ2020 – Currently
+Higher Secondary ( State Board ) -
+83.34%
+Chaitanya’s International School, Baramati
+Ὄ2020
+Secondary (CBSE) - 91.67%
+V.P.E.M.S, Baramati
+Ὄ2018
+MHT-CET - 99.43 percentile
+JEE MAINS - 97.14 percentile
+PROJECTS
+Tourism Guide Website
+•Tech Stack - HTML, CSS, JavaScript, My-PHP
+admin.
+•A Tourism Guide Website will help people to
+choose there dream destination.
+•Peoples can read comments and reviews on
+top places in order have an better idea about
+destinations.
+•The main goal behind building this website
+was, people will be able to ﬁnd everything
+on a single website instead of visiting tons of
+other websites.
+Loan Management System
+•Tech Stack -HTML, CSS, Bootstrap, MySQL,
+Python (Flask).
+•Implemented a web based application to ease
+the process of Loan Management .
+•A fast and eﬃcient system for applying and
+approving loans, provide functionalities like
+applying loan, viewing status etc.
+Blog application
+•Tech Stack - HTML, CSS, SQLite , Python
+(Django).
+•Implemented Django Blog application to share
+new learning among Tech geeks.
+•Providing various functionalities to manage
+our own blogs and read user speciﬁc content.EXPERIENCE
+Problem Setter
+iMocha
+ὌJan 2023 - Currently Online internship
+•Platform - Fiverr.
+•Framing questions on various DSA topics.
+•Monthly tasks include problem setting test case generation for
+easy to diﬃcult problems.
+ACHIEVEMENTS
+•CodeForces ( Max. Rating- 1488 ( Specialist )) .
+•CodeChef ( Max. Rating- 1814 ( 4-star )) .
+•Leetcode ( Max. Rating- 1894 ( 600+ DSA problems solved
+and Knight level )).
+•5-stars badge at HackerRank ( C++ ) .
+•1204/10000+ Global rank in Google kick start Round F.
+•Solved 1500+ problems across various coding platforms.
+TECHNICAL SKILLS
+•C++ ( Competitive Programming level ).
+•Object Oriented Programming ( C++ ).
+•Data Structures and Algorithms .
+•Database Management ( MySql ).
+•Problem Solving ( DSA based problems and implementing
+algorithm ).
+EXTRA CURRICULAR
+•Volunteer for TnPevents.
+•Participation in ICPC Asia Kanpur Contest.
+•Participation Elementary andIntermediate drawing competi-
+tion and pressured A grade.
+•Participation in Codelicious ,Just Coding andRecode Tt events
+inPulzion .
+LINKS
+•Codeforces : akt617
+•Leetcode : akt617
+•CodeChef : akt617
+•GFG : akt617
+•HackerRank : ankitwagh617

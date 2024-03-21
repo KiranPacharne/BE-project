@@ -1,0 +1,64 @@
+Prajwal Padwal
+About Me
+My Projects
+My Personal ProjectsPassionate Electronics and Telecommunication Engineering
+student at PICT, driven by a keen interest in technology and
+applying my skills effectively. 
+Committed to exploring emerging technologies, seeking
+challenges, and leading from the front.
+Continuously staying updated through research,
+conferences, and online courses. 
+Developing both technical proficiency and essential soft
+skills. Eager to make a positive impact and pursue a
+successful career in the field.
+Hard Skills
+Data Structures and Algorithms
+Front-end Web Development
+Object Oriented Programming
+DBMS and SQL queries
+Data Cleaning and
+management
+Excel/PowerBI, DAX
+Soft Skills
+Effective Communication
+Confident and Resourceful
+Leadership Skills
+Self Motivated and Hardworking
+Education Background
+Pune Institute of Computer Technology
+B.E. in Electronics and
+Telecommunication.
+Pursuing till 2024,
+Fergusson College Pune.
+Science, Electronics(Bifocal)
+Completed in 2020My Contact
+padwalprajwal7@gmail.com
+Pune, Maharashtra, India+91 8208823360
+Colour and Weight detection system using PIC
+microcontroller. 
+Electrcity Billing System using Java and DBMS. 
+3rd Year Projects 
+Website on Restaurant Table booking.
+2nd Year Project
+Rainfall Prediction using Machine Learning.
+Code Converter using OOPs.
+Arduino based Street light monitor.
+1st year Projects
+A Employee Management system.
+Java 
+DBMS 
+Weather Web Application
+HTML
+CSS
+JS
+Dashboards on Sample Dataset.
+Excel
+PowerBI
+Deccan Education Society's
+Secondary School,Pune. 
+Completed in 2018
+Achievements and Hobbies
+Represented for college football team in PICT and
+Fergusson College.
+Gold Medalist in Maths Olympiad
+Enjoys Playing Football, Chess.

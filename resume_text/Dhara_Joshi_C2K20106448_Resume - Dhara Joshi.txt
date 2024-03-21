@@ -1,0 +1,32 @@
+Dhara Joshi
+♂phone+91 7300160230 /envel⌢pedhara.joshibh@gmail.com /githubjoshidhara
+Objective
+As a fourth-year Computer Science student, I possess a natural drive for self-improvement, adaptability, and a strong curiosity
+that propels me to explore various domains. My proactive nature enables me to excel both independently and collaboratively
+as a valuable team member.
+Education
+Pune Institute of Computer Technology, Pune July 2020 – June 2024
+Bachelor of Computer Engineering, Computer Networks and Security GPA: 8.71/10
+The Indian School, Kingdom of Bahrain April 2018 – March 2020
+XII Grade-Science Percentage: 89.90
+Technical Skills
+C++, Python, HTML, CSS, JavaScript, Node.js, MySQL, NoSQL, Natural Language Processing, Pandas,
+Tableau
+Coursework
+Database Management Systems, Object Oriented Programming, Operating Systems, Data Structures and
+Algorithms
+Projects
+Database system for PICT ROBOTICS CLUB |React, Express, Node.js, JavaScript, HTML, CSS, MongoDB Git
+•This project was made to help maintain a track of inventory at PICT Robotics Club.
+Twitter Sentiment Analysis |Pandas, NumPy, Matplotlib, SeabornGit
+•Write about your project experience.
+Certifications
+Certificate 1 : Introduction to Cyber Security-CISCO
+Extra Curricular
+Pune Institute of Computer Technology
+•Model United Nations- Management and Delegate affairs Team- Member
+•PISB (IEEE Student Branch)-Member
+The Indian School,Kingdom of Bahrain
+•Model United Nations
+•Head of Training(2020)-Trained about 200 delegates for the conference.
+•Chairperson, UNEP-2020, UNHRC-2019

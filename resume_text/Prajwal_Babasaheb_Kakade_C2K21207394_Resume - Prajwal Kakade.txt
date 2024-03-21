@@ -1,0 +1,41 @@
+Prajwal Kakade
+Pune,Maharashtra
+/ne+91-9271559500 kakadepb15@gmail.com Prajwal Kakade /gtbPrajjjwal ♂pollgallivanterr
+EDUCATION
+Pune Institute of Computer Technology 12 2021 – 06 2024
+B.E. in Computer Engineering - CGPA -9.08 Pune, India
+Sanjivani K.B.P. Polytechnic 07 2018 – 08 2021
+Diploma in Computer Technology - Percentage -99.09% Kopargaon, India
+Sanjivani Academy 06 2015 – 05 2018
+CBSE - Percentage -87% Kopargaon, India
+PROJECTS
+PICT Attendance App |Flutter 06 2022
+•This app is made for PICT staff to mark students’ attendance. It allows them to create their profile and add
+subjects. They can also check the overall attendance for their subjects as well attendance of individual student
+.
+Farm Shops |Wordpress 06 2021
+•Farm Shops is a website where farmers can sell their products at the rate they are willing to sell. It allows
+farmers to create their virtual store on a website where they can display their products. Users can shop by
+surfing through products or from a particular store which is identified by a unique URL given to a store.
+TECHNICAL SKILLS
+Languages: C++, HTML, CSS, JavaScript, SQL, NoSQL
+Course Work: Data Structures and Algorithms, Operating System, Database Management System, OOPS
+Technologies/Frameworks: GitHub, NodeJS, ExpressJS, Git, Mongo
+ACHIEVEMENTS
+•2 Star at CodeChef (Max Rating 1645) .
+•Solved 600+ problems on Leetcode, Codechef andCodeforces.
+•College Topper for month of July on Coding Ninjas Studio
+EXTRACURRICULAR
+PICT ACM Student Chapter 05 2023
+Event Head Pune
+•Coordinated with the judges and their transportation.
+INC 04 2022
+Transport Head Pune
+•Coordinated with the judges and their transportation.
+PICT ACM Student Chapter 04 2022
+Event Host Pune
+•Hosted an event for fandom lovers by interacting with them and playing rapid-fire rounds by asking quizzes
+and fun facts about their favorite fandom.
+CERTIFICATIONS
+•Complete Web Development Course - Udemy
+•The Fundamentals of Digital Marketing - Google

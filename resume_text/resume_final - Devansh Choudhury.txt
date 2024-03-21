@@ -1,0 +1,48 @@
+devansh choudhury
+Pune, Maharashtra
+♂phone+91 9561071104 /envel⌢pedevanshchoudhury@gmail.com /linkedinDevansh Choudhury /githubDevansh Choudhury
+Education
+Pune Institute of Computer Technology, Pune July 2020 - June 2024
+Bachelor of Engineering - Computer Engineering CGPA: 7.96
+Delhi Public School, Siliguri 2020
+Higher Secondary Education, Class XII Percentage: 82.2
+Bethany Mission School, Raiganj 2018
+Matriculate, Class X Percentage: 86.4
+Experience
+Zybro Oct-2022 to May-2023
+Intern- Kochi, Kerala
+•Trainee Software Developer where I participated in number of Data Science and Analytics operations.
+TEDxPICT
+HEAD of Curation Team -
+•Leading the team of 18 students to find and curate speakers for TEDxPICT.
+•Interviewing the speakers and having long discussions around different ideas to come up with a potential TED Talk.
+PICT Computer Society of India Student Branch
+Active Member -
+•Taught C++ and Python concepts to juniors through the PCSB special interest group.
+PASC (ACM Student Chapter)
+Active Member -
+•CONDUCTED C++ SIG’S :
+∗Event Management and planning : Conducted online SIG’s (C++ bootcamp) under PICT ACM Student Chapter
+impacting 200+ students.
+∗Management Skills : Managed over 200+ participants of the Sig’s.
+∗Communication Skills : Delivered sessions on Competitive Programming and Web Development for juniors under
+PICT ACM Student Chapter.
+Projects
+ChatApp |Django Rest Framework, SQLite [LINK]
+·A chat application built using django rest framework.
+·The user can search other users and add them as a friend and have one to one chat with their friends.
+Stock-Exchange |HTML, CSS, Javascript [LINK]
+·A web application which allows users to search for specific companies and get real time data and details about the
+company.
+·This project uses an API which gets the real time data and displays them to the user.
+·It provides a chart of the company’s stock performance over time and news related to the company. The application
+is designed to be user friendly and provides users with the information they need quickly and easily.
+Achievements
+·Participated in International Mathematics Olympiad and achieved Silver and Bronze medal in 2 consecutive years.
+·Participated in Inter school Football tournament organized by DPS, Siliguri and won first prize.
+Technical Skills
+Languages : C++, Javascript, Python, SQL, HTML, CSS
+Technical : Database Management System, Data Structures and Algorithms, Data Science, Data Analysis, Object
+Oriented Programming
+Technologies/Frameworks :MongoDB, MySQL, PostgreSQL, Git, Numpy, Pandas
+Soft Skills : Professionalism, Leadership and Active Listening

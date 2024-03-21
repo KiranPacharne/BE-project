@@ -1,0 +1,62 @@
+KALPESH PORWAL
+Tech Enthusiast | Problem Solver | Health Enthusiast
+kalporwal54@gmail.com /ne(+91) 7620295180
+/♀nednlinkedin.com/in/kalpesh-porwal-532b61225
+/gtbgithub.com/KalpeshPorwal
+EDUCATION
+B.E in Computer Engineering
+PICT Pune
+ὌJul 2020 – Jun 2024 CGPA: 9.13
+Class XII
+Chattrapati Shivaji Maharaj College
+ὌFeb 2020 80.46%
+Class X
+Sahakar Vidya Mandir, Buldana
+ὌMay 2018 95%
+SKILLS
+C++ Java HTML CSS
+JavaScript NodeJS MYSQL
+MongoDB Git Github
+COURSEWORK
+•Data Structures and Algorithms
+•Object Oriented Programming.
+•Database Management Systems
+•Operating System
+INTERESTS
+•Web development
+•Solving Algorithmic Problems
+•Learning new skills and
+technologies.
+HOBBIES
+•Playing Cricket, Football, and
+Badminton
+•Reading articles about the healthy
+diet.PROJECTS
+Roadmap Website for Students(Techlance)
+Self-Learning Project
+ὌApril 2022 – May 2022
+•Implemented an informative website to guide the
+students about the diﬀerent technical domains and their
+roadmap.
+•It also includes the blog facility to provide new updates.
+•Tech stack : HTML, CSS, ReactJS, Firebase.
+Grocery Store Management Application
+(E-commerce Website)
+Self-Learning Project
+ὌAugust 2022 – October 2022
+•Web Application for online grocery store management. It
+is like an e-commerce website where customers can
+order products and can manage their product carts.
+•Customer and admin-based authentication. Where the
+admin can manage the orders, products, and users.
+•Tech stack: HTML, CSS, ReactJS, Node JS, Express JS,
+MongoDB.
+ACHIEVEMENTS
+•2-star on CodeChef , highest rating of 1514 and current
+rating 1437.
+•Solved 200+ problems on various coding platform.
+•Scored 98 percentile in JEE Mains.
+•Represented school at Division Level in Football.
+•As the captain , I achieved the honor of leading my team
+to victory in the Intra-hostel cricket league, emerging as
+the proud winner.

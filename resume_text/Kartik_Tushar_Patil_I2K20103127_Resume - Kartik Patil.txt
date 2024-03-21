@@ -1,0 +1,56 @@
+Kartik Patil +91-9545599326
+kartikp3002@gmail.com
+Leetcode |Github
+linkedin.com/in/kartiktp
+Education
+Degree/Certificate Institute/Board CGPA/Percentage Year
+B.E. (Information Technology) Pune Institute of Computer Technology, Pune 9.71 (Current) 2020-2024
+Senior Secondary HSC Board 96.0% 2020
+Secondary CBSE Board 97.2% 2018
+Experience
+•PayPal Inc. May 2023 - July 2023
+Summer Intern Chennai, India
+–Worked on Paypal Native Mobile Checkout SDK, actively contributing to its development
+–Utilized Python to create a dynamic and customizable data analytics system that identified positive and negative
+alerts using tailored thresholds and percentage changes.
+–Implemented an automatic email alerting system that provided daily summaries, empowering stakeholders with
+actionable insights to monitor merchant performance effectively.
+–Conducted in-depth merchant deep dives to address and resolve various merchant issues, showcasing problem-
+solving and communication skills
+•FOSSEE, IIT Bombay Jan 2023 - April 2023
+Software Development Intern Mumbai, India
+–Contributed to the development of Osdag, a free/libre and open-source software dedicated to designing steel
+structures and it’s deployment on cloud
+–Leveraged ReactJS and Django to build an intuitive and user-friendly frontend interface, ensuring a seamless
+experience for engineers and architects using the software.
+Projects
+•ExpenseHive: Your Personal Expense Tracker and Financial Insights
+An Expense manager application where users can manage,analyse and track all their expenses
+–Utilizing React, developed a web application for easy daily expense management and integrated finance-related
+blogs and news features for enhanced financial knowledge.
+–Incorporated Firebase to enable user authentication and Gmail sign-in, ensuring a secure and convenient login
+process.
+–Implemented categorized expense tracking (Food, Automobile, Travel, Shopping, Investments) and interactive
+statistical graphs for comprehensive analysis of daily, monthly, and yearly expenses.
+•Petopia: Chat, Meetup and Shop for Pet Lovers
+A MERN stack web platform uniting pet lovers through chat, meetups, and a curated pet shop experience.
+–Designed and developed Petopia, a feature-rich MERN stack web project catering to pet lovers worldwide.
+–Leveraged MongoDB for flexible data storage, Express for robust server-side development, React for dynamic user
+interfaces, and Node.js for efficient backend operations.
+–Implementedreal-timechatfunctionalities, allowingpetownerstoconnect, shareexperiences, andorganizemeetups
+effortlessly. Additionally, enabled users to explore a curated selection of pet-specific products through an intuitive
+shopping interface, enhancing the overall pet-loving community experience.
+•TechSkillMatch: Mapping IT Job Roles to Technologies
+A data-driven solution to help students and developers navigate job roles and technologies using a Stack Overflow survey
+–The project addresses students’ and developers’ uncertainties regarding job roles and technologies in the fast-
+evolving IT industry, providing valuable insights into skill requirements and establishing relationships between
+various roles.
+Key Courses Taken
+•Data Structures, Design and Analysis of Algorithms, Database Management Systems, Machine Learning,
+Computer Graphics, Software Engineering, Human-Computer Interaction, Operating Systems, Object-Oriented
+Programming Systems, Cloud Computing, Computer Networks, Cybersecurity
+Technical Skills
+•Programming: C/C++,Python,Java,SQL,Javascript
+•Tools & OS: Git, Jupyter Notebook,Google Colab, Linux, Windows
+•Libraries/Frameworks: Pandas, Numpy, Matplotlib, Scikit-learn, Bootstrap, Hadoop, Tableau
+•Web Skills: HTML/CSS/JS, React, Node, Express

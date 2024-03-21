@@ -1,0 +1,55 @@
+Om Kuklani Email: om.kuklani02@gmail.com
+Linkedin: om kuklani Mobile: +91-9370694700
+Github: omkuklani
+Education
+•Pune Institute Of Computer Technology Pune, India
+Bachelor of Engineering - Computer Engineering; CGPA: 8.64 July 2020 - Present
+•Dr D.Y Patil jr college Pune, India
+12th - Higher Secondary School; Percentage:75.08 July 2018 - March 2020
+•Symbiosis School Pune, India
+10th grade Percentage:80.60 July 2008 - March 2018
+Skills Summary
+•Languages : Python, C++, SQL
+•Libraries : Scikit, Matplotlib, NLTK, Pandas, Numpy
+•Tools : MySQL, GIT/GITHUB, Microsoft office, Jupyter Notebook, Autocad, ChatGpt
+•Technologies : Unity
+•Soft Skills : Leadership, Adaptability, Public Speaking, Emotional Intelligence, Networking
+Experience
+•HumInspAIRe - Human Inspired AI Research Pvt. Ltd. Hybrid
+Business Research Intern in Artificial Intelligence and Business Analytics. March 2023 - May 2023
+◦Projects : “QuickTag: An improved OCR based efficient toll collection system using AI-ML and on the “Implementation
+of mHRM based practices for automated candidate placement in IT/ITES companies in the Pune region of Maharashtra.
+Projects
+•Theater Management System: : A Dashboard to manage the booking of a theater. Ticket Booking and Show management
+can be done using the web application https://github.com/Maanav-C/Theatre-Management (September ’22 - January ’23)
+•Snake Fruit Game: : Designed a floor plan for the execution of a digitized snake game. Derived a coding logic for the game,
+Executed the game on a GUI Interface with an accuracy of around 89 Tech: Python(October ’20)
+Publications
+•Research Paper:- An Empirical Study Using 360 Degree M-HRM (Mobile Human Resource Management)
+Practices in Select NASSCOM Registered IT/ITES Companies in the Pune Region of Maharashtra : Paper
+accepted in the 4th International conference on Latest Trends in Engineering and Management (ICLTEM 2023)
+MHRM Link(March ’23)
+•Research Paper:- QuickTag: A Machine Learning Based Automated Toll Collection System Using Improved
+Optical Character Recognition : Paper submitted in 2nd International Conference on Intelligent Systems and Applications
+(ICISA), May 3-4th, 2023 by Springer. Theme: Intelligent Systems for Smart Cities.
+QuickTag Link(May 23)
+•Research Paper:- Extracting trends from social media to identify trending products : Work in Progress (Present)
+Patent
+•QuickTag: A Machine Learning Based Automated Toll Collection System Using Improved Optical Character
+Recognition : (Patent applied in Republic of South Africa)
+Patent Link
+Honors and Awards
+•Ideal Play Abacus (State Level Rank-5)
+•State Level Lawn Tennis Athlete
+•Completed two 12500ft treks
+Volunteer Experience
+•Internal Affairs Head at Training and Placement PICT PUNE, India
+Responsible for Placement & Internship activities impacting over 1600 students.
+•Head of Operations at PICT InC 2023 PUNE, India
+Looked after the overall planning and execution of the annual college tech-fest.
+•Volenteer at PICTOREAL PUNE, India
+Taught various unprivileged children about basic concepts of mathematics.
+•Marketing Volenteer at Pulzion-2022 PUNE, India
+Member of the marketing team for the annual fest of PICT ACM student chapter.
+•Volenteer at NIRMITEE FOUNDATION PUNE, India
+Performed various Social work activities round the city

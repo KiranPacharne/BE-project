@@ -1,0 +1,52 @@
+(+91) 9421155544
+Pune, Maharashtra
+somanisurajm@gmail.comSuraj Somanigithub.com/surajpict
+leetcode.com/surajpict
+linkedin.com/in/surajsomani
+EDUCATION
+Bachelor of Engineering ,Pune Institute of Computer Technology (ETC) CGPA - 8.90
+2020 - present
+Class XII ,Dayanand Science College 90.92%
+2020
+Class X ,Kripa Sadan Convent School 96.00%
+2018
+SKILLS
+•Programming : C++
+•Courses : Data Structure and Algorithms, Object Oriented Programming, Database Management System
+•Tools : Figma, Canva, MySQL
+•Technologies : HTML, CSS, TailwindCSS, ReactJS
+•Other : Teamwork, Leadership, Management, Technical analysis, Equity trading, Market research, SEO, Web-Designing, UI/UX
+EXPERIENCE
+VC Intern
+Windrose Capital, Pune July 2023 - present
+•Conducted thorough market research on emerging technologies and market trends to guide investment decisions
+•Developed a comprehensive understanding of the workflow within venture capital firms, along with strong analytical,
+problem-solving, and communication skills through rigorous evaluation of technology trends.
+Project Intern
+Integrated Active Monitoring, Pune Feb 2023 - April 2023
+•Collaborated with the TAG ID project team, ensuring that businesses could efficiently track their inventories in real-time.
+•Analyzed inventory data to identify items with limited sales potential, enabling businesses to make informed decisions about
+managing excess stock effectively by creating dead stock report.
+PROJECTS
+MyStockBoard
+Stocks Investment dashboard and visualizer https://github.com/surajpict/MyStockBoard
+•Techstack: ReactJS, MongoDB, HTML, CSS, NodeJS
+•MERN stack application to keep track of investments by classifying portfolio stocks in categories like largecap, midcap and
+smallcap. Also, allows user to add or remove stocks from portfolio and analyze distribution of money invested in different stocks
+with help of doughnut chart using ChartJS library
+CryptoPedia
+Track crypto currencies daily https://github.com/surajpict/CryptoPedia
+•Techstack: ReactJS, HTML, CSS
+•Website to keep track of popular cryptocurrencies and give real time updates fetched through API
+•It retrieves information such as current prices, trading volumes, and market capitalizations for different cryptocurrencies. The
+data is displayed on the screen in an organized and user-friendly format
+ACHIEVEMENTS
+•INSPIRE Scholarship awardee by Government of Maharashtra – (Scholarship for 1% toppers of HSC exam)
+•SSB candidate for Indian Navy Cadet Entry (2020)
+•State level in Soft Tennis and Division level in Lawn Tennis from Maharashtra
+EXTRA CURRICULAR
+•Team coordinator of Entrepreneurship and Development Cell - PICT
+•Secretary of student committee in MVPM Organization leading events for 500+ students
+•Member of Corporate Management Club - PICT
+•Successfully managing two owned Instagram accounts, @officialtravelcommunity and @smstrader, with a combined follower
+count of 36k

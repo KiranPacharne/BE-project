@@ -1,0 +1,89 @@
+Rujul Khupsangikar 
+An engineer with artistic approach towards product development along with leadership and time-management skills 
+rujulkhupsangikar@gmail.co
+m 
++918208979100 
+linkedin.com/in/Rujul
+Khupsangikar 
+github.com/rujulak 
+SKILLS 
+Problem Solving 
+C++ 
+Python 
+NumPy 
+Pandas 
+SQL 
+HTML 
+CSS 
+Javascript 
+LANGUAGES 
+English 
+Professional Working Proﬁciency 
+Marathi 
+Native or Bilingual Proﬁciency 
+Hindi 
+Professional Working Proﬁciency 
+INTERESTS 
+Digital Audio
+Workstation 
+Theatre/ Drama 
+Acting 
+Writing 
+Singing 
+Travelling 
+Geopolitics 
+EDUCATION 
+Bachelor of Engineering 
+SCTR's Pune Institute of Computer Technology,Pune . 
+08/2020 - Present
+, 
+ 
+8.47 CGPA 
+Computer Engineering 
+Grade 12 
+S.E.S. Junior College of Arts and Science,Solapur. 
+06/2018 - 07/2020
+, 
+ 
+83.84% 
+Grade 10 
+Kavthekar Highschool , Pandharpur. 
+06/2012 - 06/2018
+, 
+ 
+99.60% 
+PERSONAL PROJECTS 
+Rice Yield Prediction and Rice Type Classiﬁcation Using Machine Learning Algorithms 
+predicts the rice yield considering various environmental parameters with the use of various machine
+learning algorithms (random forest regressor , SVM , nueral networks ) and classiﬁes the rice using image
+processing using TensorFlow ,Keras 
+Password Manager
+ 
+ 
+encrypts and stores passwords , creates a master-password to decrypt using Python 
+WORK EXPERIENCE 
+Intern 
+Inhouse Internship Program at Pune Institute of Computer Technology 
+03/2023 - 05/2023
+, 
+ 
+Pune 
+Built a machine learning model to predict the rice yield and classify the rice grain image using
+image processing 
+ORGANIZATIONS 
+PICT Art Circle
+ (03/2021 - Present)
+ 
+Active member and participant 
+, Director of the drama play 
+PICT ACM
+ (03/2021 - Present)
+ 
+Active member 
+ACHIEVEMENTS 
+Purshottam Karandak - 2022 (Onstage member of Winning Team) 
+Annual Inter-College Marathi one-act play Competition. 
+Runner-up position at Headbang MIT-WPU Aarohan Cultural Fest 2022 
+Participated in Dextrous Competition in Pulzion event by PICT ACM(2021) 
+Courses 
+Achievements/Tasks 

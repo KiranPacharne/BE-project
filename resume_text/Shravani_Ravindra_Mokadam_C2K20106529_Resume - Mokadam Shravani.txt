@@ -1,0 +1,38 @@
+Shravani Mokadam  
+Pune, Maharashtra  
+ 7666916469  | mokadamshravani2002@gmail.com  
+Education  
+PUNE INSTITUTE OF COMPUTER TECHNOLOGY  Pune, MH  
+B.E. Computer Engineering  July 2020 ‑ Current  
+• GPA 8.22  
+Sanjay Ghodawat Junior College  Kolhapur, MH  
+Higher Secondary Certificate  June 2019 ‑ March 2020  
+• 82.31 %  
+Gangadhar Govind Patwardhan English Medium School  Ratnagiri, MH  
+Secondary School Certificate  June 2017 ‑ March 2018  
+95.60 %  
+Skills  
+Programming:  C/C++, SQL, HTML/CSS.  
+Miscellaneous: Data Structure and Algorithms, OOPs.  
+Soft Skills: Time Management, Teamwork.  
+Achievements  
+• Achieved 99.39 Percentile MHT CET 2020 . 
+• 4 Star on Hackerrank in SQL.  
+• 3 Star on Hackerrank in C++.  
+• Class Representative for First Year Of Engineering.  
+• V olunteered For Women In Data Science Pune Conference in 2021.  
+• Student member of PCSB Data Team  
+Projects  
+Trackify  
+• A tracking app built using Python, SQL, CSS, HTML.  
+• It is a web application which allows users to create customised trackers. It helps users to create customised trackers. It he lps 
+users visualize their progress in a particular tracker using graphical representation of data.  
+Blood Donation Management  
+● It is a website built using Php, SQL.  
+● It is a website to manage the information about the blood donors that donate blood in a blood donation camp. It helps the 
+admin to keep track of all the blood donors, their information and contact nos which is not seen on the donor side. The site of 
+the ne xt blood donation camp is also mentioned.  
+Languages  
+English: Professional proficiency  
+Marathi: Native proficiency  
+Hindi: Bilingual proficiency  

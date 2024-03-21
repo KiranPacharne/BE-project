@@ -1,0 +1,53 @@
+Shruti Chavan
+Data enthusiast with a strong passion for data analysis and a commitment to 
+continuous learning. Eager to leverage analytical skills to drive valuable insights 
+and contribute to data-driven solutions.chavanshruti630@gmail.com
+7066630662
+EDUCATION
+B.E Computer Engineering
+Pune Institute of Computer technology
+07/2020 - Present Pune
+HSC
+R.N.C Arts, J.D.B Commerce NSC Science College, 
+Nashik Road
+06/2018 - 06/2020 Nashik
+SSC
+JDC Bytco English Medium High School
+06/2013 - 06/2018 Nashik
+INTERNSHIPS
+Data Science Intern at QAAgility
+Present
+Developed proficiency in data analysis software such as Tableau 
+and Excel
+Project: HR Analytics Dashboard
+PROJECTS
+Tableau- HR Analytics Dashboard
+https://github.com/Shrutic-24/Tableau-HR-Analytics-Dash-
+board
+Analyzing Attrition Trends and Patterns: A Tableau Dash-
+board for Intra-Firm HR Analytics.
+Web Scrapper for Second hand Cars
+01/2022 - 05/2023
+https://github.com/Shrutic-24/scrapingpython
+Python based Web Scrapping Project solving real World 
+problem regarding data of Second hand Cars. Project grad-
+ed as 'A'.
+SKILLS
+C++PythonMySQLData visualization
+TableauOOPOSCommunication Skills
+Ability to work in a team
+Critical thinking and problem solving
+LINKS
+Linkedin
+github
+HOBBIES
+Sketching, Listening music, Exploring new things
+EXTRA - CIRCULAR ACTIVITIES
+PICT ACM Student Chapter
+Volunteered for Several events of ACM in my college and worked 
+with enthusiastic team. Learned about aspects of team work and 
+organization.
+05/2021 - 05/2021 Pune
+LANGUAGES
+English Hindi
+Marathi

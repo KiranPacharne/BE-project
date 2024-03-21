@@ -1,0 +1,38 @@
+Saurabh Tekade
+/envel⌢pesrtekade2797@gmail.com ♂phone+91 9850365380 /linkedinsaurabh-tekade /githubsaurabh2797
+Education
+Pune Institute of Computer Technology Pune, IN
+Bachelor in Computer Engineering GPA: 8.72 Jul 2021 - Jun 2024
+Government Polytechnic Thane Thane, IN
+Diploma in Computer Engineering GPA: 9.80 Jun 2018 - Jun 2021
+Carmel Convent High School Badlapur, IN
+SSC Percentage: 94.20 June 2018
+Projects
+FitTrack
+Tech/Tool Stack: Kotlin, Android Room, Git
+•Developed an application that can track fitness by calculating steps,calories burnt,etc.
+•Application includes features such as Steps count , Calories burnt, Milestones, etc.
+•My role included UI designing, frontend development, API integration, and backend development.
+myWall
+Tech/Tool Stack: Kotlin, Android Room, Firebase
+•Developed an application that can fetch ,surf and download wallpapers using an API.
+•Application includes features such as Surf Wallpapers , Share Wallpapers, etc.
+•The wallpapers are fetched using an API and can be stored in local database ie.Android Room.
+ProReader
+Tech/Tool Stack:Kotlin, Git, Android Room
+•Developed an application that can create and fetch quotes, read News and e-Books.
+•Implemented multiple APIs(Quotes API,News API,Books API).
+•Also provides functionality to store the stuff in local database.
+Other small scale projects
+To-do-List, Notes App, etc.
+Skills
+Programming Languages: C++,Java,Kotlin
+Web Development: HTML, CSS, Javascript
+Android Development: Java, Kotlin
+Databases: MySQL, SQLite, Firestore
+Version Control: Git and GitHub
+CS Fundamentals
+OOPS DBMS
+Operating Systems Computer Networks
+Extra Curricular Activities
+•Inter-school Volleyball player

@@ -1,0 +1,78 @@
+Last Upda ted on 22nd A ugust 2023Sanket Pole
+sanke tpole111@gmail.c om
+Pr ogr amming E n thusias t | F ull S tack Web De vel oper
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+B.E IN Computer Engineering
+JUNE 2024 | PUNE
+CGP A : 9.22
+MAA BHARTI
+INTERNATIONAL SCHOOL
+HSC | JUNE 2020
+PERCENT AGE : 94.40
+PRABHAVATI VIDYALAYA
+SSC | JUNE 2018
+PERCENT AGE : 95.40
+SKILLS
+PROGRAMMING LANGUAGES
+C++•JAVASCRIPT •HTML
+CSS
+WEB DEVELOPMENT
+REACT.JS •EXPRESS.JS •NODE.JS
+CHAKRA UI•FIREBASE
+DATABASES
+MYSQL •MONGODB
+MISCELLANEOUS
+GIT•CANVA •PHOTOSHOP
+MICROSOFT OFFICE
+COURSEWORK
+•OPERATING SYSTEMS
+•OBJECT ORIENTED PROGRAMMING
+•DATA STRUCTURES AND
+ALGORITHMS
+•DATABASE MANAGEMENT SYSTEM
+•COMPUTER NETWORKS
+ACHIEVEMENTS
+•Solved 200+ Problems onLeetcode.
+•Solved 200+ Problems onGeeks for
+Geeks.
+•PartofPISB’s NTH event Question
+formation team
+•Secured AIR11000 inJEEADVANCED.
+•Scored 99.33 Percentile inMHTCETPROJECTS
+WORKOUT BUDDY
+•Created Workout Details Website using Node.js andExpress.js.
+•Developed Responsive UIusing React.js andused MongoDB as
+database.
+•Users canplantheir Workout schedule.
+BLOG WEBSITE
+•Designed user-friendly interface forcreating andpublishing blog
+posts.
+•Developed Frontend using React.js andBackend using Express.js
+andNode.js.
+•Used MongoDB asDatabase forstoring blogs.
+•Authentication provided using jsonwebtokens.
+CODING GOSSIPS
+•Developed aChatting Appforcoding community where
+where coders candiscuss andsolve doubts.
+•Designed Frontend using chakraUI.
+•Implemented Backend withExpress.js andNode.js
+•Used Socket.io forrealtimedataupdates.
+EXTRACURRICULAR
+Network Treasure Hunt
+•ItisaPISB event .Network Treasure Hunt isanonline Treasure Hunt
+played across theglobe where players findthehidden clues andconnect
+thedotstoreach tosolution.
+•Iwaspartofproblem formation team inNTH event.
+SOCIETIES
+•PICT IEEE STUDENT BRANCH
+LINKS
+Github:
+https://github.com/Sanketpole123
+LinkedIn
+https://www.linkedin.com/in/sanket-pole-5268b8205/
+LeetCode
+https://leetcode.com/sanket 1103/
+GeeksforGeeks
+https://geeksforgeeks.com/sanketpole111

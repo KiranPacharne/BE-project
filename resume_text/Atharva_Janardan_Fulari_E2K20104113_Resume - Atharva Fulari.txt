@@ -1,0 +1,55 @@
+Atharva Janardan Fulari
+Bachelor of Engineering /envel⌢pefulariatharva90@email.com
+Pune Institute of Computer Technology,Pune /linkedinwww.linkedin.com/in/atharva-fulari
+Education
+•Pune Institute of Computer Technology,Pune Pune,India
+Bachelor of Engineering – Electronics And Telecommunication; CGPA – 8.51 2020 - 2024
+•Swami Vivekananda Jr. College Of Science Navi Mumbai,India
+HSC; Percentage-67.66 2018 - 2020
+•Symbiosis School Nashik,India
+CBSE; Percentage-87 2013 - 2018
+Experience
+•Kode IT Solutions Pune,India
+Web-Development Technical Lead August 2020 - December 2020
+–Led web development projects as Technical Head in a startup, overseeing both client projects and internal initia-
+tives.
+–Successfully managed diverse client engagements and in-house projects, showcasing proficiency in web development
+and project leadership.
+Achievements
+•Recursion2.0 Hackathon winner March 2023
+Organizer- Rajiv Gandhi Institute of Technology Mumbai,India
+–Secured second prize in a 24-hour hackathon, showcasing strong web design skills and creativity.
+Projects
+•Bloomherb
+HTML, CSS, ReactJS
+–Collaboratively created and hosted a website for a hackathon as part of a team effort.
+–The website includes user authentication, payment gateway, chat bot, personalized recommendations, and order
+tracking capabilities.
+•The Simply Salad
+HTML, CSS, ReactJS, Firebase
+–Website won first price in Hack the Tank hackathon organised by NIT Surat as a result of team effort.
+–Developed a practical website integrating chat bot, user authentication, and payment gateway for a real-world
+company.
+•Biometric Attendance System
+ESP 32 microcontroller, Java, MYSQL
+–Worked with ESP32 microcontroller to successfully interface and control fingerprint module and OLED display.
+–Created a system addressing educational institutions’ real-world challenges and commenced development of a user-
+interaction platform.
+Technical Skills and Interests
+Languages : C++, Java, SQL.
+Frameworks : Tailwind CSS, Bootstrap.
+Technical Subjects : Object Oriented Programming, Data Structures, Database Management, Operating Systems.
+Soft Skills : Leadership, Teamwork, Time Management, Decision making.
+Extracurricular
+•NSS Lead
+National Service Scheme,PICT
+–Held position of Technical Head at PICT NSS, leading a team in initiatives such as digital literacy campaigns and
+government schemes drive during annual camp.
+–Actively volunteered, organized events, and contributed to PICT NSS activities, demonstrating dedication to
+community and leadership skills.
+•Wisdom Eye volunteer
+Wisdom Eye Student welfare club
+–Volunteered various student welfare drives.
+•Cyclist
+–Won ‘Fire Fox Fire Strom’ medal.
+–Participated in various state and national cyclothons.

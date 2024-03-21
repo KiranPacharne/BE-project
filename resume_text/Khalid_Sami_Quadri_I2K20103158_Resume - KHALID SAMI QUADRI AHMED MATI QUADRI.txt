@@ -1,0 +1,35 @@
+Khalid Quadri
+a kq10 |] Khalid Quadri |ć khalidquadri10@gmail.com |Ħ+91 8956180710
+Summary
+Curious mind, recent graduate, and coding enthusiast. Blend of software artistry and data curiosity ,
+poised to infuse innovation into both programming and data science realms. Eager to learn, collaborate,
+and carve a distinct path.
+ŴEducation
+2020 - Present Bachelor’s Degree at PICT, Pune (CGP A: 8.82)
+2020 - Present Bachelor’s in Data Science and Applications at IIT Madras (CGP A: 7.3)
+2018 - 2020 Class 12th HSC at Maulana Azad College, Aurangabad (87.07)
+2011 - 2018 Class 10th CBSE at Stepping Stones High School, Aurangabad (94.6)
+ÚInternship
+VIEH Group |Role : ML Intern Link to Project
+Skills : Python |Machine Learning Libraries |Flask |HTML |CSS |Bootstrap
+W ork : Â Flight Ticket Price Prediction
+Ì Projects
+Sentiment Prediction on Movie Reviews Link to Project
+Skills : Python |Machine Learning Libraries |Jupyter Notebook
+Analyzing vast text data using NLP techniques. Detecting sentiments and opinions to gain valuable
+insights. Enhancing decision-making and understanding customer feedback for improved user experiences.
+Y udhishthir : AI-based V oice assistant Link to Project
+Skills : W olfram Alpha |Subprocess |Pyttsx3 |Speech Recognition |Ecapture |T wilio
+AI-based V oice assistant incorporated with 30+ different commands like Price Drop Alerts, Certificate
+generator, Finding location of place, Games, Security Surveillance and motion detection, W eather Report.
+Business Data Management for TIME GALLER Y (W atch Store) Link to Project
+Skills : Microsoft Excel |Python |Data Collection |Data Analysis |Data Visualization
+Clock Shop Business Analysis Project: Leveraging Excel for in-depth insights. Analyzing sales data,
+identifying popular products, and forecasting demand. Analysis for data-driven decision-making.
+Ô Hackathons and achievement
+National Project Competition (2021-AISSMS) July 2021 - August 2021
+Secured 1st place for the Y udhishthir project in a Hackathon sponsored by IEEE Communication Society .
+Kaggle Competition (2023-IIT Madras) June 2023 - August 2023
+Achieved rank 10th for the Sentiment Analysis project in a Kaggle Competition held by IIT, Madras.
+F ootball - State Level F ootball player
+- Secured 3rd place at University Sports Meet |W as the vice captain for school.

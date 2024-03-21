@@ -1,0 +1,43 @@
+V ISHV AM  PA W AR 
+Competitive Programmer  |  DSA |  W eb Developer 
+Education 
+Pune Institute of Computer T echnology | Pune, India 
+Bachelor of Engineering - Information T echnology July 2020 - June 2024 
+CGP A: 9.3 
+Skills 
+Languages:  C, C++, Javascript, SQL 
+T echnical:  Database Management System, Data Structures and Algorithms, Object Oriented Programming, 
+Operating Systems, Computer Networks. 
+T echnologies/Frameworks:  ReactJS, NodeJS, ExpressJS, MongoDB, React Native, MySQL, Firebase, Git. 
+Projects 
+Hostelify - Link      | ReactJS, Bootstrap, Firebase 
+● Developed a responsive web application  using ReactJS to enable users to search for hostels and tiffin services based on 
+location, price, and reviews. 
+● Leveraged Firebase for data storage and retrieval, providing users with quick and reliable access to relevant information. 
+● Utilized Context api for efficient state management and to keep the application's data flow organized. 
+● Implemented features such as search and filters to enhance the functionality of the application. 
+Roamr - Link      | React Native, SQLite 
+● A personal travel journal mobile application  developed using React Native .
+● Utilized Google Maps API  to display saved places on a map, enabling users to view their travel history . 
+● Integrated device camera  feature to enable users to capture high-quality images of travel destinations. 
+● Improved app performance and responsiveness by implementing data storage and retrieval using SQLite database . 
+March 2022 - April 2022 
+December 2022 - January 2023 
+Achievements 
+● Achieved Knight badge on Leetcode, rated 1895 (T op 4%). 
+● Solved over 500 problems  on various platforms including Leetcode , Codechef , Codeforces  and  GFG .
+● Attained 3 Star Coder ranking on Codechef, with the highest rating of 1714 .
+● Secured Global Rank  637 and India Rank 65 out of 18000+ participants in Leetcode W eekly Contest 324. 
+● Achieved Global Rank 78  in CodeChef Starters 71 Contest. 
+● Received 5 Star Problem Solving and Problem Solving Certificate on Hackerrank. 
+● Secured 99.34 percentile and State Merit Rank of 887 in MHT -CET Engineering Entrance Exam 2020. 
+Experience 
+PISB (IEEE Student Branch) .
+● Part of the web development team for flagship event Reverse Coding in the annual techfest Credenz. 
+● Designed and developed the frontend platform for an online coding competition. August 2021 – Present +91 8806725167  |       vishvampawar1101@gmail.com   |        vishvam11  |         vishvam11 
+Abasaheb Garware College | Pune, India 
+Higher Secondary Education June 2018 - March 2020 
+Percentage: 88.31 
+Rajapur High School | Ratnagiri, India 
+Secondary Education March 2018 
+Percentage: 98.00 

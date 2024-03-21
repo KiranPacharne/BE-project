@@ -1,0 +1,42 @@
+Mansi Yachawad Pune, India
+Linked In:mansiyachawad |Email: yachawadmansi@gmail.com |Mobile: 7588728935
+Highly motivated hardworking and enthusiastic final-year engineering student, always open to learn and adopt
+new things
+EDUCATION
+Pune Institute Of Computer Technology Pune
+Bachelors in Engineering(IT): CGPA:8.95 2020-Present
+Courses: Design and Analysis Of Algorithms, Database Management System,
+Operating Systems, Object Oriented Programming, Compuetr Networks
+Sri Chaitanya Junior College Pune
+Higher Secondary Education XII : Percentage : 85.54% July 2018 - March 2020
+Skills
+Languages: Java, C++ , C ,Python,SQL
+App development: Flutter, Dart ,HTML ,CSS,React JS, Next JS
+Tools: Android Studio,Git,GitHub , Photoshop, JIRA,Confluence
+Experience
+Summer Intern (BA3)
+Barclays Pune
+•Designed an Interactive web UI using NextJS for Data Fetching as per the Clients Request.
+•User can Select the Data Attributes they want to fetch for particular Business Date.
+•Developed an API function in Java to interact and retrieve the Data from Redshift.
+•Integration Of API function to Spring Boot middle ware to make it Rest API.
+•Rest API integration to UI to display the data as per request made.
+Academic Projects
+Crypto Tracker (Flutter Application Development) /github
+•Developed an application using flutter where peoples can view the live price of the top Crypto currencies and
+keep track of it .
+•List of top Crypto currencies is displayed on the home page
+•Detail Information of the crypto currency includes its market cap rank and other overall information.
+•Detail Information also includes price tracking graph of the different timelines
+•Other features: Login and Sign Up,Add to favourites Activity using Firebase Authentication
+Xenia App /github
+•This App Event Management App of the Annual TechFest Xenia PCSB technical club.
+with other registered users on a particular topic effectively
+•The app enables user to the view complete schedule of the event.
+•User can also register to event for through the app
+Volunteer Experience
+Technical Club
+Member of PCSB Students Club
+Certifications
+Udemy The Complete Java Development Bootcamp
+Wisdom Eye Basics of C++ and Personality Development

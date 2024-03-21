@@ -1,0 +1,75 @@
+/gtbhttps:/ /sunnydhokane.github.io/SunnyPortfolio/
+SUNNY DHOKANE
+Pune Institute of Computer Technology, Pune
+dhokanesunny@gmail.com /ne(+91)9503201773
+/♀nednwww.linkedin.com/in/sunnydhokane /gtbhttps:/ /github.com/sunnydhokane
+EDUCATION
+B.E in Electronics and
+Telecommunication
+Pune Institute of Computer Technology
+Ὄ2020 – 2024
+CGPA : 8
+Higher Secondary
+Amravati State Board
+Ὄ2018 – 2020
+HSC : 85.23%
+MHT-CET : 95.84 percentile
+Secondary
+Mount Carmel High School,Akola
+Ὄ2018
+SSC : 93.80%
+SKILLS
+•Experienced: C++
+•Intermediate: OOP SQL DBMS
+Data Structures & Algorithms Python
+•Familier: Supervised Machine Learning
+Adobe Photoshop JAVA NLP
+FLASK
+CODING PROFILES
+•CodeChef : Sunny Dhokane
+•Leetcode : im_titanium
+•GeeksForGeeks : dhokanesunny
+EXTRA-CURRICULAR
+•Event co-ordinator : Addiction’22
+Addiction is te cultural event hosted by
+Pune Institute of Computer Technology.
+•Equity Investor, Technical Analyst and an
+Independent Derivatives Trader. Link
+STRENGTHS
+•Problem Solving •Learning attitude
+•Team-Work •DedicatedWORK EXPERIENCE
+Software Product Development Internship
+Zapient Digital
+ὌOct 2022 - Mar 2023
+•Created a Python script to generate resumes for each candidate in a
+company’s candidate database. The script fetched data from the
+database and formatted it into a Word document.
+•Designed and implemented a database schema using foreign key
+constraints to establish relationships between tables and improve
+data organization.
+Project Intern
+_VOIS for Tech
+ὌJun 2022 - Aug 2022
+•Developed a web application to predict college allotment for
+students based on their exam scores and preferences.
+PROJECTS
+College Allotment Predictor Link
+Python, Machine Learning Algorithms, HTML, CSS, Flask
+•College allotment predictor is web application that allows students to
+check their allotment by entering the CET Marks and then comparing it
+with previous year’s cutoﬀ.
+Eﬃcient Information Retrieval System Link
+Python, NLP, Inverted Indexing, Term Frequency
+•Proposed this system to get the relevant documents according to the
+query from an unstructured database.
+•Implemented using TF-IDF and BM-25 page ranking algorithms.
+ACHIEVEMENTS
+•Recognized for outstanding performance during internship, resulting
+in an extended duration with a stipend, in appreciation of valuable
+contributions. Link
+•Secured 1st Rank in the Data Cup a Data Science and Machine
+Learning competition in XENIA’22 conducted by CSI-PICT. Link
+•Solved 200+ problems on various competitive programming
+platforms.
+•3* on CodeChef Highest Rated 1619 Codechef. Link
+•Achieved 10thposition in the contest organized by DYCOE.

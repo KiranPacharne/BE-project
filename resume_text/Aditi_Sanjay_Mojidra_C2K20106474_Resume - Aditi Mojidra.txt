@@ -1,0 +1,79 @@
+ADITI MOJIDRA
+Pune Institute Of Computer Technology
+aditismojidra2663@gmail.com Pune, Maharashtra- India /♀nednhttps:/ /www.linkedin.com/in/aditi-mojidra-078687218/
+EDUCATION
+B.E.(Computer Engineering) - 9.59
+CGPA
+Pune Institute Of Computer Technology
+ὌJune 2020 – Currently
+Higher Secondary - 93.08%
+A.S.D.B.Dadawala Junior College
+Ὄ2020
+Secondary - 97.80%
+R.C.M. Gujarati High School
+Ὄ2018
+PROJECTS
+Simon Game
+•Designed and developed an interactive Simon
+Game, replicating the classic memory game.
+•Implemented increasing diﬃculty, score track-
+ing, and sound feedback.
+•Tech-stack: HTML,CSS,JavaScript
+To-Do List
+•Developed a dynamic and user-friendly To-Do
+List application to boost productivity.
+•The To-Do List application boasts a clean and
+intuitive user interface, making it easy for
+users to add, edit, and manage their tasks.
+•Tech-Stack:
+HTML,CSS,Bootstrap,JavaScript,Node.js,Express.js
+Meals App
+•Developed a user-friendly Meals App with
+recipe catalog, meal planning, and grocery list
+features.
+•Users can easily explore and discover new
+dishes from various cuisines to suit their
+tastes and preferences.
+•Favourite icon can also be applied on vari-
+ous dishes from diﬀerent categories for easy
+searching mechanism.
+•Tech-Stack: Flutter,Dart
+ORGANIZATIONS
+•PICT ACM Student Chapter (06/2021 -
+Present)
+•PICT DEBSOC (08/2021 – Present)EXPERIENCE
+Summer Intern - Siemens DISW
+Automation and Patch Request Enhancement
+ὌJune 2023 – July 2023 Pune,India
+•Automation and Modiﬁcation on Exisitng Product Polarion for
+Patch Request Creation with less to zero manual intervention.
+•Used various Scripting languages and frameworks to accom-
+plish tasks given.
+•Presented Work in Final PI(Program Increment) in front of
+Directors and Domain heads
+•Tech-Stack: Apache Velocity,Survey JS,Javascript,Lucene
+CERTIFICATIONS
+•The Complete Web-Development Boot camp – 2022.
+•Introduction to Generative AI - A Google Certiﬁed Course.
+•Introduction to Project Management.
+•Intensive Certiﬁcate Course In German language (A1-A2.1)
+From Ranade Institute, SPPU.
+•TCS iON Career Edge - Young Professional – A Soft Skills Cer-
+tiﬁcation Course.
+TECHNICAL SKILLS
+•C++, JavaScript, Python
+•HTML, CSS, Bootstrap, jQuery, Node.js, Express.js, React.js,
+MySQL, MongoDB
+•Apache Velocity, Survey JS, Lucene
+PERSONAL SKILLS
+•Having Leadership Qualities.
+•Ability to work under pressure.
+•Comfortable Working Independently.
+•Good Communication and Presentation ability.
+HOBBIES
+•Playing badminton.
+•Listening to Music.
+•Painting and Sketching.
+LANGUAGES
+•English, Hindi, Marathi, Gujarati - Full working Proﬁciency
+•German - Elementary Proﬁciency

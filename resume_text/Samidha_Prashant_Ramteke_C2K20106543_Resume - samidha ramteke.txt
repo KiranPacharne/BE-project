@@ -1,0 +1,58 @@
+Samidha Ramteke
+/gtbSamidha07 | samidharamteke | samidharamteke.107@gmail.com | /ne+91-9834799634
+About Me
+A Dedicated, Structured, and Creative final-year student enrolled in a computer engineering undergrad course, I am a
+Team player and good at maintaining professional behavior. My eagerness lies in exploring and learning a variety of domains
+and technologies under the umbrella of computer science and sharpening my problem-solving skills.
+I bring a background in Game Development, complemented by beginner-level Unity experience, along with a strong
+passion for UI/UX. I am Looking for challenging opportunities where I can implement my current knowledge and further
+enhance my skills. Currently, I am actively exploring various software technologies to broaden my skill set and contribute
+effectively. I’m committed to further enhancing my skills in these domains to contribute meaningfully.
+Education
+Pune Institute of Computer Technology, India Jul 2020 - ongoing
+Bachelor of Engineering in Computer Engineering
+GPA: 9.25/10.0
+Gokhale Education Society’s H.P.T. Arts and R.Y.K. Science College Jul 2019 - Jun 2020
+H.S.C (Science)
+percentage: 89.85
+St.Francis High School Mar 2018
+S.S.C
+percentage: 94.80
+Projects
+•Invisible maze
+A simple yet tricky maze game paired with a twist of paintball and thrilling uncertainty
+My role :
+- Designing and adding functionality to different game state pages.
+- Represented the game as team SAMAY at Retropolis and Gaming frontier challenge
+•Morphogen
+A Storytelling game where you go through a series of role-playing as different insects and discover their special abilities
+to get revived as a Lunatic self-experimental scientist
+My role :
+- Designing and adding functionality to different game state pages.
+- Level Designing using tiled software.
+Achievements
+1. Best Game Submission Retropolis as part of Technical Fest Of IIIT Kottayam, Dhruva 2021
+2. Secured 2nd position Gaming frontier challenge conducted by SHASHTRA and IIT Madras
+Clickheretoviewcertificates
+Technical Skills
+Programming languages: C++, Lua, JAVA (basics), Python
+Web Technologies: HTML, CSS
+Miscellaneous: Unity, Tiled software, MySQL, Git, GitHub, Love2D (framework)
+Documentation: Strong Technical and non-technical documentation skills
+Relevant Coursework
+Data Structures and Algorithms, Object Oriented Programming, Database management Systems, Human-Computer Interface,
+AR/VR, System Programming and Operating Systems, Theory of Computation.
+Extracurricular
+GameDevUthopia : 2021 - Present
+Official Game Development club of PICT.
+- Worked in Coding Team.
+- Worked in Marketing Team.
+PASC: 2021 - Present
+ACM Student Chapter of PICT.
+- Managing side events at PULZION 2022.
+- Worked on organizing a virtual treasure hunt in Radiance 2021.
+Workshops and Certifications
+- Completed a 50-hour hands-on Augmented Reality and Virtual Reality (AR/VR) Workshop by APPY MONKEYS SOFT-
+WARE PVT
+- Completed Fundamentals of Digital Marketing certification by Google Digital unlocked
+- Pursuing Google UX Design Professional Certificate

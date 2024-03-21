@@ -1,0 +1,54 @@
+Sanket Telunagi 
+ telunagisanket@gmail.com  +91-9370786473 
+ Hadapsar, Pune  sanket-telunagi  
+Education 
+ B.E, Electronics and telecommunication  2020 – 2024 
+SCTR'S Pune Institute of Computer Technology 
+CGPA: FY-9.52, SY-8.41 
+ H.S.C 2019 – 2020 
+R R Shinde JR College, Pune 
+H.S.C- 85.85% 
+ S.S.C 2017 – 2018 
+Sadhana Vidyalaya, Pune 
+S.S.C- 95.60% 
+Experience  
+ Intern at Center for Advanced Computing (CDAC)        
+ I worked as an NLP engineer intern at CDAC for various tasks, with the major project of Resume parser 
+analyzer, which consists of extracting text, preprocessing, collecting key terms and extracting candidate 
+details, skills and projects. The project model is also converted into fully functional website with 
+Django. 
+ Tech Stack – Spacy, pdfminer, SKLearn, Django 
+ Intern at KD Automation as an electronic product developer  
+ I worked as an electronic product developer for various undergoing project at the company doing 
+assembly and testing work for various products  
+ I learned practical knowledge of developing electronic products, PCB design, prototyping and gain 
+confidence for working in this field  
+Projects 
+ The Spyder Robot  
+  A four legged Quadrupt robot with Bluetooth operation with synchronous control of its four legs , 
+involving multiple degree motions held with servo motors  
+ Stack used – Own build PCB with Atmega-8a microcontroller, PCB design, SMD Components and robust 
+controlling with NRF BLE module  
+ Provider Invoice Text Curation  
+ Implemented an invoice text extractor to identify provider names and other critical information as a team 
+project with teammates Varad, Soham, and Vedansh. 
+ Techstack used – Pytesseract python OCR library and OpenCV, Spacy 
+ Heart Disease Predictor  
+ Implemented Logistic Regression model , one of the classifier algorithms under supervised learning on 
+the heart disease dataset from Cleveland. 
+ Techstack used – Scikit-Learn library , Numpy, Pandas 
+ Achieved – 88.5245 % accuracy in predicting the heart disease 
+ Data Bus – A file sharing website  
+ A file sharing website with separate virtual rooms with fast upload and download 
+ Techstack used – React JS, Express JS, NODE JS, MongoDB 
+Skills 
+ C , C++ Python 
+ Object-Oriented Programming (OOP) Django 
+ Problem Solving HTML, CSS, JavaScript, node js,  react js 
+Certificates 
+ Fundamentals of Artificial Intelligence and Machine Learning 
+Achievements 
+ 
+ Participated in Bajaj Finserv HackRx 3.0 
+ Member of IEEE student branch in college and actively participated in organising events. 
+ Secured 98.62 percentile in MHT-CET 

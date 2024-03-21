@@ -1,0 +1,47 @@
+ 
+ TANUJA HEMANTKUMAR GHADAGE   
+ 
+Contact : +91  9359270041                                                                                                                Email: tanujaghadage2720@gmail.co m                                                                                           
+HJBKBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB                 LinkedIn:   https://www.linkedin.com/in/tanuja -ghadage -7116b6218   
+EDUCATION:  
+ 
+ Savitribai Phule Pune University - SCTR’s Pune Institute of Computer Technology (PICT), Pune                             2020 -present  
+ (Bachelor of Engineering in Electronics and Telecommunication)  GPA:  7.76 
+      HSC Maharashtra State board - Late Sahebrao Phadatare S ec. and Higher Sec. School, Kalamb, Walchandnagar . 
+                                                                 Tal-Indapur, Dist-Pune.            March 2020  
+   Percentage - 88.15 
+      10th (STATE BOARD) – Bhairavana th Vidyalay , Bhigwan. Tal - Indapur, Dist - Pune.             March 2018  
+Percentage -92.80  
+ 
+SKILL S: 
+ 
+Programming Languages : C, C++, JAVA , Python, HTML.   
+       Technical Skills : HTML , OOPs Concept, DBMS,DATASTRUCTURES AND ALGORITHMS.  
+Hardware : embedded C.  
+   Personal Skills : Adaptability, Leadership, Good conveyor, Good presenter, Communication, Creativity , Problem solving.  
+  
+ EXTRACURRICULAR ACTIVITIES:    
+   
+ Volunteer:  
+Member of PICT PCSB (CSI).  
+ Participated in XENIA ’21 Industry Talks entitled – ‘BLOCKCHAIN ’ an Industry Hands -On Workshop,  The Annual Technical 
+Flagship Event of PICT CSI Student Branch.  
+ Participated in XENIA ’21 Industry Talks entitled – ‘Learn ever ything about Building Minimum Viable Product ’ an Industry 
+Hands -On Workshop,  The Annual Technical Flagship Event of PICT CSI Student Branch.  
+ Danc e participation  at PICT Art Circle  
+ 
+ ACHIEVEMENTS AND AWARDS    
+  
+ Winner of Quiz Competition , at Bhairavanath Vidyalay , Bhigwan.  
+ 1st runner up in “ DANCE  COMPETION “  in V.P. College Barama ti.  
+ Winner of Inter school “Essay Writing Competition” held by V.P.College , Baramati.   
+ 
+Projects  
+      
+• FOOD QUALITY MONITORING SYSTEM |   IoT, ThingSpeak.  
+                                       Developed a smart food quality monitoring system which detects the food spoilage in  fruits and vegetables.  
+                                       The system detects the alcohol con tent, methane gas, Humidity,temperature of the fruit or vegetable kept in 
+close  proximity to  the IoT device.  
+• SENTIMENT ANALYSIS OF TWITTER DATA   | PYTHON , MACHINE LEARNING, DATA VISUALIZATION, STREAMLITE. 
+Created a twitter sentiment analysis model which is the automated process of identifying and classifying sentiments 
+of Tweets into Positive , negative and neutral polarity.  

@@ -1,0 +1,61 @@
+RITU CHUDIWAL
+COMPUTER ENGINEERING UNDERGRADUATE 
+EDUCATION
+Professional Experience
+Achievements
+1.Secured 99.7595 percentile in MHT-CET 2020
+2.Ranked 320 among 2 LAKH participants in
+MHTCET.
+3.1st prize in Ideathon(Presented startup ides
+of job recruitment using blockchain.)
+4.Good programming profile on
+GEEKSFORGEEKS, HACKERRANK.PUNE INSTITUE OF COMPUTER TECHNOLOGY 
+B.E COMPUTER ENGINEERING 
+2020-2024
+SkillS
+FULL STACK JAVA DEVELOPMENT
+DATA STRUCTURES AND ALGORITHMS
+LANGUAGES - C++,C,PYTHON,JAVA
+OBJECT ORIENTED PROGRAMMING
+SQL
+FOUNDATION LEVEL DATA SCIENCE
+Projects
+PLACEMENT MANAGEMENT FOR TNP
+CELL
+-Developed a comprehensive Java-MySQL
+application.
+-Effectively maintained student records,
+company profiles, and eligibility criteria.
+-Implemented a scheduling system to
+prevent date conflicts between hiring
+companies.
+-Ensured accurate tracking of student
+achievements, extracurricular activites,
+and results.
+-Optimizing Placement process By
+preventing duplicate placements.
+LANDING PAGE OF A COACHING
+INSTITUTE WEBSITE
+-Showcasing past results,educational
+qualifications of instructors.
+-Implemented an innovative feature
+allowing students to predict potential
+colleges based on their MHT-CET scores.
+-Enhancing user engagement and
+providing valuable insights.Co-Curricular Activities 
+1.Active member of PICT CSI BRANCH
+2.Solved 1000+ coding problems.
+3.Delivered lectures on Object Oriented
+Programming.
+LINKDEIN PROFILE
+h t t p s : / / w w w . l i n k e d i n . c o m / i n / r i t u c h u d i
+w a l - 5 8 3 8 a b 2 0 5 /My Contact
+rituchudiwal29@gmail.com
+Pune+91-8010708327
+SUMMER INTERN AT BARCLAYS
+DATA SCIENCE INTERN AT TECHMEDBUDDY
+Writing content on HTML,CSS,JAVASCRIPT,BOOTSTRAP.TECHNICAL CONTENT WRITER AT BRAINYSENSEIJIRA AUTOMATION
+JENKINS PIPELINE 
+WORKED ON BACKEND OF A DASHBOARD APPLICATION IN
+SPRINGBOOT TECHNOLOGY
+CREATED MODULES ON MATRICES FOR DATA SCIENCE

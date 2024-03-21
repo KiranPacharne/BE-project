@@ -1,0 +1,34 @@
+Sameer Bramhecha
+bramhechas89@gmail.com | 9130857169 | Pune | https://www.linkedin.com/in/sameer-b-103912129
+Education
+Ashoka Universal School Nashik
+10th, Percentage: 92.8% June 2018
+Matoshri Junior College Eklahare, Nashik
+12th, Percentage: 85.69% May 2020
+Pune Institute of Computer Technology Pune
+BE Computer, GPA: 9.37 June 2020 - June 2024
+Projects
+Sentimental Analyser | Python, Jupyter Notebook
+A Machine Learning model that would analyze the sentiments of the tweets.
+SRI Management System | Java, Servlets, HTML, CSS, MySQL
+A Database Management System based project using which a portal was created to manage the data of
+students like Internships, Research Papers, Projects, and personal details.
+Insure It | NodeJS, ExpressJS, EJS, CSS, Microsoft SQL Server
+A Freelance Database Management System made in a group of 4 students to manage a insurance
+company 's work of maintaining clients and the policies taken by them.
+CritiQ | ReactJS, NodeJS, ExpressJS, MongoDB
+A Movie Review Application in which users can list movies, review them and comment upon other
+users review.
+Skills
+Programming Languages: Java, C++, Python, HTML, CSS, JavaScript
+Frameworks: NodeJS and ExpressJS, Java Servlets and JSP
+Programming Tools: Eclipse, VS Code, PyCharm, Jupyter Notebook
+Databases: MySQL, MongoDB, Microsoft SQL Server
+Operating Systems: Windows, Linux
+Subjects: Object Oriented Programming (C++ and Java), Data Structures and Algorithms, Database
+Management Systems, Operating Systems, Computer Networks, Data Science and Visualization,
+Internet Of Things, Information Security
+Extra Curricular Activities
+CodeChef Rating: 1537
+CodeForces Rating: 995
+Hackathons: Winners at TIAA Inter College Hackathon 2023

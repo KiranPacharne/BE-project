@@ -1,0 +1,50 @@
+PERSONAL PROFILE
+Third year ENTC engineering student at Pune Institute Of
+Computer Technology (PICT). 
+PROJECTS
+Sun Tracking Solar Panel using Arduino
+Developed code for the model and assembled the hardware part
+for the panel.
+Smart Crop Protection System from Animals using Atmega
+microcontroller
+Developed the code and did the hardware implementations.
+Research done on Impact of Social Media on Society
+Machine Learning and Data Science using Python Projects
+Data Capstone Project: 911 calls, Finance Data Management
+Linear and Logistic Regression Projects
+Decision Tree and Random Forest Project
+SVM and NLP Projects
+SKILLS AND ABILITIES
+Good communication skills
+Good presentation skills
+Good time management skills
+Personal integrity and commitment to deadlines
+Ability to multitaskCOURSES
+Udemy Courses: C, C++, Python for Data Science and Machine
+Learning Bootcamp, Basics of JavaScript.
+Kaggle Courses: Pandas, NumPy, Seaborn, Matplotlib 
+Data Science courses from YouTube
+Coursera: Machine Learning by Stanford University
+Certification of Industry Hands-On workshop held by PICT CSI
+Student Branch.
+EDUCATION
+New India School, Pune - Xth Std (SSC)
+Passed with an A grade and 95.6% in SSC BoardJune 2004 - May 2018
+Kalmadi Shamrao High School, Pune - XIIth Std (HSC)
+Passed with 90% in HSC Board 
+97.11 percentile in MHT-CETAugust 2018 - June 2020RAHUL
+KULKARNI
+Engineering Student
+Pune Institute of Computer Technology, Pune - B.E.
+ENTC
+January 2021 - September 2024
+Passed 3 semesters with 9+ CGPA
+LANGUAGES
+Proficient in English, Hindi and Marathi
+Technical Languages: Python, C, C++ and JavaScript
+HTML, CSS, SQLIntern at Cummins India Limited Kothrud, Pune-411038
+Creation of Automation tool which will generate test
+software code for testing during the build.EXPERIENCE
+CONTACT DETAILS
+       +91 9325423127
+       rahulkulk02@gmail.com

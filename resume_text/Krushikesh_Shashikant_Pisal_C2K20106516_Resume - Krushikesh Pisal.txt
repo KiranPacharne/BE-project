@@ -1,0 +1,38 @@
+Krushikesh Pisal
+♂phone8999483305 /envel⌢pekrushikeshpisal19@gmail.com /linkedinKrushikesh Pisal
+Education
+Pune Institute Of Computer Technology, Pune Present
+Bachelor of Engineering in Computer Engineering CGPA till SEM 5 : 9.06
+Modern College Of Arts, Commerce and Science, Shivajinagar , Pune June 2020
+Higher Secondary Certificate Percentage: 88.15
+Sinhgad Spring Dale School, Ambegaon , Pune June 2018
+Secondary School Certificate Percentage: 93.4
+Projects
+News Aggregator Project Website
+•It is a web application implemented using HTML ,CSS andBootstrap for frontend and Django andBeautiful Soup
+at backend.
+Tetris Game
+•Implemented a classic Tetris game from scratch using C++ programming language. Utilized the SDL library
+Technical Skills
+C++ , Data structures and algorithms , SQL , HTML , CSS , JavaScript
+Programming Profiles
+•Codeforces •Codechef •Leetcode
+Courses
+Data Structures and Algorithms - Self Paced |Geeks for Geeks
+•Basic to Advance Data Structure & Algorithms
+C++ STL - Self Paced |GeeksForGeeks
+Achievements
+Solved more than 900+ Quality Problems on various programming platforms |
+•Solved various quality coding problems based on data structures & algorithms and logic building on various programming
+platforms like Codeforces, Codechef, LeetCode
+Pupil on Codeforces |Codeforces (Max. Rating 1212)
+•Entitled with Pupil position on renowned competitive programming website known as Codeforces
+3 Star coder on Codechef |Codechef(Max. Rating 1655)
+•Entitled with the 3 stars on Indian Competitive Programming platform : Codechef
+Secured 3rd Rank at ”Coding Combat” event held by MKSSS’s Cummins College of Engineering. |
+Secured a global rank of 548 among 24639 participants in LeetCode Biweekly Contest 109 |
+Secured the rank of 539 among 3277 participants in Starters 57 Div.3 Codechef |
+Extracurricular Activities
+Worked in Dextrous Team for Pulzion 2022 held by PASC |
+•Was problem setter and created aptitude questions for the event
+Part of PICT Volleyball Team |

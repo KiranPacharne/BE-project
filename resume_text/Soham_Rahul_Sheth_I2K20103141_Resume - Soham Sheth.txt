@@ -1,0 +1,43 @@
+SOHAM SHETH
+shethsoham2001@gmail.com ⋄+91 93254 57816 ⋄LinkedIn ⋄Github
+EDUCATION
+Bachelor of Information Technology , CGPA: 8.87/10
+Pune Institute of Computer Technology Expected 2024
+Relevant Coursework : Object Oriented Programming, Data Structures and Algorithms, Database Management,
+Design and Analysis of Algorithms and Software Engineering.
+Higher Secondary School Certificate Exam (HSC) , Percentage: 88.77
+Abasaheb Garware College Jun 2018-Feb 2020
+SKILLS
+Programming Languages : C++, Python
+Web Development : HTML, CSS, Bootstrap, JavaScript, React
+Database : MySQL
+Tools and Technologies : Git and GitHub, VSCode
+WORK EXPERIENCE
+Intern at Sanjeevani Healthcare Feb 2023-April 2023
+•Developed Prescription Management System with CRUD operations for patient history.
+•Implemented medicine autofilling and efficient patient search by name.
+•Enabled easy prescription downloads, improving medical record accessibility.
+•Tech-Stack: React, Node, MongoDB.
+PROJECTS
+Cartoonifying an Image
+•Developed an ML model which transform an image into a cartoon image.
+•Built an intuitive user interface.
+•Contains features to upload image and Save the cartoonified image.
+•Tech Stack: OpenCV, Python, Tkinter.
+CritiQ-Movie Review Application
+•Encouraged user interaction by responding to movie reviews.
+•User-friendly interface for easy movie search and latest releases.
+•Implemented dynamic sorting based on genres and release dates.
+•Demonstrated technical expertise with feature-rich movie application.
+•Tech Stack: MongoDB,ExpressJs,ReactJs,NodeJs,.
+ACHIEVEMENTS AND CERTIFICATIONS
+Winner TIAA Intercollege Hackathon
+•Secured 3rd rank in the TIAA Intercollege Hackathon for creating a movie review application using the MERN
+stack.
+•Implemented the frontend using React, making significant contributions to the project’s success.
+•Gained valuable experience in full-stack development and collaborating with a team in a hackathon setting.
+Certification of AR-VR Workshop at PICT
+EXTRA-CURRICULAR ACTIVITIES
+•Participated in a AR-VR workshop.Created a exciting Zombie Game using Virtual Reality Technology.
+•Public Relations Officer,PICT Debsoc
+•Organized National level Debate Competition: Intra-Paricharcha under PICT Debsoc.

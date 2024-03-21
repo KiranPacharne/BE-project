@@ -1,0 +1,44 @@
+Dinesh Nehete
++91-8530334402 |nehetedinesh7@gmail.com |linkedin.com/in/dinesh-nehete |github.com/dineshNehete
+Education
+B.E in Computer Engineering (CGPA: 9.55) Pune, Maharashtra
+Pune Institute of Computer Technology 07/2020 – Present
+Higher Secondary School(93.5 %) Pune, Maharashtra
+MP Junior College 06/2019 – 04/2020
+Experience
+Android Developer Intern 02/2023 - Present
+ADS Web Solutions Remote - Kolkata
+•Led a team of developers to deliver a project on time, displaying strong leadership and project management skills.
+•Resolved technical issues by fixing 15 bugs within the first week.
+•Developed an efficient and well-structured app for JEE coaching institutions using Kotlin and adhered to Retrofit,
+Volley, RoomDB, MVVM architecture and LiveData.
+•Successfully completed work on 3 different projects.
+Projects
+Recipe Hub |Kotlin, API, XML, Retrofit, Room DB, MVVM 12/2022 – 01/2023
+•Developed a Recipe Hub mobile application using MVVM architecture and LiveData.
+•Used the Retrofit library to fetch from the API and display it in a recycler view.
+•Implemented the functionality to store the meals in the Room DB and display them in the respective fragment’s
+recycler view.
+Cloud Accounting App |Flutter , Firebase 09/2022 – 09/2022
+•App for Chartered Accountants to manage clients.
+•Uses Firebase as a backend-as-a-service (BaaS), OAuth2 google sign-in is used for authorization.
+•Secured file storage, chat functionality, document storage, and appointment booking using the firebase firestore
+database and cloud storage.
+•Built within a week for PICT Vs VIIT hackathon where we secured 2nd Position.
+Engineering Chemistry Assist |Flutter, Firebase 06/2021 – 07/2021
+•1st ever App for university students to learn Engineering Chemistry, solve MCQs, practice tests, have revisions, and
+solve numericals.
+•Flutter App created using Firebase as Backend, CRUD storage and oauth2.0 google authentication, and firebase
+storage.
+•300+ active users and 400+ PlayStore downloads.
+Technical Skills
+Languages : Java, Kotlin, C/C++, Python, SQL
+Frameworks and Libraries : Node.js, Retrofit, Glide
+Developer Tools : Git, Github, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Android Studio
+Databases : MySQL, MongoDB, RoomDB
+Expertise Area : Android Development, Data Structures, Algorithms, Object Oriented Programming, Firebase
+Achievements
+•2nd Rank out of 30+ teams in Intercollege Development Battle (Hackathon).
+•Contributed towards the development of 2 apps on the Play Store.
+•Solved more than 600 coding questions across various coding platforms.
+•Secured global rank under 700 twice out of 10,000 competitors in CodeChef coding contests.

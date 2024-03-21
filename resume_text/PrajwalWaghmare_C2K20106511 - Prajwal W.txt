@@ -1,0 +1,86 @@
+Prajwal Waghmare 
+Innovative Frontend Developer and Competitive Programmer 
+prajuwaghmare07@gmail.co
+m 
+9359487234 
+Pune, India 
+SKILLS 
+C++ 
+React JS/Redux 
+HTML/CSS 
+Autosys 
+Javascript 
+Data Structure 
+SQL 
+Competitive
+Programming 
+Firebase 
+LANGUAGES 
+English 
+Full Professional Proﬁciency 
+Hindi 
+Full Professional Proﬁciency 
+Marathi 
+Full Professional Proﬁciency 
+INTERESTS 
+Chess 
+Gymming 
+Dance 
+Guitar 
+Cricket 
+Football 
+EDUCATION 
+Bachelor Of Engineering 
+SCTR's Pune Institute Of Computer Technology 
+08/2020 - Present
+, 
+ 
+9.19 CGPA 
+Computer Engineering 
+Grade 12(Higher Secondary Education) 
+Fergusson College 
+06/2018 - 07/2020
+, 
+ 
+82.15% 
+Grade 10(Central Board Of Secondary Education) 
+Kukadi Valley Public School,Pune 
+03/2018
+, 
+ 
+93.6% 
+WORK EXPERIENCE 
+BA3 Intern at BARCLAYS 
+Empowered streamlined deployment through innovative UI-driven
+automation and Python scripting, optimizing operational eﬃciency and
+enhancing overall productivity 
+UI Developer in Svestes(Startup) 
+Pioneered UI Development with React/Redux for "Svestes" Website 
+CODING_EXPERIENCE 
+Codechef: prajwal420
+ (02/2022 - Present)
+ 
+Max Rating- 1641(3 star) 
+Codeforces: kingsman07
+ (05/2022 - Present)
+ 
+Max. Rating : 
+1038 
+LeetCode: prajwaloncc 
+Problem Solved: 40+ 
+PERSONAL PROJECTS 
+Jacket Customization(03/2022) 
+Created a user customizable hoodie website with React JS and Firebase 
+Web Application based Fitness Guide
+ (03/2022)
+ 
+Contribute to front-end of website which helped users to reach their ﬁtness goals 
+PICT Library
+ (09/2021)
+ 
+Contribute to front-end of website which provide soft copies of authorized books according to curriculum
+using HTML/CSS 
+CERTIFICATE 
+Google CODEJAM 
+Cleared Qualiﬁcation round 1A of Google CodeJam( 44 pts) 
+Courses 

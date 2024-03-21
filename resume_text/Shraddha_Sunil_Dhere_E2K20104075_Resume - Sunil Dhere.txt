@@ -1,0 +1,42 @@
+Electronic and Telecommunication Undergraduate at PICT PuneSHRADDHA DHERE
+Problem Solving 
+Programming Languages: C,C++
+Data Structures and Algorithms
+Object-Oriented Programming(OOP) 
+Front-End: HTML,CSS, JavaScript
+Back-End: MySQL
+CS Fundamentals: DBMS, OS, CN
+Project Management Tools
+Strong CommunicationSKILLS7888274477
+shraddhadhere2209@gmail.comACADEMIC PROJECTS
+MOOD CHANGER : MUSIC Playlist website
+EDUCATION
+Pune Institute Of Computer Technology
+Bachelor's Degree in Electronics and
+Telecommunication      2020-Present
+CGPA - 8.703
+Residential Junior College, Ahmednagar
+HSC Maharashtra State Board  - 2020
+Percentage - 87.85%
+Residential Junior College, Ahmednagar
+SSC Maharashtra State Board  - 2018
+Percentage - 95.40%https://www.linkedin.com/in/shrad
+dha-sunil-dhere-9016b7218/
+Tech Stack : HTML, CSS, JavaScript
+Created an interactive music playlist website using HTML, CSS, and
+JavaScript to showcase my web development skills and passion for
+music. Implemented some dynamic capabilities that let users play,
+pause, skip, and shuffle music in a playlist.
+HOSPITAL MANAGEMENT SYSTEM
+Front-End: HTML, CSS, JavaScript
+Back-End: PHP, MySQL
+Frameworks: Bootstrap (for responsive design)Technologies Used:
+Developed a comprehensive Hospital Management System to
+streamline administrative, operational, and patient care processes
+within a healthcare facility.
+CERTIFICATIONS 
+EXTRACURRICULAR 
+Member of PICT Art CircleInternship completion certificate at VOIS (Vodafone Intelligent
+Solutions) 
+August 2022 - October 2022
+Basic Course For DSA 

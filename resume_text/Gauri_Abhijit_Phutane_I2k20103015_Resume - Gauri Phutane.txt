@@ -1,0 +1,69 @@
+GAURI PHUTANE
+Pune Institute of Computer Technology, Dhankawadi, Pune -411046
+phutane.gauri@gmail.com /ne(+91) 8459645073 /♀nednwww.linkedin.com/in/gauri-phutane-165895206/
+/gtbgithub.com/gphutane
+EDUCATION
+Bachelors of Engineering
+SCTR’s Pune Institute of Computer
+Technology (PICT)
+Ὄ2020 – Present CGPA:9.15
+Class XII
+MP Junior College
+Ὄ2020 82.46%
+Class X
+Akashkanya Secondary School
+Ὄ2018 97%
+SKILLS
+C/C++ Python JAVA Django
+Data Analytics MySql
+Competitive Programming Shell Script
+Leadership
+ACHIEVEMENTS
+•5 stars in C++ on HackerRank.
+•1st Runner up in mathematics event
+“MATHEMATRIX”.
+•200+ DSA questions solved on leetcode.
+•3 star coder on Codechef and 250+
+problems solved
+ORGANISATIONS
+•PICT IEEE STUDENT BRANCH
+Student Volunteer
+•PICT DEBATE SOCIETY
+Content Writer
+•PICT ART CIRCLE
+Student MemberABOUT ME
+An enthusiastic and versatile learner with a passion for exploring new
+technologies and their real-world applications. Curious mindset and
+adept at connecting with people from diverse backgrounds. Eager to
+embrace challenges and continuously grow in fast-paced environments.
+Thrives on building collaborative relationships and valuing diverse
+perspectives. Committed to making a positive impact through
+cutting-edge innovations. Adept at leveraging technical expertise and
+adaptability to drive results. Seeking opportunities to contribute and
+add value to forward-thinking teams. Let’s connect and embark on this
+journey of innovation together!
+EXPERIENCE
+BA3 Intern
+Barclays
+ὌJune 2023 – August 2023 Pune
+•Implemented Testing Automation using shell script.
+•Learnt and implemented basic services in AWS.
+•Contributed to the integration of a chatbot.
+PROJECTS
+Blog Website
+Django,Html,Css
+•Writer can add his/her blogs and can also update or delete them later.
+•Done user authentication.
+•Implemented pagination
+Weather Application
+React,Html,Css
+•It’s a single-page website that uses Open Weather API to show the
+weather of a particular region.
+•User have to give the desired location as input and in the backend the
+API fetches the corresponding weather data and displays it to user.
+COURSEWORK
+•Design and Analysis of Algorithms
+•Data Structures and Algorithms
+•Object-Oriented Programming
+•Database Management Systems
+•Software development

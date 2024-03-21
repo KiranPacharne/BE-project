@@ -1,0 +1,45 @@
+AJIT GAVADE
+Pune, India
++91-9529889819 ajitgavade.ai@gmail.com /g♀bethecamron.github.io/portfolio
+EDUCATION
+Pune Institute of Computer Technology, Pune 2021 – 2024
+BE - Computer Engineering - CGPA -7.0 Pune, Maharashtra, India
+Government Polytechnic Miraj 2018 – 2021
+Diploma - Computer Engineering - Percentage -96.17% Miraj, Maharashtra,India
+Annasaheb Dange Public School, Ashta 2018
+Secondary School Certification - Maharashtra Board - Percentage -81.20% Sangli, Maharashtra,India
+Experience
+Sangli Software |Web Development Trainee June 2020 – July 2020
+Sangli, India
+∗Worked as a FrontEnd Developer in Team.
+∗Developed UI Pages like Contact Us,User profile,Result on live projects.
+∗Learned about User Interface designing.
+PROJECTS
+ExamCQ |HTML,CSS,JS,PHP & MYSQL June 2020
+∗Built a web application for conducting MCQ Tests online.
+∗Candidate can sign-up and sign-in on the system.
+∗Setting new question,Block/Unblock User,Display results these task handled by Teacher.
+Attendance System with face recognition |JavaScript,Bootstrap,Python & MySQL June 2020
+·Built a web application for managing Attendance of Students.
+·Sign up or Sign in for Student, Teacher and Admin.
+·Used Haar Cascade algorithm performed face recognition and marking attendance.
+T-Shopee |React,MongoDB,Node,Express (MERN) In progress
+·Built a web application for selling T-shirts.
+·User can sign-up and sign-in.
+·User can add T-shirts into their shopping cart.
+·User can pay the for order using payment gateway (Braintree Payment Gateway).
+ACHIEVEMENTS
+·Top 2% in Maharashtra State Diploma Merit List 2021 (Rank 807/69106).
+·Winner at Hackathon organized by TIAA India.
+·5 Star C++ and 4 Star Problem Solving on HackerRank
+·2 Star Codechef and Leetcode (Codechef : Max rating 1420)
+·Participated in Google Kick Start, Facebook Hackercup, ICPC Regional, Flipcart Grid,Etc.
+TECHNICAL SKILLS
+Languages: C, C++,Java, JavaScript, SQL
+Developer Tools: VS Code, Android Studio, Intellij Idea Ultimate,Postman
+Technologies/Frameworks: Linux, GitHub, ReactJS, Git, Mongo,Node
+EXTRACURRICULAR
+Impetus And Concepts Feb 2022 – April 2022
+Organizing Team Member in technical event PICT Pune. PICT Pune
+Pictoreal Jan 2022 – Present
+Design Team Member in Pictoreal Club Pict. PICT Pune

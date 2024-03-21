@@ -1,0 +1,84 @@
+ATHARVA AGRAWAL
+Software Developer
+a.atharva.work@gmail.com /ne+91-7447537050 /♀nednatharva-agrawal Pune, India /g♀beatharvaagrawal.tech 
+Skills
+•Programming Languages: Python,
+Java
+•Cloud Technology: Microsoft Azure
+•Web Development: HTML, CSS,
+JavaScript, BootStrap
+•Web Frameworks and Libraries:
+Django, Flask, FastAPI, Node, React,
+Express
+•Databases: SQL, MongoDB
+•Testing and Debugging: Postman,
+Siege
+•Tools and Technologies: Git, GitHub,
+VSCode
+Course Work
+•The Joy of Computing Using Python
+- NPTEL
+•Core and Advanced Python -
+NareshIT
+•MERN Stack Bootcamp - LCO
+Achievements
+•Grew CodingAtharva Blog to2M+
+views and 3k monthly users with
+SEO and content creation expertise.
+•Achieved 15k+ downloads for
+Diploma in Computer Science An-
+droid app.
+•Solved over 400 problems on various
+platform
+•State Level Basketball Player
+•KV F-Zonal Volleyball Player
+Programming Proﬁles
+•GitHub:/gtbatharvaagrawal 
+•LeetCode: atharva-agrawal 
+•Blog: codingatharva 
+Co-curricular Activities
+•Delivered sessions on Python and
+GitHub for juniors under Google De-
+veloper Student Club PICT.Work Experience
+Quantitative Finance Intern at VishwNivesh Technol-
+ogy LLP
+ὌFeb 2023 – June 2023
+•Developed automated stock data collection and anal-
+ysis script using Python and yﬁnance library, improv-
+ing eﬃciency and accuracy on Azure Virtual Machine.
+•Designed and implemented a Position Management
+System using Flask and FastAPI. Conducted load test-
+ing and achieved successful outcomes with deployed
+trading strategies.
+Projects
+T-Shirt Selling WebApp: 
+•Tech Stack: MERN, Stripe
+•Developed a T-Shirt Selling webapp using MERN stack,
+with MongoDB for data storage, ExpressJS for the
+backend API, and ReactJS and Bootstrap for the fron-
+tend.
+•Integrated Stripe payment gateway to the website for
+secure online transactions. Successfully implemented
+a user-friendly website with eﬃcient API integration.
+Admission Counselling For Direct Second Year(Lateral
+Entry)
+•Tech Stack: Django, MySQL, BeautifulSoup4 and
+Camelot library
+•In order to be admitted to the Direct Second Year En-
+gineering, this project analyses the Diploma Final Year
+(MSBTE) Result and gives the list of colleges which
+can be applied.
+•Django is used to build the website. Python’s Camelot
+module and the bs4 package were used in the project
+to extract data from PDF ﬁles and scrape websites. In
+a MySQL database, the information is stored.
+Education
+Pune Institute of Computer Technology
+B.E. Information Technology
+Ὄ2021 – May 2024 CGPA: 9.19
+Government Polytechnic, Dhule
+Diploma in Computer Science
+Ὄ2017 – 2020 Percentage: 92.34%
+Kendriya Vidyalaya, Dhule
+Class X CBSE
+Ὄ2007 – 2017 CGPA: 9.0

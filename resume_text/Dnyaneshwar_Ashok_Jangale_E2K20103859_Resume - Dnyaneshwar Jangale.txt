@@ -1,0 +1,47 @@
+Dnyaneshwar Jangale
+♂phone+91 8010235138 /envel⌢pejangalednyanesh@gmail.com /linkedinlinkedin
+Education
+Pune Institute of Computer Technology June 2020 - August 2024
+Bachelor of Engineering in Electronics and Telecommunication (CGPA of 9.25) Pune, India
+Army Public School 2019 - 2020
+Class XII (Percentage 90.4%) Ahmednagar, India
+Army Public School 2018 - 2019
+Class X (Percentage 95.2%) Ambala Cantt, India
+Technical Skills
+Languages : C++, HTML/CSS, JavaScript
+Frameworks/Libraries : ReactJS, NodeJS
+Database : MySQL, MongoDB
+CourseWork : Object Oriented Programming, Database Management System, Operating System.
+Experience
+iMocha Aug 2022 – Present
+Technical Editor and Quality Checker Pune, India
+•My role involves reviewing and editing Data Structures and Algorithm problems while analyzing their technical correctness
+and ensuring proper orientation.
+•Proficiently analyzed, solved, and corrected over 300 problems on Data Structures and Algorithms.
+Projects
+VisionVault |NodeJS, React Js, MongoDB, Express |GitHub Jan 2023
+•A Dynamic project and ideas discussion platform where users can communicate and collaborate with each other.
+•Implemented frontend using React for making Java Script XML (JSX) components for various tabs. Search and
+comment functionality is also developed.
+•Utilized Node.js, Express, andMongoDB for efficient handling of data models and also integrated JSON Web Tokens
+(JWT) for secure user authentication.
+CryptoX |ReactJS, Rapid API |GitHub |See Project July 2022
+•AWeb App in which Cryptocurrencies are listed at a single place and users can access information regarding the currency
+with trending news.
+•React helped to make Java Script XML (JSX) components which are used as CurrencyCards for listing the
+Cryptocurrencies.
+•Coinranking API was used for Fetching data of Cryptocurrencies and Search functionality was used to list
+Cryptocurrencies and Cryptocurrency news in categorical way.
+Achievements
+•Finalist of Yuvak Biradari’s Yuva Bhushan Program all over India in 1’st year (2020).
+•Secured a global rank 988in Codechef Starters 50.
+•Secured a global rank 1111 in Codechef Starters 67.
+•Secured a global rank of 3197 in Leetcode Biweekly Contest 104 and3307 in Leetcode Biweekly Contest 106 among 23k+
+participants.
+•Solved more than 800+ problems across various coding platforms.
+Profile Links
+•Leetcode •Codeforces •GitHub
+Organizations
+PICT National Service Scheme |Working Volunteer Aug 2020 – Present
+•Worked as a NSS Volunteer promoting happiness and societal welfare with a ”Not Me But You” mindset. Committed
+to serving others and making a positive impact.

@@ -1,0 +1,48 @@
+Akshay Tuptewar
+/ne+91-9766684840 tuptewarakshay19@gmail.com Akshay
+EDUCATION
+Pune Institute of Computer Technology 2024
+-Bachelor of Engineering (BE) in Electronics and Telecommunication Engineering - CGPA - 8.6
+Yeshwant Mahavidyalaya 2020
+-Class XII Percentage - 76.62%
+Mahatma Phule High School 2018
+-Class X Percentage - 87.20%
+WORK EXPERIENCE
+Hindustan Unilever Mar 2023 – July 2023
+Web Application Developer - Intern
+•Developed a Web Application to understand how data flow in the product Manufacturing process using
+Digrammer R Package.
+•Hosted and modified an open-source Business analytics tool(Radiant) application on the Unilever Cloud.
+Interview Mocha Jan 2023 – Current
+Dsa Problem Setter-Intern
+•Created innovative coding questions which is used in online test along with test cases and provided effective
+solutions using data structure and algorithm.
+PROJECTS
+E Cart [Link]
+•Created a fully functional e-commerce website that allows users to browse products Add items in cart and
+proceed for checkout Also Implemented user authentication and session management for a secure shopping
+experience.
+•Website built using Java, JSP (JavaServer Pages), servlets, and MySQL for the database.
+Employee Management System [Link]
+•Built a website for managing employee details where we can add and modify employee data into database.
+•Backend was built using NodeJS and ExpressJS, the frontend was built using React, and data was stored and
+handled using MySQL.
+TECHNICAL SKILLS
+Languages: C++, Java, Python, SQL
+Web Technologies: RESTful APIs, NodeJs
+Tools: VS Code, GitHub,Postman
+Others: Data Structures and Algorithms,Operating System
+CODING PROFILES
+•Leetcode 
+Akshay•Codechef ♂poll
+Akshay•Codeforce ♂poll
+Akshay•Hackerank /hackerrank
+Akshay
+ACTIVITIES
+•Techinical Cordinator at the Pict Acm Student Chapter
+•Solved over 600+ problems on Leetcode,GfG,codechef
+•850+ rating on Codeforce and 2 Star on Codechef
+CERTIFICATIONS/ACHIEVMENTS
+•Completed the Fundamentals of Artificial Intelligence and Machine Learning course organized by Vois [Link]
+•Played at State level in Table tennis [Link]
+•SemiFinalist in Aerothon 5.0 (Airbus Hackathon)

@@ -1,0 +1,44 @@
+Mitul Shah
+Email: mitulshah0709@gmail.com Mobile: +919325061222
+LinkedIn: linkedin/mitul-shah Github: github.com/Mitul070902
+Portfolio: mitul-shah-portfolio.netlify.app
+Education
+Qualifications Institute Grade Timeline
+B.E in Electronics and Telecommunications Pune Institute Of Computer Technology 9.3/10 2020 - 2024
+HSC A.S.D.B Dadawala Junior College 87% 2018 - 2020
+ICSE Rosary High School 92% 2008 - 2018
+Skills
+Languages : Java, React Js, MySQL, Python, HTML, CSS, Bootstrap
+Developer Tools : Git,VS Code
+Programming Concepts : DSA,OOP,DBMS,CN,
+Tools : MS Office Suite, Mixpanel, Figma
+Soft Skills : Leadership, Communication, Problem-solving, Strategy
+Experience
+PICT- InC |SDE Intern Dec2022 - Jan2023
+•Developed the frontend of the Impetus and Concepts’22 annual tech fest website using React, creating user-friendly
+interfaces for improved user experience
+•Managed the SQL database to handle event registrations and participant data, ensuring smooth organization and
+execution of the tech fest.
+Kulturehire |Analyst Intern July 2023 - Present
+•Utilized SQL to perform data cleaning and preprocessing, ensuring high data quality and integrity for accurate
+analysis of ”The Managers of India” business statements.
+•Leveraged Power BI and Excel to create interactive and insightful dashboards, enabling effective data visualization
+and analysis, thus providing valuable business insights for decision-making).
+Projects
+CRM System |Django, Python, ,MySQL, Git
+•The aim of this project was to design and build a comprehensive Customer Relationship Management (CRM) App
+using Django, Python, and MySQL, providing a centralized platform for efficient customer data handling
+•Utilized MySQL as the database, for user interactions, including registration, login, logout, and record management
+Sorting Visualizer |HTML,CSS,Javascript Link
+•A web application showcasing the inner workings of sorting algorithms.
+•3 Controls for visualizations 2.1) Speed of visualization (5 speed levels) 2.2) Data size ().
+Volunteering And Positions Of Responsibility
+•Overall Operations Head — Impetus and Concepts’23 (Feb 2023 - April 2023) - Managed 2000+
+participants and 200+ projects with a team of 80+ volunteers.
+•Head - Operations - Event Organiser — TEDxPICT (July 2022 - May 2022) - TEDxPICT 2023.
+Achievements
+•Winner - InC’23 — DSP Domain (April 2023) - 1st Prize for the project ”Guitar Pedal.”
+•Runner Up - ABSTRACT’22 — PICT EDC (October 2022) - Shark tank theme-based contest highlighting
+real-world problems and industrial-level solutions.
+•Runner Up - Xenatus - Xenia’22 — PICT CSI (August 2022) - Contest at PICT CSI’s Flagship event
+Xenia’22, testing Aptitude, Leadership, Situational, and Critical thinking.

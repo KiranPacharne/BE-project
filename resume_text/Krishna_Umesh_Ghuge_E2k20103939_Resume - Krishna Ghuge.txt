@@ -1,0 +1,70 @@
+KRISHNA GHUGE
+Pune Institute of Computer Technology
+krishnaghuge.308@gmail.com /ne(+91) 9730316471 Linkedin GitHub
+EDUCATION
+Bachelors of Engineering
+SCTR’s Pune Institute of Computer
+Technology (PICT)
+Ὄ2020 – Present CGPA:8.68
+Class XII
+Vishwasattya Jr. College of Science
+Ὄ2020 83.38%
+Class X
+Gokhale Education Society H.A.L High
+School
+Ὄ2018 94.60%
+SKILLS
+C/C++ Python JAVA React
+Data Analytics MySql Proteus
+Competitive Programming Elocution
+Leadership
+COURSEWORK
+•Data Structures and Algorithms
+•Object- Oriented Programming
+•Database Management Systems
+•Project Management
+•Cellular Communication
+•Micro Controller
+•Digital Communication
+EXTRACURRICULARACTIVITIES
+•Silver medal in Smart Kid G.K Olympiad
+•Participated and rank holder in several
+Elocution competitions
+•Participated in Dramatic competitions
+ACHIEVEMENTS
+•Winner of Electroquest (competition
+conducted by PICT ACM students
+chapter)
+•200+ DSA questions solved on leetcode.
+•3 star coder on Codechef and 250+
+problems solvedABOUT ME
+Passionate and driven technophile with excellent problem-solving and
+communication skills. A disciplined self-starter, adept at working
+independently or in close collaboration. Enthusiastically embraces new
+technologies, constantly seeking to expand knowledge. Proactive
+mindset to tackle challenges and deliver innovative solutions. Adaptable
+team player with a positive attitude and eagerness to learn. Excited to
+contribute to cutting-edge projects and make a meaningful impact
+PROJECTS
+Weather App using open weather API (React)
+React, Javascript, css
+•It’s a single page website which uses Open Weather API to show
+weather of a particular region.
+•User have to give the desired location as input and in the backend the
+API fetches the corresponding weather data and displays it to user.
+Crypto Price App using Coingecko API (React)
+React, Javascript, Coingecko API
+•It’s a multi-page website which make use of Coingecko API to fetch
+data about various crypto currencies available in the market.
+•It also rank the currencies according to their market value.
+•User can also search for a particular crypto currency and it will show
+trend in market value of that crypto currency.
+Electronic Spirometer using ATMEGA 328
+Proteus, Arduino IDE, MicroProcessor
+•It’s a hardware project where I had developed an electronic version of
+typical spirometer, a medical device.
+•For processing I had used ATMEGA 328 microprocessor.
+•PCB was developed using Proteus software and for programming the
+microprocessor Arduino IDE was used.
+•It predicts the lung health of a person without doing any hectic or
+long procedure just by blowing air into a pipe.

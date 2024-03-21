@@ -1,0 +1,34 @@
+PRATHMESH KHOSE
++91 7447753473 Pune, India
+khosepratham@gmail.com linkedin.com/in/prathmesh-khose/
+EDUCATION
+Pune Institute of Computer Technology Pune, India
+B.E - Electronics and Telecommunication, CGPA: 8.77 Expected{2024
+Shivchhatrapati College Aurangabad, India
+12th grade - Secured 74.15 percentage (HSC) 2020
+Vidyadham Public School Aurangabad, India
+10th grade - Secured 94.80 (SSC) 2018
+PROJECTS
+Hospital Management System
+•Used JDBC connector in java and MySQL as backend to create Hospital Management System which tracks
+records of doctor's appointment schedule, working hours and location.Used Java Swing for GUI as frontend.
+•It also maintains crucial data on patients which includes medical track records, current medications and scheduled
+appointments as well as the informations provided by the facilities provided by hospital and bill records
+Blood Bank Management
+•Developed a blood bank management system using HTML, CSS, JAVASCRIPT, MySQL PHP to eciently
+manage blood donations at various levels, including colleges, oces, and other institutions.
+•In this project, I took on the role of working on the front end. My responsibilities revolved around crafting the
+user interface and experience, which involved utilizing HTML, CSS, and JavaScript.
+SKILLS
+Technical skills C++ DSA OOP DBMS My-SQL Java (Beginner) HTML CSS
+Soft Skills Problem Solving Leadership Teamwork
+POSITIONS OF RESPONSIBILITY
+PICT IEEE Student Branch (PISB) October 2021 { Ongoing
+Volunteer
+•As a senior team member of the club I co-ordinated and managed various activities including registerations,
+management and crowd handling
+•Engage with members both in-person and virtually, fostering meaningful conversations and connections.
+COURSES AND CERTIFICATIONS
+•Beginning C++ Programming - From Beginner to Beyond - Udemy
+•Mastering Data Structures Algorithms using C and C++ - Udemy
+•SQL Basics HackerRank

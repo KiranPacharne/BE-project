@@ -1,0 +1,28 @@
+Amrit Singh
+Makhan Purcharchan Deoli – Jammu, India
+♂¶obile-alt(+91) 9682188817 •/envel⌢peiamamrit19@example.com
+/linkedin-in/amrit-singh-365310204/ •/githubiAmritSingh
+Education
+Pune Institute of Computer Technology Pune, India
+B.E. Computer Engineering, CGPA: 9.03 (current) June 2020–July 2024
+Shiksha Niketan Hr. Sec. School Jammu, India
+HSC, Percentage: 94.2% May 2019–March 2020
+S.A.LE.G. r. Sec. School Bishnah, India
+SSC, Percentage: 98% May 2017–March 2018
+Projects
+Blogify :
+A full stack blog application allowing users to create, delete, and modify blogs. Users can also read,
+like, and comment on other blogs. The application features proper authentication using username
+and password.
+Developed using Node.js, React.js, MongoDB, and Express.js.
+Cake Shop :
+A database management system built to assist shop owners in keeping records of their orders. The
+system allows administrators to view and manage orders, including accepting and rejecting them.
+Developed using MongoDB, Express.js, JavaScript, and Bootstrap.
+Achievements
+Solved 200+ Data Structures and Algorithms problems on LeetCode and Geeksforgeeks.
+Skills
+Programming : Languages: C++, Python, Java
+Web Development : HTML, CSS, JavaScript,Mongodb,Express.js,Node.js,React.js
+Tools : Git, GitHub
+Languages : English (Fluent), Hindi (Fluent), Punjabi (Fluent)

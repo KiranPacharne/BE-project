@@ -1,0 +1,54 @@
+ARCHISHA MULMULAY 
+Pune, Maharashtra • archishamulmulay@gmail.com • 7038365865 • linkedin.com/in/Archisha Mulmulay 
+ 
+EDUCATION 
+ 
+Pune Institute of Computer Technology Pune, India 
+Bachelor of Engineering Feb 2023 
+ 
+Indira National School Pune, India 
+Class 10th May 2018 
+Indira National School Pune, India 
+Class 12th July 2020 
+PROJECTS 
+ 
+Security System (Smart Home Intercom) May 22 
+ Developed an android app that tracks and alerts about visitors at home/office. 
+ It has a functionality to send voice notes and messages to visitors and other family members. 
+ Different accounts can be linked to different devices in the family. 
+ Deep Convolutional Neural Network is used for detection of faces. 
+Traffic Management System (Pothole Detection) Dec 22 
+ Visualization of potholes by using images from pre-installed cameras. 
+ Digital image processing used for detection open manholes and potholes. 
+ Over speeding of vehicle is computed and can alert the driver regarding overspending. 
+ Predict the traffic at a particular traffic signal. 
+Asteroid Detection Aug 22 
+ Analyze the diameter of the asteroid with an AI algorithm .
+ Predict the impact of a particular asteroid if nearing to the earth’s surface. 
+ Visualize the orbit of a particular asteroid. 
+ Astrometrica software which focuses on the measurement of minor bodies in space. 
+Grading System for Customized Subjective Questions Apr 23 
+ Uses generative AI for grading a specific question. 
+ Various categories of questions with a particular weightage 
+ Grading scale is used to assign grades either on numerical scale or letter grading system. 
+ Generates meaningful reports and feedback. 
+ 
+TECHNICAL SKILLS 
+ 
+Language: Python, C++, SQL, HTML, Java, Mongo DB, JavaScript 
+Framework: Bootstrap (Basic) 
+Developer Tools: GitHub, VS Code, Visual Studio, PyCharm, Eclipse 
+Libraries: NumPy, pandas, Matplotlib 
+System: Windows, Linux 
+CERTIFICATIONS/VOLINTEER 
+ 
+Machine Learning: Introduction to Machine Learning and Datamining (Coursera) 
+Full Stack Development: Complete Full Stack Development (Skill Up) 
+Volunteered in Dataquest Organizing a contest revolving around Data Science and Machine Learning 
+ 
+HOBBIES AND INTREST 
+ 
+ Skating
+ Mandala Art 
+ Calligraphy 
+ Reading

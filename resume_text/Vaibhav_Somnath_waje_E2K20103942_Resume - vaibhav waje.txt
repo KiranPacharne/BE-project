@@ -1,0 +1,89 @@
+Vaibhav Waje
+•A|p shirur, Pune- 41220  7620827187  w aje v aibha v2002@gmail.c om
+Education
+PUNE INSTITUTE OF COM-
+PUTER TECHNOLOGY
+BE in Entc
+Jan2020‑2024 PUNE,INDIA
+•CGPA‑8.92
+BHARTIY A.J.S, W AGHOLI
+12th HSC
+MAY2020 PUNE,INDIA
+Passedwith86.0%INPCM
+VIDHY ADHAM PRASHALA,
+SHIKARAPUR
+10th SSC
+MAY2018 PUNE,INDIA
+Passedwith91.00PERCENTAGE
+Links
+CodeChef vsw123
+leetcode wajevaibhav2002
+CodingNinjas wajevaibhav2002
+CodeForces V_1234
+GitHubvaibhavswaje
+Linkedin vaibhavwaje
+geeksforgeeks geeksforgeeks
+Coursework
+GRADUA TE
+DataStructuresAndAlgorithms
+ObjectOrientedProgramming
+DatabaseManagementSystem
+OperatingSystem
+fundamentalsofjava
+ComputerNetworks
+NetworkSecurity
+Skills
+PROGRAMMING
+C/C++•HTML/CSS•REACT•
+MONGODB•JavaScript•SQL
+MISCELLANEOUS
+Git•Tailwind•MicrosoftOffice•
+Bootstrap•GitHub
+LANGUAGES
+•Marathi•Hindi•English
+Hobbies
+•Swimming•GamingProjects
+TINY URL:SHORTENING LONG URLS
+Github
+•Developeda full‑stack webapplicationusingthe MERN(MongoDB,
+Express.js,React,Node.js)stacktocreateaTinyURLserviceforshort‑
+eninglongURLs.
+•Implementeda user‑friendly front‑endusingReactandutilizedRe‑
+actRouterforseamlessnavigationand dynamicrendering ofcom‑
+ponents
+•UtilizedMongoDB asthedatabasetostoreandmanagethe mapping
+oforiginalURLstoshortenedURLs,ensuring dataintegrity andper‑
+formance .
+•Utilizedversioncontrol withGitandhostedtheprojectonplatforms
+like GitHub, demonstrating effective collaboration andcode man‑
+agement skills.
+E-COMMERCE WEBSITE:
+•TECH‑STACK ‑MongoDB,Express,React,Node.js.
+• Implemented user authentication, product catalog, shopping cart,
+order processing, and an admin panel for managing products and
+orders.
+•Implementedbestpracticesfordatasecurityand userauthentica‑
+tiontoprotectuserinformation.
+• Executed various features, such as a user‑friendly interface, a
+securepaymentsystem,andaratingand reviewsystem .
+NEWS-HUB : API BASED NEWS APPLICA TION
+Github
+•TECH‑STACK ‑API,REACTJS,JAVASCRIPT,BOOTSTRAP.
+•ImplementedaUser‑friendlyinterfaceforseamlessnewsbrowsing.
+•Real‑time updatesfromtheNewsAPItoensurethelatestnewsavail‑
+ability
+•Receivedpositiveuserfeedbackfortheapplication’sintuitivedesign
+andfast‑loadinginterface
+Certifications
+•OopsofC++(CodingNinjas)
+•Oopsofjava(CodingNinjas)
+•AMCATCertification
+Achievements
+•HighestRating 1671‑3staronCodechef.
+•Intop1.9%rankinMHT‑CET.
+•HighestRating 1227onCodeforces.
+•Intop1%rank,500+problems& 10BadgeonLeetcodePlatform.
+•Solved1000+ competitive programming and DSA problems on
+differentonlinejudges
+•FinishedatGloble Rank677 inSTART48D
+•SecuredatGloble Rank728 inJulyCook‑OffChallengeDiv3

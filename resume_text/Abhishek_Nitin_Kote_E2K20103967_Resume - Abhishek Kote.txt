@@ -1,0 +1,38 @@
+Abhishek KoteEmail: abhishekkote29@gmail.com
+LinkedIn: abhishek-kote
+GitHub: github.com/Abhi27122
+Education
+Pune Institute Of Computer T echnology Pune
+Electronics And T elecommunication Engineering cgpa:8.94 2020–Current
+Abhinav Education Society Akole
+HSC board(12th) Percentage: 72.77 2018–2020
+Agasti Vidyalaya Akole
+SSC board(10th) Percentage: 91.60 2013–2018
+Skills
+• Mobile App Development Flutter (Dart)
+• Game Development Love2D (Lua)
+• Database Management MySQL• Coding Proficiency C++, Java
+• Problem Solving
+Projects
+•CampusReads î
+Android app which allows people to buys or sell book/book set
+T echnology stack: Flutter,Firebase,OpenLibrary API
+Integrated features like Google Authentication,Firebase storage,Android native device features
+•Connect 4 î
+Developed a classic Connect 4 game using Love2D game engine.
+Implemented win condition checks and end-game detection for a seamless user experience.
+Ensured compatibility with multiple platforms, including Windows and macOS. Collaborated with a team of
+GamedevUtopia.
+Achievements and Certifications
+Achievements
+• Codechef 3 star coder
+• Solved more than 400 problems on various
+competative programming platformsCertifications
+• Mathematics for Machine Learning - Credential
+ID: 2256T A983BCW
+• Accelerated Computer Science F undamentals
+Specialization - Credential ID: QZXZASUPG8GN
+Extracurricular Activities/Interests
+Member at GameDevUtopia Club
+Chess -Chess.com rating of 1500+
+Competitive Programming

@@ -1,0 +1,89 @@
+NINAD KANCHAN  
+ninadkanchan572@gmail.com   | +91-885699778 0 | LinkedIn -Profile/Ninad  
+ 
+ 
+EDUCATION  
+PUNE  INSTITUTE  OF 
+COMPUTER  TECHNOLOGY  
+B.E IN COMPUTER  ENGINEERING  
+2020-2024 
+Pune,  India 
+CGPA  : 9.18/10  
+FERGUSSON COLLEGE  
+HIGHER SECONDARY EDUCATION  
+2018-2020 
+Pune,  India 
+Class XII Percentage  : 88.77 % 
+Bifocal Computer Science: 190/200  
+DR. CYRUS POONAWALA 
+ENGLISH MEDIUM SCHOOL  
+SECONDARY EDUCATION  
+2008-2018  
+Pune,  India 
+Class X Percentage  : 96% 
+SKILLS  
+Programming Languages:  
+Python  , C++  , SQL  , HTML  , CSS ,    
+PHP , Javascript   
+Libraries and Frameworks:  
+Pygame, Tkinter, PIL, Streamlit, 
+yfinance  
+Technical :  
+Data Structures & Algorithms  , 
+Object Oriented Programming  , 
+Problem Solving   , 
+DataBase Management  , 
+Git Hub & Version Control ,  
+Web Development  , 
+API Integration  
+Non Technical:  
+Teamwork  & Collabo ration, 
+Adaptability   , 
+Leadership & Decision Making  , 
+Communication  
+INTERESTS  
+AI/ML Applications  , 
+Emerging Technologies  , 
+Finance & Economics  , 
+Sports  & Fitness  PROJECTS  
+Stock Sentiment Analys is  {Github Link } 
+• Implemented a  Python -based web application using Streamlit  
+library  to analyze stock data and predict market sentiment based 
+on news . 
+• Utilized AlphaVantage API  to fetch historical stock data and 
+yfinance library  to gather technical stock data.  
+• Integrated NewsAPI.org to fetch real -time stock news for 
+sentiment analysis.  
+• The application provides users with insights into stock performance, 
+technical indicators, and sentiment analysis to aid in investment 
+decisions.  
+Expense Tracker Web Application   {Github Link } 
+• Tech Stack: HTML, CSS, PHP, MySQL, and XAMPP.  
+• Utilized MySQL database for storing and retrieving user expenses.  
+• Designed the user interface with HTML and CSS and performed 
+CRUD  operations using PHP.  
+• Deployed the application on XAMPP  for local hosting.  
+• Empowered users to effectively track, add, edit, and delete 
+expenses.  
+• Team Members -Abhishek Katke,Sakshi Bhavsar,Ruturaj 
+Patil  
+ 
+ACHIEVEMENTS  
+• Authored  and self -published a book titled "The New Normal: A 
+Guide To Thrive In Your 20's."  The book is available on 
+Amazon through Kindle Direct Publishing (KDP). Explores essential 
+life skills and strategies to navigate the challenges and 
+opportunities faced in one's 20's.  
+• Scored 99.786  percentile in MHT -CET exam with an All 
+Maharashtra Rank of 287. 
+• Secured 1st rank  in school in 10th grade and received the 
+Certificate of Merit from CBSE for being in the top 0.1  percent of 
+successful candidates.  
+• Achieved an All India Rank of 29307  in JEE -Advanced exam.  
+• Led the school football team as the captain, securing 1st place in 
+interschool tournaments.  
+ 
+CERTIFICATIONS  
+✓ SQL Basics by HackerRank  
+✓ Introduction to SQL by Simplilearn  
+✓ Python Essentials for Data Science   

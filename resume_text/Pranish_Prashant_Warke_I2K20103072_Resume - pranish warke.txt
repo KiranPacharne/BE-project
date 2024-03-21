@@ -1,0 +1,42 @@
+Pranish  Prashant  Warke  
+Pune, India  pranish2402@gmail.com  +91 9975245987  https://github.com/PranishW  
+Career  Objective : 
+To find a challenging job that will utilize all my technical knowledge  and expertise  
+while offering a position that allows me to efficiently utilize my capabilities  and skills  to grow  
+with organization.  
+Education : 
+ BE Information  Technology  | Pune Institute  of Computer  Technology  CGPA  9.0| (2024)  
+ XII (HSC) |  Maharashtra  College  of Science  & Commerce  87.23%  | (2020)  
+ X (SSC)  | New  India School  English  Medium  91.20%  | (2018)  
+Internship  Details : 
+Web Developer  Intern  | TechGigs  LLP  (Feb 23 – Mar 23) 
+ Developed  a Backend  Music  Player  API using  Django  REST  Framework.  
+ Worked  with TechGigs  Team  to integrate  backend  API to frontend  code  and 
+developed  a commercial  food delivery  website  using  ReactJS.  
+ 
+Skills : 
+Programming  Skills  C++, Python, JavaScript                                          
+Web Frameworks  HTML,  CSS,  ReactJS,  NodeJS,  Express,  Django  
+Database  Skills  MySQL,  MongoDB  
+Other  Skills  Git, GitHub,  Google App Engine  
+Projects : 
+ eRegistration  – Solo Project  Link – https://eregistration.netlify.app/  
+Exam  Form  Registration  Website  used to register for  an exam  and print  the hall ticket  
+for appearing  candidates.  
+Frameworks  Used – MongoDB,  Express, ReactJS,  NodeJS,  Tailwind  CSS 
+Deployment  Tools  – MongoDB  Atlas,  Cloudinary,  Netlify,  Render  
+ Health  Connector  – Team  Project  (5) 
+React  based  Web App which  provides  online  health  consultation  to patients.  
+Contribution  – BMI  Calculator  
+Frameworks  Used – ReactJS,  Bulma CSS , Material UI  
+Academic  Achievements : 
+ Completed  Web Development  Course  by Colt Steele  on Udemy  in 2022.  
+ JEE Advance d 2020  All India  Rank  (AIR)  – 13029  
+ Secured  10th Rank  from  Pune  in Maharashtra  Scholarship  Exam  and received  annual  
+scholarship  from  Maharashtra  State  Government  in Std IV. 
+Extracurricular  Activities : 
+Played  for Interschool  Cricket  Team  at Zilla Parishad Level  in Std VIII  and X. 
+Declaration : 
+“I hereby  declare  that all the details mentioned  above  are in accordance  with the truth  and fact 
+as per my knowledge and I hold the responsibility for the correctness of the above -mentioned  
+particulars.”  

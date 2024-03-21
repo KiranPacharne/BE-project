@@ -1,0 +1,80 @@
+Akash Reddy Kummeta 
+FOURTH YEAR STUDENT AT PICT 
+arkummeta@gmail.com 
+9766108808 
+Pune, India 
+AREAS OF
+INTEREST 
+Artiﬁcial inteligence 
+Machine Learning 
+Cloud Computing 
+Application Development 
+LANGUAGES 
+English 
+Native or Bilingual Proﬁciency 
+Hindi 
+Native or Bilingual Proﬁciency 
+Telugu 
+Native or Bilingual Proﬁciency 
+Sanskrit 
+Elementary Proﬁciency 
+Marathi 
+Professional Working Proﬁciency 
+UNIVERSITY EDUCATION 
+Study Program 
+Pune Institute of Computer Technology 
+06/2020 - Present
+, 
+ 
+Pune,Mahrastra,India 
+Information Technology (branch) 
+html/css 
+java/python 
+SQL/MongoDB 
+worked on projects 
+using ﬂutter and python libraries 
+app for grammatical meanings and
+translations (used kivy and kivyMD library
+python framework for ui development, used
+TEXT BLOB for processing textual data and
+NLTK for easy to use interface) 
+app for daily jobs similar concept to
+urbanclap (worked on ﬂutter for ui
+development and interacted with ﬁrebase
+for database) 
+INTERNSHIP 
+at Scalable Solutions Pvt. Ltd. 
+02/2023 - 04/2023
+, 
+ 
+Gained Experience in Microsoft
+Azure cloud 
+tools. 
+Hosting a web page using blob storage. 
+Creating a web app using azure web app
+service. 
+Methodology 
+Basics of Agile Software development methodology 
+Epics 
+User Stories 
+Sprint 
+Scrum Framework 
+Sprint Retrospective meetings 
+Daily Standup meetings 
+HUF India 
+MERN stack development 
+worked on front-end using react for
+moulding section of the factory 
+worked on back-end as well mongodb 
+EXTRA-CURRICULAR ACTIVITES 
+Involvement in clubs and college sports team. 
+PICT IEEE student branch(PISB) and Model United Nation(MUN) 
+participated in SIGs in PISB 
+worked in the technical department of MUN 
+INTER college football went to semi ﬁnals in two diﬀerent tournaments 
+Courses 
+description of projects 
+implementations in Microsoft Azure 
+overview 
+Courses 
+Achievements/Tasks 

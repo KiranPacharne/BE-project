@@ -1,0 +1,93 @@
+Akash Kalme
+ +91 8625862765  k almeak ash@gmail.c om  Ak ash K alme
+Education
+PUNEINSTITUTEOFCOMPUTER
+TECHNOLOGY
+B.E. Computer E ngineering
+2024 Pune
+AggregateCGPA:9.10
+PRAGNYA JUNIOR COLLEGE
+OF ARTS, COMMERCE AND
+SCIENCE
+Higher Seconda ry Certificate
+2019 Pune
+Percentage: 71.08
+CHRIST INTERNATIONAL
+SCHOOL
+Secondary School C ertificate
+2017 Latur
+CGPA:10
+Links
+GitHub
+Codechef
+ Leetcode
+Codeforces
+ GeeksForGeeks
+HackerRank
+ CodingNinjas
+Skills
+PROGRAMMING LANGUAGES
+C++•Python
+DEVELOPMENT
+HTML•CSS•JavaScript•Django
+DATABASES
+SQL•MongoDB
+PYTHON LIBRARIES
+Pandas•Numpy•Matplotlib•
+Scikit‑Learn•Seaborn
+OTHER
+MicrosoftOffice•Git•Canva
+LANGUAGES
+English•Hindi•Marathi
+Coursework
+•DataStructuresandAlgorithms
+•ObjectOrientedProgramming
+•OperatingSystems
+•DatabaseManagementSystems
+•DataScience
+Interests
+•Badminton,Cricket
+•TrekkingExperience
+MACHINE LEARNING AND DATA SCIENCE INTERN
+PHN Technology
+April2023–May2023 Pune
+•Conductedexploratory dataanalysisandvisualization togain
+insightsintothedataandidentifytrends.
+•WorkedwithvariousPythonlibrariessuchas Pandas,Numpy
+andMatplotlib tovisualizedatainabettermanner.
+Projects
+POOLCAR: CAR POOLING PLATFORM
+HTML • C SS • Dja ngo
+•Developed acarpoolingplatformusingHTML,CSS,andDjango
+toconnectdriversandpassengers travellinginthesame
+direction.
+•Implementeduser authentication,triplistingandjoinrides
+features.
+HOSPITAL RESOURCE MANAGEMENT SYSTEM
+HTML • C SS • Dja ngo
+•Builtadynamic websitethatactsasaHospitaldatabasethat
+storesthepatients’medicalrecords.
+•Thesystemempowers administrators withvitaldataforeach
+patientandcreatesapatient‑centricandsustainablehealthcare
+environment.
+DIABETES PREDICTION SYSTEM
+Python • Pandas • NumPy • Matplotlib • Scikit-Learn
+•Builtapredictionsystem predictsifapatientisdiabeticusing
+variousfeaturesofthedataset.
+•Madeuseofvarious Pythonlibraries forDataAnalysis,Data
+VisualisationandbuildingMachineLearningModels.
+Certifications
+•BeginningC++Programming‑FromBeginnertoBeyond
+(Udemy)
+•MasteringDataStructuresandAlgorithmsusingCandC++
+(Udemy)
+•TheComplete2023WebDevelopmentBootcamp (Udemy)
+Achievements
+•3Starcoder atCodechef( Max. Rating1704 )
+•SecuredGlobalRank353 among5000+participantsinthe
+CodechefStarters99(Div. 2)
+•SecuredGlobalRank291 among5000+participantsinthe
+CodechefStarters69(Div. 3)
+•PupilatCodeforces( Max. Rating1317 )
+•Solved400+ problemsonLeetcode( Max. Rating1696 )
+•5starinC++,PythonandSQLatHackerRank

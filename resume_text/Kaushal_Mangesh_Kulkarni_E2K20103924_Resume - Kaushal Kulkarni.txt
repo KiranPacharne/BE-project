@@ -1,0 +1,46 @@
+KAUSHAL KULKARNI
++91 7030818966 ⋄Pune, India
+k7kulkarni@gmail.com ⋄Linkedin ⋄GitHub
+EDUCATION
+Bachelor of Engineering: Electronics and Telecommunication ,
+SCTR’s Pune Institute of Computer Technology, Pune. ( 9.02 CGPA ) June 2020 - June 2024
+Junior College ,
+P Jog Jr. College of Science, Commerce and Arts, Pune. ( 84.7% ) June 2018 - March 2020
+Maharashtra Mandal English Medium School, Pune. ( 92.8% ) March 2018
+EXPERIENCE
+IIT Bombay April 2023 - Present
+Django Backend Developer Mumbai, India (Remote)
+•Working on Project UDAAN which enables the translation of entire textbooks of engineering and medical curriculum
+and learning materials, across English and all Indian languages.
+•Designed and currently developing a three-server integrated workflow which will improve server efficiency by 60%. ( Tech-
+nologies used: Django, Redis, Celery, JavaScript )
+Vasundhara Geo Technologies (Certificate) Sept 2022 - Nov 2022
+Computer Vision Intern Pune, India
+•Developed a classification model using Computer vision and deep learning algorithms for the Indian Navy.
+•Presented a functional prototype which helped the company complete sprints and advance the main project by 1 month.
+Competitive programming & Problem solving
+•CodeChef Rating: 1700+ (3 Star) (Link), Leetcode 270+ problems solved (Link)
+SKILLS
+Languages C/C++, Python, Java, JavaScript
+Technologies/Libraries/Tools Django, TensorFlow, ReactJS, C++ STL, GitHub
+PROJECTS
+Upselling and Cross-selling in Cloud based subscription model. (Machine learning, Django, Tensorflow )
+•Developed a platform that examines how users utilize the cloud features included in their current subscription plan and
+then recommend the best plan for them based on both their usage and the usage of users with similar interests.
+•The full analysis and resources saved after selecting the advised option are displayed on a profile dashboard.
+•Industry relevance of this project helped us achieve first place among 100+ teams from all over Maharashtra.
+Indian sign language detection tool. (OpenCV, Mediapipe (Holistic), Numpy, Keras )
+•A Machine Learning based project aiming to convert Indian sign language into text to help conversations with deaf and
+hard of hearing people.
+•The model recognized hand gestures and translated them to text with an accuracy of 92%.
+ACHIEVEMENTS AND EXTRA-CURRICULAR ACTIVITIES
+•Winner of Veritas UConnect hackathon 2023 among 100+ teams across Maharashtra.
+•Winner of Developer Hacks – 2021: Google Developer Student Clubs AISSMS among 50+ teams.
+•Achieved global rank 8 among 13k participants in CodeChef January Long 2022 - II.
+•Technical and design head at TEDxPICT. Guided a team of 30 juniors in developing and hosting the official website,
+managing designs of content posted on social media
+•Volunteer for PICT IEEE Student Branch.
+•Designed Coding Questions based on Data structures and Algorithms for the PISB(IEEE) Annual Techfest which included
+participation of engineering students from more than 30 colleges.
+•Content editor at Pictoreal (a non-technical club in PICT).
+•Worked as a point of contact for companies sponsoring PICT’s Annual event (InC).

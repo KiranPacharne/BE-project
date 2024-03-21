@@ -1,0 +1,45 @@
+BRINCY MATHEW ♂phone+91-8113014301
+Computer Engineering Student at Pune Institute /envel⌢pebrimathew294@gmail.com
+of Computer Technology (PICT) /githubhttps://github.com/brincy294
+/linkedinwww.linkedin.com/in/brincy-mathew
+Education
+•Pune Institute of Computer Technology 2020 – 2024
+B.E. Computer Engineering, CGPA: 9.33 Pune, Maharashtra
+•Chavara Public School 2018 – 2020
+Higher Secondary Education, 92.6% Pala, Kerala
+•Abu Dhabi Indian School 2018
+Secondary Education, 91% Abu Dhabi, UAE
+Experience
+•MERITO Intern April 2023
+Data Scraper
+–Used Python and BeautifulSoup to collect data from multiple websites, filtering it based on specific parameters.
+–Store the collected data for retrieval to be displayed to the user.
+•BISJHINTUS Intern Feb 2023 - April 2023
+Web Developer (https://skilltest.bisjhintus.com/index)
+–Developed a learning module system that enables teachers to create and manage batches, and assign assignments
+and exams to students.
+–Created the frontend of the website using HTML and CSS, while implementing the backend functionality using
+PHP, Laravel and MySQL.
+Projects
+•AIRLINE RESERVATION SYSTEM Oct 2022- Nov 2022
+Database Management System
+–Gives the user the information about the airlines.
+–Has databases for airlines, user information, reservation system, admin details and passenger details.
+–Done using python, flask and MySQL.
+•CREDIT CARD FRAUD DETECTION June 2022 –Aug 2022
+Machine Learning
+–Estimate the probabilities of a transaction being legit or fraud.
+–Used logistic regression to find the probabilities.
+–Computes a weighted sum of input features and bias and passes through a logistic function.
+–Done using python, sklearn and pandas.
+•SECOND HAND CAR PRICE ANALYSIS Feb 2022 –April 2022
+Web Scraping
+–Gives the user the cheapest and best option for buying a second-hand car based on their inputs.
+–Takes certain parameters and gives a list of the available cars as output in the form of a CSV file.
+–Done using python, selenium and BeautifulSoup.
+Technical Skills
+C++ •MySQL •HTML •CSS •MongoDB •Python •php •laravel
+Other experience
+•Overall Coordinator for ADDICTION’23 (PICT Annual Cultural Fest 2023)
+•Hosted a Panel interview as a part of College Club for PICT CSI Student Chapter
+•Volunteered for WiDS 2021 (Women in Data Science) Worldwide Conference by Stanford University

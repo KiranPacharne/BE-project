@@ -1,0 +1,39 @@
+Aditi Funde  
+’Gayatri B2 ‘Mitra Mandal Colony ‘Rajgurunagar  
+  +919860394049  aditifunde39@gmail.com    https://www.linkedin.com/in/aditi -funde -bb0a32247   
+Education  
+ 
+Pune  institue  of computer  Techonolgy    JUNE.  2020  – JUNE  2024  
+Bachelor  of Science  in Electronics  and Telecommunication  Pune,  Maharastra  
+ 
+Relevant  Coursework  
+ 
+• CPP •  OOP  •  Database  Management   
+Projects  
+ 
+Brain Tumor detection web app  | HTML,  CSS,   Python, Flask, Javascript      December   2022  
+• The problem statement is to develop a web application that can detect brain tumors in medical images  
+•  Creating a user -friendly web interface using Python Flask and Javascript.  
+• Here medical professionals can upload MRI images and receive predictions on whether  
+or not tumors are present  
+Solar Tracking System Using Aurdino | Hardware       June  2020  
+• The aim of project  is to utilize the maximum solar energy through solar panel.  
+• Solar tracker is an automatic control system that directs the absorber surface directly towards  
+ the sun.  
+• This project helps the solar power generating equipment to get the maxim um sunlight automatically their  
+ by increasing the  efficiency of the system.  
+• The solar panel tracks the sun from  east to west automatically for maximum intensity of light.  
+Smart Socket  | Html,  Css, React.js          April  2023  
+• To build a  smart Wi -Fi socket  that enables to  control AC loads wirelessly through a smartphone   
+• To identify and assess the advantages and disad vantages of using smart sockets.  
+•  Including their impact on energy efficiency, convenience,  and security.  
+Technical  Skills  
+ 
+Languages : CPP,  C, HTML/CSS,  SQL  
+Developer  Tools : VS Code,  Eclipse,  
+Frameworks : React.JS,Node.JS  
+Leadership  / Extracurricular  
+ 
+      Pune                          Present  
+• Participated in various Speech Competitions at school and college Level.  
+• Represented the school in Dance Competition at District level  

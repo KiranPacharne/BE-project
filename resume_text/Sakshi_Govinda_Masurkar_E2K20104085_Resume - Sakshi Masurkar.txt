@@ -1,0 +1,55 @@
++91  7710800325 sakshigmasurkar@gmail.com linkedin.com Sakshi23-08
+ABOUT ME I am a student at Pune Institute of Computer Technology, currently exploring Augmented Reality. A
+creative developer and Designer. A fast learner, hard worker and a team player who is proficient in an
+array of various technologies.
+PROJECTSFinal year student at Pune Institute of Computer TechnologySAKSHI MASURKAR
+SCTR's Pune Institue of
+Computer Technology
+Bachelor of Technology in
+Electronics and
+Telecommunication (CGPA of 9.62)EDUCATIONB.K. Birla College of Arts,
+Science and Commerce
+12 th Science - 2020
+ 89.08%St. Thomas High
+School
+X- 2018
+96.80%
+EXPERIENCE
+Technical Content Writer
+Conducting research and writing articles on technology based topics of about 1500 -2000 words. Metrixo Digital  June 2022 - August 2022Project Intern
+Developed ML based Project to assist the medical practitioners to predict the probability of tumor being
+malignant or benign. VOIS August 2022 - October 2022Software Product Development Intern
+Developed front-end functionality for ZD's sustainability engineering software product under TerrabluZapient Digital October 2022 - December 2022Technical Content Writer
+Finding examples for different OOPs concepts and explaining the approaches for this coding problemsRoboiotics June 2023 - Present
+ Web 3.0 Blockchain App- React Js, Html, Tailwind Css, Javascript, Metamask
+Using Web 3.0 methodologies, Solidity and Metamask I have built a real Web 3.0 Application where you can
+transfer ETH after installing Metamask.
+ The user will be able to transfer the ETH to any account and the web app will keep a track of   all the
+transactions and you just need to connect your account for this.
+ Code: https://github.com/Sakshi23-08/Krypt/tree/master
+Sushruta: An Assistance to medical professionals  - Python
+Developed a disease prediction system for predicting probability of breast cancer being benign or
+malignanat using Neural Networks
+Code: https://github.com/Sakshi23-08/ML_Breast_CancerDeveloped a puzzle game using 2D arrays in 'C' programming language.
+Helping students to learn basic mathematical operations while playing the game.KenKen Puzzle - C programming language
+Code : https://github.com/Sakshi23-08/KenKen_PuzzleDeveloped a project to experience the magic of augmented reality as virtual 3D characters come to life,
+projected onto image targets for interactive encounters.ARPersonaCast: AR character projection-Unity
+POSITIONS OF
+RESPONSIBILITYPICT FOSS CLUB
+Technical Training HeadPICTOREAL - Magzine Club
+Core team memberGOOGLE DEVELOPER STUDENT CLUB
+Design Head
+CODING
+HANDLESLeetCode Codestudio
+sakshi2308 Sakshi2308sakshigmasurkar
+ ACHIEVEMENTSDepartment topper at PICT for the year 2022-2023
+Got selected in top 40 teams among 500+ teams in Innovation Marathon organized by VOISSKILLS C/C++
+Java
+MySQL
+Basics of UnityHTML, CSS
+Bootstrap
+React Js
+DjangoDatabase Management System
+Operating Systems
+Docker
+Problem Solving

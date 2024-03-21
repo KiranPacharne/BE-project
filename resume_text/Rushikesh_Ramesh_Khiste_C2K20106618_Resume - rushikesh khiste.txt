@@ -1,0 +1,53 @@
+Rushikesh  Khiste  
+ 
+Solapur,  MH,  India  | rushikeshkhiste2002@gmail.com  | 
+Ph. 9359534938  
+ 
+ 
+EDUCATION  
+PUNE  INSTITUTE  OF COMPUTER  TECHNOLOGY  – Pune  2020  - 2024  
+Bachelor  of Engineering,  Computer Engineering   
+Cumulative  GPA:  9.5/10   
+KARMVEER  BHAURAO  PATIL  MAHAVIDYALAYA - Pandharpur.  2018  - 2020  
+Higher Secondary 
+(12th)  Percentage:  
+93.23%   
+ 
+PROJECTS  
+ 
+1. Algorithm  Visualizer  
+● Visualization  of different  algorithms  like sorting,  searching  etc. The basic code is written in JavaScript 
+and is visualized using CSS. The website also contains some famous problems like n -queens and path 
+finder problem.  
+● Technology  used:  HTML,  CSS,  JavaScript . 
+2. Hostel -Mess Finder  
+● It is a user -friendly and innovative web platform designed to simplify the lives of hostel residents by  
+providing an efficient and hassle -free way to locate and explore hostel mess options.  
+● Key features of this Platform: -User Reviews and Ratings, Real -Time Updates, Mobile -Friendly.  
+● Technology us ed: HTML, CSS, JavaScript, NodeJ S, EJS, MySQL . 
+ 
+3. Student Registration  
+ Developed a robust Student Registration System using Node.js, Express, Handlebars (HBS), and 
+MongoDB.  
+ Implemented essential functionalities, including user login and registration with aut hentication for 
+secure access. Collecting user response in database.  
+ Technology used: HTML,  CSS,  Bootstrap , Nodejs,  handle bars, MongoDB.  
+ACHIEVEMENTS  
+ 
+ 
+● Solved  around  500+ problems  across  different  coding  platforms.  
+● Participated  in more  than  50 contests  – Ranked  216 globally  in code chef  starters  28 
+ 
+SKILLS  
+ 
+● Programming  - Problem  Solving, Data  Structures,  Algorithms  
+● Languages  - C++,  JavaScript,  SQL 
+● Application  Development  - HTML,  CSS,  NodeJS,  Express JS, MongoDB  
+● CS Fundamentals  - Object -Oriented  Programming  (C++),  Database  Management  System,  OS, 
+Computer  Networks  
+ 
+NON -TECH  (HOBBIES)  
+ 
+ 
+● Travelling  and Trekking  
+● Playing  sports  like cricket,  kabaddi  etc. 

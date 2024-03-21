@@ -1,0 +1,120 @@
+ROHAN DOSHI
+Final Year Student at Pune Institute of Computer Technology
+/envel⌢perohan.doshi02gmail.com ♂phone(+91) 9325712554 /linkedinlinkedin.com/rohan-doshi21 /githubgithub.com/RohanDoshi21
+EXPERIENCE
+Software Engineering Intern
+Tracelink Ὄ5June 2023 - July 2023
+•Optimized overhead time required by SageMaker , by
+splitting scripts and invoking Lambdas for parallel processing
+on smaller chunks.
+•Architected performance dashboard backend to use an
+in-memory cache, Redis , instead of fetching report ﬁles from
+S3every time.
+•Selenium UI automation, using Page Object Model (POM)
+pattern for Opus platform, using TestNG andJava.
+Project Intern
+NICE Systems Ltd Ὄ5January 2023 - May 2023
+•Developed a knowledge retention forum for asking product
+and domain-related queries for internal use.
+•Secured ’1st’ Position in the project competition
+•Integrated ElasticCache to enhance user and text search
+performance for questions and answers.
+•Implemented Role-Based Access Control (RBAC) for secure
+route management in the API, and employed Rate Limiting
+techniques to prevent resource abuse.
+•Utilized AWS S3 buckets for eﬃcient storage and retrieval of
+images.
+Flutter Developer Intern
+Azodha Systems Pvt Ltd Ὄ5November 2022 – May 2023
+•Implemented the BLOC pattern for state management and
+adopted Clean Architecture principles in the development of
+thePractice Journal project.
+•Incorporated dependency injection and wrote unit tests for
+network components to ensure robustness and
+maintainability .
+•Integrated support for the VendorModel in the Bluetooth
+Mesh library, enabling Protocol Buﬀer andESP-32
+compatibility. Leveraged Event Channels andMethod
+Channels inFlutter to facilitate communication.
+•Segregated the Data Layer from the Business Logic using
+Node.js (TypeScript ) and Mongoose (MongoDb ), enhancing
+scalability andmaintainability .
+•Actively contributed to the development of the Golain
+Flutter SDK and created a Sample Consumer App , playing a
+crucial role in system design and implementation.
+•Utilized protocol buﬀers for eﬃcient data serialization ,
+enabling seamless communication with ESPdevices over
+Wi-Fi orBLE-Mesh networks.EDUCATION
+B.E in Computer Engineering
+Pune Institute of Computer Technology
+Ὄ5July 2020 – Present CGPA:9.43
+Class XII
+Dr. Kalmadi Shamarao Junior College
+Ὄ5June 2020 93.54%
+Class X
+Dr. Kalmadi Shamarao High School
+Ὄ5June 2018 90.20%
+SKILLS
+Flutter NodeJs Django C++
+Linux Docker Java Javascript
+Firebase Azure SQL MongoDb
+Git/Github React Solidity
+ORGANIZATION
+•GDSC Cloud ∖DevOps Head : Took SIGs
+on diﬀerent GCP functionalities, Linux
+fundamentals, & Git/Github
+•PASC Android and Web Team :
+Contributed towards development of
+platforms of Pulzion’23 ( EMS, App,
+Crypto Server ). Took SIGs on Flutter
+and trained a team of 12 people.
+•PISB Android Team : Leaded Flutter App
+Development during Credenz 21-22.
+COURSEWORK
+•Distributed Systems
+•Computer Networks
+•Data Structures and Algorithms
+•Operating Systems
+•Database Management SystemsPROJECTS
+Pulzion ’22 & ’23 WebApp [Deployment]
+Flutter | Node.js | PostgreSQL Ὄ5February 2022 – April 2023
+•Developed a sophisticated event management application, Pulzion ’22 & ’23, oﬀering comprehensive features
+such as event booking and slot booking, interactive quizzes, and detailed event exploration.
+•Demonstrated exceptional results with 3000+ overall registrations and 400+ PlayStore downloads, reﬂecting
+the widespread adoption and positive user reception.
+•Implemented advanced state management techniques utilizing both Provider andBloc patterns, resulting in a
+highly eﬃcient and maintainable codebase.
+•Seamlessly integrated FCM (Firebase Cloud Messaging) for real-time user engagement, leveraging
+personalized notiﬁcations and reminders for registered participants.
+•Employed cutting-edge Dependency Injection techniques to optimize the performance and scalability of Bloc
+components.
+•Facilitated secure and hassle-free payment transactions by integrating the RazorPay gateway into the
+application.
+•Ensured robustness and eﬃciency by employing the MVC pattern and utilizing raw SQL queries to interact
+with the PostgreSQL database.
+Cloud Accounting [Source Code]
+Flutter | Node.js | Firebase | PostgreSQL Ὄ5September 2021 – May 2023
+•Developed a professional application catering to the needs of Chartered Accountants for eﬃcient client
+management and streamlined ﬁnancial data handling.
+•Implemented the utilization of Firebase as a powerful Backend-as-a-Service (BaaS) platform, employing
+OAuth2 Google Sign-In Authorization to ensure robust user authentication and data security.
+•Incorporated secure ﬁle storage, chat functionality, document storage, and appointment booking features by
+eﬀectively integrating various APIs and cloud storage services.
+•Employed the Repository Pattern in Node.js to create resilient APIs, leveraging TypeScript andPrisma
+(PostgreSQL) for seamless data management and improved performance.
+•Integrated web sockets to facilitate real-time chat , enabling seamless communication between users.
+Pitch N Fund [Deployment] [Source Code]
+NodeJs | MongoDb | Flutter | React | Azure Ὄ5February 2022 – May 2022
+•Developed a dynamic platform connecting Entrepreneurs to Angel Investors forseed funding .
+•Utilized ML APIs to intelligently categorize startups and their products .
+•Authorization implemented using JWT Token
+•Pioneered a prototype coin system , allowing users to invest and gain percent shares according to the oﬀerings
+by the startups.
+•Built with React, Flutter , and Node.js Express integrating MongoDB .
+•Development proceeded with Dockerizing andAzure VM Deployment
+ACHIEVEMENTS
+•Winner at Nice Systems Ltd Project Competition
+•Runner up PICT v/s VIIT Development Battle (Hackathon) /gl⌢be
+•Runner Up "Hackspiration" Hackathon conducted by MLSC, VIT
+•Contributed towards development of 4 apps on the Play Store /gl⌢be
+•Paper Publication: "Blockchain based solution design for Energy Exchange Platform" /gl⌢be

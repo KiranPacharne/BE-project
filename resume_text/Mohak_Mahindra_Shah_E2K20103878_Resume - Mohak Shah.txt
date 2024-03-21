@@ -1,0 +1,50 @@
+Mohak Shah
+♂phone+91 9370025938 /envel⌢peshahmohak2311@gmail.com /linkedinlinkedin.com/in/mohak-shah
+Summary
+Elementary Engineering student with an analytical mindset eager to apply strong Technical and Non-technical skills
+to optimize solutions in Software, Web-Development, Data Structures, and Analytics juggling my interests in
+Finance, Business, Communication, and Teamwork. Highly stimulated to learn and stay updated looking forward to
+working in a challenging position in an organization to put my skills to the test and utilize them to the fullest.
+Education
+SCTR’S Pune Institute of Computer Technology August 2020 - June 2024
+Bachelor of Engineering in Electronics and Telecommunications (CGPA of 8.89) Pune, Maharashtra
+Chhatrapati Shahu Academy June 2020
+Higher Secondary education (Percentage: 87.08 ) Satara, Maharashtra
+Nirmala Convent High School March 2018
+Secondary education (Percentage: 97 ) Satara, Maharashtra
+Experience
+AlgoAnalytics Pvt Ltd. August 23
+Data Scientist Intern Pune, India
+•Utilized YOLOv5 model for football player detection, enhancing accuracy in tracking player movement and interactions
+across various conditions.
+•Leveraged real-time insights to provide coaches and broadcasters with instant tactical analysis during live matches,
+contributing to improved team strategies and engaging viewer experiences
+kAitchens March 2023 – May 2023
+Django Development Intern Pune, India
+•Utilized Python, and Django to design server applications and client interfaces and Evaluated development standards and
+procedures of engineering processes.
+Projects
+Query based Transcript Summary |Python, PyTorch, openCV |Ongoing 4
+•Deep learning-based natural language processing (NLP) model to extract the transcript from any Educational video.
+•Based on the Query submitted by the input, using the K Nearest Neighbours Algorithm and clustering in unsupervised
+learning, provide the Time Stamp of occurrence of that particular query and a brief summary.
+Helix Deliveries: E-commerce website for Local Shops: |Django, MySQL, Bootstrap | 4
+•An E-Commerce Website interface which will allow the local vendors to register themselves on the platform and list their
+products and grow their business
+•The consumers can register themselves and buy their favorite local products enlisted providing them with variety.
+College Interaction system: |Django,SQLite, REST | 4
+•An user interactive website designed for interlinkage between students and teachers.
+•Features included attendance, marks, and timetable, using Django for back-end and SQLite.
+Achievements
+•Highest rating of 1735 and rated 3*at CodeChef which ranks among the top sites for Competetive Programming.
+•Solved more than 400+ problems across platforms.
+•Winner of Inter college debate Competition
+•Runner-up of Enigma a quiz-based event hosted by IEEE chapter of college.
+Technical Skills
+Languages : C++, Python, Java, HTML/CSS, JavaScript, SQL
+Technologies/Frameworks/Libraries : Django, PyTorch, Numpy, Pandas, YOLOv5
+Tools : GIT, PowerBI(Basic), mySQL
+Activities and Leadership
+•Event Head and member of Question Setting committee of IEEE chapter of college
+•Held a Boot-Camp for juniors on Introduction to Python
+•Marketing and Content Head at Computer Society of India chapter of college

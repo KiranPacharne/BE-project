@@ -1,0 +1,43 @@
+Akshay Bachkar
+Roll No.: 41207
+Branch: Computer Engineering
+Bachelor of Engineering
+Pune Institute Of Computer Technology, Pune♂phone+91-9860767195
+/envel⌢peakshaybachkar06@gmail.com
+/githubGitHub Profile
+/linkedinLinkedIn Profile
+Education
+•Pune Institue of Computer Technology, Pune 2024
+Bachelor Of Engineering, Computer Engineering CGPA/Percentage: 8.878
+•Vidya Mandir College 2020
+State Board, Maharastra CGPA/Percentage: 85.06
+•Vidya Mandir School 2018
+State Board, Maharastra CGPA/Percentage: 95.20
+Technical Skills
+Languages : C++, python, javaScript
+Coursework : Object Oriented Programming, Database Management Systems, Operating Systems, Data Structures
+and Algorithms
+Developer Tools : Git, Github, VS Code
+Frameworks : Understanding of React js, Express js, Node js frameworks
+Databases : MySQL, MongoDB
+Soft Skills : Punctual, Hardworking
+Projects
+•Weather Web-app 2021, sep
+An application to provide current weather condition of particular place.
+–Tools & technologies used: HTML, CSS, Express js, Node js
+–fetches the data from a weather API and provides weather information of searched place.
+•Real Time Chat Application 2022, Oct
+A real time messaging app which supports both one to one and group chats.
+–Tools & technologies used: React js, Express js, MongoDB, Node js
+–includes features like create chat, add users, delete users, search users, etc.
+•SMS spam detection 2023, feb
+An Application which detects if a SMS or mail is spam or not.
+–Tools & technologies used: python libraries, pandas, numpy, sklearn, nltk, etc.
+–model predicts the category of the data. It’s using multinomialNB classifier for prediction
+Courses
+•Complete Web Development Bootcamp by Angela Yu
+•OOP and Data Structure Course by PICT
+•TCS ION Young Professionals Course
+Hobbies
+•Learning about stock marketing
+•Listening to music

@@ -1,0 +1,76 @@
+ 
+SARVESH  
+CHAKRADEO  PUNE   
+9545244091    
+sarveshchakradeo8@gmail.com    
+   
+   
+ OBJECTIVE  
+A highly motivated and dedicated computer engineering student aiming to implement 
+technical and management skills in a professional environment and learn from 
+industry -leading professionals.  
+ EDUCATION  
+Bachelor of Engineer (Computer Engineering)  | Pune Institute of 
+Computer Technology (PICT)  
+2020 – 2024  
+ 
+Exam  Name of Institute  Board  Marks 
+Obtained  Year of 
+Passing  
+SE PICT  SPPU  8.2 (CGPA)  2022  
+FE PICT  SPPU  9.66 (CGPA)  2021  
+XIIth SP College  HSC 87.08%  2020  
+Xth Jnana Prabodhini Prashala  CBSE  94.8%  2018  
+ 
+ 
+ INTERNSHIPS  
+Software Intern  | Prismatic Software  
+February  2023 – Present  
+Projec t Name : Automation using Selenium  
+Automated the process of API testing with multiple test cases using Selen ium Web 
+Driver for Chrome. This also included retrieving data for test cases from csv files.  
+ 
+Business and Marketing Lead  | Tejomay a Yuvak Prabodhan Udyog  
+August 2021 – November 2021  
+Working at Tejomaya Solar Products, an initiative by Yuvak Prabodhan Udyog, tasked 
+with market analysis for startup venture and survey and making business projections 
+accordingly. Implemented innovative marketing strategies resulting in a business 
+volume o f 4.5 lakh Rupees with 15% profitability.  Was involved in budgeting, finance 
+management, order management, logistics and P&L management.  2  
+ 
+ SKILLS  
+Programming: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL , C++  
+Data Visualization: Excel, Google Sheets, Tableau, Power BI  
+Other: Leadership,  Problem – Solving , Critical thinking, Efficient communication , 
+Research Oriented Approach  
+ 
+CO-CURRICULAR PR OJECT S: 
+Database Connectivity:  
+A flight booking system using python, flask with MySQL connectivity. The project had 
+multiple html pages and user,  admin login.  
+ 
+ Python Web Scraping:  
+ Automate d the scraping of data from a website selling secondhand cars, using python       
+ libraries like selenium, pandas and NumPy.  The results from above were published in a    
+ csv file and analysis was performed.  
+      
+ Forage Data Visualization  Internship:  
+ Explored various data analysis and visualization techniques using basics of   
+ PowerBi.  
+ 
+ EXTRA CURRICULAR PROJECTS:  
+  Volunteering at Jnana Prabodhini:  
+  Worked as a part of planning and organizing team for various activities such as   
+  Ganpati Pathak, volunteer work  in remote villages  related to watershed               
+  management , team b uilding and  leadership activitie s through sports, entrepreneurial  
+  skill development for social cause.  
+     
+  Research  Project:  
+  Title : To study the phenomenon of color fading on different materials due to various        
+  components.   
+ The project includ ed: 
+• All stages of research like abstraction, literature  
+  survey, gathering data using scientific techniques  to calculate the color fading . 
+•   Data analysis to obtain useful inferences.   
+ 
+ 

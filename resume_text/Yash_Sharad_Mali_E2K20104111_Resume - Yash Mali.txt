@@ -1,0 +1,38 @@
+YASH MALI
++91 9319809833 ⋄yashsharadmali@gmail.com
+Linkedin ⋄GitHub ⋄WebPortfolio
+EDUCATION
+Pune Institute of Computer Technology Pune, IN (2020–2024)
+– Bachelor of Engineering (Electronics and Telecommunications Engineering)
+– Cummulative Average: 8.6 CGPA
+Euro International School Gurgaon, IN (August 2020)
+Class XII
+– Central Board of Secondary Education
+– Percentage: 92.8
+SKILLS
+Languages C++, HTML/CSS, Javascript
+Technologies/Framework ReactJS, NodeJS, Express
+Database MySQL, MongoDB
+PROJECTS
+Credenz’23
+Tech Stack: ReactJS – https://credenz.in
+– Developed and managed the main website for the IEEE annual tech fest ”Credenz”.
+– Created and implemented a dynamic event pass store-front featuring sub-panels for individual events, resulting
+in a 25% increase in ticket sales and a 20% boost in overall event revenue.
+– Implemented API Context for state management, optimizing data flow and improving overall application per-
+formance by reducing load times by 40% and eliminating data inconsistencies.
+– Developed and implemented a robust user authentication system, enhancing security and reducing unauthorized
+access incidents.
+Project Management Web App
+Tech Stack: ReactJS, Firebase – https://project-management-29080.web.app
+– Application that allows users to manage and collaborate on various projects
+– Allow users to create new projects and set details like project name, description, and due date.
+– Key features: User Authentication, Real-time Collaboration, Task Management, Project Dashboard, File Stor-
+age, Error Handling and Validation, Security Measures
+ACHIEVEMENTS
+– Developed and deployed a landing page for a client.
+– Awarded as Mr Euro for overall performance in Senior Secondary School.
+POSITION OF RESPONSIBILITY
+Web Master - PICT IEEE Student Branch
+– Taught a group of 100+ juniors about Web Development
+– Emphasize the practical application of Git through exercises and projects.

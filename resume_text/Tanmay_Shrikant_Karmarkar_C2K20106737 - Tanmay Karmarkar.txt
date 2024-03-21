@@ -1,0 +1,87 @@
+TANMAY KARMARKAR
+Pre-ﬁnal Year Student at Pune Institute of Computer Technology
+tanmaykarmarkar49@gmail.com /ne(+91) 8007946267 /♀nednlinkedin.com/in/TanmayKarmarkar
+/gtbgithub.com/Tanmay49
+EDUCATION
+B.E in Computer Engineering
+Pune Institute of Computer Technology
+ὌJuly 2020 – Present CGPA:9.40
+Class XII
+Rao Junior College
+ὌJune 2020 87.54%
+Class X
+Abhinava Vidyalaya English Medium
+High School
+ὌJune 2018 90.20%
+SKILLS
+Flutter NodeJs C++ Python
+Linux Docker Javascript
+Firebase SQL MongoDb
+Git/Github React Angular
+Solidity Git/Github Golang
+ORGANIZATION
+•PASC Web Team : Contributed
+towards development of platforms of
+Pulzion’22 (EMS).
+•PASC Fandom Team : Contributed
+towards organizing Fandom in
+Pulzion’22.
+COURSEWORK
+•Distributed Systems
+•Computer Networks
+•Data Structures and Algorithms
+•Operating Systems
+•Database Management SystemsEXPERIENCE
+Technology Intern-BA3
+Barclays ὌJune 2023 - Ongoing
+•Full stack development in Node.js andAngular .
+•DevOps in AWS , writing CloudFormation scripts for
+automation.
+•Created Lambda functions for process optimization.
+•Facilitated transition from CCA toCSM .
+•Developed Chef recipes for conﬁguration management.
+Software Development Intern
+FinLegal Business Solutions Private Ltd
+ὌMarch 2023 – June 2023
+•Backend Developer in Golang and Database designer in
+Postgres , contributing to the development of robust and
+eﬃcient APIs for Golain aXaaS for IOT devices.
+•Designed and implemented production-ready ,resilient APIs,
+accessible via both mobile and web platforms.
+•End-to-end implementation of a shift from Casbin (RBAC) to
+OpenFGA ReBAC , signiﬁcantly improving access control
+capabilities.
+•Successfully integrated a ReBAC (Relationship-Based Access
+Control) system using OpenFGA , aGoogle Zanzibar
+implementation, to enhance access control capabilities.
+•Leveraged Timescale DB for eﬃcient data storage and
+management.
+ACHIEVEMENTS
+•Runner Up "Hackspiration" Hackathon conducted by MLSC,
+VIT
+•Paper Publication: "Blockchain based solution design for
+Energy Exchange Platform" ὑ7PROJECTS
+Cloud Accounting [Source Code]
+Flutter | Node.js | Firebase ὌSeptember 2022 – May 2023
+•Developed a professional application catering to the needs of
+Chartered Accountants for eﬃcient client management and
+streamlined ﬁnancial data handling.
+•Implemented the utilization of Firebase as a powerful
+Backend-as-a-Service (BaaS) platform, employing OAuth2
+Google Sign-In Authorization to ensure robust user
+authentication and data security.
+•Incorporated secure ﬁle storage, chat functionality, document
+storage, and appointment booking features by eﬀectively
+integrating various APIs and cloud storage services.
+•Employed the Repository Pattern in Node.js to create resilient
+APIs, leveraging TypeScript andPrisma (PostgreSQL) for
+seamless data management and improved performance.
+•Integrated web sockets to facilitate real-time chat , enabling
+seamless communication between users.
+Scoop [Sorce Code]
+Flutter | Firebase ὌMay 2022 – Jun 2022
+•A mobile application developed to make college life easier for
+students. It holds the digital identiﬁcation card of the student
+which can be used to gain access to various college facilities.
+Has a tab which displays all the upcoming competitive coding
+contests which the student can add to his personal calendar.

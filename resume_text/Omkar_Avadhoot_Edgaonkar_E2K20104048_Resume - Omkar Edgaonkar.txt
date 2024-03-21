@@ -1,0 +1,59 @@
+Omkar Edgaonkar
+Personal
+InformationUndergraduate, E-mail :omkaredgaonkar@gmail.com
+Department of Electronics & Telecommunications Engineering Mobile :(+91)-8483957449
+Pune Institute of Computer Technology(PICT), India LinkedIn Portfolio Github
+EducationYear Degree Institute/School GPA/%
+2024 B.Eng., Electronics & Telecommu-
+nication EngineeringPune Institute of Computer Tech-
+nology(PICT)9.14*/10.0
+2020 Higher Secondary(HSE) Maharashtra Vidyalaya,Pune 79.23 %
+2018 Secondary (SSE) New English School,Ramanbaug 94.6 %
+*At the end of 5th semester
+Broad Areas of Interests: System Design, NLP, Machine Learning, Deep Learning, GANs
+Internships Summer Intern at Siemens Industry Software Pvt. Ltd. (Jun ’23 - Jul ’23)
+•Worked as a Summer Intern at the Mendix subdivision, contributing to the development
+and testing of a new application using the Mendix low-code application development platform,
+fostering its innovation and usability.
+•Collaborated with the Mendix team in diagnosing and resolving software issues, playing an inte-
+gral role in ensuring the quality and reliability of the application.
+•Conducted in-depth research and analysis to solve the underlying automation problem .
+Computer Vision Intern at Vasundharaa Geo Technologies Pvt. Ltd. (Sep ’22 - Oct ’22)
+•Spearheaded an image processing project to extract precise map outlines from paper maps
+using advanced computer vision techniques , streamlining the digitization process and im-
+proving accuracy.
+•Additionally, I worked simultaneously on employing GANs to enhance the resolution of satellite
+images for improved visual quality.
+Deep Learning Research Intern at Pucho Digital Health Inc. (Mar ’22 - Apr ’22)
+•Researched about Federated Learning setting with Homomorphic Encryption andDiffer-
+ential Privacy .
+•Explored applications of federated learning like Secure Neuroimaging Analysis, Cryptonets
+andVocal Biomarkers .
+•Implemented FL on MNIST dataset using TensorFlow Federated library.
+Projects
+UndertakenVisitor Profiling System Hosted App Github
+•Utilized client’s IP addresses to approximate visitor’s location , providing valuable insights
+into geographical distribution and preferences.
+•Implemented IP-based location approximation using third-party APIs and used database to
+enrich the visitor profiling data.
+YouTube Playlist Length Calculator Hosted App Github
+•Developed this application to calculate total duration of a YouTube playlist.
+•Implemented a parsing algorithm to extract video URLs and their durations from YouTube
+playlists.
+•This web app uses Flask backend withYouTube Data V3 API .
+Positions of
+ResponsibilityMember, PICT ACM Student Chapter (Feb ’21 – Present)
+•Coordinated new event like ’Human vs AI’ for the annual flagship event ’Pulzion’ & lead the
+collaboration efforts for 2 intra college clubs .
+•Was part of teams which curated datasets for the event ’Dataquest’ - a data science hackathon
+& aptitude questions for the aptitude event ’Dextrous’.
+Member, PICT ROBOTICS (Jul ’21 – Present )
+•Part of the team which lead collaboration effort between PICT IEEE Student Branch &
+PICT Robotics .
+Technical
+SkillsProgramming Languages -C, C++, Python, Javascript, L ATEX
+Data Science & ML -Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Tensorflow,
+Pytorch
+Web Development -HTML, CSS, Bootstrap, jQuery, Javascript, Node.js, Express.js,
+Flask, SQL, SQLAlchemy, MongoDB
+Tools/Platforms -Git,Heroku,Linux

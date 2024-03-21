@@ -1,0 +1,46 @@
+SOHAM RAKTAWAN
+9699606399 •sohamraktawan@gmail.com •linkedin.com/in/sohamraktawan •github.com/sohamraktawan
+EDUCATION
+B.E, Computer Engineering Graduating June 2024
+Pune Institute of Computer Technology, Pune 8.75 CGPA
+WORK EXPERIENCE
+TCS Research & Innovation Lab - CTO Group (TRDDC) June 2023 – Present
+Research & Development Intern
+• Worked on Natural Language Processing for an efficient Java chatbot application for UML Model based system
+• Implemented Intent Recognition andSemantic Analysis using models of OpenNLP in Java
+Kylo Apps July 2021 - Sept 2021
+Backend Developer Intern - Internship Certificate
+• Successfully Integrated third-party Blockchain Wallet service - Tatum using REST APIs created in NodeJS
+• Delivered blockchain capabilities ( Crypto asset transactions, Custom Tokens, live price display , etc.) by
+utilizing Tatum ’s third party service
+Apps Deployer Aug 2021 - Oct 2021
+Full Stack Developer Intern - Internship Certificate
+• Developed engaging CRM web applications , utilizing ReactJS andNodeJS
+• Implemented backend infrastructure, combining SendGrid ,Stripe gateway, and Socket.io seamlessly with NodeJS ,
+MongoDB , and SQL, to deliver superior, high-quality functionality
+Freelance Feb 2022 - April 2022
+Web Developer
+• Crafted responsive, visually captivating commercial startup website UI, ensuring optimal user experiences
+• Successfully implemented intricate UI designs , taking charge of website maintenance
+PERSONAL PROJECTS
+Blog Web Application for Creative Quotes - Postsome
+• Tech Stack : ReactJS, NodeJS, MongoDB, ExpressJS
+• Web-app with sleek UI that enables users to share their ideas, respond to them, and browse trending posts.
+•Fully responsive ,real-time CRUD application with a sophisticated database design and dynamic popularity-
+based post ranking , equipped with JWT Authentication .Project Link : github.com/sohamraktawan/Postsome
+Task Tracker - Productivity Application
+• Tech Stack : ReactJS, NodeJS, MongoDB, ExpressJS
+• Productivity webapp where users can effectively prioritize and schedule tasks, with a minimalistic UI
+•Fully Responsive UI andpriority-based task sorting .Project Link : github.com/sohamraktawan/TaskTracker
+TECHNICAL SKILLS
+Programming Languages: C++ , Java , JavaScript , Python
+Web & Backend Development: ReactJS , NodeJS, NextJS , HTML , Tailwind CSS , Bootstrap
+Database & Backend: SQL , MongoDB , REST APIs , Socket.io
+Natural Language Processing: Text Analytics , Semantic Analysis , OpenNLP
+Developer Tools: Git Version Control , PostMan , Netlify , Heroku
+CERTIFICATES & ACHIEVMENTS
+• Solved 400+ advanced algorithmic problems in contests on Codeforces andLeetCode
+• Intop 1.5% in JEE Advanced 2020 among 9 Lakh students
+•AWS Internship Program and AWS Course Certification at VERZEO -Course Certificate &Internship Certificate
+• Foreign Language : JLPT Japanese N5 LEVEL Certification (07/2022)
+• Participated in various District Level Cricket Tournaments

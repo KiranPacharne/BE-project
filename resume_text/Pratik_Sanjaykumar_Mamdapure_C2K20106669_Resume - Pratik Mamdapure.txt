@@ -1,0 +1,41 @@
+Pratik Mamdapure Email : pratikmamdapure@gmail.com
+LinkedIn: https://www.linkedin.com/in/pratik-mamdapure-274a01214/ Mobile : +91 7767930927
+GitHub: https://github.com/Pratikmamdapure
+Education
+•Pune Institute of Computer Technology, Pune
+BE in Computer Engineering; CGPA: 8.93 (Till 3rd Year) 2020 - 2024
+•Rajarshi Shahu Junior Science College, Latur
+HSC(12th); Percentage: 92.46% 2019 - 2020
+•Shyamlal Memorial High School, Udgir
+SSC(10th); Percentage: 97.60% 2017 - 2018
+Experience
+•Raise Digital Virtual
+Web Dev Intern Nov 2021 - Jan 2022
+◦Details : An e-commerce website ui built from scratch using HTML and CSS .
+Projects
+•Mymail-Gmail Clone :
+◦Tech stack : React js,Mongo DB,Express,Node Js
+◦Details : This Application is a clone of Gmail.It has features of sending mail,star that mail,delete that mail etc.Mongo db
+database is used to store the mail.React and Mui is used in front end and express and node as backend.SMTP library is used
+for mail transfer
+◦Link : https://mymail.onrender.com
+•Meme Generator :
+◦Tech stack : React Js,API
+◦Details : This Application is meant to create a social media meme.It uses meme api to call all the memes and uses react js as
+front end.it has also features of editing the memes and download that meme as image.It uses react libraries for these extra
+features.
+◦Link : https://boisterous-toffee-c42a50.netlify.app/
+Achievements
+•Qualified JEE advanced in top 10% student
+•400+ problems solved on various coding platforms
+Co-Curricular Activities
+•TE volunteer at InC event
+•student member of PCSB club
+Skills
+•Language : Python, c++, React js, sql
+•Familiar : Git, Postman, MYSQL, MERN
+•Subject : DSA , OOP, DBMS , OS
+•Soft Skills: :Problem Solver, Team work, logical Thinking
+Hobbies
+•Travelling, Playing Cricket
+•Watching movies ,listening songs

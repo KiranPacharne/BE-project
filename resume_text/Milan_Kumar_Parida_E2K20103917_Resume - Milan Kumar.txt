@@ -1,0 +1,91 @@
+Milan Kumar Parida  
+Pune, Maharashtra, India  
++91-9875665243  |           milanparida786@gmail.com  
+ 
+ 
+EDUCATION    
+ 
+PUNE INSTITUTE OF  
+COMPUTER TECHNOLOGY   
+BE IN ELECTRONICS AND 
+TELECOMMUNICATION   
+2020 - 2024   |  Pune, India  
+CGPA – 8.48/10   
+ 
+HIGHER  SECONDARY  
+CERTIFICATE  (XII)  
+KENDRIYA VIDYALA  FORT WILLIAM  
+(CBSE Board ) 
+June 2019  |  Kolkata, India    
+Percentage – 78.80%  
+.   
+SECONDARY  SCHOOL 
+CERTIFICATE  (X) 
+KENDRIYA VIDYALA 1 STC  
+(CBSE Board)  
+May 2017 | Jabalpur, India  
+CGPA – 9.40/10  
+ 
+ 
+LINKS    
+ 
+GitHub:       GitHub.com/Milankp08  
+LinkedIn:       LinkedIn.com/Milan    
+SKILLS  
+ 
+TECHNICAL  
+ 
+Language  –  
+  C    C++    HTML    CSS  
+  JavaScript    SQL 
+Developer Tools –  
+  VS Code     MySQL  
+Libraries/Frameworks –  
+  NodeJS(Basic)     MongoDB  
+  Mongoose (Basic)  
+ 
+ 
+  
+ 
+ 
+   
+EXPERIENCE    
+ 
+OASIS INFOBYTE   |   WEB DEVELOPMENT INTER N 
+Feb 2023 – Mar 2023  |  Pune, India   
+• I Created different types of  interactive web pages and tools  using HTML, 
+CSS and JavaScript.  
+ 
+PROJECTS  
+HARDWARE  BASED  
+1. IOT Drowsiness Detection System  
+• Alerts the driver with a  beep sound whenever the driver feels sleepy 
+or closes his eyes for a minimum 2 seconds.  
+ 
+2. Power measurement Watt meter  
+• Measures the power consumption of a specific device for a specific 
+interval of time.  
+• Also, measures the energy consumption.  
+ 
+SOFTWARE  BASED  
+ 
+1. Error correction in  File 
+• A python -based project which finds all the errors and suggests the 
+required corrections.  
+• Can also be used in E -mails for finding mistakes or grammatical 
+errors.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

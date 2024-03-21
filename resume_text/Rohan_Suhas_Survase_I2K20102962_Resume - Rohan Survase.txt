@@ -1,0 +1,42 @@
+ROHAN SURVASE
++91 8010389162 ⋄Pune, India
+rohansurvase10@gmial.com ⋄linkedin.com/in/rohan-survase-72500620b
+EDUCATION
+BE in Information Technology ,Pune Institute of Computer Technology Expected 2024
+CGPA = 9.3
+H.S.C , Karmveer bhaurao Patil College of Science & Arts 2018 - 2020
+MHT-CET : 99.66 percentile — HSC : 88.00 % — SSC : 93.60%
+SKILLS
+CS Fundamentals : DSA, OOPS, DBMS, OS, CN
+Languages : Java,Python, C++
+Technical Skills : Flutter, FireBase, NodeJS, ExpressJS, MongoDB, Git, GitHub, MySQL, REST API
+Soft Skills : Critical Thinking, Fast Learner, Time Management , Problem Solving
+EXPERIENCE
+Software Developer Intern Nov 2022 - Jan 2022
+Choira Musictech
+•Developed and contributed to the development of Choira’s application
+•A new login and registration path has been added to reduce the time it takes the user to login and register along
+with other features
+•Successfully completed 2nd Stage of MVP development
+Tech : Flutter and Dart (Front-end Framework) , Bloc Pattern (State Management) , Backend Integration with
+REST API
+PROJECTS
+Collaborative Editing in Rich Text Editor :
+A collaborative online word processing application allowing real-time collaborative editing and sharing of documents.
+•Google Authentication (using google OAuth API)
+•Link sharing and Collaborative Editing
+•Auto-Saving
+Tech : Flutter & Dart (Front-end Framework), MongoDB, NodeJs & ExpressJs (Backend Development), River-
+pod (State Management),Sockets(Real-time , Bidirectional Communication )(Github)
+Cryptocurrency Tracking Application for iOS and Android :
+Provides overview and statistical information of cryptocurrencies in easy to analyze format. It also provides updated
+news in Crypto World.
+•Tracking and detailed analysis of different cryptocurrencies values
+•Favourite Section for tracking specific cryptocurrency values
+•A section for Crypto World news
+Tech : Flutter & Dart (Front-end Framework), Firebase(Back-end), Provider(State Management), API inte-
+gration (Github)
+ACHIEVEMENTS
+•Problem Solving : 5 Star(Java Language) (Hackerrank)
+•Solved 500+ Problems on multiple Websites
+•Ranked 841 out of 8000+ competitors on the Codechef starters (CodeChef)

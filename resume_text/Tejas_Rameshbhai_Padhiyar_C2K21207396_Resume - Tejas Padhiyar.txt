@@ -1,0 +1,43 @@
+Tejas Padhiyar
+♂phone+91 97656-08601 |/envel⌢petejaspad240@gmail.com |/linkedintejas-padhiyar |/githubtejwhatsnew
+Education
+Bachelor of Engineering, Computer Engineering Pune, Maharashtra
+8.53 CGPA 2021 – Pursuing
+Diploma, Information Technology Kopargaon, Maharashtra
+97.75% 2018 – 2021
+Secondary School Certificate(SSC) Kopargaon, Maharashtra
+91% 2017 – 2018
+Projects
+Grapple.VR |Unity Engine, MagicaVoxel, Visual Studios, C#
+•Experience in Grapple.VR is a virtual reality game that involves climbing blocks using a Spiderman-like string
+mechanism.
+•Link to Project Drive
+Style My Space (3D) |XCode, SwiftUI
+•It is an app for interior designers to clearly present their ideas and imagination to customers using 3D objects and
+AR. It includes different types of tables, decors, lights, etc according to their category. As it is developed in SwiftUI
+it can run only on iPhones.
+•Link to Project Drive
+Skills
+Languages : C/C++,Java, Python, MySQL, Swift
+CS Fundamentals : Object Oriented Programming, Data Structures and Algorithms
+Tools : Android Studio, Unity Engine, Canva, Figma, MagicaVoxel, AnimeToon, VS Code
+Soft Skills : Leadership, Team-management, Time-management, Problem Solving, Decision Making
+Extra-Curricular
+Secretary at PICT ACM Student Chapter (PASC)
+Leading team of over 150+ volunteers.
+•Sessions organized according to technical topics, including ”Tech Talk with Arsh,” ”Engineering 101: Journey to
+FAANG,” and ”Crack Internship With PASC.”
+•Organized and Lead various Tech and Non-Tech events as part of the national-level annual flagship event,
+PULZION’23, and PULZION’22.
+•A Special Interest Group (SIG) was held to cover the fundamentals of Python for the First Year students.
+ACM Summit
+Volunteered for on-site management at the national-level ACM summit event.
+Course on AR/VR
+50 Hours Hands-on Workshop on AR-VR
+•Have acquired proficiency in utilizing AnimeToon, MagicVoxel, and the Unity Engine, and upon completing the
+course, successfully developed a virtual reality game by employing these software tools, which is Grapple.vr.
+•Link of the certificate
+Hobbies and Interests
+•Photography
+•Poster Making
+•Dancing

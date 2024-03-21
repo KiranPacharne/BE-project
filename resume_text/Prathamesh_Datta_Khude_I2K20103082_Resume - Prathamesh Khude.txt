@@ -1,0 +1,50 @@
+PRATHAMESH KHUDE
+Pune Institute of Computer Technology
+prathameshkhudekd1@gmail.com Pune Maharashtra - India /♀nednhttps:/ /www.linkedin.com/in/prathamesh-khude-b50919221/
+EDUCATION
+B.E. (IT) - 8.52 CGPA
+Pune Institute of Computer Technology
+ὌJuly 2020 – Currently
+Higher Secondary - 72.77%
+State Board of Secondary Education
+Ὄ2020
+Secondary - 79.40%
+State Board of Secondary Education
+Ὄ2018
+PROJECTS
+Employee management system
+•Developed an employee management system
+using React, NodedJs and MySql.
+•This web application provides CRUD opera-
+tions on employee data which is managed by
+the admin.
+•Tech Stack - React, NodeJs, MySql.
+News API
+•This is the real time news API application.
+Based on simple HTML CSS for frontend and
+Javascript for backend.
+•With the help of Api we can gather and dis-
+play the current news. User can customize
+their news feed based on categories of inter-
+est.
+•Tech Stack - HTML, CSS, JavaScript.ACHIEVEMENTS
+•2 Star onCodechef Max. Rating(1449).
+•Codeforces Max. Rating(625).
+•Among Top 5 percentile in MHT-CET (2020).
+•Secured rank 23in Codechef Starter-83 among 2700+
+participants.
+•Solved more than 300+ problems on various platforms.
+LINKS
+•LinkedIn: Prathamesh Khude
+•LeetCode: Prathamk2012
+•Codeforces: Prathamk2012
+•Codechef: Prathamk2012
+•GFG: Prathamk2012
+TECHNICAL SKILLS
+•Languages : C++,SQL
+•Database : MySQL
+•Web : HTML,CSS
+•Other : DSA, OOP, Problem Solving
+HOBBIES
+•Playing and watching cricket.
+•Listening to Music.

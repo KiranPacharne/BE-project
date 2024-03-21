@@ -1,0 +1,40 @@
+Atharva Chirputkar
+Contact No : 7 7 9 8 7 9 8 8 2 9 Email : a t h a r v a c h i r p u t k a r 3 3 3 @ g m a i l . c o m
+LinkedIN : w w w . l i n k e d i n . c o m / i n / a t h a r v a - c h i r p u t k a r GitHub :  h t t p s : / / g i t h u b . c o m / A t h a r v a 3 7 3
+EDUCATION
+SCTR’s Pune Institute of Computer Technology (PICT), Pune
+S a v i t r i b a i  P h u l e  P u n e  U n i v e r s i t y -  
+( B a c h e l o r  o f  E n g i n e e r i n g  i n  E l e c t r o n i c s  a n d  T e l e c o m m u n i c a t i o n )JULY 2020-JUNE 2024
+GPA : 9 . 4 9
+Fergusson College ,Pune
+       ( 1 2 t h  H S C - S c i e n c e )2018-2020
+PERCENTAGE : 8 6 . 3 1 %
+Deccan Education Society , Pune
+( S S C )MARCH 2018
+PERCENTAGE : 9 7 . 0 %
+SKILLS :
+Languages: C + + ,  J a v a , C ,  P y t h o n ,  D a r t ,  M A T L A B , S Q L
+Developer Tools/ Softwares :  V S  C o d e , M y S Q L , A n d r o i d  S t u d i o ,  E c l i p s e ,  L a b V I E W ,  G N U  O c t a v e / M A T L A B
+Android App Development :  F l u t t e r  F r a m e w o r k
+EXTRA CURRICULARS :
+Design Team(Xenia 2022):
+IPL Auction Team(Xenia 2021):PICT CSI STUDENT BRANCH
+V o l u n t e e r ( 2 0 2 1 - P r e s e n t )
+        D e s i g n  o f  P o s t e r s  a n d  C e r t i f i c a t e s  f o r  t h e  A n n u a l  F l a g s h i p  E v e n t - X E N I A  2 0 2 2 .
+        O r g a n i z i n g  t e a m  m e m b e r  f o r  I P L  A u c t i o n  e v e n t  i n  X E N I A  2 0 2 1 .PROJECTS :
+MUSIC-4-MOOD(ML based Music Recommender App):
+Fish Tank Automation:
+Vehicle Management System:        A n  a p p  t h a t  d e t e c t s  t h e  m o o d  o f  t h e  u s e r  u s i n g  t h e  f a c i a l  e x p r e s s i o n s  a n d  r e c o m m e n d s  a  s o n g  i n  o r d e r  t o                     
+e n h a n c e  t h e  m o o d .
+TECH STACK :  F l u t t e r  ,  G o o g l e  T e a c h a b l e  M a c h i n e ,  T e n s o r F l o w  L i t e .
+       A u t o m a t e  t h e  p r o c e s s  o f  f e e d i n g  a n d  m a i n t a i n i n g  t h e  f i s h  t a n k  a t  r e g u l a r  i n t e r v a l s  p o w e r e d  b y
+m i c r o c o n t r o l l e r  a n d  s e n s o r s .
+Hardware used :  A t m e g a 3 8 P  M i c r o c o n t r o l l e r  a n d  R e a l - T i m e  C l o c k ( R T C )
+        A  s i m p l e  p o r t a l  f o r  m a n a g i n g  t h e  r e g i s t r a t i o n  o f  n e w  v e h i c l e s  a n d  m a i n t a i n i n g  t h e  d a t a b a s e  a t  a  v e h i c l e
+r e t a i l  s h o p  u s i n g  J a v a  a n d  M y S Q L .
+       
+LINKS:
+LEETCODE:  h t t p s : / / l e e t c o d e . c o m / a t h a r v a c h i r p u t k a r 3 3 3 /
+GeeksForGeeks :  h t t p s : / / a u t h . g e e k s f o r g e e k s . o r g / u s e r / a t h a r v a c h i r p u t k a r 3 3 3
+CODE STUDIO :  h t t p s : / / w w w . c o d i n g n i n j a s . c o m / c o d e s t u d i o / p r o f i l e / 5 5 6 5 1 8 8 2 - 0 e f c - 4 3 c f - a b 0 9 -
+1 2 d 3 6 9 c f 3 4 b 8

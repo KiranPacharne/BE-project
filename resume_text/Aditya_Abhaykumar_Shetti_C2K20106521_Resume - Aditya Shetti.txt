@@ -1,0 +1,47 @@
+Aditya Shetti
+Pune, Maharashtra
+Ħ9767091003 |ćadityashetti09@gmail.com |^github.com/adityashetti |]linkedin.com/in/aditya-shetti-410741206
+Education
+PuneInstituteofComputerTechnology Pune,Maharashtra
+BEinComputerEngineering July2020‑Current
+VyankatraoHighSchoolandJuniorCollege Ichalkaranji,Maharashtra
+HigherSecondarySchoolCertificate(Science) May2018‑May2020
+•Percentage‑90.15
+JawaharNavodayaVidyalayaKagal,Kolhapur Kagal,Maharashtra
+SecondarySchoolCertificate 2018
+•Percentage‑90.00
+Projects
+CricketAuctionPortal
+May2023
+•ItwasdevelopedforaneventcalledCricwars,afantasyauctionorganisedbyPICTIEEE
+•Theportalkepttrackofauctionedplayers,teams,ratingsandremainingpursebudget
+•Techstack: Django,HTML,CSS,Bootstrap,SQLlite
+OnlineCodeEditor
+December2022
+•Builtawebsiteforuserswhowanttolearnandcreatefrontendprojects
+•UsedReactJstocreateonlinecodeeditortoeditsourcecode
+•Techstack: ReactJs,HTML,CSS,Bootsrap,Javascript
+MovieRecommendationSystemusingMachineLearning
+June2022
+•Developedamovierecommendationsystemusingmachinelearningalgorithms
+•Usedcontent‑basedfiltrationmethodforrecommendingmovies
+•Createdandtrainedlinearregressionmodel
+•Techstack: PythonanditsdifferentlibrariessuchasNumpy,Pandas,Scikit‑Learn(Sklearn),etc.
+RealTimeWeatherApplication
+October2021
+•Createdreal‑timeweatherwebappusingReactJSwithdynamicAPIs
+•Displayedcurrentweatherconditionsandtemperatureforuser’slocation
+•Techstack: ReactJs,HTML,CSS,Bootsrap
+TechnicalandSoftSkills
+ProgrammingLanguages C++,Python
+Frameworks React.js,Django,Bootstrap
+Database MySQL,MongoDB
+SoftSkills TimeManagement,Teamwork,Problem‑solving,WorkAdaptability,Leadership
+Achievements
+2020Rank221,Percentile‑99.8373705 ,MHTCETExamination Maharashtra
+2020Rank13444,Percentile‑98.7992073 ,JEEMainsExamination India
+2020Rank17923 ,JEEAdvancedExamination India
+Leadership/Extracurricular
+PICTIEEEStudentBranch (TechnicalTeamMember)WorkedinTechnicalTeamfororganisationofAnnualTechfestCredenz.
+NetworkTreasureHunt Createdmindbogglingquestionsandpuzzlesonthisplatform.
+AUGUST11,2023 1

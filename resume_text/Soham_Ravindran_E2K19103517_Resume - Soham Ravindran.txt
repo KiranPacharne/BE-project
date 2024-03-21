@@ -1,0 +1,37 @@
+Objective
+I am a final-year electronics and telecommunication engineering student with a deep interest and passion for machine
+learning and data science. I have experience working with various programming languages, data structures, and algorithms.
+Education
+Pune Institute Of Computer Technology | Pune, Maharashtra
+B.E Electronics and Telecommunication | 07/2024
+CGPA:8.56
+Indian School Muscat | Muscat
+12th Grade | 03/2019
+Percentage: 83.4%
+Indian School Al Seeb | Muscat
+10th Grade | 03/2017
+CGPA:10
+Experience
+Vasundharaa Geo Technologies | Pune, Maharashtra
+Computer Vision and Machine Learning intern | 09/2022 - 12/2022
+During this Internship, I got the opportunity to work with various Neural Networks, on Image and video processing, object
+detection, and ensemble learning. The project I worked on was affiliated with the Indian Navy and is still ongoing.
+Mass Technologies LLC | Pune, Maharashtra
+Machine Learning Intern | 07/2021 - 09/2021
+In this project, I had to work with Pulse Peripheral Signal of patients to classify them into different types of diseases such as
+hypertension, coronary artery diseases, etc. using Deep Learning and Artificial Intelligence.
+Skills
+OOPs, DBMS, C/C++, DSA, Machine Learning, Neural Networks, Image Processing, Python, Java
+Roles and Responsibilities
+Content Head
+I was the content head for the club, TEDxPICT in our college for the year 2022-23. My role mostly involved editing and
+curating any and every content that came out of the club. This mainly consists of articles, blogs,social media posts, poems,
+etc.
+Anchor for InC 23'
+I was one of the anchors for the annual technical exhibition in our college, Impetus and Concepts 2023.
+Profiles
+Github profile 
+LinkedIn Profile 
+Languages
+English, Hindi, MalayalamSoham Ravindran
+7666394113 | sohamraveendran@gmail.com | Pune, Maharshtra

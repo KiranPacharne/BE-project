@@ -1,0 +1,89 @@
+Abhijeet Raotole
+ 91 7 5830423  abhijee t dr ao t ole@gmail.c om
+Education
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+B.E. Computer E ngineering
+2020‑2024 Pune
+•Cum. GPA:8.9
+MOOLJI JETHA COLLEGE
+High School Cert ificate (HSC)
+2019 Jalgaon
+ORION ENGLISH SCHOOL
+Secondary School
+Certificate(SSC)
+2017 Jalgaon
+Links
+GitHub:AbhijeetDR
+Linkedin: AbhijeetRaotole
+Codeforces: Abhijeet_D_R
+Codechef: abhijeet_d_r
+Leetcode: AbhijeetDR
+Coursework
+•DataStructureandAlgorithms
+•ObjectOrientedProgramming
+•DatabaseManagementSystems
+•OperatingSystem
+•MachineLearning
+Skills
+LANGUAGES
+•Python•C++
+FRAMEWORK
+•Django•Flask
+LIBRARIES
+•StandardTemplateLibrary(STL)
+•Pandas•Numpy•Matplotlib•
+Seaborn•Scikit‑learn
+FAMILIAR
+•HTML•CSS
+MISCELLANEOUS
+•Github•VSCode
+Activities
+PICT IEEE STUDENT BRANCH
+College Club ( Co-Curricular)
+•VolunteeringforCodingevents‑
+Settingproblemsforcontests.
+•Managedcontestsinvolvingabout
+500participants.Experience
+IMOCHA
+Problem Setter Intern
+Nov22–Present Pune,Maharashtra
+•Settingproblemsbasedon datastructuresandalgorithms .
+•Problemsareusedin codingroundsandtechnicalinterviews for
+assessmentofcandidates.
+Achievements
+•Specialist onCodeforces. (Highestrating‑ 1423)
+–Intop4koutof50k+indianparticipantsontheplatform.
+–Globalrank 784among10k+participantsinCodeforcesround827
+•4starsonCodechef. (Highestrating‑ 1938)
+–Globalrank 22among2k+particpantsinCodechefStarter39
+–Globalrank 169among2500+participantsinCodechefStarters42
+•Winnerof CodeSmasher conductedbyBhilaiInstituteofTechnology.
+•Solvedmorethan 1000problemsacrossvariouscodingplatformssuchas
+Codeforces,Codechef,Leetcode,GFGetc.
+•Intop3percentile ofJEEMains2020among10lakhstudents.
+•Intop0.4percentile ofMHT‑CET2020among2lakhstudents.
+Projects
+ARTISTICA
+PROJECTLINK
+•DevelopedArtistica,anartisan‑focusede‑commercewebapplication
+usingDjangoframework forcustomersseekinghandcraftedproducts.
+•Implementedkeyfeaturessuchas userregistration,login,and
+authentication toensureasecureplatformforusers.
+•Designeduserinterfacewitharesponsivedesignapproachusing
+Boostrapframework .
+•Integratedarobust productlistingsystemandproduct
+recommendation .
+•Incorporateda searchfunctionality thatenablescustomerstofind
+specificproducts.
+•Utilizeda SQLitedatabase toensuredataintegrityandprovidea
+scalablesolutionforhandlingproductdata,userinformation,andorder
+transactionssecurely.
+FAKE NEWS DETECTION
+PROJECTLINK
+•Developedamachinelearning‑basedfakenewsdetectionsystemwith
+theaimofhelpinguserstoidentifythewhetherthenewsisfakeornot.
+•Usedvariousclassificationmodelslike DecisionTree,Gradient
+boosting,Logistic,Randomforest fornewsdetection.
+•Modelsuccessivelypredictedthesimilarrateupto 98percentaccuracy
+onvalidationdata.

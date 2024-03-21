@@ -1,0 +1,62 @@
+About
+•Final Year Electronics and Telecommunication 
+Engineering student at Pune Institute of 
+Computer Technology.
+•Proficient in diverse programming languages 
+like C, C++, Java,Python.
+•Broad Area of Interest : Machine Learning, Data 
+Science, Java Development.
+Education
+Pursuing BE in Electronics and 
+Telecommunication, 
+Pune Institute of Computer Technology
+2020 – present | Pune, India
+CGPA : 9.54
+HSC, Loyola Junior College
+2018 – 2020 | Pune, India
+Percentage: 91.85%
+SSC, Vidya Bhavan High School
+2006 – 2018 | Pune, India
+Percentage:92.80%
+Key Courses Taken
+MySQL Bootcamp
+Python for Data Science and AI
+Database Management System
+Advanced Java Programming
+Hobbies
+Solving Rubik's Cube, Listening to Music, 
+Reading booksSkills
+Programming Languages
+C,C+,Python,Java,SQL,Java Script
+Data Science
+Numpy , Pandas , Matplotlib , Seaborn , 
+Tensorflow, Scikit-learn
+Database Management Systems
+MySQL
+Web technologies
+HTML , CSS , JS (NodeJS ,ReactJS, ExpressJS)
+Professional Experience
+Intern at Siemens Industry Software(India) 
+Pvt. Ltd. (2 months)
+Design and develop a dashboard within the 
+existing performance dashboard to report the 
+accuracy and consistency of various baselines 
+across different releases for configurator team.
+Projects
+Image Steganography using Java
+Innovative project that empowers users to hide 
+sensitive information within digital images 
+seamlessly. 
+URL-Shortner
+nodeJS based website to shrink long URL which 
+can be directly copied to the clipboard using a 
+simple click on the website.
+Hardware Implementation of Sign Language 
+Recognition using Vision Transformer, 
+Currently in progress.Ishaan Rahul Joshi
+ishaanjoshi2002@gmail.com
+8668488878
+Pune,Maharashtra
+19/09/2002
+https://github.com/ishaanjoshi1909
+https://www.linkedin.com/in/ishaan-joshi-782902212/

@@ -1,0 +1,161 @@
+Shivakumar Ranade 
+Problem solver wanting to add value to organizations. Creative and passionate about building full stack
+applications. Good knowledge of machine learning to solve real world problems.
+ 
+shivakumar.ranade@gmail.com 
++91 8530011069 
+Pune, Maharashtra, India 
+linkedin.com/in/shivakumar-ranade 
+EDUCATION 
+B.E. Computer Engineering 
+Pune Institute of Computer Technology 
+01/2021 - Present
+, 
+ 
+CGPA: 9.2
+ 
+HSC (12th Boards) 
+Maharashtra Vidyalaya Junior College 
+CET Percentile: 
+99.56
+ 
+PROJECT WORK UNDERTAKEN 
+Student-Professional Interaction Platform
+ 
+ 
+Web Platform
+ to 
+facilitate interaction
+ between 
+students
+and working 
+professionals.
+ 
+Used
+ React.js
+ for the frontend with 
+React Redux
+ for state
+management. 
+Used 
+Node.js
+ for the backend including
+ Express.js
+ for
+writing API's and Bcrypt.js for encrypting passwords. 
+Used 
+MongoDB 
+as database with 
+MongoDB Atlas
+. 
+Email Based Chat App using Google Cloud
+ 
+ 
+Users 
+can 
+communicate 
+with each other 
+eﬃciently 
+and can
+create new chats with diﬀerent users using their 
+email
+address
+. 
+For user 
+authentication 
+used 
+Firebase 
+along with
+ Google
+Sign In
+ and hosted the platform on Firebase. 
+Used 
+React.js
+ for frontend and 
+Node.js
+ for backend
+including 
+Socket.io
+ for and 
+Express.js 
+for writing API's. 
+Used 
+MySQL 
+database that was hosted on 
+Google Cloud
+Platform.
+ 
+INTERNSHIPS UNDERTAKEN 
+Software Development Intern 
+RhythmFlows Solutions 
+05/2022 - 08/2022
+, 
+ 
+Worked on a real time video streaming application
+using 
+ReactJS, Django and PostgreSQL.
+ 
+Designed and created
+ interactive user interfaces
+using 
+React.
+ 
+Using React, recorded the time spent by the user on
+each movie category. 
+Built API's
+ in 
+Django REST Framework
+ and worked
+on 
+movie recommendation system
+. 
+SKILLS AND TOOLS 
+C++ 
+Java 
+Python 
+JavaScript 
+Tensorﬂow 
+ReactJS 
+NodeJS 
+Django 
+MySQL 
+MongoDB 
+GitHub 
+Visual Studio Code 
+IntelliJ IDEA 
+ACHIEVEMENTS 
+Finalist of Development Battle Hackathon
+organized by PICT CSI Student Branch 
+Solved 250+ coding problems on LeetCode
+ 
+ 
+Champion on Coding Ninjas 
+3 star on CodeChef 
+5 star (Gold Badge) programmer in C++ and Python
+on HackerRank 
+ORGANIZATIONS 
+PICT CSI Student Branch 
+Web Development Lead
+ 
+CERTIFICATES 
+Machine Learning Specialization (Stanford
+University with DeepLearning.ai)
+ 
+ 
+Web Application Technologies and Django
+(University of Michigan, Ann Arbor)
+ 
+ 
+Python for Everybody Specialization (University of
+Michigan, Ann Arbor)
+ 
+ 
+INTERESTS 
+Full Stack Development 
+Machine Learning 
+Deep Learning 
+Natural Language Processing 
+Problem Solving 
+Performance 
+Performance 
+Achievements 

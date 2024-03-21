@@ -1,0 +1,39 @@
+Sanket Makh
+/githubsanketmakh |/linkedinSanketMakh |/envel⌢pesanketmakh.srm@gmail.com |♂¶obile+91 7776023754
+Education
+2020 - Present Computer Engineering at Pune Institute of Computer Technology (SGPA: 9.31)
+2018 - 2020 HSC in Vivekanand College,Sambhajinagar (80.46%)
+2009 - 2018 SSC in Maharashtra Public School, Sambhajinagar (96%)
+Work Experience
+Oasis Infobyte Mar 2023 - Apr 2023
+– Served as a Web Development and Designing Intern where I played a pivotal role in creating and en-
+hancing UI components for a wide range of webpages. My tech-stack included HTML, CSS, JavaScript,
+React.js, and Material-UI, enabling me to craft engaging and responsive user interfaces.(View)
+Projects
+Exampler View Project
+– Developed a Full-Stack MCQ Platform web-app that helps students and teachers to carry out
+examination smoothly.
+– Students can login/register for the test whereas teacher can assess the test.
+– Tech-Stack : MongoDB,Express.js,React.js,Node.js
+crypTracer View Project
+– Designed a Crypto Tracker web app that uses Coin Gecko API which helps traders to fetch real-time
+crypto prices in various currencies using Axios library in ReactJs . User can search andfilter through
+different crypto currencies in real-time.
+– CrypTracer is hosted and live on Netlify ( https://cryptracer.netlify.app ) .
+– Tech-Stack : React JS, Material UI, Chart JS and Coin Gecko API.
+Skills
+Programming Languages: C++
+Web Technologies: HTML, CSS, React JS, Node JS, Express JS
+Tools/ Platforms: Git, Github, Visual Studio Code
+Databases: MySQL, MongoDB.
+Coursework: DSA, OOP, DBMS, OS
+Others: Adaptable, Disciplined, Collaborative
+Profiles
+Leetcode: https://leetcode.com/ sanket_makh
+Codechef: https://www.codechef.com/users/sanketmakh
+Achievements/Extra-curriculum activities
+– Solved over 500+ problems on various platforms.
+–Anchored guest sessions and organized technical and non-technical events in annual fest of PASC-
+PULZION-22 (was responsible for entire web/app development event)
+– Participated in various intra-college debating and anchoring events like MANTHAN and
+PARICHARCHA (View)

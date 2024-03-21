@@ -1,0 +1,49 @@
+Nirmal Jadhao ♂phone+91-8767531185
+Roll No.: 41234 /envel⌢penirmal.jadhao@gmail.com
+BE Computer Engineering /githubGitHub Profile
+Pune Institute of Computer Technology, Pune /linkedinLinkedIn Profile
+Education
+•Pune Institute of Computer Technology, Pune 2020 - 2024(Expected)
+BE Computer Engineering CGPA: 8.95
+•Major Hemant Jakate Jr. Clg, Nagpur 2019
+HSC (12th), Maharashtra State Board Percentage: 79.08
+•St. Xavier’s High School, Nagpur 2017
+10th, CBSE CGPA: 10
+Personal Projects
+•Note Secure
+Built a full-stack notes app using the MERN (MongoDB, Express, React, Node.js) stack from scratch.
+–Helps you create, store, update and delete your notes securely.
+–Used MVC architecture to ensure clean separation of concerns and modern development practices.
+–Implemented user authentication with JWT (JSON Web Tokens) for secure access to user-specific data.
+–Integrated Cloudinary API for image upload and storage
+–POSTMAN for API testing
+–RESTful APIs with Express.js for CRUD operations on notes.
+–MongoDB database for data storage and retrieval.
+•FORUME
+Planned and Developed a FORUM using MERN stack for College students and Faculties to post their doubts and get it resolved.
+–Forum to facilitate seamless communication among college students and faculties to post and discuss doubts, seek
+academic assistance, and engage in vibrant discussions.
+–Created a user-friendly and responsive front-end using React, providing an intuitive interface for forum users to
+post, comment, and interact with discussions effectively.
+–Implementedtheback-endserverusingNode.jsandExpress.js,integratingRESTfulAPIsforseamlessdataretrieval
+and storage in MongoDB and JWT for Authentication.
+–Collaborated with a team of 2 members to plan, design, and develop the forum, ensuring timely project completion.
+•Twitter Tweet Analysis
+Conducted sentiment analysis on Twitter data using TextBlob and VADER (Valence Aware Dictionary and sEntiment Reasoner).
+–Collected Twitter data through relevant data sources to build a comprehensive dataset for analysis.
+–Preprocessed the data by handling text cleaning, tokenization, and removing noise to prepare it for sentiment
+analysis.
+–Utilized TextBlob, a Python library, to perform sentiment analysis and subjectivity analysis on the tweet text,
+providing sentiment scores and identifying subjective vs. objective content.
+–Employed VADER, a lexicon and rule-based sentiment analysis tool, to analyze sentiment polarity (positive,
+negative, neutral) and intensity of emotions in tweets.
+–Technologies : Python, TextBlob, VADER
+Technical Skills and Interests
+Languages : C++ (Intermediate), Python, Javascript, HTML, CSS
+Technologies and Frameworks : React.js, Node.js, Express.js, MongoDB, Data Science
+Co-Curricular Activities and Soft Skills
+•Co-Curricular: Participated in Shramdaan for 2 years organised by school
+•Soft Skills: Communication, Interpersonal Skills, Emotional Intelligence
+Achievements and Hobbies
+•Achievements: Solved Over 250 DSA problems cross platform, Secured 99.06ile in JEE Maths
+•Hobbies: Cooking, Cycling, Playing Cricket

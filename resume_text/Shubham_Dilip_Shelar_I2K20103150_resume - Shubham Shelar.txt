@@ -1,0 +1,52 @@
+Shubham Shelar Email: shubhamshelarpatil@gmail.com
+Linkedin: linkedin.com/shubhamshelar Mobile: +91-703-836-4964
+Education
+•Pune Institute Of Computer Technology Pune, India
+Bachelor of Technology - Information Technology; GPA: 9.12 July 2020 - June 2024
+Courses: Object Oriented Programming, Data Structures and Algorithms,Databases and Management System, Machine Learning,
+Computer Networks
+•Abasaheb Garware College Of Science & Arts Pune, India
+Higher Secondary Education July 2017 - June 2019
+CET : 98.94% — JEE: 96.05% — HSC : 76.9% — SSC: 95.6%
+Skills Summary
+•CS Fundamentals : OOPS, DSA, DBMS, CN
+•Languages : C++, Python(Intermediate), Dart(Basic), JavaScript(Basic)
+•Frameworks & Tools : Flutter, Scrapy, MySQL, MongoDB
+•Libraries : Node.js, Express.js, Selenium, BeautifulSoup, NumPy, Pandas, Scikit-learn
+•Platforms : MacOS, Windows,Linux
+•Soft Skills : Detail-Oriented, Self-competitive, Collaborative, Adaptive and Curious
+Experience
+•Data Engineering Intern (Bajaj Finserv) : Engaged in a project targeting the discovery of emerging key opinion leaders
+within the finance sector. Accumulated data of 100,000+ potential candidates found within published research papers and
+journal articles. Employed LinkedIN as a resource for profile assessment. Constructed a resilient scraping framework using the
+Scrapy toolkit, establishing an efficient data pipeline. Developed an anti-bot resistance model using concealed Chromedriver
+and Selenium resources. Effectively stored and managed data within a MongoDB database. (March-April 2023)
+Projects
+•CryptoTracker - Cryptocurrency Tracking Application for iOS & Android : I developed a project that provides a
+user-friendly overview of cryptocurrencies, including basic information and real-time statistical data and related news. It is a
+offline first, implemeted local storage and database efficetevely. Reduce load on third party api by caching on server side
+caching. Reduced server traffic long polling and sent updates only if data changed. Tech: Flutter, React.js, Node.js,
+Express.js, REST, websocket, Firebase, MongoDB (June ’22)
+•Notes Application for iOS & Android : Developed an offline-first application with seamless synchronization between local
+storage and the database. Designed to be multi-device compatible, the application utilizes a tag-based system for efficient note
+management. Tech: Flutter, Node.js, Express.js, REST, Firebase, MongoDB (June ’23)
+Certifications
+•Mathematics for Machine Learning (Imperial College London) : Learnt linear algebra, multivariate calculus, PCA.
+Link: Certificate
+•Accelerated Computer Science Fundamentals (University of Illinois at Urbana-Champaign) : Learnt OOPS,
+Ordered and Unordered Data Structures. Link: Certificate
+Volunteer Experience
+◦Volunteer at Art Of Living NGO : Mar 2021 - Present
+Engaged in volunteering for various community events, including tree plantation drives, cleanliness movements, and ashram
+seva. Took an active role in organizing both online and offline meditation and yoga courses.
+◦
+Member at Institute of Electrical and Electronics Engineers (IEEE) Jan 2021 - Present
+Worked with Marketing Team for Credenz 2022.
+Achievements
+•Solved over 500+ problems on different platforms.
+•CodeChef 3 star with 1749 highest rating. Secured Global Rank 166 in Starters 67. Link: CodeChef
+•CodeForces highest rating 1325 (Pupil). Link: CodeForces
+Languages
+•English: Professional Working Proficiency
+•Hindi: Full Professional Proficiency
+•Marathi: Full Professional Proficiency

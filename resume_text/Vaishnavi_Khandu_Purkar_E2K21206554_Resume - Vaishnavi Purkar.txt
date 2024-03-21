@@ -1,0 +1,58 @@
+Vaishnavi Purkar
+2021 - Present
+2018-2021
+2018BE in Electronics and Telecommunication Engg 
+Contribution to website development at PICT InC Event 2023 
+Active volunteer of PICT NSS Team
+Active participant of Art circle, Reading clubProgramming Languages: C++, Python (basic)
+Web Development: HTML, CSS, JavaScript, ReactJS, Express, Flask, Bootstrap
+Databases: SQL, MongoDB (basics), Firebase (Real-time Database)
+Hardware: PCB Design, Microcontrollers, Sensors (MQ sensors), GSM, RFID, Arduino
+Core: Computer Networks (CN), Database Management (DBMS), Object-Oriented Programming (OOP), Operating Systems, System
+Design
+Problem Solving: Data Structures and Algorithms
+Cloud Technologies: Microsoft Azure, Heroku
+Version Control: Git
+Tools: Postman, Wordpress, JIRAPune Institute of Computer Technology, Pune
+Government Polytechnic Nashik
+Navrachana Vidyalaya, Nashik8.25 CGPAEmail: Vaishnavipurkar7@gmail..com
+Contact No: 9767966853
+A passionate coder, and an enthusiastic learner who is enhancing her skills, knowledge and understanding in Data Structures, OOP concepts
+(mainly C++), Algorithms and Problem-Solving. Seeking a responsible & challenging opportunity that will utilize & enhance my skill where I
+can actively devote my abilities through dedicated hard work.
+Vodafone Intelligent Solutions (VOIS), Vodafone Idea Solutions : Engineer Intern         (June 2022 - August 2022)
+Technologies used:  HTML, CSS, JS, FLASK, PYTHON, PYTHON LIBRARIES
+The web app helps to detect the type of brain tumor. Based on the MRI images provided, It detects and displays the type of tumor.
+This helps to immediately identify the cause.Qualification
+Brain tumor detection web app                                                                                (June 2022 - August 2022)InstituteAbout Me :
+Experiences (Internships) :
+Key Projects :
+Achievements :Technical Skills :Academic Qualiﬁcations :
+Extra-Curricular Activities :Github:  github.com/Vaishnavipurkar
+LinkedIn: linkedin.com/in/vaishnavi-purkar-4a9373230
+Diploma in E&TC Engg
+SSC96.56 %
+92.20%
+Microsoft- Virtual Internship  :  Future-Ready Talent Intern                                            (February 2022 - Jun 2022)Coordinated with project members and built a project. Built Brain tumor detection web App, using flask, python, JS
+Worked on cloud computing, Microsoft Azure technology. Built agricultural farming website called Agrowfarm.
+This website is helpful to customers to interact with farmers.
+Portfolio                                                                                                                  (June 2023 - August 2023)
+Blog project application                                                                               (September 2022 - October 2022)
+Technologies used:  Node.js, Express, React, and MongoDB along with ES6+
+This project is about the blogs. It consist of various articles. It includes front-end, back-end,  API testing, post requests.Technologies used:  HTML,CSS,JS
+Built an interactive and responsive web portfolio showcasing various web projects using HTML, CSS, and JavaScript. 
+View my portfolio at https://vaishnavipurkar.github.io/Vaishnavip-portfolio.io/
+Awarded scholarship from "Lila Poonawala Foundation".
+1st Rank in Diploma E&TC 
+6th First class with Distinction in SSC 
+Got a chance to pursue Honors in Artificial Intelligence and
+Machine Learning                                                                 ResultPortfolio: https://vaishnavipurkar.github.io/Vaishnavip-portfolio.io/
+Links : 
+Leetcode:  https://leetcode.com/vaishnavi_8999/
+Coding ninjas:  https://shorturl.at/aszGX
+GFG: https://auth.geeksforgeeks.org/user/vaishnavipurkar7Year
+Soft Skills :
+Leadership
+Interpersonal skills
+Communication skills
+Time, work management

@@ -1,0 +1,40 @@
+EDUCATION
+Bachelor In Computer Engineering, Pune Institute Of Computer Technology
+9.39 CGPA2020 – 2024
+Pune, India
+Higher Secondary School Certificate, Shree Dawale Junior College
+87.69%2018 – 2020
+Akola, India
+Central Board of Secondary Education, Smt. Tulsibai Ranglalji Zambad Kids Vidyaniketan
+95.60%2017 – 2018
+Nandura, India
+PROJECTS
+BMI Based Food Recommendation System, Python,DataScience.
+•Built BMI-based food recommendation system providing personalized food suggestions for a balanced and healthy diet.
+•Research paper accepted by IEEE Third International Conference TEMSET-2023 for oral presentation.
+•Designed the model using K-means clustering and the Random Forest model.
+BiDefi, Next.js,Tailwind CSS
+•Specialized online auction platform for used electronics, catering to the specific needs of buyers and sellers.
+•Developed responsive web applications using Next.js and implemented custom designs using Tailwind CSS.
+PanditMitra, HTML,Bootstrap
+•Created a web application for effortless puja booking, allowing users to choose pandits and schedule appointments as 
+per their convenience.
+•Build responsive web-pages using HTML & Bootstrap.
+TECHNICAL SKILLS
+Programming Languages : C++|Web Technologies: HTML, CSS, Bootstrap, Next.js, Tailwind CSS.
+Databases: MySQL,MongoDB
+ORGANIZATIONS
+PICT NSS, Content Team Head
+•Responsible for creating content on social issues that inspires action.
+•Initiated and executed diverse projects like Blood donation camp, Cleanliness,Tree Conservation .
+PICT IEEE Student Branch(PISB)
+ Efficiently organized "Robolica," a prominent sub-event during Credenz (annual technical festival), while actively 
+contributing to the event management team's success
+ACHIEVEMENTS
+Secured Global Rank 790 in July Long One'22 at Codechef among 13K+ students.
+Unacademy Battle of Brains : Secured 2nd rank  and won cashprize of 25K among 1000+ students.
+International Maths Olympiad 2018 :  Secured International Rank 36th and Zonal Rank 11th.
+HOBBIES
+Enjoyed Cooking|Playing Cricket|Travelling to new placesGopalkrushna Kolhe
+gopalkrushnakolhe@gmail.com +91-7448246659 Gopalkrushna_Kolhe GopalkrushnaKolhe
+gopalkrushnakolhe@gmail.com 1 / 1

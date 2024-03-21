@@ -1,0 +1,58 @@
+Electronics and Telecommunication 7atharvkulkarni@gmail.com 
+https://www.linkedin.com/in/atharv-kulkarni-55a695206/ 
+C++ 
+MySQL Python 
+DBMS To secure a responsible career opportunity, use my current knowledge and skills and expand it such that it will 
+prove benecial for the organization. 
+8975115766 
+https://github.com/atharvxaa 
+Problem Solving  Writing HTML          CSS 
+Machine-Learning 
+Music Java EDUCATION 
+WORK EXPERIENCE 
+EXTRA-CURRICULAR ACTIVITIES SKILLS 
+CERTIFICATES PERSONAL PROJECTS 
+Data Science Intern
+Oasis Infobyte B.E. 
+Pune Institute of Computer Technology, Pune 
+12th HSC 
+Sanjay Ghodawat Junior College, Atigre, Kolhapur 
+10th SSC 
+S.P.M English Medium School, Parshuram,Chiplun Electronics and Telecommunication Undergraduate 
+2023 - Present,
+Courses 
+Aggregate – 95 % Aggregate -81.85 % 
+• Won State Level Elocution Competition at Karad . 
+It was a great experience to get along and express myself 
+in front of contestants from all over the state • Role in the writing section of the skit of Purshottam Karandak 
+play. Had a good experience about the process in a cultural play. Event Management Head • Headed the cultural event Addiction Of our
+college Managed Venue and Logistics department of 
+The event successfully .Maintained the coordination between the
+Cultural Department of the college and the volunteers. 03/2023 - 04/2023, 
+Developed Machine learning models using the given datasets 
+By applying machine learning algorithms and data analysis algorithms 
+Sales Analysis was one of the good projects developed in my internship 
+experience. 8.63CGPA 
+by IIT Kanpur (NPTEL) Developed a hardware project consisting of converting AC power supply to
+Dc power supply .Average dissipated power can be controlled with the help
+of Thyristors used and the pulses can be analyzed. .
+Purshottam Karandak (2022)  PICT ADDICTION HEAD (05/2023) 
+State Level Elocution Competition (2015) 
+Successfully made software project of Uber Data Analysis using Numpy and
+pandas. It typically helps in understanding the behavior of the 
+Booking of cabs from a particular area and plan or provide future offers 
+Based on the analysis made . Uber Data Analysis (05/2023) 
+Thyristor Based Rectifier (04/2023)  
+Developing Soft Skills and Personality 
+Creation of a Multi-Table Database consisting of Student , Department 
+tables and performing CRUD - Create Read Update Delete operations on 
+them. 
+Good Understanding of DBMS concepts such Constraints , Normalisation , 
+etc using various DDL , DML queries on the database. Student Management System (MySQL) (10/2022) Atharv Kulkarni 
+  Twitter Data Pipeline using Airflow
+Successfully made a data pipelining project using airflow and
+python. In this project we will extract data from twitter API and
+then use python to transform data, deploy the code on Airflow/EC2
+and save the final result on Amazon S3  
+INTERESTS
+Data AnalysisSports Oratory

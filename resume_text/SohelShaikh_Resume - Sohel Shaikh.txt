@@ -1,0 +1,82 @@
+SOHEL SHAIKH
+Pune Institute Of Computer Technology
+sohelshaikh23.02@gmail.com /gtbhttps:/ /github.com/sohelslicing /♀nednhttps:/ /www.linkedin.com/in/sohelshaikh2302
+Pune, Maharashtra - India
+Content based Anime Recommendation
+System
+•Developed an interactive Streamlit web ap-
+plication that allows anime enthusiasts to dis-
+cover new shows based on their preferences.
+•shows similar to the one you’ve selected. Uses
+sklearn’s Countvectorizer and the concept
+of ’bag of words’ to ﬁnd anime similar to our
+selected show.
+•Tech Stack: Python, Streamlit, SKlearn, Py-
+Charm, Heroku
+EXPERIENCE
+Python Machine Learning Developer
+- Intern.
+Zapient Digital
+ὌOCT 2022 - April 2023
+•Worked on implementing a data pipeline to
+convert data from customers to format suit-
+able for ML operation.
+•Researched and implemented proof of con-
+cept models using Spacy, N grams, and BERT
+to evaluate their eﬀectiveness in achieving
+the organisation’s goal. One of which was
+selected for production. Optimized backend
+eﬃciency by replacing the data classiﬁcation
+model, leading to reduced processing time and
+computational resources.
+•Tech Stack: Python, BERT, Flask, PostgreSQL,
+Excel, Bit bucket, HTML
+Head of Electronics.
+PICT Robotics
+ὌJULY 2022 - JUNE 2023
+•Design and Develop Electronic systems, con-
+trol systems, PCBs, ﬁrmware for robocon
+robots, Create documentation and perform
+testing of said systems.
+•Delegate tasks and responsibilities to juniors
+to facilitate their learning. Take interviews and
+recruit new talent for the club.
+•https:/ /github.com/PICT-Robotics-
+23/Elephant-Robot – Documentation to all
+the source code developed in 2023
+HOBBIES
+•Robotics, Tech blogs, Computer Hardware.
+•Greek Mythology, Philosophy, Fantasy, Anime.
+•Video Games: Base Builders, Survival, FPS.TECHNICAL SKILLS
+•languages: Python, C++, C, HTML, SQLite.
+•Frameworks/Libraries: Flask, Streamlit, sci-kit learn, Tensor-
+Flow, Keras.
+•Tools: VS Code, Git, GitHub, AWS beanstalk, Heroku.
+•Domains: Data Structures and Algorithms, Database Manage-
+ment, Machine Learning, Natural Language processing, Data
+Analytics, EDA, Computer Networks, Electronics System De-
+sign, Operating Systems.
+ACHIEVEMENTS
+•Head of Electronics @ PICT Robotics
+•AIR 06 in DD ROBOCON 2022
+•University topper at Guru Gobind Singh Polytechnic
+EDUCATION
+B.E. (ETC) - 8.87 CGPA
+Pune Institute of Computer Technology
+Ὄ2021 – Present
+Diploma (ETC) - 96.35%
+Maharashtra State Board of Technical Education, Mumbai
+Ὄ2018 – 2021
+Secondary - 82.40%
+Maharashtra State Board of Secondary and Higher Sec-
+ondary Education, Pune
+Ὄ2018
+PROJECTS
+Time Series Analysis for Local Stores
+•Developed a robust web application using Flask to empower
+local vendors with a comprehensive solution for managing
+their products, transactions, and inventory.
+•Forecasts future sales allowing vendors to avoid product
+shortages and reduce excess inventory
+•Tech Stack: Python, Flask, HTML, CSS, ARIMA, SARIMA, Pan-
+das, SQLite3

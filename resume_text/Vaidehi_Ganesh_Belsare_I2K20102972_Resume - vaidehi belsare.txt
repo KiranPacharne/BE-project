@@ -1,0 +1,41 @@
+V AIDEHI BELSARE
+vaidehi.b23902@gmail.com
+Pune,Maharashtra /ne+91 8411001021 vaidehi-belsare
+EDUCATION
+Pune Institute of Computer Technology July 2020 - June 2024
+BE in Information Technology,2023-present-Pune,India.
+Average CGPA : 8.75
+Residential Junior College July 2018 - June 2020
+Ahmednagar,Maharashtra, India.
+CLASS XII Percentage 86.15
+TECHNICAL SKILLS
+Languages : C++ , HTML, CSS , JavaScript
+Framework : ReactJs, NodeJs , Express
+Course Works : Object Oriented Programming,Database Management,Data Structures And Algorithms,Operating
+Systems
+Familiar : MySQL
+PROJECTS
+Aadhar Data vault August 2022
+• A Data Vault for storing sensitive Aadhar Information using the concept of Chaining of Certificates ,to ensure Trust
+management on top of Blockchain to create a certifiacte chain which is immutable.
+• Blockchain based PKI platform with zero trust authentification features.Also implemented Self Sovereign Identity
+to fulfill our Zero-Trust aspirations.
+•Technology used : React JS , Ether.js , Solidity , Node JS ,Express
+MovieApp -click January 2023
+• This application provide us the list of upcoming, popular top rated movies. On clicking on any movie it will show
+us the detail page of the movie.Designed and developed using ReactJs.
+• This React app also have a caraousel at the top for displaying movies as hero banner.
+•Technology used : ReactJs , React Router Dom, Font Awesome
+ACHIEVEMENTS
+•Winner of SIH 2022 conducted by Ministry of Education and the problem statement was under the Ministry of
+Electronic and Information Technology where 2000+ teams participated.
+• Solved 290+ questions on LeetCode.
+• Solved 500+ coding qustions on various coding platforms.
+POGRAMMING HANDLES
+• Codechef : vaidehi2302 ,
+• Leetcode : vaidu02 ,
+• Geeks for Geeks : vaidehib23902
+EXTRA-CURRICULAR
+• Worked as an Organizing Team Member at Impetus and Concepts’22 ,an International Level Technical Symposium
+at Pune Institute Of Computer Technology.
+• Participated in ”CODEWARS” organized at PCCOE ,Pune -2023

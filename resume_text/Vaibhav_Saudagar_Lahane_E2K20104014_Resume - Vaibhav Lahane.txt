@@ -1,0 +1,46 @@
+Vaibhav Lahane
++917588057122 | lahanevaibhav55@gmail.com |vaibhav-lahane-3a1566212
+Education
+Pune Institute of Computer Technology, Pune 2020-Present
+BE E&TE 9.15
+Dayanandge Science College, Latur 2020
+Class XII 83.69%
+Shri Keshwaraj Madhyamik Vidyalaya, Latur 2018
+Class X 95.00%
+Projects
+Hotel Table booking system HTML, CSS, PHP , MYSQL
+April 2022 - May2022
+•Hotel Table booking system generates a systematic, user-friendly platform for customers to book tables in a restaurant.
+•The hotel table booking website is a web application that allows users to book tables at a hotel restaurant. The website provides a user-friendly
+interface for users to view available tables, select the desired date and time, and make a reservation.
+•Used HTML and CSS for front end and PHP and MYSQL for back end
+•https://github.com/lahanevaibhav55/tablebooking.github.io.git
+Atm Simulator using JAVA Java, SQL Server, Eclipse, VS Code
+November 2022
+•The ATM simulator using GUI in Java is a desktop application that simulates the functions of an ATM machine. The application allows users
+to perform basic ATM transactions such as deposit, withdraw, and check balance using a graphical user interface (GUI).
+•The ATM simulator application provides a secure and user-friendly environment for users to perform banking transactions.
+Hardware implementation of Hamming Codes Proteus, Logic Gate ICs
+April-May 2023
+•Hamming code is an error-correction technique used to detect and correct single-bit errors in data transmission. It adds redundant bits to the
+original data to create a code word, allowing the receiver to identify and fix errors. The code’s efficiency lies in its ability to correct errors
+while requiring minimal additional information.
+•The hardware implementation of hamming codes provides a tool to understand how parity bits are generated and added to codeword, how error
+detection takes place and how errors are corrected.
+Technical Skills
+Programming Languages Python, C, C++, Java, PHP(basic), SQL
+Web Development HTML, CSS, PHP, MYSQL
+Professional Softwares VS Code, Pycharm, Jupyter Notebook, Ecllipse, Google Cloud
+Soft Skills Problem Solving, Adaptability, Time Management, Team Work
+Languages English, Hindi, Marathi
+Achivements
+•5starinpythononHackerRank
+•1751maxRatingonCodechef
+•Solved300+questionsonplatformslikeleetcodeandgeekforgeeks
+•Scored99%inautomatainAMCAT
+Hobbies and Interests
+•Competitive Programming, Coding
+•Cooking
+•Listening to music
+•Playing video games
+LASTUPDATED: JULY29,2023 VAiBHAVLAHANE · RÉSUMÉ 1/1

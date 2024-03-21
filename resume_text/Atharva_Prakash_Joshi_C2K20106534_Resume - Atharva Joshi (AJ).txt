@@ -1,0 +1,31 @@
+Atharva Joshi
+/githubGitHub |/linkedinLinkedin |/gl⌢bePortfolio |/envel⌢peEmail |♂¶obile9511856352
+Work Experience
+IEEE Pune Section Podcast Technical Team 2020-2021
+•In the first year of my Bachelors Degree I got the oppurtunity to work as a Technical Team Member
+of IEEE Pune Section Podcast Team.Throughout the volunteering journey,I was able to work on
+softwares like Anchor etc.
+•With every episode that we published, I gained a lot of experience and developed communication
+skills which are very much important in todays corporate world.
+Projects
+ECOMM Website Link
+•This website will allow you to add products into a cart, have a form to fill out information and make
+payments through Stripe with a backend supported by Strapi.
+•This Project is made using technologies such as React, Stripe, Strapi to build this entire application.
+Crypto Hunter Link
+•This React Website provides information about crypto currencies(digital currency) and its current
+market value, recent market values are also shown with the help of chart.
+•Support of React Firebase - Authorized users can add coins in the watchlist which is stored in React
+Firebase
+Education
+2020 - 2024 Bachelor of Engineering (B.E.) PICT Pune (CGPA: 8.76/10.0)
+2020 Class 12th Maharashtra State Board (82.15%)
+2018 Class 10th CBSE Board (92%)
+Skills
+•Programming Languages(C,C++)
+•Data Structures
+•Web Development(HTML,CSS,Bootstrap,Javascript,ReactJS)
+Hobbies
+•Cricket,Football
+•Trekking
+•Poetry

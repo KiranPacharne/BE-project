@@ -1,0 +1,87 @@
+PRASAD PATIL
+PICT’24 | Competitive Programming | Linux | Web-Dev
+Gmail/ne+91 9325425022 ὑ7Linktree /♀nednLinkedin /gtbGithub
+PROJECTS
+Project Blive Github
+•A Project on Availability, Accessibility and Pro-
+vision of Covid-19 Resources.
+•Its is frontend protoype solution where peo-
+ple can check for the availibility of Covid-19
+related products like Oxygen Cylinder, Beds,
+Plasma Doners, etc in case of emergency
+•HTML | CSS | JS | Netlify
+News Aggregator Project Github
+•It is a web application which aggregates data
+(news articles) from multiple websites. Then
+presents the data in one location.
+•Web application scrapes the data from web-
+site (news articles) that we have provided.
+•Successfully implemented SEO strategies to
+optimize website visibility and improve search
+engine rankings
+•HTML | CSS | Bootstrap | Django | SEO
+COURSEWORK
+•Data Structures and Algorithms
+•Object Oriented Programming
+•Database Managemet System
+•Operating System
+ACTIVITIES
+Problem Setting for Annual Technical Flag-
+ship event for PICT
+•PICT organises their Annual Flagship Event
+which has three parts Impetus, Concept and
+Pradnya
+•PRADNYA event is competitive programming
+event where many coders from PICT and
+other colleges of India participate and solve
+this question to Win the event
+•I was a part of Problem Setters of PRADNYA
+where I was responsible for contributing the
+problems for event
+Solved more than 1000+ Problems on vari-
+ous programing platforms
+•Solved various coding problems based on data
+structures algorithms and logic building on
+various programming platforms like code-
+forces, codechef, leetcode, geeksforgeeks
+ORGANISATIONS
+•PICT ACM Student Chapter (PASC)- MemberEXPERIENCE
+Problem Setter Intern
+IMochaWorks
+ὌApril 2023 – Present Pune, Maharashtra
+•Preparing new DSA based problems for Coding Interviews and
+Online Contests
+•Preparing Solution and Test Cases for same curated problems
+SKILLS
+•Problem Solving
+•C++,Data Structures , OOP
+•HTML, CSS , Bootstrap, Django, MySQL
+•Git, Github
+EDUCATION
+Bachelor of Engineering Computer Engineering
+Pune Institute of Computer Technology | CGPA: 8.24
+ὌJune 2020 - May 2024
+Higher Secondary Certiﬁcate
+Janta Highschool and Jr.College of Science, Neri, Jalgaon
+Percentage: 77.08
+ὌApril 2018 - March 2020
+Secondary School Certiﬁcate
+I.L.M.V.J.P Sec. and Higher Sec. School, Jamner, Jalgaon
+Percentage: 94.80
+ὌJune 2017 – March 2018
+ACHIEVEMENTS
+•Pupil on Codeforces (Max. Rating 1320) | Entitled with Pupil
+position on renowned competitive programming website
+known as Codeforces 
+•3 Star coder on Codechef (Max.Rating 1617) | Entitled with
+the 3 stars on Indian Competitive Programming platform :
+Codechef
+•Secured the rank of 54 among 3801 participants in Starters 82
+Div.3 Codechef
+PROGRAMMING PROFILES
+•Github (PrasadsGh) 
+•Codeforces (rocklee07) 
+•Codechef (noo0b) 
+•Leetcode (prasadsLc) 
+•GeeksforGeeks (prasadsgfg) 
+•CSES Problemset (prasadscses) 

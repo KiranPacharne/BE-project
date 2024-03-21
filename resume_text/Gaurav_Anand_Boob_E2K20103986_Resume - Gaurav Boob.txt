@@ -1,0 +1,47 @@
+Gaurav Anand Boob +91-9403467505
+BE ENTC gauravboob5@gmail.com
+Pune Institute Of Computer Technology, Pune Github | LinkedIn
+Education
+•B.E ENTC 2020 - 2024
+Pune Institute Of Computer Technology. CGPA : 9.09 Pune, India
+•Class XII 2018 - 2020
+St. Lawrence High School and Junior College : Percentage - 85.03% Nashik, India
+Experience
+•Frontend Intern at IEEE May 2022 – May 2023
+IEEE Pune, India
+–Enriched front-end development of the IEEE Pune Website, while actively engaging in versatile projects like
+AISYWLC and others.
+–Achieved a 40% acceleration in page load times and elevated user engagement through the creation of an exception-
+ally responsive and dynamic front-end using HTML/CSS. Implemented an SQL database strategy for streamlined
+data retrieval.
+•Data Science Intern Sept 2022 – Nov 2022
+Vasundharaa Geo Technologies: Pune, India
+–Led advanced tech stack utilization, employing Computer Vision and Image Segmentation techniques (U-Net,
+Neural Networks) to achieve 87% accuracy in object detection, segmentation and recognition.
+–Drove innovation by strategically implementing diverse Deep Learning and Machine Learning algorithms, resulting
+in a remarkable 25% reduction in complex satellite image processing time during the internship.
+Projects
+•Jigsaw Puzzle Solver
+Developed a jigsaw puzzle solver using advanced deep learning techniques and custom architecture.
+Trained the solver for accurate 6x6 puzzle piece permutation prediction and placement.Applied permuta-
+tion learning concept.Live Url | Github
+–Tools & technologies used : Python, TensorFlow, Keras, OpenCV, Streamlit
+•Automatic Number Plate Reader
+Leveraged the OpenCV library to accurately detect and isolate license plate numbers, seamlessly storing
+them using SQL for efficient retrieval and analysis.
+–Tools & technologies used : Python, TensorFlow, Keras, OpenCV
+Technical Skills
+•Programming: Java (Proficient), C++, Python
+•Data Science & Data Analysis : ML Algorithms , Deep Learning , Computer Vision, Tableau
+•Libraries/Frameworks: Pandas, Numpy, Scikit-learn, Streamlit, Matplotlib, Seaborn
+•Web Skills & Database: HTML, CSS, Mysql
+Achievements
+•Winner, Datawiz Hackathon, CREDENZ’23, PICT IEEE Student Branch, PICT, Pune 2023
+•Content Writer, Data Science Newsletter with over 100 subscribers substack@gaurav24 2023
+•Finalist, MLWare: The Machine Learning Championship, Technex’23, IIT BHU, Varanasi 2023
+Certifications
+•IBM Certified - PY0101EN: Python Basics for Data Science.
+•Google - SYY33SLFF6GV: Share Data Through the Art of Visualization.
+•Omdena : Open Source AI Project Contributor.
+Hobbies
+•Cricket, Music, Hiking/Treks, Badminton, Travelling

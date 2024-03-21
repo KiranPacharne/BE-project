@@ -1,0 +1,78 @@
+T ejas Kohade
+C ompe titive Pr ogr ammer | @ sanchitk ohade@gmail.c om |+91 876719 7284
+Pune, India | Linkedln: TejasKohade
+EDUCATION
+PUNE INSTITUTE OF COMPUTER
+TECHNOLOGY
+BE in Electronics and
+Telecommunications
+2020- 2024 | Pune, India
+C um.GP A: 8.30
+DINANATH JUNIOR COLLEGE
+2020 | Nagpur,India
+Class XII percen tage: 78.3%
+PODAR INTERNATIONAL SCHOOL
+2018 | Amravati,India
+Class X percen tage: 88.8%
+LINKS
+LinkedIn:// TejasKohade
+CodeForces:// sanchitkohade
+CodeChef: //killmonger0928
+LeetCode: //Tejas Kohade
+GFG: //sanchitkohade
+Github: //sanchitkohade
+SKILLS
+PROGRAMMING
+•DSA
+•PROBLEM SOLVING
+•OOP
+•CLOUD COMPUTING
+LANGUAGES
+•PYTHON
+•C++
+•C
+•JAVA
+SOFTWARE DEVELOPMENT
+•HTML
+•CSS
+•JavaScript
+•Flutter
+•Google FireBase
+OTHERS
+•MySQL
+•GithubACHIEVEMENTS
+•Rated 1810 (4Stars) onCodechef i.e.country rank 9148 on
+codechef.
+•Rated 1053 (Newbie) onCodeForces.
+•Rated 5staronHackerRank.
+•Secured Global Rank 8/4500+ inCodechef January Long (Div. 3).
+•Secured Global Rank 249/4500+ inCodechef March Lunchtime
+(Div. 3).
+•Secured Global Rank 8/2500+ inCodechef January Long (Div. 3).
+•Secured Global Rank 1011/2800+ inCodeChef Staters 32(Div2).
+•Solved more than600+ problems onvarious coding websites such
+Codeforces, Codechef,Leetcode,GFG,Codestudio etc.
+•Intop4.6percentile ofJEEMains 2020 heldbyNTA.
+PROJECTS
+MOVIES-LOT
+Tech S tack: Flu t ter, Google Firebase
+•Developed MoviesLot social app,enabling users toregister,
+connect withfriends, andpostmovie reviews.
+•Implemented user-friendly features, including personalized movie
+profiles, rating oftheparticular movie, castofmovie, images.
+•Implemented aWatch Later feature, allowing users tocurate a
+personalized movie listforfuture viewing
+SAFETY - WOMEN SAFETY DEVICE AND APP
+Domain: IO T & App de v
+•Developed anAppforthisProject which willconnect
+Micro-Controller toMobile viaBluetooth.
+•When themicro-controller button ispressed, itsends thesignal to
+mobile, Mobile appwillrespond bysending thecurrent location to
+theuserclose ones.
+•Appisbuiltbyusing MITAPPINVENTOR .
+CERTIFICATIONS
+•Cloud Computing Completion Certificate (Bootcamp byPICT).
+•Problem Solving inC++(HackerRank).
+•JAVA Basic (HackerRank).
+•Database Management System inSQL(HackerRank).
+•PYTHON Basic (HackerRank).

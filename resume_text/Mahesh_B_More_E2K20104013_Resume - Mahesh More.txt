@@ -1,0 +1,97 @@
+Mahesh More 
+Competitive Programmer || Interested in Problem Solving || Data Structure and Algorithms 
+moremahesh068@gmail.com 
+7507057785 
+Sr no 211 Vidya Vihar Colony
+Lane no :-3 , DP Road ,
+Malwadi , Hadapsar , Pune -
+28, Pune, India 
+linkedin.com/in/mahesh-
+more-b42844206 
+SKILLS 
+C 
+C++ 
+Python 
+HTML 
+CSS 
+Data Structure and
+Algorithms 
+SQL 
+NumPy 
+Pandas 
+JavaScript 
+Node.js 
+Mongodb 
+OpenCV 
+LANGUAGES 
+English 
+Full Professional Proﬁciency 
+Hindi 
+Full Professional Proﬁciency 
+Marathi 
+Native or Bilingual Proﬁciency 
+INTERESTS 
+Basketball 
+Gym 
+Swimming 
+Travelling 
+Trekking 
+EDUCATION 
+Bachelor of Engineering 
+SCTR's Pune Institute of Computer Technology, Pune 
+08/2020 - Present
+, 
+ 
+8.89 CGPA 
+Electronics and Telecommunication
+Engineering 
+Grade 12 (Central Board of Secondary Education) 
+Kendriya Vidyalaya Southern Command, Pune 
+06/2018 - 07/2020
+, 
+ 
+88.6% 
+Grade 10 (Central Board of Secondary Education) 
+Kendriya Vidyalaya Southern Command, Pune 
+03/2018
+, 
+ 
+82.4% 
+PERSONAL PROJECTS 
+Sign Recognition Model (Finger counter) (03/2022) 
+Created an ML model which was capable of 
+recognizing number of ﬁngers shown as an input from 
+camera
+module 
+Python Libraries: NumPy, Pandas, OpenCV 
+Hostel Website
+ (12/2022)
+ 
+Worked upon creating a website meant for Hostel. Tech stack used are HTML, CSS, MONGODB Atlas, NodeJS 
+WORK EXPERIENCE 
+Software Support Engineer 
+ASIC Networking Services OPC Pvt Ltd 
+02/2023 - 04/2023
+, 
+ 
+Pune 
+Software testing 
+CERTIFICATES 
+Object Oriented Programming using C++
+ (09/2021 - 10/2021)
+ 
+Python Programming
+ (02/2022 - 04/2022)
+ 
+IBM Data Science Professional
+ (08/2022 - 09/2022)
+ 
+ACHIEVEMENTS 
+Solved more than 500 problems on diﬀerent 
+programming platforms (300+ on
+Codeforces) 
+Runner-up at SYTYCS Debugging Competition held by Bharti Vidyapeeth 
+Participated in INC(Impetus & Concepts) an 
+International level project competition 
+Courses 
+Achievements/Tasks 

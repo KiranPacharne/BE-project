@@ -1,0 +1,38 @@
+SUYOG KOKAJE
+♂¶ap-¶arker-altPune, India
+♂¶obile-alt+91 7058986354 /envel⌢pesuyogkokaje6@gmail.com /linkedinsuyogkokaje /githubsuyogkokaje
+EDUCATION
+B.E. Information Technology , PICT Expected 2024
+Relevant Coursework : DSA, OOP, DBMS, OS
+CGPA : 8.2
+SKILLS
+Languages C++, JavaScript, Python
+Frameworks Next, Node, Flutter, FastAPI
+Databases MySQL, MongoDB
+Tools VS Code, Git and GitHub, Docker, Postman
+PROFILES
+•LeetCode : suyogkokaje (max. 2115)
+•Codeforces : tsubasa otori (max. 1549)
+PROJECTS
+Roll CallVisit
+•Mobile and Desktop application developed to bring transparency in attendance marking in schools.
+•Project was developed by team of 6 during Smart India Hackathon 2022 finale .
+•I worked upon the schema of the database and also created smooth and pixel perfect UI screens .
+•Technology : Flutter, AWS Services, FaceNet
+Online Judge APIVisit
+•RESTful API for the PASC Online Judge with optimized performance to efficiently handle 150+ concur-
+rent participants .
+•Implemented rate limiting andrequest throttling to manage the server load and API abuse.
+•Conducted thorough testing and debugging of the API to identify and resolve issues with 170+ club members.
+•Technology : Django, Judge0, Redis, Docker
+ACHIEVEMENTS
+•Smart India Hackaton 2022Finalist
+•Knight (top 5%) onLeetcode
+•16th Rank from more than 2000 participants in SWOC (Script Winter Of Code)
+LEADERSHIP
+PICT ACM Student ChapterTechnical Head
+•Leading the technical team ofIndia’s 4 times best ACM Student Chapter .
+•Organised and delivered sessions on Web Development, Git/GitHub, Competitive Programming for
+250+ freshies through ACM chapter.
+•Actively leading the development of platforms for our flagship event Pulzion’23 which will be used by 1000+
+participants .

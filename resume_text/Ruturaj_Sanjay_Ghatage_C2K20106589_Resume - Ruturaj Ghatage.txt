@@ -1,0 +1,90 @@
+Ruturaj Ghatage
+ru tur ajgha tage33@gmail.c om | +91 9421 9 7 59 79 |Github |LinkedIn
+EXPERIENCE
+AZODHA PRIVATE LIMITED | SDE Intern
+Dec 2022 – Presen t | Pune
+•Wasinvolved indevelopment ofavideo conferencing platform ,
+where Icontributed significantly totheimplementation and
+refinement ofAPIs toenable seamless integration withvarious other
+software systems ofthecompany.
+•Incharge ofdeveloping anotification service byseamlessly
+integrating Firebase Cloud Messaging (FCM)withtailored database
+modifications andintricate business logic.
+•Reduced Docker container sizes resulting inasignificant decrease in
+deployment costs forECSAWS .Thisresulted inover250APIcalls
+savings across 9services.
+VERSATILE IT SERVICES | Software Intern
+Sept 2022 – No v 2022 | K olhapur
+•Ledthedevelopment ofacomprehensive end-to-end techsolution
+using cutting-edge technologies todeliver seamless experience.
+•Created aPostgres database using Prisma ORM anddeployed iton
+Render foroptimal performance andscalability.
+•Developed thebackend Rest APIinTypescript anddeployed iton
+Render toensure theapplication hadthenecessary backend
+infrastructure tofunction seamlessly.
+•Developed astate-of-the-art Flutter application andReact webapp
+thatintegrated withtheAPItooffer users ahigh-quality experience.
+PUNE INSTITUTE OF COMPUTER TECHNOLOGY |
+Undergraduate Research Intern
+Oct 2022 – Presen t | Pune
+•Built aSystem forextracting entities from customer conversation
+audios .Used Wav2Vec2 model forSpeech Recognition andFlair,
+CoreNLP model forNamed Entity Recognition. Achieved an87%
+accurate model toextract right entities.
+•Researched VMallocation policy intheimplementation ofallocation
+graphs. Thedataforthegraph wasobtained from collected data
+through Anomaly Detection .
+PROJECTS
+CLIENT-HIVE | Node JS | Prisma | PostgreSQ L | React JS
+•Acollaborative platform ,where users canstore andshare files,
+communicate inreal-time, andschedule appointments.
+•Italsohassupport forvideo conferencing appointments all
+while keeping their clients intheloop.
+•Astheleaddeveloper, Imanaged thedevelopment, deployment
+ofthebackend while providing assistance tothefrontend team.
+FLAVOURS UNITED | Flutter | Firebase
+•ThisappisaFood blogging platform where bloggers can
+upload photos andvideos.
+•There isagroup chat feature inbuilt which allows thebloggers
+tocommunicate amongst themselves.EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+Bachelor of Computer
+Engineering (B.E)
+J ul y 2020 – J une 2024 | Pune,
+Mahar ash tr a
+CGP A : 9.54/ 10
+SANJAY GHODAWAT IIT AND
+MEDICAL ACADEMY
+12th - Maharashtra State B oard
+(HSC)
+Apr 2018 – A ug 2020 | Pune,
+Mahar ash tr a
+Percen tage: 91.23%
+SKILLS
+LANGUAGES
+•C++•Python
+•Dart •JavaScript
+•SQL•TypeScript
+TECH-STACK
+•Node JS•React JS
+•Firebase •MongoDB
+•Machine Learning •NLP
+UTILITIES
+•Git/Github •Docker •Prisma ORM
+•Postman •AWS
+RESEARCH WORK
+•Handling andextracting keyentities
+from customer conversations using
+Speech recognition andNamed Entity
+recognition
+VOLUNTEERING
+PICT ACM STUDENT CHAPTER
+1.Managed ateam of50people in
+organizing annual technical event
+ofPICT ACM Student Chapter
+2.Mentored abatch of30students
+andtaught them basic to
+intermediate concepts ofFlutter
+Development under PICT ACM
+Student Chapter

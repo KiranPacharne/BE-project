@@ -1,0 +1,40 @@
+EDUCATION
+Bachelor of Engineeering,
+Pune Institute of Computer Technology
+CGPA  : 8.692020 – 2024
+Pune, India
+Higher Secondary Certificate (HSC),
+V.G. Vaze college
+HSC Percentage : 73%2020
+Mumbai, India
+School Secondary Certificate (SSC),
+Dnyanganga Vidyalaya
+SSC Percentage: 85%2018
+Thane, India
+PROJECTS
+Tech-Maps
+•A web application that's provides the complete roadmap of each Technical domains.
+•An Educational site which help students to get knowledge of each tech domain and explore it from 
+basic to advance.
+•Technologies Used : HTML, CSS, React JS
+Tech-Blogs
+•A web application where each user can create its own blogs provided with JWT authentication and 
+fetching each requested post using Axios.
+•Technical Used : ReactJS, MongoDB Atlas, ExpressJS, NodeJS, JWT
+TECHNICAL SKILLS
+Programming Languages  :  C++.
+Web Technologies : HTML , CSS  , Javascript , React Js, Mysql
+Tools :  Google colab , VS code.
+Coursework : Data Structures, OOP, Database Management System, Operating System.
+INTERESTS
+Competitive Programming
+Creating Front End Websites
+ACHIEVEMENTS
+•Solved 400+ coding problems on Various coding platforms.
+LANGUAGES
+English Hindi Marathi
+HOBBIES
+Cricket
+Listening MusicKabaddi
+Tae Kwon DoPRATIK GABHALE
+pratikgabhale2002@gmail.com 9870089149 Thane, India Linked in

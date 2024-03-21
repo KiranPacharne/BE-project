@@ -1,0 +1,28 @@
+VEDANSH GUPTA
++91 8237515963 |linkedin.com/in/vedanshgupta |https://github.com/guptavedansh2002
+EDUCATION
+Bachelor of Engineering Electronics and Telecommunication Engineering July 2020 - Present
+Pune Institute of Computer Technology, Savitribai Phule Pune University, India GPA:9.11/10
+Higher Secondary School Certificate, CBSE Board 2018-2020
+Akshara International School, Pune, India Aggregate: 82 %
+COMPETITIONS AND PROJECTS
+Smart India Hackathon June 2022
+•Smart India Hackathon 2022 Finalist
+Smart Document Scanner August 2022
+•A Mobile App developed for uploading documents directly to UIDAI portal
+•Facilitates upload of documents directly to UIDAI portal using server and database combination, here no photograph
+of document is stored in Local Storage of Phone
+Text Curator from Invoice/Bill September 2022
+•Model developed to curate text from Hospital/Lab Invoice or Bills
+•NLP model was developed to find critical information like name, address, email, mobile number from Bills and
+showing all the information in a formal and readable manner to the user.
+Project Management using LogBook May 2023
+•Project Management using Log Book is a ReactJS-based system facilitating efficient task tracking, team
+collaboration, and progress monitoring with an intuitive, user-friendly interface for seamless project coordination.
+TECHNICAL SKILLS
+Languages : Java, Python, C/C++, SQL, JavaScript, HTML/CSS
+Libraries : pandas, NumPy, Matplotlib
+Technologies : AWS, Open-CV
+CERTIFICATIONS
+*Machine Learning by Stanford University
+*AWS Academy Cloud Foundations

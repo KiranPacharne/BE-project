@@ -1,0 +1,67 @@
+AYUSHLanguages
+C++
+HTML, CSS
+Javascript
+RDBMS (MySQL)
+Libraries
+ReactJS
+Framework
+Bootstrap
+Other
+GIT/Github
+MongoDBSKILLS+91 9359678343 mkayush2002@gmail.com AYUSH  MALASANE
+Final year engineering student in Electronics and Telecommunication
+Proficient in modern web technologies for creating interactive and
+responsive user interfaces.
+Skilled in Problem-solving and Data Structures, with a proven ability to
+tackle complex challenges effectively.PROFILE
+Designed and developed a visually appealing and responsive landing
+page for a pet-focused website using Bootstrap, HTML, CSS, creating
+an engaging UI and enhancing the overall user experience.
+Utilized Bootstrap's responsive grid system and components to
+optimize webpage ensuring accessibility and improving engagementGERICHT RESTAURANT WEBSITE 
+EDUCATION
+Podar International School, Amravati
+2017-2018                                     CBSEGolden Kids Junior College, Amravati
+2019 - 2020HSCB.E ELECTRONICS AND
+TELECOMMUNICATIONS
+SCTR'S Pune Institute of Computer
+Technology - Pune
+2020 - present
+EXTRA CURRICULAR
+Training & placement coordinator at TnP cell PICT
+Member of IEEE club in PICT
+Science Fiction Enthusiast(88.15%)
+(96.80%)(8.6 C.G.P.A)(ReactJS | Figma )
+Developed a visually stunning restaurant landing page using
+ReactJS, ensuring seamless mobile navigation, engaging multimedia
+integration, and an exceptional user experience.
+Leveraged FIGMA to transform design concepts into a fully
+responsive ReactJS website, creating collapsing navigation bars,
+dynamic video and photo sections
+Employed media queries for mobile responsiveness, strategic
+content placement, resulting in enhanced credibility, user
+interaction, and site performance.PROJECTS
+EXPERIENCE
+OASIS INFOBYTE     (WEB DEVELOPMENT INTERN)
+Proficient in HTML, CSS, and JavaScript to create and maintain
+responsive web pages with a strong emphasis on web design
+principles.
+Developed user-friendly interfaces using modern front-end
+frameworks like React and Angular, while integrating UI/UX
+wireframes to enhance the visual appeal and functionality of web
+applications.
+Collaborated closely with UI/UX designers to translate design
+concepts into fully functional and aesthetically pleasing web
+experiences, focusing on cohesive layouts, typography, color
+schemes, and graphical elements.COURSE-WORKMALASANE
+PETPALS Website                  (HTML|CSS|Bootstrap)
+Hardware project - PCB  fabrication, designing done from scratch 
+ sensor & components mountingDROWSINESS DETECTION SYSTEM      (Embedded C)Data Structures and Algorithm in C++
+Object Oriented Programming in C++
+Operating System
+Database Management
+Computer Networks
+Network Security
+LANGUAGES
+English  |  Hindi  |  Marathi

@@ -1,0 +1,47 @@
+DISHA CHINCHOLE
+Final year student at Pune Institute of Computer Technology
+/ne+91 9421361569 chincholedisha@gmail.com dishachinchole /gtbDisha-3503
+EDUCATION
+Pune Institute of Computer Technology 2020–2024
+Bachelors of Engineering - CGPA -9.087 Pune, India
+K.C.E Society’s M.J.College 2019–2020
+HSC - Science - Percentage -86.62% Jalgaon, India
+K.C.E Society’s A.T.Z High School 2017–2018
+SSC - - Percentage -96.8% Jalgaon, India
+COURSEWORK / SKILLS
+•Operating Systems
+•OOPS Concept•Data Structures &
+Algorithms•Database Management
+System (DBMS)•Web Development
+TECHNICAL SKILLS
+Languages: C++, SQL, HTML, CSS, JavaScript
+EXPERIENCE
+VOIS for Tech 2022
+Project Intern Pune
+•Got Selected in Top 40 Teams out of 500+ teams to represent the model during Hackathon providing
+Internship opportunity in the Organisation.
+•Developed a Machine Learning Model for Breast Cancer Detection that makes use of Neural
+Network using Tensorflow and Keras.
+•Certificate. 
+PROJECTS
+Movie Review Website |JS, CSS, HTML 2023
+•A Web portal for movie Reviews wherein, when the page loads, it fetches a list of popular movies from the
+provided API and displays them as cards on the page.
+•When a search query is submitted, the existing movie cards are cleared, and new cards are generated based on
+the search results
+TIC-TAC-TOE Game |HTML, Javascript, CSS 2023
+∗This implementation covers the basic logic and presentation of the Tic Tac Toe game. Players can play against
+each other, and the game detects wins and ties.
+∗This Game accommodates responsive design through media queries to adjust the layout for different screen
+sizes.
+EXTRACURRICULAR
+PICT CSI Students Club (PCSB) and Coding Forum 2021
+Role: Team member Pune
+∗Developed a Ayurveda Website in a Intercollege Hackathon
+∗Certificate. 
+ACHIEVEMENTS
+•Finalists in All India Hackathon for Women In Tech Programme
+•Secured Gold Medal in International English Olympiad during Schooling
+•Received Scholarship for being amongst the Top 1 percent candidates during Higher Secondary
+LANGUAGES
+•English •Hindi •Marathi

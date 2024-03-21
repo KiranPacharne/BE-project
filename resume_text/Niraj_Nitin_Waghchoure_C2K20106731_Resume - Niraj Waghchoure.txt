@@ -1,0 +1,45 @@
+Niraj Waghchoure Email: waniraj2810@gmail.com
+Mobile:+91-8237698990
+Github: github.com/nrjGH
+Education
+•Pune Institute of Computer Technology Pune, India
+Bachelor of Engineering - Computer Engineering; SGPA: 8.83 July 2020 - July 2024
+•K.V.N. Naik College of Science , Arts and Commerce Nashik, India
+HSC Percentage: 83.00 July 2018 - July 2020
+•Symbiosis School, Nashik Nashik, India
+CBSE Percentage: 88.00 July 2008 - July 2018
+Skills Summary
+•Languages : C++, Solidity, HTML, SQL, Go(Beginner)
+•Tools : Blender
+•Technical : Data Structures and Algorithms, Object Oriented Programming, Database Management Systems
+•Platforms : Windows
+•Soft Skills : Leadership, Event Management, Public Speaking, Time Management
+Projects
+•PICT Passport Website: (Blockchain, HTML, CSS ) : (Work in progress) This website is for authentication of the
+achievements of students studying in a college. The students will have to upload their achievements and it will be
+authenticated by the college and it will provide them with a college passport that will highlight all their achievements and
+personal information which they can directly send to companies as an authenticated set of achievements.
+•3D Website: (React Three Fiber, ThreeJS, HTML) : (Work in progress) My team is working on a 3D website which will
+help the users to navigate in an imaginary 3D space and provide a better user experience. 3D models were modelled in Blender
+by the design team and development team imported them in the website using React Three Fiber. It uses ThreeJS, a
+javascript library.
+•Escape Room Game (AR/VR) : Developed a game that can be played using a VR headset. In this game, the person has to
+solve puzzles to escape out of the room which he is stuck in. Player uses his controllers to interact with the environment. We
+used Blender for Design and Unity for the scripts
+Honors and Awards
+•I have solved 300+ questions on various coding platforms.
+•I was the Discipline In-charge of my house in 9th grade.
+•Participated in Inter College Table Tennis Tournament in Second year of Engineering and was the leader of the team.
+Other Activities
+•Attended an AR/VR workshop : My college arranged a workshop where students were given training to use VR headsets.
+It was held by industry experts and they guided us on how actually they work on a new project. We were able to use the
+headsets and make interactions with it using our game.
+•Member of GameDevUtopia, PICT : I am a part of PICT club in which I design games by using softwares like Blender. I
+can do modelling and animations in Blender.
+•GDU Blender Workshop (Online) : I conducted a session on Blender where I taught interested students the basic working
+of blender and how to make basic models and animations in it.
+•Promoted GameDevUtopia : I hosted an offline session which encouraged juniors to join the club. I took a presentation
+about the work of the Design Team and a demonstrated modelling in Blender.
+Volunteering Experience
+•Volunteer of Impetus and Concepts - Flagship Event of PICT : I worked as a volunteer and Domain Head for Machine
+Learning domain in InC. I organised the entire schedule for machine learning projects and coordinated with the judges.

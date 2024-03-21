@@ -1,0 +1,42 @@
+Indrajit Patil
+9370025790 |indrajitpatil1747@gmail.com |https://www.linkedin.com/in/indrajit-patil-251720172/ |
+https://github.com/indra1747
+Education
+Pune Institute of Computer Technology Pune
+Bachelor of Engineering in Information Technology : 9.2/10 Sep 2020 – Aug 2024
+Dr. D. Y. Patil Institute of Technology Pune
+XII Science HSC : 84.40 May. 2018 – Feb 2020
+St.Ursula High School Pune
+X General Studies SSC : 90.6 Feb 2018
+Projects
+BlackJack |HTML, CSS, Javascript May 2022
+•Build a popular card game Blackjack (also known as 21), where players attempt to beat the dealer by getting a
+hand value as close to 21 as possible without exceeding it.
+•Utilized HTML/CSS for the game interface and JavaScript for handling user actions like hit, stand, and bet.
+•Used random number generation to simulate the shuffling of a deck and drawing of cards.
+•Deployed the project on Netlify .
+Cryptoverse |HTML, CSS, Javascript, ReactJs Nov 2022
+•Build a real-time crypto price tracking application using React, Axios, and the RapidAPI platform.
+•Used Axios to make HTTP requests to the API and parse the JSON response.
+•Displayed the cryptocurrency prices in a user-friendly interface.
+•Used React hooks to manage the state of the application.
+•Deployed the application on Netlfiy.
+Blog app using ReactJS |HTML, CSS, Tailwind, React, Javascript Feb 2023
+•Build a blog site which is fully responsive in nature
+•User can perform login logout operation.
+•Implemented featured and recent posts, categories, full markdown articles, author information, comments.
+Technical Skills
+Languages : Java, C++, SQL , JavaScript, HTML/CSS
+Frameworks : React, MongoDB, Tailwind
+Developer Tools : Git, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse
+Certifcates
+1. Online Certification Course on ”Full Stack Web Application Development:Demystified” by PICT.
+2. The Complete 2022 Web Development Bootcamp
+3. React - The Complete Guide (incl Hooks, React Router)
+Links
+•Leetcode: indrajit1747
+•Codechef: indrajit1747
+•Codeforces: indrajit1747
+Extra-Curricular Activities
+•Football: Played zonal level football
+•Triathlon: Winner in olympic distance triathlon

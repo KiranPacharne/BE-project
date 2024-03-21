@@ -1,0 +1,81 @@
+Kaveri Raut
++91 94213293 70 | r au tk a veri126@gmail.c om | LinkedIn:/ / K a veriR au t
+Education
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+BEinComputerEngineering
+June2020‑July2024|Pune
+CGPA:9.21/10
+RESIDENTIAL JUNIOR
+COLLEGE
+July2018‑May2020|Ahmednagar
+ClassXIIPercentage: 90.46%
+L. N. HOSHING VIDYALAYA
+June2013‑June2018|Jamkhed
+ClassXPercentage: 96.60%
+Links
+GitHub://KaveriRaut
+LinkedIn://KaveriRaut
+GeeksForGeeks://KaveriRaut
+CodeChef://KaveriRaut
+Leetcode://KaveriRaut
+Portfolio://KaveriRaut
+Skills
+PROGRAMMING :
+•ProblemSolving•DSA
+•OOP•DBMS•OS
+LANGUAGES :
+•C++•SQL
+WEB DEVELOPMENT :
+•HTML•CSS•JavaScript
+•ReactJS•Node.js
+•Express.js(novice)
+DATABASE :
+•MongoDB•MySQL
+FAMILIAR :
+•Git•GitHub
+Hobbies
+•ReadingBooks
+•PlayingGuitar
+•Drawing&Painting
+•ListeningMusicProjects
+SAKSHAM-GRAM MAHILA |SEEPROJECT
+Hackathon Project - MERN Application
+•MyRole: BackendDeveloper.
+•TechStack: ReactJS,Node.js,Express.js,RESTAPI,MongoDB.
+•Description: Webapplicationempoweringwomeninruralareaswith
+diversedomesticjobopportunitiesandtheabilitytopostsuchjobs
+orsellhomemadeproductsanddomesticservices.
+•Theplatformprovidesdynamicsearchoptionsforjobmatchingand
+accessingrequiredworkbasedonaspecificlocationorcategory.
+SECRET KEEPER APP |SEEPROJECT
+Full Stack MERN Application
+•TechStack: ReactJS,MaterialUI,Node.js,Express.js,RESTAPI,
+MongoDB,JWTAuthentication.
+•Description: Userscanmanagetheirtaskseasilybycreatingthe
+relevantnotesstoredsecurelybytheirdateofcreation,ensuringeasy
+andsafeaccess,dynamicsearching,updatingnotes,andeasy
+deletionofnotesoncetasksarecompleted.
+•Enableduserstoviewthedetailednotedescriptionthroughaclean
+andresponsiveinterface.
+WEATHER APP |SEEPROJECT
+API Based Application
+•TechStack: Html,CSS,JavaScript,Node.js,Express.js,
+OpenWeatherMapAPI.
+•Description: FetchesWeatherdataforthecitywho’sweatheryou
+wanttoknow. UsesNodeJSandExpressJSforfetching,sendingand
+processingdatathatreceivedfromOpenWeatherMapWeatherAPI.
+Certificates
+•UDEMY - MASTERING DATA STRUCTURES & ALGORITHM
+USING C AND C++ |CERTIFICATELINK
+•UDEMY - THE COMPLETE 2022 WEB DEVELOPMENT
+BOOTCAMP |CERTIFICATELINK
+Achievements
+•Secured98.97%inMHT‑CET,ranked1385outof4.5lakhs+students.
+•Solved600+problemsacrossvariouscodingplatforms.
+•1stRankinCollege(HSC)‑90.40%(Maths‑100/100)
+•1stRankinSchool(SSC)‑96.60%(Maths‑100/100)
+•State‑RankholderinMTSExam,NMMSScholarshipWinner
+Organisation
+•MemberofPICTCSI‑StudentBranch
+•MemberofPICTACM‑StudentClub

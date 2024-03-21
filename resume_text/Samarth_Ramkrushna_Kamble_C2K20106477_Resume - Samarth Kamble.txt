@@ -1,0 +1,57 @@
+Samarth Kamble
+♂phone(+91)9146697212 /envel⌢pesamarthkamble7212@gmail.com /linkedinlinkedin.com/in/samarth-kamble-4b2993213/ /github
+github.com/Samarth7212
+Education
+Pune Institiute of Computer Technology 2020 – Present
+B.E. in Computer Engineering |CGPA: 8.89 Pune, Maharashtra
+Arihant College 2020
+Class XII |82.31 % Pune, Maharashtra
+MIT School 2018
+Class X |93.60 % Pune, Maharashtra
+Relevant Coursework
+•Data Structures and Algorithms
+•Database Management System•Object Oriented Programming
+Experience
+Gully2Global April 2023 – July 2023
+SDE Intern(Remote) Bengaluru, Karnataka
+•Developer for Phase 1 Implementation: Spearheaded the development of the initial phase of the iSure Tech project at
+Gully2Global, a dynamic insurance intermediary. Took charge of designing and implementing a user-friendly insurance
+application using Flutter for the front-end and Node.js for the robust backend.
+•Contributed to Seamless User Experience: Played a pivotal role in crafting an intuitive user experience by designing and
+coding key features within the application. Employed Flutter to develop interactive and responsive front-end
+components, enhancing the accessibility and engagement of the platform for users.
+•Enabled Phase 1 Functionality: Integrated APIs seamlessly for iSure Tech’s Phase 1, enhancing real-time data processing
+and overall performance.
+NICE January 2023 – July 2023
+Project Intern(Remote) Pune, Maharashtra
+•Collaborated with a teammate to conceive and develop the Dev2Dev forum platform, guided by NICE team.
+•Created Dev2Dev, a community-centric forum for employees to address technical queries and product-related questions.
+•Utilized ReactJS for frontend development and harnessed NodeJs for backend implementation.
+•Implemented diverse features including posting, replies, robust search, and multimedia uploads to enrich user experience.
+Projects
+Pulzion22-App |Flutter [Deployement ] April 2022
+•Developed a flutter application for PICT ACM Student Chapter’s annual event Pulzion’22
+•3000+ overall registrations and crossed 400+ downloads mark on play store.
+•Implemented the business logic for MCQ quiz section and integrated API calls.
+•Implemented user registration and authentication.
+•Contributed in UI for user profile.
+Pitch-N-Fund |Flutter, NodeJS [Source Code ] May 2022
+•Developed a flutter application , creating a platform which connects entrepreneurs to small scale investors.
+•The investors can see the startups and invest in them.
+•Implemented the user interface, business logic and workflow for the app.
+Chat-App |Flutter, Firebase [Source Code ] February 2022
+•Developed a simple group chatting application using firebase for backend.
+•User can login and join the chatroom.
+•The user credentials and messages appeared in the chat room are stored as collections.Technical Skills
+Languages : C++, Python, JavaScript, Dart
+Developer Tools : VS Code, Eclipse, Android Studio
+Technologies/Frameworks : Flutter, NodeJS, GitHub
+Achievements
+•1st rank at NICE Virtual Internship Program.
+•Solved 350+ problems on LeetCode.
+•Solved 260+ problems on CodeChef(Highest rated 1639 3*).
+•Solved 160+ problems on CodeForces.(Highest rated 917)
+Links
+•LeetCode Profile
+•CodeChef Profile
+•CodeForces profile

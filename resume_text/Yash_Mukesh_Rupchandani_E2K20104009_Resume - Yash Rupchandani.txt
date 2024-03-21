@@ -1,0 +1,38 @@
+YASH RUPCHANDANI
++91 7798180537 Pune, India
+yashrupchandani432@gmail.com linkedin.com/in/yash-rupchandani/
+EDUCATION
+Pune Institute of Computer Technology Pune, India
+B.E - Electronics and Telecommunication, CGPA: 8.9 Expected{2024
+St. Lawrence High School and Junior College Nashik, India
+12th grade - Secured 85.38 percentage (HSC) 2020
+Smita Patil Public School Shirpur, India
+10th grade - Secured 93 percentage (CBSE) 2018
+PROJECTS
+College ERP System
+MySQL and Django
+•A College ERP System based on Django and DBMS is like a digital assistant for colleges.
+•It helps manage everything related to students, courses, and sta. It stores all the information securely in a
+database. It keeps track of student details, attendance, grades, etc.
+•The ERP system manages information about faculty and sta, including their qualications, teaching assign-
+ments, and contact details.
+•As a contributor, my primary focus was on developing the robust database functionality and smooth experience.
+RecipeBook - Your Online Cooking Companion
+MySQL and Django
+•RecipeBook is a Django-based web application that serves as an online cooking companion, helping users discover,
+store, and share their favorite recipes.
+•It oers a user-friendly interface to manage and explore various recipes, making cooking a delightful experience.
+•Each recipe page presents a detailed view with ingredients, cooking instructions, cooking time, and serving size.
+Users can follow step-by-step instructions to recreate the dishes successfully.
+•My primary contribution revolved around the crucial aspect of database management, ensuring smooth data
+storage and retrieval processes for recipes information.
+SKILLS
+Technical skills C C++ DSA OOP DBMS My-SQL Java (Beginner) HTML CSS
+Soft Skills Problem Solving Public Speaking Finance & Management Leadership Teamwork
+VOLUNTEERING EXPERIENCE
+PICT IEEE Student Branch (PISB) October 2021 { Ongoing
+Member
+•PISB is the oldest technical club of PICT.As a volunteer, I happily took part in many club activities and projects,
+and it was a fullling and enjoyable experience.
+•One of the main responsibilities as a volunteer was to actively participate in the planning and execution of
+tech-related events, workshops, and seminars.

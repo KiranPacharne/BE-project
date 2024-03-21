@@ -1,0 +1,51 @@
+                                   Abhishek Katke  
+Contact: +91 9370740205     Gmail: abhishekkatke8602@gmail.com     LinkedIn: abhishek -katke -8602                                               
+EDUCATION   
+- Pune Institute of Computer Tec hnology   
+ Bachelor of Engineering in Electronics & Telecommunications Engineering,   June  2020 – July 2024  
+              Honors in Artificial Intelligence and Machine Learning,                                                   June 2022 – July 2024  
+ GPA: 8.86/10  
+-  Fergusson College, Pune    
+ HSC, Percentage: 84.00 %                                                                                                       June 2018 – July2020  
+-  Modern High School (NCL Campus), Pashan , Pune  
+ SSC, Percentage: 94.80 %                                                                                                        June 2006 –July 2018  
+WORK EXPERIENCE   
+- TSL Consulting Pvt. Ltd                                                                                                            Feb 2023 – June  2023  
+Full Stack Web Development Intern  
+Worked on Live application based on PHP, HTML & CSS  and added Data Visualization  using Python  libraries  
+like Matplotlib, Seaborn . 
+                    
+PROJECTS   
+- Glimpse of Signs  
+• Implemented Zodiac Predicting Website using Python, HTML, CSS, JavaScript,  and MongoDB  
+• Used Frameworks like Flask  and python libraries like SMTP  and API like Twilio  
+- Steganography   
+• Java Project for Encryption and Decryption of Image to hide messages in image using Swing, Awt, util, io  
+packages  
+• User Interface Design: Created a graphical user interface using Swing and AWT components to make the 
+application  
+- E-Commerce Management System   
+• Implemented E -Commerce Management System using MySQL Queries to apply CRUD  operations and 
+DBMS  Concepts  
+ 
+ACHIEVEMENTS   
+- Scored in top 1% Percentile  in MHT -CET exam with over 2  lakh candidates.  
+- Secured 1st Rank  in School in 10th Grade.  
+- Secured 3657  in Google Kickstart Oct 2022  
+SKILLS   
+   TECHNICAL SKILLS                                                                                  NON -TECHINAL SKILLS  
+● Languages: C++, Python, Java                                                 Communication, Critical Thinking  
+● Hardware:  Arduino, Embedded C, PCB Designing              Public Speaking, Debate enthusiast                                 
+● DSA: Problem Solving , OOP                                                      Teamwork  & Leadership  
+● Other: MySQL , MongoDB                                                                                 
+ 
+POSITIONS OF RESPONSIBILITY   
+        - Volunteer (PICT NSS)  
+           Head of Content Team  & Soft Skills Development                                                                     July 2021 – Present  
+        - Member PICT Debate Society                                                                                                       Aug 2021 – Present   
+CERTIFICATIONS   
+- VOIS Fundamentals of AIML  
+- Basics of OOP and C++  
+- SQL by Hacker rank  
+- SQL by Simplilear n 
+- Python  by PICT  

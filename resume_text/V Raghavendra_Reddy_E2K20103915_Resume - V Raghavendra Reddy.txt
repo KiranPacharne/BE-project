@@ -1,0 +1,52 @@
+Hindustan Aeronautics Limited
+Fasthr AIIntern
+Video Creation InternInternship at Hindustan Aeronautics Limited (HAL) focused on radar systems for SU-30 fighter aircraft used by the Indian Air
+Force.
+Meticulous testing and validation of radar functionality, including enemy detection and missile launching.
+Hands-on experience that enhanced technical expertise and instilled a sense of responsibility.
+Exposure to complexities of defence technology during the high-profile project at HAL.
+Proud contribution to critical defence technology during the internship.
+Excelled in producing captivating video micro-courses, product teasers, and social media creatives.
+Gained insights into social media marketing and product promotion strategies through close collaboration with the marketing
+and tech teams.
+Witnessed FastHR AI's impressive growth as one of the early team members, contributing to raising over $620K in a short
+span of time.
+Honed design skills and developed an entrepreneurial spirit and passion for innovation during the internship.Rhythmflows Solutions Pvt. Ltd.
+SDE Intern
+As a SDE Intern at Rhythmflows Solutions, I contributed to various projects including Android and iOS app development.
+Immersed in diverse technologies, gaining hands-on experience and honing technical skills.
+Developed a profound passion for impactful projects and emerging technologies.
+Collaborated with a skilled team in a fast-paced environment, enhancing adaptability and effective communication.
+Eager to leverage this valuable experience to contribute meaningfully to the tech industry and create a positive impact in
+future endeavours.Feb 2023 - Jun 2023
+Jan 2023 -   Feb  2023
+Nov 2021 - Apr 2022vanjavakamraghavendra@gmail.com   |  +91 7620349473   |  https://www.linkedin.com/in/raghavendra-reddy-4501271b6/V Raghavendra Reddy
+PROFESSIONAL EXPERIENCEPune Institute of Computer Technology                                                                                                                       2020 - Present
+Matoshri Junior College                                                                                                                                                           2018 - 2020
+Kendriya Vidyalaya A.F.S. Ojhar                                                                                                                                           2008 - 2018        B.E. (Electronics and Telecommunication) - CGPA 9.01
+        HSC (Class XII) - 79.69 %
+       CBSE (Class X) - 83.80 %EDUCATION
+C/C++, Python, Javascript
+HTML, CSS, Bootstrap, Tailwind, ReactJS, React Native, NodeJS, ExpressJS, MongoDB, SQL
+Pandas, NumPy, Matplotlib, OpenCV, Microsoft Excel, Microsoft Word
+Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Adobe Premiere ProTECHNICAL SKILLS
+KEY PROJECTS
+WPW detection from ECG using 1D CNN
+Employed 1D Convolutional Neural Networks (CNNs) to automate the identification of Wolff-Parkinson-White (WPW)
+syndrome from ECG data.
+Trained the model on a diverse dataset, enabling accurate and timely WPW detection.
+This innovative approach holds promise for enhancing cardiac diagnostics and patient outcomes.
+College Database Management System
+Developed an efficient College Database Management System
+Implemented dedicated logins for Students, Teachers, and HoDs
+Enabled seamless storage of student data, including personal details and internships
+Facilitated easy faculty access for academic monitoring and support
+Incorporated instant online notices, reducing paper usage
+Digitized offline procedures for hassle-free tasks
+Resulted in enhanced college efficiency and communication
+Data Structures and Algorithms
+Object Oriented Programming
+Database Management Systems
+Computer Networks and Security
+Cloud Computing
+JavascriptRELEVANT COURSEWORK

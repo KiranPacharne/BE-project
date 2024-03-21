@@ -1,0 +1,36 @@
+Yash Bhujbal Email: yashbhujbal2018@gmail.com
+Mobile: +91-7038925909
+Github: https://github.com/YashBhujbal2002
+Education
+Bachelor of Computer Engineering , CGPA: 9.084/10
+Pune Institute of Computer Technology Expected 2024
+Relevant Coursework : Object Oriented Programming, Data Structures and Algorithms, Operating System,
+Database Management System, Computer Network and Software Engineering.
+Higher Secondary School Certificate Exam (HSC) , Percentage: 86.00
+Fergusson College Jun 2018-Feb 2020
+Skills Summary
+•Languages : C++, JAVA
+•Tools : SQL, GIT, VSCode
+•Databases : MySQL, MongoDB
+•Web Technology : HTML, CSS, ReactJs, NodeJs, NextJs
+•Soft Skills : Writing, Public Speaking, Time Management
+Projects
+Harmony System
+•Developed feature-rich web app using Next.js and React.js for enhanced performance and seamless experience.
+•Utilized PostgreSQL for efficient data storage and retrieval resulting in scalable and robust nusic platform.
+•Implemented secure user authentication and authorization with Supabase and access control for personalized
+playlists and music preferences..
+•Tech Stack: NextJs, ReactJs, PostgreSQL, Supabase
+Prescription
+•Developed Prescription Management System with CRUD operations for patient history.
+•Implemented medicine autofilling and efficient patient search by name.
+•Enabled easy prescription downloads, improving medical record accessibility.
+•Tech Stack: ReactJs, NodeJs, MongoDB
+Certification Courses
+•Data Structure And Algorithms
+•Object Oriented Programming in C++
+•National Engineering Olympiad
+Hobbies
+•Playing Cricket, Kabaddi
+•Reading Books(Spiritual Books)
+•Swimming

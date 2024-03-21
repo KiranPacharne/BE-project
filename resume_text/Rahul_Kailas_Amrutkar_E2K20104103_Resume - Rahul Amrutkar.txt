@@ -1,0 +1,45 @@
+RAHUL AMRUTKAR
+Pune, Maharashtra
+♂phone+91 9146734965 /envel⌢perahulamrutkar15@gmail.com /linkedinlinkedIn
+Objective
+I am a Final Year Engineering student at the Pune Institute of Computer Technology, who has a keen interest in
+problem solving. I intend to be a part of an organization where I can make the best use of my technical skills for
+the growth of the organization.
+Education
+Bachelor of Engineering (ENTC) 2020 - current
+Pune Institute of Computer Technology, Pune. CGPA: 8.7
+Higher Secondary Education 2018 - 2020
+Z.B.Patil Junior College, Dhule. Percentage: 76.31
+Technical Skills
+Languages : C++, HTML5, CSS3, SQL
+Database : MYSQL, FIREBASE
+Libraries : ReactJS
+Projects
+Sorting Visualizer |REACTJS, REDUX, SORTING ALGORITHMS
+•Sorting Visualizer that visualizes various sorting algorithms
+•Designed an intuitive user interface that enables real-time visualization of sorting processes,
+demonstrating effective data visualization techniques.
+•Website Link: https://graphi-algo-frame.netlify.app/
+College Management System |JAVA, SWING, AWT, MYSQL
+•Designed and implemented an efficient college management system, streamlining administrative tasks,
+student records, and resource allocation, enhancing overall campus productivity.
+•Github Link: https://github.com/Rahuls-Hub/College mgmt system
+Ecommerce Website |REACTJS, FIREBASE, STRIPE API
+•User-friendly e-commerce website that enables customers to browse, search for, and purchase products
+online.
+•Github Link: https://github.com/Rahuls-Hub/ECommerce
+Profile Links
+∗Leetcode
+∗GeeksforGeeks
+∗Github
+Extra Activities
+MUN CONFERENCE
+∗Organised By: NARSEE MONJEE MUN, Shirpur (2022-03-06)
+∗Participated in the 13th edition of Narsee Monjee Model United Nations 2022, as a delegate of
+Bangladesh in ECOSOC.
+PARTICIPATED IN PICT Impetus and Concepts
+∗Organised By: PICT College
+∗Designed an Automatic car washing system model.
+PUBLICITY AND TECHNICAL TEAM, PICT MUN:
+∗Worked with publicity and technical team to publicize the event and along with this also designed the
+annual conference website.

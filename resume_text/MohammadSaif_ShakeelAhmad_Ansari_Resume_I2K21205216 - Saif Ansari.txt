@@ -1,0 +1,83 @@
+Last Upda ted on 21st A ugust 2023Mohammad Saif Ansari
+saif ansari10001@gmail.c om | +918840457844
+EDUCATION
+PICT, SPPU UNIVERSITY
+BE in Information Technology
+2021 - 2024 | Pune, India
+C urren t CGP A: 9.00
+IOPE,DBATU UNIVERSITY
+Diploma in Information
+Technology
+Institute ofPetrochemical Enginnering
+2019 - 2021 | L onere R aigad,
+India
+CGP A : 98.5
+LINKS
+Github:- saifansari8004
+LinkedIn:- Mohammad SaifAnsari
+COURSEWORK
+UNDERGRADUATE
+Object Oriented Programming
+Operating Systems
+Data Structures andAlgorithm
+Database Management System
+COMMUNITY MEMBER
+E-Cleanliness Club
+TreePlantation Club
+SPORTS CLUB MEMBER
+Volleyball Member
+SKILLS
+TECHNICAL SKILLS
+PROGRAMMING
+Problem Solving •OOP •DSA
+TECHNOLOGIES
+Java•C•C++•Javascript
+DEVELOPMENT
+HTML •CSS•JAVA
+DATABASE:
+SQL•mongoDB
+OS:
+Linux •Windows •IoS
+SOFT SKILLS
+Leadership •ResourcefulnessINTERNSHIP
+QUANTUM COMPUTING INTERN
+AlgoAnalytics | Feb 2023 - May 2023
+•Understanding quantum algorithms, conducting experiments on
+quantum programming andanalyzing experimental datausing
+mathematical andstatistical techniques.
+•Developed code forObjective functions onD’wave Leap IDE.
+•Research onPortfolio Optimization.
+PROJECT
+BANK MANAGEMENT SYSTEM-ATM | J A V A | MySQL
+Nov 2022 - Jan 2023
+•Designed framework likeATM machine using using Swing andAWT .
+•Implements alltheFunctionalities ofATM likeWithdraw ,Deposit ,
+Fast-Cash ,PINChange ,Mini-Statment ,Check Balance options etc.
+•UseMySQL asaDatabase tostore thedetails about thecustomer and
+bank.
+•Link: Bank-Management-System-ATM
+QUIZ APPLICATION | J A V A
+Ma y 2022 - J un 2022
+•Simple quizapplication isajavaproject forconducting quizwith
+ease. Thisproject ismade using NetBeans IDEandJava
+programming language.
+•Every question isfollowed bytimer.
+•Link: Quiz-Platform-Application
+WORKING EXPERIENCE
+NON-TECHNICAL EXPERIENCE
+•PICT Elevate’23 Inter-College Tournament Managing Head.
+•PICT Intra-collegiate Tournament’23 Managing Head(Students).
+•PICT Intra-collegiate Tournament’22 Supporting Member
+(Teachers+Students).
+TECHNICAL EXPERIENCE
+•Organising head andProblem setter ofCoding Competition in
+Diploma College.
+•Working onresearch onQuantum Computing Algorithms and
+Analyzing experimental data.
+ACHIEVEMENTS
+•Achieved 2ndPrize inDistrict LeveL Quiz Competition in2019.
+•Winner inSPORT SAGA’2023 volleyball tournament heldatICT
+Mumbai.
+•Runner-Up inELEVATE’2023 volleyball tournament heldatPICT
+Pune.
+•Winner ofPICT intra college volleyball tournament.

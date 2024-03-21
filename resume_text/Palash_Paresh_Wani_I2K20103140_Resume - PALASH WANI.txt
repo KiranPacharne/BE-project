@@ -1,0 +1,41 @@
+PALASH WANI
+411046 ⋄Pune, Maharashtra
+9766486936 ⋄palashwani2002@gmail.com ⋄LinkedIn ⋄GitHub ⋄Portfolio
+WORK EXPERIENCE
+Web Development Intern Feb 2023 - Apr 2023
+RABLO.in Pune
+•My team works on developing Frontend components for a full stack Ed-Tech Web application.
+•Team Lead of the Frontend team of 6 members.
+•Technologies used are HTML, SASS, Javascipt, ReactJS, MicroFrontend.
+•Troubleshooting and debugging front-end issues to ensure optimal performance and usability
+•Work to achieve a balance between functional and aesthetic designs. Maintain brand consistency
+throughout the design process.
+Web Development Project July 2023 - Present
+HUF India Pvt. Ltd Pune
+•Inhouse project under college faculty for HUF India.
+•My team is working on creating dashboards for maintenance system using MERN stack
+PROJECTS
+MediPortal - MongoDB, ExpressJS, ReactJS, NodeJS View Project
+•MERN stack web app enabling doctor appointments, user profiles, and authentication.
+•Admin features for doctor approval, user management, and real-time appointment tracking.
+•Seamless doctor selection and booking, with secure data storage in MongoDB.
+•Real-time notifications for users and doctors, ensuring a smooth and informed experience.
+WanderStay - MongoDB, ExpressJS, ReactJS, NodeJS Link
+•Developed a dynamic MERN stack hotel reservation app with user registration, login, and per-
+sonalized search functionality, including real-time updates for featured hotels.
+•Implemented an efficient filtering system, allowing users to refine hotel searches based on city,
+date, and price range preferences.
+•Designed an intuitive hotel details page enabling easy room reservation, with dynamic room
+disabling upon booking.
+•Built an admin management system for seamless control over users, hotels, and reservations,
+ensuring smooth operations.
+EDUCATION
+Bachelor of Engineering - Information Technology, Pune Institute of Computer Technology 2020
+GPA: 9.3
+HSC, Shiv Chhatrapati College of Engineering May 2020
+84.15%
+TECHNICAL SKILLS
+Languages Javascript, HTML, CSS, C, C++,Python
+Frameworks ReactJS, NodeJS, Express, Bootstrap, MongoDB
+Tools Git
+Skills DSA, OOP, DBMS, Operating Systems

@@ -1,0 +1,53 @@
+Sanket Lokhande
+Pune, Maharashtra
+♂phone+91 9595941987 /envel⌢pesanket.lokhande.pict@gmail.com /linkedinlinkedin.com/in/rvprvp
+Education
+Pune Institute of Computer Technology 2020 - 2024
+Bachelor of Engineering in Electronics and Telecommunication, Maharashtra CGPA: 8.92
+Bharat English Junior College 2018 - 2020
+HSC Maharashtra State Board, Maharashtra Percentage: 75.69
+Mar Ivanios Convent High School 2005 - 2018
+SSC Maharashtra State Board, Maharashtra Percentage: 93.40
+Technical Skills
+Languages : Java, SQL
+Technologies/Frameworks/Libraries/other : Power BI, Power Automate, AWS, GCP, Databricks, Azure Data Factory,
+Synapse Analytics, Azure Data Lake, Mage, Apache Airflow
+Work Experience
+Giant Meterwave Radio Telescope - NCRA TIFR 24 Jan 2023 - 4 Apr 2023
+Project Intern Pune, India
+•Identified potential Radio Frequency Interference (RFI) and flagged it within the dataset, leading to a 93% reduction
+in data anomalies and improved data integrity.
+•Utilized DAX (Data Analysis Expressions) to effectively mitigate the flagged RFI , resulting in decrease in data
+inconsistencies and improved data quality.
+•Developed a cutting-edge, interactive dashboard using Microsoft Power BI , to present key RFI information, enabling
+engineers to make informed decisions with a 50% increase in data visualization and accessibility.
+•Provided actionable insights, reducing response time to RFI issues by 35% and faster resolution, enhancing
+operational efficiency, and automated email reports improved workflow efficiency by an estimated 90% .
+Projects
+Empowering Data-Driven Digital Marketing Strategies using Data Engineering |AWS, SQL, Python
+•Developed an end-to-end data engineering project to process and analyze a YouTube dataset, encompassing various data
+formats like JSON and CSV.
+•Implemented data transformation and conversion scripts using AWS Lambda , optimizing the data for querying by
+converting it to the efficient Parquet format and eliminating unnecessary metadata.
+•Automated the data cleaning and transformation process using AWS triggers , ensuring seamless updates to the cleaned
+dataset in S3and enabling smooth integration into an ETL pipeline for further analysis and visualization in AWS
+QuickSight .
+Uber Business Analytics: Data Engineering Solution for Enhanced Insights |GCP, Mage, SQL, Python
+•Developed and deployed a data engineering solution that loaded and stored a Uber dataset efficiently on Google Cloud
+Storage (GCS) .
+•Utilized Python to create well-structured fact and dimension tables from the raw data, ensuring data accuracy,
+consistency, and granularity .
+•Implemented a data pipeline using the open-source tool Mage to extract, transform, and load data from GCS to Google
+BigQuery . Employed BigQuery’s SQL capabilities to join fact and dimension tables, resulting in the creation of a
+comprehensive analytical table.
+•Created an interactive dashboard on Looker Studio , providing key insights into Uber’s business for data driven
+decision-making and improved operational efficiency.
+Achievements
+•Served as Head of Operations with PICT-MUN for 22-23 term, heading a team of 20people to ensure smooth
+execution of all organising processes.
+•Received positive feedback from organization where interned for designing interactive data visualizations, making
+complex data more accessible and actionable
+•Successfully completed a virtual internship with PwC , gaining hands-on experience working on Power BI for data
+analysis and visualization.
+•Implemented a data pipeline to collect Twitter data using the Twitter API, deployed Python code on Airflow running
+on an EC2 instance, and loaded the data onto S3.

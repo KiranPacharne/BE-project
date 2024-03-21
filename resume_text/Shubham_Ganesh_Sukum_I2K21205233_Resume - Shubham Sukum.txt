@@ -1,0 +1,44 @@
+Shubham Sukum
+915-8305-817 |shubhamsukum1722002@gmail.com |github.com/ShubhamSukum
+Education
+Pune Institute Of Computer Technology Pune, Maharashtra
+Bachelor of Engineering - Information Technology ; GPA: 8.1 December 2021 - June 2024
+Institute Of Petrochemical Engineering Raigad, Maharashtra
+Diploma - Computer Engineering ; GPA: 9.72 August 2018 - October 2021
+S.S. Nikam English School Raigad, Maharashtra
+Maharashtra State Board - 10th ; Percentage: 86.80 June 2017 - March 2018
+Projects
+EaseE-Learning [GitHub] [Website] April 2023 – May 2023
+MongoDB, Express, React, Node Team Lead
+•Developed a platform where a user can add a video course for free and the user’s followers can access it.
+•Developed multiple API and connected to frontend.
+•Learned to work with a group member on a single project
+LibLocate [GitHub] May 2023 – August 2023
+Material UI, MongoDB, Express, React, Node Full Stack Developer
+•Users can locate themselves in local area network
+•Users can communicate with each other through this platform
+•Create, Update, or delete a post that a user can add and others can see.
+•Google Authentication using Google Library provided by React.js
+FireChat July 2023 – Present
+FireBase, React Full Stack Developer
+•Developed a chat application
+•Used Firebase as Backend to create various APIs and connect with frontend created by React
+Skills
+Langauges : JavaScript, C++, PHP
+Web Technologies : NodeJS, React.js, Express.js, WordPress, HTML5, CSS
+Version Control : Git, GitHub
+Databases : MongoDB, FireBase, MySQL
+Socials
+LeetCode : leetcode.com/ShubhamSukum
+GitHub : github.com/ShubhamSukum
+LinkedIn : linkedin.com/in/shubham-sukum
+Hobbies
+Story Telling
+Pirate’s Private Love [LINK]
+•Learned to use A.I. for image creation and content correction.
+•Modifying the images using A.I. application features like PhotoShop Generative Fill
+•Using A.I. to enhance writing structure, grammar, sentence arrangement, etc.
+Photo Editing
+PhotoShop
+•Editing and modifying image as per need.
+•Enchancing the image using A.I. technologies

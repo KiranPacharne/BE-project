@@ -1,0 +1,81 @@
+Personal Projects
+BYKE                                                              See Project
+        Python |  Django | TomTom API |   
+       HTML | CSS  | Bootstrap  / PythonAnywhere(hosting)
+                                                
+      BYKE is an online platform that facilitates bike-  ride   
+      sharing between two people. BYKE offers a  simple-to-
+      use web interface and has been  built using  the 
+      Django framework.
+      
+ClashFree                                                   See Project
+        Python |  Tkinter  | Tabula  |   
+       NP - HARD Problems | Genetic Algorithms
+                                                
+      ClashFree is an automatic timetable builder and     
+      validation tool that provides a user friendly 
+      workspace to design schedules in a robust way.
+      
+CAR - PRICE PREDICTOR                          See Project
+        Pandas |  seaborn  | Scikit-Learn  |   
+       Decision Trees  | Regression
+                                                
+      A machine learning approach to predict the selling price
+      of  used cars using  Decision Tree Regression  and Linear 
+      Regression .
+      Internships
+AI Intern - IOTIOT  ( 4 /2023 - 20/7/2023)
+Problem Setter- iMocha- (10/2022- 3/2023)        Brain MRI Images classification ( tumorous or non 
+        tumorous ) using transfer Learning .
+        responsible for setting algorithmic questions
+        for testing coding and logical aptitude of candidates.Bagged the 1st prize in  Application
+Development category at InC 2023 .
+School Topper CBSE 12th Board exams
+Bagged 6th position in Times NIE Quizomania
+- a quiz competition by TOI in 2018.
+Recognized for being among the top 0.1
+percent successful candidates in 'SCIENCE'
+subject for CBSE 10th Boards.(2017-2018)
+School Topper CBSE 10th Board exams
+JEE Advanced AIR 9821      2019-20
+      2017-18AchievementsVolunteer Experience
+PICTOREAL
+PCSB (PICT CSI CHAPTER)      Member and Class Volunteer for   
+      Donation Drive event
+       Member CP Team
+Edx verified certificate- AI for Everyone- MaSter
+the Basics
+Edx verified certificate- Deep Learning with Keras       1/2022 - Present                                See Certificate
+      5/2022 - Present                                See CertificateCertificationsJAY PATANKAR
+patankarjays@gmail.com Jay-Patankar +91-7709299326
+Skills
+Programming languages  : C++ , Python
+Databases : MYSQL ,  MongoDb
+Web Technology :  HTML  ,  CSS  , Bootstrap ,Javascript ( familiar)
+Framework : Django Backend Framework
+Machine Learning : Sci-kit-Learn , Tensorflow(familiar) 
+Natural Language Processing : NLTK   Computer Vision : OPENCV 
+Data Science : Pandas , Numpy , Matplotlib , Seaborn
+Tools : -VS Code ,Google Colab ,GitHub , GitLab
+Problem Solving and Critical Thinking
+ 
+Persisitent  | Goal-oriented  | Attention to detail | CommunicationTechnical Skills
+Soft SkillsEducation 
+Pune Institute of Computer Technology 
+Sinhgad Spring Dale Public school , vadgaon ,
+Pune
+Sinhgad Spring Dale High school ,ambegaon
+Pune      Pune
+      BE in Computer Engineering
+      9.47 CGPA                                     2020- Present
+       12-th CBSE BOARD 
+      96.6%                                                     2019-2020
+      10-th CBSE BOARD 
+      97%                                                           2017-2018       
+My Profiles
+Codechef                                     jay_adheekrut
+Codeforces                                 jay_adhikrut
+GitHub                                          Jay-Patankar 
+Solved over 500+ problems on codingninjas
+LeetCode , GFG , ,Codechef and Codeforces    ( 3 -Star , Max Rating - 1702 ) 
+    (Max Rating 1325 ) 

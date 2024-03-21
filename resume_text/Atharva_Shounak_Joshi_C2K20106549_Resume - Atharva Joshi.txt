@@ -1,0 +1,54 @@
+ 
+ SUMMARY  
+Currently pursuing a B.E. in Computer Engineering from Pune Institute of Computer Technology 
+along with an Honors course in Cyber Security. Confident in making mobile applications using 
+Flutter. Strong abilities of logical reasoning , quantitative aptitude,  and mathematics. Eager to 
+learn more skills as well as gain more proficiency in the existing skills.  
+ EDUCATION  
+Secondary (X)  | New Horizon Scholars School (CBSE)  
+2018  
+97.2%  
+Senior Secondary  (XII) | Pragnya Junior College  
+2018 – 2020  
+MH_CET Percentile:  99.62  
+JEE Mains Percentile: 99.2  
+Boards  (HSC) : 84.15%  
+Bachelor of Engineering (B.E.)  | Pune Institute of Computer Technology  
+2020 – 2024  
+CGPA – 9.106 
+ SKILLS  
+• Java , C++, Python  Programming Language  
+• Data Science  
+• Machine Learning  
+• MySQL  
+• Cyber Security /Cryptography  • HTML, CSS , JavaScript  
+• Flutter and firebase  
+• Android development  
+• Basics of IoT  
+• Basics of NodeJS  
+ PROJECTS AND CERTIFICATES  
+• Pocket -DRS :- Creating a ball tracking system mobile application for reviewing LBW 
+decisions in cricket in regional tournaments.  It involves libraries like OpenCV, Matplotlib 
+and application development using Flutter. It also involves implementing an algorithm 
+developed by the team.  
+• Scoop :- Created an application that gives reminders about all the competitive coding 
+events as well as all the class related notifications for every student of PICT. Also stores 
+the ID card of the student in case he/she forgets to bring it to the college.  Uses firebase 
+services from google for all authentication, databas e and storage areas.  
+• Certificates – Click Here  
+ ATHARVA  
+JOSHI  Pune, Maharashtra    
+7276746610    
+atharvaj06@ gmail.com    
+https://www.linkedin.com/in/atharva -
+joshi -060871218    
+   2  
+ ACTIVITIES AND EXPERIENCE  
+Participation  | Veritas  
+Participated in Ver itas UConnect Hackathon based on Security in Cloud Architecture  
+ 
+Intern  | Bajaj Finserv  
+13 MARCH 2023  – 12 MAY 2023  
+Worked as an android intern at Bajaj Finserv  for 2 months as a paid intern. Learnt about 
+developing mobile applications using the Kotlin programming language and XML. Helped in 
+coding the UI of a part of the Bajaj Finance app.  

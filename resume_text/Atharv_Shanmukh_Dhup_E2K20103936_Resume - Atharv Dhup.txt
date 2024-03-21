@@ -1,0 +1,48 @@
+Education
+BE (ENTC) 06/2020 – present
+ SCTRʼs Pune Institute of Computer Technology                                                                                                           CGPA-9.20
+HSC 06/2018 – 04/2020
+Manere Junior College                                                                                                                                                                Percent - 87.69                    
+SSC (CBSE) 06/2017 – 04/2018
+Sai International School CBSE                                                                                                                                                Percent - 80.40
+Professional Experience
+Vodafone Intelligent Solutions, SDE Intern 08/2022 – 10/2022
+•Collaborated closely with team members to architect, design, and implement a secure and transparent banking 
+platform, contributing to a seamless user experience and efficient financial operations.
+•Recognized on a national level for outstanding contributions to the project, ranking within the top 40 teams in the 
+country during a prestigious competition.
+•Led a dynamic team in the successful development of a cutting-edge Decentralized Banking System using 
+blockchain technology, demonstrating a profound understanding of blockchain concepts and their practical 
+applications.
+Kode It Solutions, Front End Developer Intern 11/2021 – 12/2021
+•Worked on real time project used technologies as HTML and CSS.
+•Collaborated effectively in a group setting as a Front End Developer intern, contributing to the development of 
+visually appealing and user-friendly websites.
+Kode It Solutions, Marketing and Promotion Lead 08/2021 – 11/2021
+•Made business proposal and also proposed it.
+•Led a team of 12 interns , also brought highest number of registration for a course.
+•Handled company's marketing department for 3 months.
+Projects
+Decentralized Banking System using Blockchain, Tech Stack - ReactJs, Solidity, Tailwind CSS
+Created a Defi webapp to transfer Ethereum cryptocurrency using blockchain. Created smart contracts in solidity
+which are used to handle blockchain.
+E Commerce Website, Tech Stack- HTML, CSS, Java servlet, MySQL
+Developed a fully functional online shopping platform where users can browse products, add items to their cart, make
+purchases, and manage their orders.
+Banking System, Tech Stack-Java,AWT, Swing,MySQL
+Developed a banking application featuring of creating a new bank account and accessing the bank account for
+netbanking and other transactions using auto-generated credentials.
+GroupChat Application, Tech Stack- Flutter, Firebase
+Created a group chat app that allows users to create and join chat groups, send and receive messages in real-time, and
+manage their chat settings.
+Skills
+Programming - C++, Java                                                      
+Solved 300+ Problems on various platform                                 
+Front End - HTML, CSS                                                               
+Back End - Servlet, JSP, SQL, FireBase                                                    
+Additional - Flutter,  Data Structures & Algorithms        
+Soft Skills - Leadership, Adaptability, Problem-solvingExtracurricular
+PCSB, Event Management Head
+NSS, Core Team Member
+Pictoreal, Core Team Member for Annual MagazineAtharv Dhup
+atharvadhup@gmail.com 7588766621 @Atharvdhup @Atharvdhup

@@ -1,0 +1,53 @@
+Pritesh Malpani
+♂phone8080698228 /envel⌢pepriteshmalpani39@gmail.com /linkedinhttps://www.linkedin.com/in/pritesh-malpani-04a644236/
+Objective
+To look for the appropriate position in the company whereby I could offer my full potential to the company and contribute
+meaningfully to the growth of the company.
+Education
+Pune Institute Of Computer Technology, Pune 2020 – Present
+B.E. Computer Engineering CGPA: 8.66
+Dinanath Junior College, Nagpur 2018 – 2020
+H.S.C Class XII percentage:92.6
+School Of Scholars, Amravati 2018
+S.S.C Class X percentage:94.4
+Technical Skills
+Languages : C++,SQL,Javascript
+Back-End : Node Js, Express Js
+DataBase : MySQL,MongoDB
+Front-End : HTML, CSS,JS ES6 +, React Js
+Platform Tools : Postman,VS Code
+Experience
+B2ATechnologies 03/2023 – 05/2023
+Web Developer Pune
+•Created responsive and user-friendly layouts that provide an intuitive experience across different devices and screen sizes.
+•Handled API responses, including error handling and data validation, to provide users with a reliable experience.
+•Conducted thorough testing of frontend components and integrated APIs to identify and resolve any bugs,
+inconsistencies, or performance issues.
+Projects
+OnlineVotingSystem | 02/2021 – 02/2021
+•The Online Voting System is a web-based application developed using PHP andMySQL to facilitate efficient and
+secure voting processes for various elections.
+•This system enables registered users to cast their votes electronically, eliminating the need for physical presence at
+polling stations.
+AlgoSort | 11/2021 – 11/2021
+•AlgoSort is a dynamic web application that allows users to visualize the sorting process of various sorting algorithms in
+real-time.
+•Technologies Used: HTML ,CSS ,Javascript .
+•Link: https://algosortt.netlify.app
+Xcrypto | 03/2022 – 03/2022
+•Xcrypto is a dynamic web application that utilizes the CoinGecko API to fetch real-time cryptocurrency data and
+displays the information along with interactive price charts.
+•Through this project, users can stay up-to-date with the latest cryptocurrency prices, historical data, and trends,
+empowering them to make informed investment decisions.
+•Technologies Used: React ,Chakra UI ,Chartjs .
+•Link: https://mycryptoapp1.netlify.app/.
+INSTASHARE | 08/2022 – 10/2022
+•This project provides users with an immersive experience, allowing them to share photos, connect with friends, and
+engage with content in a familiar way.
+•User can create their profile,follow each other,post pictures,comment on other posts.
+•Technologies used: React ,Nodejs ,Mongo DB .
+•Link: https://mernproject-zeta.vercel.app/.
+Achievements
+•Solved 400+ Data Structures and Algorithm problems on LeetCode and GFG.
+•Placed 1551 Global rank in the LeetCode weekly contest 326.
+•Ranked among the top 0.57% of students in Maharashtra India by achieving a score of 99.43% on the MH-CET exam

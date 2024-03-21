@@ -1,0 +1,54 @@
+Dhruvin Mistry Email: dhruvin.mistry02@gmail.com
+Mobile: +91 9158431489
+LinkedIn
+Education
+•Pune Institute of Computer Technology Pune, India
+B.E. in Electronics and Telecommunication; GPA: 9.2 2020-2024
+•Prodigy Public School Pune, India
+Higher Secondary Certificate (12th Science); Percentage : 93.2 2018-2020
+Projects
+•Task List Decentralized Application Smart Contracts - Solidity, React
+•A task management system built on blockchain technology and written using Solidity smart contracts.
+•This dapp enables users to cross items off their task list while maintaining the highest level of security.
+Experience
+•Impetus and Concepts 2023
+Marketing and Management Head January 2023 to April 2023
+◦Role: As amarketing head, my role is to look for potential companies that can sponsor the event, send the company
+officials as judges, or do any other relevant deliverable.
+◦Communicating with the sponsors, providing them with the necessary information, asking them for specific items, and
+managing effective communication between the InC team and the business.
+◦Heading a team of juniors for publicity of InC 2023.
+•Hacker House
+Event Head July 2022 - August 2022
+◦Role: Hacker House was an offline educational event including a learning phase and competition phase. Track down
+businesses that are interested in offering the above service. Get in touch with them and discuss the event’s details with
+them. Ensure smooth running of the program
+•Unschool
+Youth Influencer November 2021 - December 2021
+◦Role: Made a sale of Rs 4000/- within the first few weeks. Learned to communicate effectively and the process of
+perfecting a pitch.
+Certifications
+•Data Cleaning (Dec 2022)
+Learnt different kinds of inconsistencies in data and various methods to rectify them and make the data
+presentable and uniform.
+•Data Visualization (Aug 2022)
+Learnt different types of charts and graphs using seaborn and also learnt how to choose which kind of plot.
+•Pandas (Jun 2022)
+Different uses of the pandas’ library were learnt along with manipulating the data.
+•Python (Jun 2022)
+Very basics of Python were learnt as a starting point to data analytics.
+•Digital Marketing Google (Nov 2021)
+What Digital Marketing is, different methods with which something can be marketed online, different tools to
+market those products/ services, optimizing websites and many more business-related aspects were covered.
+Technical Skills
+•Sequential Query Language
+•Power Bi (Basics)
+•Python
+•C++
+•Blockchain
+Expertise
+•Management Skills
+•Team Leadership
+•Analytical Skills
+•Communication Skills
+•Problem Solving

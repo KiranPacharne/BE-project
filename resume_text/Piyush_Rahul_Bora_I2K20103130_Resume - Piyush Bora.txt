@@ -1,0 +1,81 @@
++91 7666066207 2 9 p i y u s h b o r a @ g m a i l . c o m
+ P i y u s h - B o r a
+ linkedin.in/piyushbora p i y u s h b o r a . n e t l i f y . a p p
+Tech Stack:  HTML, CSS, Tailwind‑CSS, ReactJS, RestAPI, ReduxJersey Store
+Created an eCommerce website called "Jersey Store" with the
+goal of selling sports jerseys online.
+Utilized technologies such as HTML, TailwindCSS, and
+ReactJS to create a visually appealing and user‑friendly website
+aiming for a 0% bounce rate.
+Designed the website’s user interface, added some features to
+it, and learned Redux Technologies.
+Tech Stack:  HTML, CSS, Tailwind‑CSS, ReactJS, RestAPIInC '23 Website
+Contributed to designing and developing a responsive website
+for the InC event hosted by PICT using the MERN stack.
+Throughout the project, demonstrated exceptiona l leadership,
+communication, and scheduling abilities to guarantee the
+prompt completion of all deliverables.
+Conducted thorough research to understand the requirements
+and implemented those insights into the website design and
+functionality.  P u n e ,  I n d i a
+Tech Stack:  HTML, CSS, Tailwind‑CSS, ReactJS, RestAPI  My Portfolio Website
+Created a website for my own portfolio that includes
+information about me, my work, projects, and the tools and
+technologies I am accustomed to using.
+The website has the facility to contact me directly through a
+form, that sends me an email on submission, using email.jsPIYUSH BORA
+Bachelor of Engineering in Information Technology 2020 - PresentPune Institute of Computer Technology, Pune
+91.85%CGPA: 9.35
+HSC Board, Science Stream 2018 - 2020Pratibha Junior College, Akurdi
+96.60%
+SSC Board 2018Amrita Vidyalayam, NigdiEDUCATION
+Joint Secretary at PICT CSI Student Branch (PCSB)
+Head of Publicity Department at InC.
+Head of Design Department at PNAB.
+Member at PICT ACM Student Chapter (PASC).  POSITIONS OF RESPONSIBILTYWORK EXPERIENCE
+Frontend Web Developer InternOct 2022 ‑ Dec 2022AUTOMATONAI
+Worked on the ongoing  projects of the company on a new
+website for the AdaptAI product, with MERN stack
+Technologies.
+Learned the fundamental s of Angular and used it to develop
+some simple use cases.
+Gained experience working in a team, which improved my
+communication and collaboration skills.
+Acquired recognition for my keen awareness of detail, aptitude
+for solving issues, and producing high-quality code
+UI/UX Designer InternJan 2023 ‑ April 2023SANSPOTS
+Designed user‑centric interfaces for web and mobile
+applications, ensuring a seamless and intuitive user experience.
+Conducted user research and usability testing to inform design
+decisions and validate assumptions.
+Collaborated with cross‑functional teams, including developers
+and designe rs, to ensure alignment and transparency
+throughout the design and development process.
+Developed and maintained design systems and style guides to
+ensure consistency and scalability across products and features.  
+Tech Stack:  HTML, CSS, Tailwind‑CSS, DjangoJob Finder for Daily Wage Workers
+Developed a website to make it easier for those earning a daily
+wage to locate work.
+Recruiters post the job requirements, and the workers select
+the job according to their preferences.SKILLS
+Programming Languages:
+Python, C/C++, JavaScript (ReactJS, Angular, Express.js),
+HTML, CSS, Tailwind CSS, Bootstrap, Material UI,
+SQL(MySQL), MongoDB, Rest API, Redux, WebFlow
+Tools:
+Figma, Adobe Photoshop, Adobe InDesign, Adobe Premier
+Pro, Adobe After Effects, Canva, GitHub, OBS
+*Flexible to learn different technologies based on requirements.  PROJECTS
+Frontend InternMay 2023 ‑ July 2023AMBER
+Increased lead generation by 40% through the implementation
+of auto-fill for country codes, enhancing traffic analysis by
+country.
+Revamped web pages for a cleaner UI, positively impacting
+user experience.
+Improved website SEO by 22% by implementing anchor-
+based titles and paginations.
+Collaborated effectively in an Agile environment, delivering
+high-quality solutions and fostering a positive team
+atmosphere.
+Leveraged Webflow, ReactJS, and ExpressJS to enhance
+functionality and user experience.

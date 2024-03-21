@@ -1,0 +1,127 @@
+Isha Dighe 
+Engineering Undergraduate (COMPUTER SCIENCE) 
+ishadighe2207@gmail.com 
+9356024693 
+linkedin.com/in/isha-dighe-95ab93214 
+EDUCATION 
+B.E Computer Science 
+Pune Institute of Computer Technology 
+2020 - 2024
+, 
+ 
+9.63 
+Class XII (CBSE) 
+Blossom Public School 
+2020
+, 
+ 
+96% 
+Class X (CBSE) 
+Blossom Public School 
+2018
+, 
+ 
+97.6% 
+PROJECTS 
+VIDEO METRICS EXTRACTION 
+A python software with a user-friendly GUI , takes video as input ,
+extracts metrics like object and blur detection, gesture detection,
+brightness , aspect ratio etc. , analyze quality and produce the output on
+the UI. 
+Techstack - AI/ML , Python . 
+FEMPOWER - Web Application (Static Website) 
+A platform which connects the NGOs / organizations to the women in
+need according to their area of interests and the facilities they require. 
+Three users - The women in need , willing volunteers and the NGOs. 
+Frontend - HTML , CSS , BOOTSTRAP 
+PICT 
+HOSTEL ONLINE REGISTRATION 
+A web application for online PICT's hostel registration which makes it
+feasible for students to book and pay according to their convenience. 
+Number of rooms and beds displayed. 
+Frontend - HTML , CSS , BOOTSTRAP , JAVASCRIPT 
+Backend - PHP , MYSQL 
+WORK EXPERIENCE (INTERNSHIPS) 
+SUMMER INTERN 
+BARCLAYS 
+06/2023 - 08/2023
+, 
+ 
+PUNE MAHARASHTRA 
+FINANCE AND INVESTMENT BANKING 
+SOFTWARE DEVELOPMENT INTERN 
+NICE LTD 
+12/2022 - 05/2023
+, 
+ 
+PUNE MAHARASHTRA 
+SOFTWARE DEVELOPEMENT 
+Contact 
+:
+-
+CHIRAG KAVATHIYA 
+Chirag.Kavathiya@nice.com 
+BUSINESS DEVELOPMENT INTERN 
+KODE IT SOLUTIONS 
+09/2021 - 10/2021
+, 
+ 
+PUNE MAHARASHTRA 
+IT AND TECH 
+TOP INTERN 
+Contact 
+:
+-
+VERONICA ROBERT 
+solutionskodeit@gmail.com 
+SKILLS 
+PYTHON 
+C++ 
+HTML 
+CSS 
+JAVASCRIPT 
+MYSQL 
+OOP 
+DSA 
+PROBLEM SOLVING 
+LEADERSHIP 
+PUBLIC SPEAKING 
+COMMUNICATION 
+SITUATION ANALYSIS 
+ACHIEVEMENTS 
+WINNER of the NICE VIRTUAL INTERNSHIP PROGRAM. 
+TOP INTERN at KODE IT SOLUTIONS 
+RANKED FIRST 
+among 100+ participants in mock placement event
+"CAMPUS TO CORPORATE " in XENIA-22 
+Qualiﬁed in the TOP 20 teams in the NATIONAL LEVEL WOMEN's
+HACKATHON organized by ACM PCCE GOA. 
+Second year Computer Engineering Department Topper with an
+aggregate of 9.43 CGPA 
+Qualiﬁed for FINALS in the leadership and situation analysis
+competition "XENATUS" in PCSB's XENIA-22 
+SCHOOL TOPPER IN 10th and 12th BOARD EXAMINATIONS 
+EXTRA CURRICULAR 
+Core member at PICT ART CIRCLE – DANCE SECTION 
+Volunteered in managing the event “XENIA-22”, organized by
+PCSB. 
+Volunteered in managing the event “ABHIVYAKTEE-22”, organized
+by PICT ART CIRCLE. 
+Member of the photography team of PICT MUN CONFERENCE -22 
+LANGUAGES 
+MARATHI 
+Full Professional Proﬁciency 
+ENGLISH 
+Full Professional Proﬁciency 
+HINDI 
+Full Professional Proﬁciency 
+INTERESTS 
+CONTENT WRITING 
+SKETCHING 
+DANCE 
+COOKING 
+FICTION 
+TRAVEL 
+MUSIC 
+PHOTOGRAPHY 
+Achievements/Tasks 

@@ -1,0 +1,79 @@
+HARSH KULKARNI
+Pune Institute of Computer Technology,Pune
+harshkulkarni1105@gmail.com /ne(+91) 9561303700 /♀nednLinkedin
+/gtbGithub
+EDUCATION
+Pune Institute of Computer Institute
+•2020 - Present
+•BE -Computer Engineering
+•CGPA: 9.72(Third Year*)
+M.P college and International school
+•June 2020
+•MHT-CET: 99.23 percent
+•HSC: 84.7 percent
+Abhinav Vidyalaya Highschool
+•June 2018
+•SSC: 95.4 percent
+SKILLS
+C++ Python HTML CSS Javascript
+ReactJS NodeJs ExpressJS MongoDB
+MySQL Data structures and Algorithms
+OOP Machine Learning NLP Numpy
+Tensorﬂow
+CERTIFICATION
+The Complete Web Development Boot-camp
+link
+Udemy
+ACHIEVEMENTS
+1.2nd Runner-up at Veritas Illuminate
+U-Connect Hackathon 2023 .
+2.Listed as one of the top ﬁve students in the
+computer engineering department.
+3.3-star at Codechef
+4.5-star in Problem-Solving at HackerRank.
+5.Solved 250+ problems on Leetcode.
+6.76 global rank in CodeChef August
+Lunch-Time 2022(DIV 3).
+LINKS
+Codechef Leetcode HackerRankEXPERIENCE
+iMocha
+Problem setter-Freelance
+ὌJanuary 2023 – Present
+•Curated Problems on various Data Structures and Algorithms of varying diﬃculties
+with test case generation.
+Bajaj Finance Limited
+BYTE-SPARK Intern
+ὌMarch 2023-May 2023 Pune,Maharashtra
+•BYTE-SPARK is part of the Bajaj Young Tech Engineers (BYTE) program.
+•Developed a fundamental understanding of blockchain technology through
+hands-on project experience.
+PROJECTS
+Dynamic Read Quorum Scaling link
+Novel Cloud Native Storage POC
+ὌFebruary 2023 – April 2023
+•2nd Runner-up @Veritas Illuminate U-Connect Hackathon 2023
+•Designed a novel distributed database engine that dynamically scales the
+read-quorum providing high scalability, and availability whilst maintaining fault
+tolerance and lower costs.
+•Developed a fully functioning prototype of the proposed model using Python
+scripts and showcased replicated databases on MongoDB.
+POS System link
+Point of sales application
+ὌDecember 2022– January 2023
+•Developed point of sales application for a retail client, which included features such
+as real-time inventory management, billing system, integration, and sales reporting.
+•Tech stack-React, Express,NodeJS, MongoDB .
+Naive Auto-Complete link
+N-Gram Language Model
+ὌMay 2023
+•Developed Auto-Complete System using a probabilistic N-gram Language Model
+with the Morkov Assumption.
+•Developed fundamentals components such as - a. Data Pre-processing b. Building
+N-gram Model c. Perplexity function d. Building Auto Complete System
+•Python, Numpy,Pandas,NLP .
+Named Entity Recognition link
+Bi-LSTM Deep-Learning Model
+ὌJune 2023
+•Developed Bidirectional LSTM Deep Learning Model for Named Entity Recognition.
+•Developed a model using Tensorﬂow and Keras.
+•Python, Numpy, TensorFlow,Deep Learning, NLP .

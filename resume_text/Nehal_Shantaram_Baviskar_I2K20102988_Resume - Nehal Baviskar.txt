@@ -1,0 +1,44 @@
+Nehal Baviskar
+·nehalbaviskar8048@gmail.com ·/ne9309070772 ·/♀nednnehalbaviskar
+Education
+Pune Institute of Computer Technology Pune
+Bachelor of Engineering Information Technology GPA: 8.93 July 2020 - June 2024
+Experience
+Salesforce Virtual Internship program
+Salesforce Intern
+•Completed multiple modules on the Salesforce Trailhead platform, gaining in-depth knowledge of the
+Salesforce ecosystem and its products.
+•Developed proficiency in key areas such as data modeling, object customization, picklist administration,
+and duplicate management.
+•Applied skills in process automation using Process Builder, built Lightning applications, and ensured
+data security for a recruiting app.
+Pune Institute of Computer Technology
+Fronted-end Developer Intern
+•Spearheaded front-end development of an in-house college faculty manager website using HTML5, CSS,
+and Bootstrap.
+•Enabled faculties to efficiently update assignments, lectures, notes, profiles, and research data for
+improved collaboration and data management.
+Skills
+Languages: C++, Python, HTML, CSS, MySQl
+Technologies/ Framework: Express.js, Next.js, Mongo.DB, Node.js, Bootstrap
+Designing: Figma, Canva, Adobe Photoshop, Premier Pro
+Soft skills: Fluent Communication, Creativity, Visual Thinking
+Projects
+Weather Forecast Web application HBS, Express, API
+•Developed a weather web application using HBS pages, Express, integrating a global API for real-time
+weather information.
+•Implemented dynamic rendering of weather data on web pages using HBS templates and designed a
+responsive user interface with HTML, CSS, and Bootstrap.
+Pizza Ordering Application HTML, CSS, JavaScript, Next.js
+•Created reusable components for the navbar, footer, features, list, cards, and layout in the React Next.js
+project.
+•Implemented modular design principles to ensure code reusability and maintainability.
+Achievements
+Winner of The Stats Say VIIT, Pune
+•Created an impressive brand website in 2 hours.
+•Utilized HTML, CSS, Bootstrap, and data visualization techniques to showcase annual revenue and
+share profit using given dataset
+Runner up of Pixel Perfect ACM Chapter PICT, Pune
+•Created a poster using graphic designing app for women empowerment.
+Hobbies
+•Painting •Digital Designing •Reading •Swimming

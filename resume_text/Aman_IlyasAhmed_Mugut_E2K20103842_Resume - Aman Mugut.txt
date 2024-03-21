@@ -1,0 +1,82 @@
+Aman Mugut
+MOBILE APP DEVELOPER | INTERESTED IN ALGORITHMS AND DATA STRUCTURES
+amanmugut@gmail.com |+91-9689072736
+EDUCATION
+PUNE INSTITUTE OF COMPUTER
+TECHNOLOGY
+BE in Electronics & Telecommunication
+Engineering
+2020- 2024 | Pune,India
+Cum. GP A: 9. 71
+DR. DY PATIL JR. COLLEGE
+2018 , 2020 | Pune,India
+Class XII Percen tage: 90.91%
+STERLING SCHOOL
+201 7 , 2018 | Pune,India
+Class X Percen tage: 88.6%
+LINKS
+CodingNinjas:// amanmugut
+GitHub:// amanmugut
+LinkedIn:// Aman Mugut
+GeeksForGeeks:// amanmvzlw
+LeetCode:// aman_mugut511
+ACTIVITIES
+•App Developer Head, PCSB Club
+Ledateam ofappdevelopers indesigning and
+building mobile applications forvarious club
+initiatives. Collaborated withclubmembers to
+gather requirements andcreate user-friendly
+interfaces.
+•Solved over 700problems onvarious. sites
+SKILLS
+PROGRAMMING
+•Problem Solving•DSA
+LANGUAGES
+•JAVA•C++•C•SQL
+MOBILE APP DEVELOPMENT:
+•Android AppDevelopment
+DATABASE:
+•MySQL•Google Firebase
+FAMILAR:
+•GitHub
+HOBBIES
+•Developing Android Applications.
+•Solving Algorithmic Problems.
+•Playing Football &Tennis.EXPERIENCE
+EUPHELITY PRIVATE LIMITED | Software
+Development Engineer - INTERN
+Mar 2023 - J ul y 2023 | K anpur , India
+•Worked onAndroid application fordisabled students using
+Android Studio.The appaimed toenhance their learning
+experience andaccessibility.
+•Theappwasbuiltusing JavaandGoogle firebase asbackend.
+PICT - INHOUSE | Android Developer Engineer -
+INTERN
+Oct 2022 - Dec 2022 | K anpur , India
+•Ledateam anddeveloped amobile application named ”Digital
+Student Passport” thatcontains alltheinformation ofthestudents
+aswellasfaculty members inaninstitute, inadigital format.
+VANCE NXT | UI/UX - INTERN
+Sept 2021 - No v 2021 | Pune , India
+•Worked asaUI/UX intern utilizing Figma todesign logos
+and UI interfaces.
+PROJECTS
+DIGITAL STUDENT PASSPORT | See Project
+•Tech Stack :Android, Google Firebase
+•AnAndroid application thatcontains alltheinformation of
+thestudents aswellasfaculty members inaninstitute, ina
+digital format. Itusesfirebase asbackend forstoring the
+dataandauthentication.
+COLLEGE CONNECT | See Project
+•Tech Stack :Android, Google Firebase
+•AnAndroid application which helps student connections,
+empowering them toshare reviews andaddress grievances.
+It’saplatform where students unite tosupport each other,
+creating apositive academic environment.
+ACHIEVEMENTS
+•Competitive Coding:
+Coding Ninjas :Ninja Dominator League .
+•Code Help:
+Data structure andAlgorithms Certification.
+•Android AppDevelopment certificate from MyCaptain .
+•JAVA certificate from MyCaptain

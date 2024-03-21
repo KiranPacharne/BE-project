@@ -1,0 +1,36 @@
+JAGRUTI AVHAD
++91 7823050335 ⋄Pune, Maharashtra
+jagrutiavhad123@gmail.com ⋄LinkedIn ⋄GitHub
+EDUCATION
+PUNE INSTITUTE OF COMPUTER TECHNOLOGY, PUNE - Bachelor of Electronics And Telecom-
+munication Engineering 2020 - 2024
+CGPA: 8.56
+GLOBAL PUBLIC SCHOOL AND JUNIOR COLLEGE, NASHIK - HSC 2019 - 2020
+Percentage: 68.77%
+RYAN INTERNATIONAL SCHOOL, NASHIK - ICSE 2017 - 2018
+Percentage: 88.6%
+SKILLS
+Languages Java, JavaScript(Basic), SQL, HTML, CSS, JSP
+Frameworks Bootstrap
+Tools MySQL, VS Code, Eclipse, NetBeans
+APIs Servlet
+CS Fundamentals OOP, DBMS, DSA
+Soft Skills Adaptability, Time Management
+PROJECTS
+Online Book Store GitHub
+•Developed a comprehensive Online Book Store Web App with Admin and User features.
+•Tech: HTML, CSS, Servlet, JSP, SQL,JavaScript
+Steganography GitHub
+•Developed an Image Steganography app for hiding text messages.
+•Tech: Java, Java Swing, Algorithms: LSB Embedding.
+Hostel Management System GitHub
+•Streamlined hostel operations with Room Allocation, Fees Management, etc.
+•Tech: Java Swing, SQL, JDBC
+Hostel Fees Paying System - User Portal GitHub
+•Developed a user portal for fees payment using JSP and servlets.
+•Tech: HTML, CSS, Servlet, JSP, SQL
+ACHIEVEMENTS
+•Award for 98/100 in Java, Class 10th Board Exam.
+•Award for scoring well in Class 10th board exam.
+HOBBIES
+•Skating, Cooking, Traveling.

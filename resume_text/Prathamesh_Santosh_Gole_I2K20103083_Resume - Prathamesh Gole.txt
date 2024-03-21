@@ -1,0 +1,50 @@
+PRATHAMESH GOLE
+Pune Institute of Computer Technology
+prathameshgole2000@gmail.com Pune Maharashtra - India /♀nednhttps:/ /www.linkedin.com/in/prathamesh-gole-954587217
+EDUCATION
+B.E. (IT) - 8.45 CGPA
+Pune Institute of Computer Technology
+ὌJuly 2020 – Currently
+Higher Secondary - 71.23%
+State Board of Secondary Education
+ὌFeb 2020
+Secondary - 85.80%
+State Board of Secondary Education
+ὌMarch 2018
+PROJECTS
+CHAT APP
+•Tech Stack - React, Django.
+•Developed ChatApp, a real-time chat appli-
+cation, using React.js for the frontend and
+Django with asynchronous WebSockets and
+Django Channels for the backend.
+•Users can create and join chat rooms, allowing
+them to send and receive real-time messages
+from other users in the room
+•Utilizes React Material-UI to create a respon-
+sive and visually pleasing interface
+NEWS API
+•Tech Stack - HTML, CSS, JavaScript.
+•It is a real time news API application.
+•With the help of Api we can gather and dis-
+play the current news. User can customize
+their news feed based on categories of inter-
+est.ACHIEVEMENTS
+•1 Star onCodechef Max. Rating(1094).
+•Codeforces Max. Rating(1289).
+•GFG Max. Rank(1168).
+•Solved more than 500+ problems on various platforms.
+LINKS
+•LinkedIn: Prathamesh Gole
+•LeetCode: Prathamesh 002
+•Codechef: Prathamesh2125
+•GFG: Prathamesh Gole
+TECHNICAL SKILLS
+•Languages : C,C++,SQL
+•Database : MySQL
+•Web : HTML,CSS,Javascript,NodeJs.
+•Web-Frameworks : BootStrap, React
+•Other : Problem Solving, DSA, OOP
+HOBBIES
+•Dancing.
+•Listening to Music.

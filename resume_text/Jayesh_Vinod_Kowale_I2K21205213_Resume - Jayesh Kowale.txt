@@ -1,0 +1,65 @@
+Jayesh Kowale
+                
+Dr. Panjabrao Deshmukh Polytechnic, AmravatiPune Institute of Computer TechnologyDeveloped an immersive Augmented Reality (AR) app
+using Unity and AR Foundation, showcasing laboratory
+features in an interactive AR environment.
+Utilized C# scripting to create dynamic AR elements,
+collaborating with designers to ensure seamless
+integration of virtual and real-world components.
+Conducted comprehensive testing and troubleshooting,
+translating conceptual ideas into a visually appealing
+and glitch-free AR user experience.AR Developer at PICT
+(Also Appreciated by Chairman of NAAC Committee)
+March 2023 – May 2023
+Tech Stack: Angular.js, Stripe
+Developed an E-Commerce website using Angular
+framework, integrated with the Stripe transactional
+gateway for secure payment processing.
+Implemented user-friendly interfaces for product
+browsing, cart management, and seamless checkout
+using the Stripe API.
+Utilized Angular's components and services to create a
+responsive and interactive shopping experience for
+users.
+ Tech Stack: Blockchain Solidity, ERC721, Three.js
+Spearheaded the development of "Metaverse," a
+blockchain-based project focused on NFT minting and
+visualization using ERC721 standards.
+Designed and deployed smart contract architecture for
+secure NFT creation, ownership, and trading on a
+blockchain platform.
+Integrated Three.js to offer an immersive user interface,
+enabling interactive exploration and engagement with
+minted NFTs in a virtual environment.StripeMart - E-Commerce Angular Site with Stripe
+Integration
+Metaverse - Blockchain NFT Minting  and
+Visualization
+Geopolitics
+Football
+Guitar• Programming Languages: C++, Java
+• Cloud Technology: AWS
+• Devops Tools : Docker, Kubernets,         
+Git.
+• Web Development: HTML, CSS,
+ Angular.Js ,Three.js
+• Databases: SQL, MongoDB
+• Blockchain:  Solidity, Hyperledger
+• AR/VR : Unity, AR Foundationlinkedin.com/in/jayeshkowale/ github.com/JayeshKowale
+ 
+Projects
+EducationWork Experience Skills
+HobbiesAchievements
+2018 – 20212021 – May 2024
+B.E. Information Technology
+ 
+Diploma in Computer Engineering
+ CGPA: 8.45
+Percentage: 95.89%+91-9172608820 
+jayeshkowale@gmail.com 
+Winner - HackerHouse (Blockchain)
+Gold Medalist In Diploma (1st Rank in
+college )
+Served as Sport Secretary in Diploma
+Runner-up in District level Footbal
+(Diploma)
+MS-CIT : 99%Pune.Maharrashtra

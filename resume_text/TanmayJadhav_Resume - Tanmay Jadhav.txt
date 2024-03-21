@@ -1,0 +1,40 @@
+Tanmay Jadhav tanmayavijadhav@gmail.com
+Pune,India Linkedin
+Computer Engineer +91-9511824470
+A passionate being who desires to learn, experiment and explore technical, analytical
+and problem-solving skills and has an interest in solving various Algorithm problems.
+Education
+•Pune Institute Of Computer Technology Pune
+Bachelor in Computer Engineering; CGPA: 9.20 2020 - Present
+Courses: OOPS, Database Management, Data Structures and Algorithms and Computer Network.
+•Gogate Joglekar College Ratnagiri
+Higher Secondary Education; Percentage: 85.23 2018 - 2020
+•Phatak high School Ratnagiri
+Class X, Percentage: 93.60 2018
+Skills Summary
+•Languages : C++, C, Java, SQL, HTML, CSS, JavaScript
+•Frameworks : ReactJS, NodeJS, Bootstrap, Material UI
+•Tools : GIT, Visual Studio Code, Github
+•Soft Skills : Presentation, Team Work, Leadership, Critical Thinking
+Profile Links
+Codechef: //tanmay3170 Leetcode: //TanmayJadhav3170 Codeforces: //Tanmay21
+Github Linkedin GeeksforGeeks
+Academic Projects
+Crypto Tracker : (Github)
+•Primary goal of this web application is to track different Crpytocurrencies’ information.
+•Real time value of cryptocurrencies,their exchange rates in USD and INR, its change in price in last 24 hrs/ 30 days/
+3 months/ 1 year and current market cap is shown.
+•Track record of different currencies in chart structure according to different timespans(24 hrs,30 days, 3 months, 1 year)
+through real time API data.
+Virtual File System : (Github)
+•In this project, we are creating a file system which runs on the primary memory (i.e. RAM).
+•This project is CLI (i.e. Command Line Interface) based.
+•The user interface is Command User Interface.
+Blog App : (Github)
+•In this blog application user can create his own posts, see other users posts and update his posts.
+•Techstack : React, Express.js, MongoDB
+Achievements
+•Actively participation in online problem-solving platforms like HackerRank, codechef, codeforces and Leetcode.
+•Solved 550+ questions on Leetcode, Codechef (3 Stars).
+•Certification in Problem Solving by HackerRank.
+•Runner up in Cricwars (IPL Auction) in PCSB Xenia-22

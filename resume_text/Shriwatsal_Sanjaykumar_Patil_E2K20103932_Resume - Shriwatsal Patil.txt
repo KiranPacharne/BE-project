@@ -1,0 +1,47 @@
+E D U C A T I O N
+B E  ( E N T C )                                                                                                                                                                 
+S C T R ʼ s  P u n e  I n s t i t u t e  o f  C o m p u t e r  T e c h n o l o g y0 6 / 2 0 2 0  –  p r e s e n t
+C G P A - 9 . 2 4
+H S C                                                                                                                                                                                      
+S E S  J u n i o r  C o l l e g e  o f  A r t s  a n d  S c i e n c e ,  S o l a p u r2 0 2 0
+8 9 . 0 8 %
+S S C                                                                                                                                                                                                                          
+M o d e r n  H i g h  S c h o o l  , S o l a p u r2 0 1 8
+9 4 . 6 0 %
+P R O J E C T S
+C a n t e e n  M a n a g e m e n t  S y s t e m ,  |  H T M L ,  C S S ,  J a v a s c r i p t ,  M y S Q L ,  P H P
+•B u i l t  w e b  a p p  o f  m a n a g i n g  t h e  d a t a  o f  c o l l e g e  c a n t e e n  a n d  o r d e r i n g  f o o d  /  s n a c k s  i n  a d v a n c e .
+•U s e d  M y s q l  t o  s t o r e  a l l  t h e  d a t a  o f  f o o d ,  u s e r s  ,  l o g i n  c r e d e n t i a l  e t c .
+•P H P  i s  u s e d  f o r  c o n n e c t i n g  t h e  d a t a b a s e  t o  f r o n t  e n d .
+F a c e  R e c o g n i t i o n  A t t e n d e n c e  W e b a p p  |  F i r e b a s e ,   F l a s k ,  P y t h o n ,  F r o n t e n d .
+•I n t e l l i g e n t  a p p l i c a t i o n  t h a t  u t i l i z e s  m a c h i n e  l e a r n i n g  a l g o r i t h m s  t o  a u t o m a t i c a l l y  r e c o g n i z e  a n d  t r a c k  
+i n d i v i d u a l s '  f a c e s  f o r  a t t e n d a n c e  m a n a g e m e n t .
+•C o n v o l u t i o n a l  N e u r a l  N e t w o r k s  t o  r e c o g n i z e  a n d  i d e n t i f y  i n d i v i d u a l .
+•F l a s k  i s  u s e d  a s  b a c k e n d  f o r  w o r k i n g  o n  d a t a b a s e  a n d  r o u t i n g .
+•F i r e b a s e  f o r  s t o r i n g  F a c e  D a t a  a n d  f o r  a u t h e n t i c a t i o n
+E - C o m m e r c e  W e b s i t e  |  H T M L  , C S S  , J a v a s c r i p t  , F i r e b a s e
+•T h e  E - c o m m e r c e  w e b s i t e  p r o j e c t  a i m s  t o  c r e a t e  a  f u l l y  f u n c t i o n a l  o n l i n e  s t o r e  u s i n g  H T M L ,  C S S ,  J a v a S c r i p t ,  
+a n d  F i r e b a s e  . T h e  w e b s i t e ' s  r e s p o n s i v e  d e s i g n  e n s u r e s  s e a m l e s s  u s e r  e x p e r i e n c e  a c r o s s  d i f f e r e n t  d e v i c e s ,  a n d  
+F i r e b a s e  h a n d l e s  d a t a  s t o r a g e ,  a u t h e n t i c a t i o n ,  a n d  r e a l - t i m e  u p d a t e s ,  m a k i n g  i t  a n  e f f i c i e n t  a n d  s c a l a b l e  
+s o l u t i o n  f o r  b u i l d i n g  a n  i n t e r a c t i v e  E - c o m m e r c e  p l a t f o r m .
+S K I L L S
+P r o g r a m m i n g  L a n g u a g e s  :  P y t h o n  , C + +
+F r o n t  E n d  :  H T M L ,  C S S
+B a c k  E n d  :  M y S Q L  ,  P H P
+S o l v e d  2 0 0 +  p r o b l e m s  o n  v a r i o u s  p l a t f o r m s
+O t h e r  S k i l l s  :  C o m p e t i t i v e  P r o g r a m m i n g ,  P r o b l e m  S o l v i n g
+K E Y  C O U R S E S  T A K E N
+D a t a  S t r u c t u r e  &  A l g o r i t h m s ,  D B M S ,  D a t a  A n a l y t i c s
+ C o m p u t e r  n e t w o r k s ,  N e t w o r k  S e c u r i t y ,  O p e r a t i n g  S y s t e m s
+S O F T  S K I L L S  &  H O B B I E S
+•L e a d e r s h i p                                        S i n g i n g                  
+•T e a m w o r k                                         M i m i c r y
+•A d a p t a b i l i t y                                      P u z z l e  S o l v i n g
+•E n t h u s i a s m                                      
+E X T R A  C U R R I C U L A R  A C T I V I T I E S
+A c t i v e  M e m b e r  o f  C S I
+A c t i v e  M e m b e r  o f  P I C T  A r t  C i r c l eS h r i w a t s a l  P a t i l
+E l e c t r o n i c s  a n d  T e l e c o m m u n i c a t i o n  E n g i n e e r i n g  u n d e r g r a d u a t e  a t  P I C T ,  P u n e .         
+A n  a m b i t i o u s  a n d  c o n f i d e n t  i n d i v i d u a l  k e e n  t o  l e a r n  n e w  t h i n g s  a n d  w o r k  i n  a  
+c o h e r e n t  a t m o s p h e r e .
+s h r i w a t s a l p a t i l 2 0 0 2 @ g m a i l . c o m + 9 1 9 5 2 7 5 9 5 8 0 1 @ S h r i w a t s a l P a t i l @ S h r i w a t s a l P a t i l

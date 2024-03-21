@@ -1,0 +1,42 @@
+SEJAL KHILARI
++91 8208852427 ⋄Gmail ⋄Linkedin ⋄Github
+EDUCATION
+Pune Institute of Computer Technology, Pune July 2020 - Present
+Bachelor of Engineering, Information Technology GPA: 9.32/10
+Sri Chaitanya Junior College 2018-2020
+Higher Secondary Education XII, State Board Aggregate: 85.38%
+Kukadi Valley Public School 2018
+CBSE(X) Aggregate: 96%
+EXPERIENCE
+Contributor, TimeChain Labs (TSOC) May 2023 - Present
+•Project : Security Token Solution (Assetyzer)
+•Explored the potential of security tokens to revolutionize investing.
+•Developed backend APIs for a seamless user interactions, including signup, login, FAQ retrieval, and
+contact us modules.
+•Currently involved in the development of a smart contract using Scrypt.
+•Technology Stacks: ReactJS, NodeJS, ExpressJS, MongoDB, Scrypt
+PROJECTS
+Interns Management System
+•Created a web portal facilitating seamless communication between companies and interns.
+•Developed modules for companies to manage interns, including candidate listing, interviews, task
+assignments, and feedback.
+•Utilized ReactJS, NodeJS, ExpressJS, and MongoDB for efficient application implementation
+Hostafe (Flutter Application Development)
+•Developed an application using Flutter where students can search hostels near their college.
+•Google Firebase is used for storing the profile of users and information of hostels.
+•Other features: Login and Sign Up Activity using Google Firebase Authentication.
+SKILLS
+Languages C++, Java(basic)
+Technologies NodeJS, HTML, CSS
+Databases MySQL, MongoDB ,Firebase (basic)
+Fundamentals Object Oriented Programming, Data Structures, Database Management
+Development Tools Git,GitHub, VSCode, Postman
+ORGANIZATIONS
+Technical Club Jan 2023 - Present
+Member of PCSB Students Club
+TimeChain Summer of Code (TSOC) May 2023 - Present
+Project Team member: Role in designing,developing and implementing backend APIs
+CERTIFICATIONS
+Udemy The Complete Node.js developer course
+Postman Postman Student Expert Badge
+Coursera Object-Oriented Data Structures

@@ -1,0 +1,74 @@
+7378708676
+chinmayi.dharmadhikari@gmail.com
+@Chinmayeesd
+@Chinmayee-1001Chinmayee
+Dharmadhikari
+Bachelor | Developer | Programmer
+ABOUT ME
+----------------------------------------------
+A fourth year undergrad willing to
+innovate new things which can improve
+the existing technology.
+SKILLS & PROFICIENCIES
+----------------------------------------------
+Coding Languages   /Techstack
+Languages: C++, Python.
+Databases :  MySQL , MongoDB , Hbase .
+Core Subjects: DSA,OOP,DBMS,OS,CN .
+Data Science: Tableau, Power BI, ML ,
+Visualization , Hadoop.
+WebDevelopment:
+HTML,CSS,Bootstrap,Javascript,Nodejs.
+Frame Works: Visual Studio , Git-hub
+,Excel , Eclipse, Postman , CanvaEDUCATIONAL BACKGROUND
+---------------------------------------------
+Pune Institute of Computer Technology
+Bachelor of Engineering in IT.
+Enrolled since Jan.2021 to present.
+Current  Avg CGPA - 8.1.
+Member of PICT Debsoc.
+STNMS Latur 
+Completed higher secondary
+education.       (2020)
+Secured  89.6% in CBSE
+Poddar International School , Latur
+Completed secondary school
+education.       (2018)
+Secured  97.80% in CBSEPROJECTS
+----------------------------------------------
+Spotify Data Analysis
+Analyzed past 40 years data of Spotify and
+Predicted Trends in Popularity of Songs.
+       Techstacks : Python, ML Algorithms
+      Flight Fare Prediction System
+Techstacks : Python , ML Algorithms ,
+Statistical Analysis.Food Reservation Website
+A responsive website built using
+HTML,CSS, Bootstrap , Javascript.
+Features : Booking Tables , Food Menu
+selection , Food Blogs .
+      
+Achievements
+---------------------------------------------
+Solved 400 + DSA Questions on
+various Platforms including Leetcode
+, GFG , etc.
+Scored 97.6 percentile in JEE mains.
+Selected in Jee Advance ( 12769)INTERESTS
+--------------------------------------------
+Mountaineering
+Rock Climbing
+Dance Co Curricular Work
+---------------------------------------------
+Content Writing Intern.(Hexanovate)
+Freelancing ( Upwork )
+Academic Planner ( Idhant)
+Teacher (Sarvam Foundation)Stock Price prediction
+ Predicted opening prices of google stock
+based on past 5 years of data.
+      Techstacks:Python,Keras,LSTM.This web app predicts the fare of the
+flights based on data training.
+Provides accuracy of flight prices with
+efficiency of ~75%-80 %LinkLink
+Link
+Link

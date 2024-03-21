@@ -1,0 +1,41 @@
+ 
+NIKITA GAWALI  
+Email - gawalinikita949@gmail.com  
+                                      LinkedIn:  https://www.linkedin.com/in/nikita -gawali -9a4b39213/  
+                                                                 Phone no : 9172582040  
+ 
+Looking to join a progressive organization as an intern .  
+EDUCATION  
+Degree:  
+Savitribai Phule Pune University - SCTR’s Pune Institute of Computer Technology (PICT), Pune           2021 -2022  
+(Bachelor of Engineering in Electronics and Telecommunication)                                                                                    GPA:8.43  
+ 
+Diploma:  
+Autonomous Institute - Government polytechnic Nashik                                                                  2021  
+                                                                                                                                                              Percentage -96%  
+School:  
+SSC Board: Holy flower English high school                                                                                             2018  
+                                                                                                                                                               Percentage -89%  
+ 
+ 
+SKILLS  
+Programming language -  C, CPP ,DSA  
+       Hard  skills  – Skilled in power point, word, proteus, Tinkercad, Arduino IDE  
+       Soft skills  -  communication skill, Time management, Team work.  
+EXTRACURRICULAR ACTIVITIES  
+Participated in pcs b-csi Xenia event.  
+Dance performan ce in annual gathering.  
+ 
+ACHIEVEMENTS AND AWARDS  
+AWS Academy Graduate - AWS Academy Cloud Foundations  
+https://images.credly.com/size/680x680/images/73e4a58b -a8ef-41a3 -a7db -9183dd269882/image.png  
+ 
+PROJECT:  
+WAR FIELD SPY ROBOT : 
+ An Arduino based project using fire sensor, lcd  display,  metal detector ,buzzer . 
+SMART BLIND STICK   :  
+An Arduino based project using ultrasonic sensor  for  distance measurement and vibration 
+motor along with the buzzers   . 
+ 
+ 
+ 

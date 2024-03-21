@@ -1,0 +1,50 @@
+Harish Sugandhi
+/ne+91-9890247437 harishsugandhi9890@gmail.com harish-sugandhi-709bba225 /gtbharishsganndhi123 ♂pollearth9890
+EDUCATION
+Shivaji Polytechnic College of Sangola 2021
+Diploma - Computer Engineering - 97.89 - Solapur, India
+Pune Institute of Computer Technology 2024
+Bachelor Of Engineering - Computer Engineering - 8.66 - Pune, India
+COURSEWORK
+•Data Structures &
+Algorithms•Operating Systems
+•Computer Network•Database Management
+System•OOPS
+Experience
+Kutumb Aspiration - Web Developer Intern |
+•Team lead of the project E-Kalakaar.
+•Worked on E-Kalakaar website for Artists Patron.
+•Developed Contact Us, Create Edit Patron Account Module in PHP.
+•Developed portfolio website for renowned cardiac surgeon Dr.Bikram Mohanty.
+PROJECTS
+E-Commerce Website (KeepShopping) |React, MongoDB,Node, Express, (MERN)
+•Built a web application for selling T-shirts
+•User can sign-up and sign-in.
+•User can add T-shirts into their shopping cart.
+•User can pay the for order using payment gateway (Braintree Payment Gateway).
+Smart Home |Java,Android,Arduino,PIR-Sensor,Bluetooth Module HC-05
+•Built an Android application and affordable Hardware System for Old People and people who cannot walk to
+control home appliances using a Smartphone. The project is made using agile methodology.
+•User can be able to turn on and turn off appliances within the Bluetooth range
+•User can see the status of appliances is the appliance is turned on or off. .
+•
+Online Wedding service(Hindu Vanjari |Java,Android Studio
+∗Built an android application for wedding service using an existing website.
+∗User is able to find the right match for them with minimal fees.
+∗Currently app has more than 100+ active users.
+TECHNICAL SKILLS / SKILLS
+Languages: Python, Java, C, C++, SQL,HTML, CSS, Bootstrap.
+Developer Tools: VS Code, Android Studio, Eclipse
+Technologies/Frameworks: Mac-Os, Windows, Fedora, Ubuntu GitHub, React, Node, Express, React-native,
+MongoDB
+Achievements
+∗Solved more than 500 problems on various platforms such as Codeforces, Codechef and Leetcode.
+∗Codeforces (Pupil on Codeforces)
+∗Leetcode
+∗Codechef
+EXTRACURRICULAR
+Contributor and technical consultant in Pulzion Event ♂poll
+Contributor
+∗Got a chance to create a login and signup page for participants.Objective
+•“To be part of an organization where I can get a chance to use my knowledge and technical skills to
+contribute In the progress of the organization as well as myself.”

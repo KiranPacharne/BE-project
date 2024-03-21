@@ -1,0 +1,52 @@
+T ejas Bendkule  
+Phone : +91 9370493576                             LinkedI n: Tejas Bendkule                         Email : tejas0215lc@gmail.com  
+_____________________________________________________________________________________________________________________________ _____  
+Experience  
+Game Programmer  Intern                                                                                                                                                   
+July 2023 – Present  
+Appy Monkeys Software Pvt, Ltd  
+• Primary responsibilities revolved around creating and fine -tuning the player controller system.  
+• This involved  implementing character movement, input hand ling, and integrating animations to deliver a fluid and 
+engaging gameplay experience.  
+• Worked on AI systems for NPC along with a co -worker. Assisted in designing and implementing AI behaviour such as 
+decision -making algorithms and combat interactions to pro vide challenging and realistic opponents.  
+• Participated in team discussions and playtesting sessions, offering feedback to improve gameplay and address any 
+issues or bugs.  
+Skills: Unity 3D, C#  
+Skills  
+• Programming Languages: C++ | C | C# | PHP  
+• Databases: MySQL | MongoDB  
+• Software and Tools: Git | Git Hub | Unity 3D | Photoshop  
+• Proficient Languages: English | Hindi | Marathi  
+Education  
+• Pune Institute of Computer Technology                                                                                                                                                   Pune, India  
+BE in Computer Engineering                                                                                                                                                                 2020 – Present  
+CGPA – 8/10  
+ 
+• H.P .T Arts and R.Y .K Science College                                                                                                                                                         Nashik, India  
+12th HSC                                                                                                                                                                                                                     2020  
+Percentage – 79.23%  
+ 
+• Kilbil St. Joseph’s High School                                                                                                                                                                    Nashik, India  
+10th SSC                                                                                                                                                                                                                      2018  
+Precentage – 87.63%  
+______ _____________________________________________________________________________________________________________ _______________  
+Project s 
+Online Multiplayer FPS Game  – Unity with Photon Framework  
+3D FPS game with networking and multiplayer mechanics  
+• Multiplayer Networking : Using Photon Framework implemented multiplayer player hosted server architecture, allowing 
+players to connect, and compete in m ultiplayer matches.  Syncing stats and animations over network and a lobby 
+leaderboard.  
+• Weapon and Projectile System: Implemented Projectile system, including bullet trajectory, impact detection, and 
+damage calculation.  
+• UI: Implemented game UI, menus, HUD e lements, and im -game notifications.  
+Kanban Shared T o -Do List – React and MongoDB  
+A To -do list web application that allows sharing between users.  
+• MVC Architecture: The project was developed using the MVC architecture to ensure modularity, reusability and 
+scalability.  
+• Implement Mongo Models to store information about user, different boards and tasks.  
+• A user can create private or public boards in which he then can add other users to collaborate with.  
+_________________________________________________________________________________________ ___________________________  
+Co – Curricular Activities  
+Unity Head  (2022 -2023) - Game dev Utopia Club  
+Conducted Unity 3D sessions for junior members of Game  Dev Utopia  and organized the club’s annual event.  

@@ -1,0 +1,50 @@
+Pranjal Khule ♂phone+91-9423323131
+Roll No.: E2K20103946 /envel⌢pepranjalk0999@gmail.com
+Bachelor of Engineering /githubCodechef Profile
+Pune Institute of Computer Technology, Pune /linkedinLinkedIn Profile
+Education
+•Pune Institute of Computer Technology, Pune 2020-24
+Bachelor of Engineering in Electronics and Telecommunication CGPA: 8.49
+•K.T.H.M College, Nashik 2020
+Board of Higher Secondary Education, Maharashtra Percentage: 73.23
+•Maratha High School, Nashik 2018
+Board of Secondary Education, Maharashtra Percentage: 92.00
+Personal Projects
+•Travel and Tourism Management System
+It used for online bookings of Travel and Tourism destinations and hotel.
+–Tools & technologies used: Java, SQL, Swing, Apache NetBeans, MySQL Database
+–The purpose of this project is to build an application program to reduce the manual work for managing Tourists,
+Booking, Places etc.
+–Features - It has features like add customer, delete customer, book hotel, cancel bookings, view travel locations,
+book travel packages.
+•Bloomhub
+Website for selling plants online.
+–Tools & technologies used: React JS, Node JS, Firebase.
+–Developed a feature rich Plant selling e-commerce website, offering an exceptional user experience.
+–Integrated Payment gateway and a conversational chatbot providing real-time assistance.
+•Crypto-Hunter
+Crypto-Hunter App is used to keep watch on prices, graphs and trends in crypto currency.
+–Tools & technologies used: React JS, Material UI, Chart JS, VS Code.
+–Using this app we provided features like top trending coins on first pages, user can make another list, signup option
+using mail id.
+•Floor Cleaning Bot
+Robot for cleaning floor efficiently.
+–Tools & technologies used: Embedded C, Arduino IDE, KiCad , Proteus Professional, Multisim
+–This bot uses advanced sensors, motors, and algorithms to navigate around obstacles, detect dirt and debris, and
+efficiently clean floors. The bot is also designed to be energy-efficient, using minimal power to operate.
+Technical Skills and Interests
+Languages : C/C++, Java, Javascript, HTML+CSS
+Libraries : C++ STL, Java Collection
+Dev Tools : VScode, Github, Apache NetBeans, Eclipse
+Frameworks : Bootstrap, React
+Cloud/Databases : Firebase, Relational Database(mySql)
+Relevent Coursework : Data Structures and Algorithms, Object Oriented Programming, Database Management
+System, Operating Systems
+Areas of Interest : Web Design and Development, Frontend Development.
+Soft Skills : Problem Solving, Self-learning, Presentation, Adaptability, Leadership
+Positions of Responsibility
+•Sponsorship Management: Able to Oraganize two Sponsors for Annual Event of PICT named as Addicition
+•Head of NCC: Head of the Naval NCC Wing and Silver Medalist at NCC Camp held at Colaba, Mumbai
+Achievements
+Data Structures Solved Over 200+ questions on different platforms like leetcode and Geeksforgeeks.
+Code Chef Solved Over 150+ questions on Competitive Programming.

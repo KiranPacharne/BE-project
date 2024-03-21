@@ -1,0 +1,67 @@
+Served as Tech Lead for No Difference
+Foundation.
+Served as PR and Operations Head at
+Paras Foods.Served as President for COM-ELITES
+(College Techfest)Cleared MS-CIT exam with 97%Key Achievement 
+Marketing and Public Relation Head PICT
+CSI Student Branch.Java React JS React Native C & C++ Node JS MySQL MongoDB Python HTML CSS
+Work Experience
+BE in Information TechnologyPune Institute of Computer Technology July 24
+Diploma in Computer EngineeringGovernment Polytechnic, NagpurSept 21
+3 years
+Class 10th from CBSECentral India Public School, Nagpur May 18Educationhttps://aryan9721.github.io/avora9721@gmail.com+91 8983134579
+Software DeveloperAryan
+VoraDhakawadi, Pune, India
+9.5+ CGPA
+Gold medalist with 97.6% in Subjects of award
+State Rank 222 with 99.6 percentile
+88.8% Avg. Gradeshttps://www.linkedin.com/in/aryan9721/
+Developed and maintained the company website using HTML, CSS, JQuery and JS.
+Got to work with client like NP Accel and Stokkes in the field of data analytics, implemented UI/UX
+changes for CTA and CRO improvement using JQuery scripts.Web Developer Intern. | Datavinci Pvt. Ltd. March 22 
+- June 22
+3 MonthsBinbox: A Secured Messaging platform intended for the US Govt. and Military Operations. I developed
+the User Interface for the mobile application using React Native.  [Video Link][App][Prototype] 
+ParkingClip: A Fast Tag like system for parking management and Ticket Generation using OCR.
+Developed entire frontend with 40+ pages using ReactJS and developed more than 21 REST-APIs
+Got exposure in OCR using ML, AWS Project Deployment, Node, Express & MongoDB
+Bagged another Project on successful Delivery. [Live] [Prototype]
+VisitorClip: An information sharing platform to fill information using sharable QR code integrated with
+docuclip app. [Prototype]Software Developer Intern | InnoThoughts Inc. Jan 23
+-July 23
+6 Months[LOR] [Offer Letter] [Experience Letter]
+[Offer Letter]    [Experience Letter]
+3 yearsSkills
+COP (College Online Portal) system is
+Full fledged College MIS system for all
+day to day working to automate the
+existing manual system.
+Modules Include Dynamic Timetable
+creation, Attendance monitoring,
+Notice Publication, Test and quizzes,
+Result Declaration, course information,
+feedback system, etc.
+A portal for parent to monitor their
+child's perfomance over time.HTML
+CSS
+JavaScript
+PHP
+MYSQLTECH StackProject COP   Projects
+A Referral Platform for doctors to refers
+patients to other doctors via mobile app.
+An Association can onboard doctors by
+various membership plans integrated
+with stripe payment gateway using the
+admin dashboard.
+Modules to organize an Event/CME and
+invite doctors via mail/SMS.
+Biometrics and Mobile SMS based OTP for
+login.WeDoc Application
+React
+Native
+MongoDB
+Express
+React JS
+Node JSTECH StackJan 23  -
+July 23Jan 22  -
+July 22[Live] [Github] [Prototype] [Live] [Github] Project of the Year Winner 2021 

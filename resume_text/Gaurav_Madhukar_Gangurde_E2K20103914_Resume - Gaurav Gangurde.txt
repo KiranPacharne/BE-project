@@ -1,0 +1,78 @@
+Gaurav Gangurde
+Tech E n thusias t | Pr ogr amming Pr oblem Sol ver | F r on tend De vel oper
+gaur a vmgangur de@gmail.c om | +91 89561603 7 4 | LinkedIn
+EDUCATION
+PUNE INSTITUTE OF
+COMPUTER TECHNOLOGY
+B.E E& TC Engineering
+2020- 2024 | Pune, India
+CGPA :9.20/10
+K.T.H.M COLLEGE
+Class XII HSC Science
+Percentage: 89.38%
+2018- 2020 | Nashik , India
+JANTA VIDYALAYA
+Class X SSC
+Percentage: 94.40%
+201 7 - 2018 | Nashik , India
+SKILLS
+PROGRAMMING
+Languages :
+•C/C++ •Java •JavaScript
+Technol ogies :
+•Angular •MySQL •BPMN
+F amiliar :
+•Git
+•Github
+•VSCode
+CS FUNDAMENTALS
+•Data Structure andAlgorithm
+•OOP andProblem Solving
+•Database Management (DBMS)
+•Computer Networks
+LINKS
+CODING PROFILE:
+•Codechef
+•HakerRank
+•Leetcode
+CERTIFICATION
+•C++.
+•Data Structures &OOP with C++EXPERIENCE
+ENCRISS TECHNOLOGIES
+Software Engineer Intern
+Feb 2023 - Presen t | Gurugr am, India
+•Worked onMyParachute Loan Engine webapplication
+•Developed onGmart.in product -ERP(Web-based application).
+•Worked ondevelopment ofgmart.in ecommerce website
+Front-end: Angular ,Electron |Backend: Camunda, Spring Boot, BPMN
+VODAFONE IDEA FOUNDATION
+Software Engineer Intern
+Sep 2022 – No v 2022 | Pune, India
+•worked asateam leader foramachine learning project.
+•Developed aProject onTwitter Sentimental Analysis.
+Tech-Stack: NLTK, Streamlit, Textblob, Matplotlib ,Angular.
+TECHNICAL PROJECTS
+TECH-LANCES | Career guide
+•Implemented aninformative website toguide students about different
+technical domains andtheir roadmaps.
+•Developed with different sections containing resource androad maps to
+guide students
+Tech-Stack: Angular, CSS, Firebase .
+PHARMA ERP
+•Implemented end-to-end ofPharma ERPsystem forpharmaceutical
+company.
+•Achieved significant process efficiency gains andincreased data accuracy
+through successful ERPdeployment.
+•Managed thedevelopment team, overseeing customizations and
+integrations toensure compliance with industry regulations
+Tech-Stack: Angular,Bootstrap ,Spring Boot ,BPMN.
+ACHIEVEMENTS
+•Secured 1stposition inHack TheTank Hackathon -hosted bySVNIT Surat
+•Secured 2nd position inRecursion National Hackathon -hosted byRGIT
+Mumbai
+•Finalist inInnerve7 National Hackathon -hosted byAITPune
+•Hacker rankGolden badge inC++ andjava
+•3starinSQLhackerrank
+•Global rank3767th inKickstart Round B2022
+•Solved 400+ coding problems across various platform
+•was top2percentile incomman entrance testheldbystate gov.in2020

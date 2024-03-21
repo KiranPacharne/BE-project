@@ -1,0 +1,65 @@
+A B O U T  M E
+E n t h u s i a s t i c  i n d i v i d u a l  p r e s e n t l y  p u r s u i n g
+a  B E  d e g r e e  i n  c o m p u t e r  e n g i n e e r i n g  w i t h   
+i n t e r m e d i a t e  k n o w l e d g e  i n  C + + ,  D S A ,
+f r o n t e n d  a n d  b a c k e n d  w e b  t e c h n o l o g i e s .
+Q u i c k  l e a r n e r ,  f l e x i b l e  p e r s o n a l i t y ,  a n d
+a d a p t a b l e .  A b l e  t o  c o n t r i b u t e  s i g n i f i c a n t l y
+t o  t e a m s  w h i l e  w o r k i n g  i n  t h e m .
+E D U C A T I O N A L  B A C K G R O U N D
+S C T R ' s  P u n e  I n s t i t u t e  o f  C o m p u t e r
+T e c h n o l o g y ,  P u n e
+C u r r e n t  C G P A  :  8 . 9 4
+V i k h e  P a t i l  M e m o r i a l  S c h o o l ,  P u n e
+2 0 1 8  -  2 0 2 0
+P e r c e n t a g e  :  8 7 . 4
+F a h a h e e l  A l  W a t a n i e h  I n d i a n  P r i v a t e
+S c h o o l ,  K u w a i t
+2 0 1 2  -  2 0 1 8
+P e r c e n t a g e  :  9 0 . 4B E  i n  C o m p u t e r  E n g i n e e r i n g
+H S C
+S S C
+S K I L L S
+P r o g r a m m i n g  :  D S A ,  O O P ,  D B M S  
+L a n g u a g e s  :  C + + ,  S Q L  
+W e b  D e v e l o p m e n t  :  H T M L ,  C S S  ,
+J a v a S c r i p t
+D a t a b a s e  :  M y S Q LP R O J E C T S
+T e c h  S t a c k  :  H T M L ,  C S S ,  J a v a S c r i p t .
+D e s c r i p t i o n  :  F e a t u r e s  s u c h  a s  p l a y ,  p a u s e  a n d  s e e k
+s o n g s  f r o m  t h e  p l a y l i s t .  
+U s e r s  c a n  c r e a t e  p l a y l i s t s ,  s h u f f l e  o r  r e p e a t  s o n g s ,  a n d
+a d j u s t  v o l u m e  a n d  p l a y b a c k  s e t t i n g s  t o  c u s t o m i z e  t h e i r
+l i s t e n i n g  e x p e r i e n c e .  
+T e c h  S t a c k  :  F r o n t e n d  ( H t m l ,  C S S ,  J a v a S c r i p t ,  R e a c t  J S ) ,
+B a c k e n d  ( N o d e  J S ,  E x p r e s s  J S ) ,  D a t a b a s e  ( M o n g o  D B ) .  
+D e s c r i p t i o n  :  I n t e r a c t i v e  w e b  g a t e w a y  o f f e r i n g  t h e
+a b i l i t y  f o r  P I C T  s t u d e n t s  t o  a c c e s s  c o l l e g e - r e l a t e d
+i n f o r m a t i o n  s u c h  a s  s c h e d u l e s ,  s t u d y  m a t e r i a l s  a n d
+c o l l e g e  n o t i c e s .
+G e t  t o  k n o w  a b o u t  v a r i o u s  s t u d e n t s  c l u b s  a s  w e l l  a s
+f a c u l t y  i n f o r m a t i o n .
+T e c h  S t a c k  :  H t m l ,  C S S ,  J a v a S c r i p t ,  R e a c t  J S ,
+O p e n W e a t h e r M a p  A P I .
+D e s c r i p t i o n  :  R e t r i e v e s  w e a t h e r  i n f o r m a t i o n  f r o m  t h e
+c i t y  w h o s e  w e a t h e r  y o u  a r e  i n t e r e s t e d  i n .  
+ O p e n W e a t h e r M a p  A P I  a l l o w s  t o  a c c e s s  c u r r e n t
+w e a t h e r  c o n d i t i o n s ,  f o r e c a s t s  a n d  d i s p l a y  i t .M u s i c  P l a y e r
+P I C T  H a r m o n y  -  I n t e r a c t i v e  W e b  P o r t a l  
+W e a t h e r  A p p  -  A P I  B a s e d  A p p l i c a t i o n
+I N T E R E S T S
+D r a w i n g
+P a i n t i n g
+M u s i c
+T r a v e l l i n g
+D a n c i n g
+Bachelor | Developer | ProgrammerR i y a  M u l a y
+P u n e , I n d i a
++ 9 1 9 3 2 5 6 7 6 9 2 3
+r i y a m u l a y 0 1 @ g m a i l . c o m
+w w w . l i n k e d i n . c o m / i n / r i y a - m u l a y - 6 4 7 0 2 2 1 8 5
+h t t p s : / / g i t h u b . c o m / R i y a M u l a y
+V O L U N T E E R  W O R K
+A d d i c t i o n ' 2 3  D e s i g n  T e a m  H e a d
+V o l u n t e e r  a t  A d d i c t i o n ' 2 2  D e s i g n  T e a m
+V o l u n t e e r  a t  X e n i a ' 2 2  D e s i g n  T e a m

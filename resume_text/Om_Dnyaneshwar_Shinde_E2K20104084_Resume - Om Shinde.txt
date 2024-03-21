@@ -1,0 +1,40 @@
+Om Dnyaneshwar Shinde
++91-8668355548 |omshinde246@gmail.com |linkedin.com/in/om-shinde-0aabb1207 |github.com/shindeom1339
+Education
+Pune Institute of Computer Technology Pune, Maharashtra
+Bachelor of Engineering in Electronics and Telecomunnication July 2020 – June 2024
+Kendriya Vidyalaya No.1 AFS Pune, Maharashtra
+Higher Secondary Education, Percentage: 92.6 July 2020
+Kendriya Vidyalaya No.1 AFS Pune, Maharashtra
+Secondary Education, Percentage: 84.8 May 2018
+Projects
+Pulzion 2022 Website |NodeJS, ExpressJS, NextJS, Tailwind CSS, PostgreSQL |Link
+•Developed an Event Management System for the annual tech-fest of PASC. Participants can register for events,
+book slots, and receive notifications. Recorded 3500+ registrations for the 3-day event.
+CTiS Website |HTML, CSS, Javascript |Link |Code
+•Developed the main website for a conference organized by ACM India
+Technical Skills
+Languages: Javascript, Typescript, C++, HTML/CSS
+Frameworks: React.js, Node.js, Express.js, Tailwind CSS, Material UI
+Databases: MongoDB
+Developer Tools: Git, VS Code, Postman, Heroku
+Extra Curricular
+PICT ACM Student Chapter (PASC)
+Technical Club
+•Contributed in organizing various sessions, projects and events like Radiance’21, Pasckathon 3.0, Pulzion’22
+•Organised and delivered sessions on Web developement, Digital designing, Git/GitHub for 200+ freshers
+PICTOREAL
+Official college magazine
+•Design team member of official college magazine PICTOREAL Vol. 24
+•Organised and delivered session on Digital design for newly joined members
+•Planned, managed, and looked after the complete organisation of an event ’PARICHAY’ for newly joined first-years
+as Event Coordinator
+Position of Responsibility
+PICT ACM Student Chapter (PASC) - Vice Chairperson
+Leading team of technocrats, guiding and managing events, projects, and sessions of India’s 5 times best ACM
+Student Chapter
+PICTOREAL - Head of Design
+Led the design team of 100+ volunteers to design the 25th Volume of official college magazine.
+Hobbies
+•Graphic Designing using softwares like Adobe Photoshop, Adobde Illustrator, and Figma
+•Listening to music, and playing badminton

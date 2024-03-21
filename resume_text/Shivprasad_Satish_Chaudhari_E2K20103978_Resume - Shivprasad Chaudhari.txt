@@ -1,0 +1,45 @@
+Shivprasad Chaudhari
+Survey no. 32/10,Near Aditya Hostel Ambegaon Bk, Ganesh Housing Society, Shreeram Building, Bharti
+Vidyapeeth back, Pune,Maharashtra 411046
+/ne+91- 9545440599 shivprasadchaudhari2310@gmail.com Shivprasad
+OBJECTIVE
+A result-driven student, passionate about developing user-friendly software applications. Excellent problem-solving skills and
+ability to perform well in a team. Seeking to help organizations to develop their product as a software engineer, as well as
+develop my own skills as a coder.
+EDUCATION
+PUNE INSTITUTE OF COMPUTER TECHNOLOGY 2020 – 2024
+-BE in Electronics and Telecommunication - CGPA -9.025 Pune, India
+Deogiri College 2017 – 2019
+-Class XII - Percentage -78.92% Aurangabad, India
+Jain International School
+-Class X - Percentage -94.8% Aurangabad, India
+EXPERIENCE
+SCTR’s Pune Institute of Computer Technology ,Pune
+Cloud Computing Intern
+•Successfully completed a technical internship at SCTR’s Pune Institute of Computer Technology, Pune under Industry
+Connect Course on Cloud Computing, organized by Department of Electronics and Telecommunication Engineering in
+association with TnP cell for 4 weeks.
+•During my tenure as an intern, I worked efficiently on Cloud Computing using Amazon Web Services (AWS).
+PROJECTS
+Sorting Visualizer |React.Js
+∗Sorting visualizer that visualizes various sorting algorithms.It uses ReactJs and sorting algorithm.
+∗Designed an intuitive user interface that enables real-time visualization of sorting processes, demonstrating effective data
+visualization techniques.
+Travel Services and Hospitality System |Java, MySQL
+∗Travel Services and Hospitality System in Java and MySQL is a user-friendly and efficient application that caters to travel
+agencies, tour operators, and related businesses.
+∗Implemented user-friendly interfaces forr both travelers and administrators.
+∗By leveraging the power of technology, this system simplifies the complexities of travel planning and enhances the overall
+experience for both travelers and administrators.
+SKILLS
+Languages: C++, Java
+Databases: MySQL
+Developer Tools: VS Code, Eclipse
+Cources: Data Structures, Algorithms, Object Oriented Programming , DBMS, Operating Systems
+CERTIFICATIONS
+•Object Oriented Programming in C++
+PARTICIPATION and ACHIEVEMENTS
+•Participated in Impetus and Concepts’23 Organized by Pune Institute Of Computer Technology.
+•PICT ACM Just Coding Event participation.
+•Participated in ”Innovative India Coding Championship” organized by Coding Ninja in association with Chandigarh
+University.
